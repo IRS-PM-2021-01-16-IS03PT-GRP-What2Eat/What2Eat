@@ -10,8 +10,8 @@ https://www.django-rest-framework.org/tutorial/quickstart/ <br>
 https://bezkoder.com/django-postgresql-crud-rest-framework/ <br>
 
 ### model migration
-`python manage.py makemigrations what2eatapp` <br>
-`python manage.py migrate what2eatapp` <br>
+`python manage.py makemigrations what2eat` <br>
+`python manage.py migrate what2eat` <br>
 
 ### viewsets
 https://www.django-rest-framework.org/api-guide/viewsets/#example <br>
