@@ -2,7 +2,6 @@ from django.contrib.auth.models import User, Group
 from rest_framework import viewsets
 from rest_framework import permissions
 from .serializers import UserSerializer, GroupSerializer, FoodSerializer
-from rest_framework.response import Response
 from .models import Food
 
 class UserViewSet(viewsets.ModelViewSet):
@@ -12,6 +11,7 @@ class UserViewSet(viewsets.ModelViewSet):
     queryset = User.objects.all().order_by('-date_joined')
     serializer_class = UserSerializer
     permission_classes = [permissions.IsAuthenticated]
+    http_method_names = ['get']
 
 class GroupViewSet(viewsets.ModelViewSet):
     """
@@ -20,6 +20,7 @@ class GroupViewSet(viewsets.ModelViewSet):
     queryset = Group.objects.all()
     serializer_class = GroupSerializer
     permission_classes = [permissions.IsAuthenticated]
+    http_method_names = ['get']
 
 class FoodViewSet(viewsets.ModelViewSet):
     """
@@ -27,5 +28,6 @@ class FoodViewSet(viewsets.ModelViewSet):
     """
     queryset = Food.objects.all()
     serializer_class = FoodSerializer
-    permission_classes = [permissions.IsAuthenticated]
+    permission_classes = []
+    http_method_names = ['get']
 

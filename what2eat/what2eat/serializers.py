@@ -7,7 +7,6 @@ class UserSerializer(serializers.HyperlinkedModelSerializer):
         model = User
         fields = ['url', 'username', 'email', 'groups']
 
-
 class GroupSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Group
@@ -16,4 +15,4 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
 class FoodSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Food
-        fields = ['id', 'title', 'description', 'link','thumbnail', 'ingredients','methods']
+        fields = ['id', 'title', 'description', 'ingredients','link','methods','thumbnail' ]
