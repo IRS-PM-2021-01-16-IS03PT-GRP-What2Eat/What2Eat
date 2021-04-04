@@ -1,6 +1,7 @@
 # What2Eat
 Project for Food Mood Recommender
 
+## Django
 ### django-rest main references
 https://www.metaltoad.com/blog/angular-api-calls-django-authentication-jwt <br>
 
@@ -21,3 +22,14 @@ https://www.metaltoad.com/blog/angular-api-calls-django-authentication-jwt <br>
 
 ### running
 `python manage.py runserver` <br>
+
+## Angular
+
+### tutorial
+https://angular.io/tutorial <br>
+
+### proxying to a backend server
+https://angular.io/guide/build#proxying-to-a-backend-server <br>
+
+### materials
+https://material.angular.io/guide/getting-started <br>

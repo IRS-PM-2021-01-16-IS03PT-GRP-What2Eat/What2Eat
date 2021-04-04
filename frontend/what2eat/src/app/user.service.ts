@@ -64,28 +64,33 @@ export class UserService {
       this.refreshtoken = "";
       this.token_expires = new Date();
       this.username = "";
+      localStorage.clear();
    }
   
    private updateData(data : any) {
      this.token = data['access'];
      this.refreshtoken = data['refresh'];
+     localStorage.setItem('access', this.token);
+     localStorage.setItem('refresh', this.refreshtoken);
      this.errors = [];
      // decode the token to read the username and expiration timestamp
      const token_parts = this.token.split(/\./);
      const token_decoded = JSON.parse(window.atob(token_parts[1]));
      this.token_expires = new Date(token_decoded.exp * 1000);
-     this.username = token_decoded.username;
+     this.username = token_decoded.user_id;
    }
 
    private updateDataRefresh(data : any) {
     // when we refresh we only get back the access token, so leave refreshtoken unchanged
     this.token = data['access'];
     this.errors = [];
+    localStorage.setItem('access', this.token);
+    localStorage.setItem('refresh', this.refreshtoken);
     // decode the token to read the username and expiration timestamp
     const token_parts = this.token.split(/\./);
     const token_decoded = JSON.parse(window.atob(token_parts[1]));
     this.token_expires = new Date(token_decoded.exp * 1000);
-    this.username = token_decoded.username;
+    this.username = token_decoded.user_id;
   }
 }
 
