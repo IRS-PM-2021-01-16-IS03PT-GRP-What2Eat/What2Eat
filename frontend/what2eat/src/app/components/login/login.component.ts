@@ -26,8 +26,9 @@ export class LoginComponent implements OnInit {
   refreshToken() {
     this._userService.refreshToken();
   }
- 
+
   logout() {
     this._userService.logout();
   }
+
 }

@@ -1,7 +1,7 @@
 from django.urls import include, path
 from django.views.defaults import page_not_found
 from rest_framework import routers
-from .views import FoodViewSet,UserViewSet,GroupViewSet
+from .views import FoodViewSet, UserViewSet, GroupViewSet, RegisterView
 
 router = routers.DefaultRouter()
 router.register(r'api/users', UserViewSet)
@@ -12,8 +12,8 @@ def page_not_found_custom(request):
     return page_not_found(request, None)
 
 urlpatterns = [
+    path('api/register/', RegisterView.as_view()),
     path('api/food/',page_not_found_custom),
-    path('', include(router.urls)),
-    path('api-auth/', include('rest_framework.urls', namespace='rest_framework'))
+    path('', include(router.urls))
 ]
 

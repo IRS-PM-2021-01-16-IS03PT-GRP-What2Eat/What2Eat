@@ -12,13 +12,15 @@ import { FrontPageComponent } from './components/front-page/front-page.component
 import { LoginComponent } from './components/login/login.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';  
 import { MaterialModule } from './materials/material-module';
+import { RegisterComponent } from './components/register/register.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     FoodInformationComponent,
     FrontPageComponent,
-    LoginComponent
+    LoginComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,

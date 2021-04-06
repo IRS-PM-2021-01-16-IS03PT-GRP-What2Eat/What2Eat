@@ -1,8 +1,7 @@
 from django.contrib.auth.models import User, Group
-from rest_framework import viewsets
+from rest_framework import viewsets, generics
 from rest_framework import permissions
-
-from .serializers import UserSerializer, GroupSerializer, FoodSerializer
+from .serializers import UserSerializer, GroupSerializer, FoodSerializer, RegisterSerializer
 from .models import Food
 
 class UserViewSet(viewsets.ModelViewSet):
@@ -31,4 +30,9 @@ class FoodViewSet(viewsets.ModelViewSet):
     serializer_class = FoodSerializer
     permission_classes = []
     http_method_names = ['get']
+
+class RegisterView(generics.CreateAPIView):
+    queryset = User.objects.all()
+    permission_classes = []
+    serializer_class = RegisterSerializer
 
