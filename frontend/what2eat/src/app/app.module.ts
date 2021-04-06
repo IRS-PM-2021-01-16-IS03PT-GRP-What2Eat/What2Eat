@@ -6,12 +6,12 @@ import { AppComponent } from './app.component';
 
 import { HttpClientModule } from '@angular/common/http';  
 import { FormsModule } from '@angular/forms';   
-import { UserService } from './user.service';
-import { FoodInformationComponent } from './food-information/food-information.component';
-import { FrontPageComponent } from './front-page/front-page.component';
-import { LoginComponent } from './login/login.component';
+import { UserService } from './services/user.service';
+import { FoodInformationComponent } from './components/food-information/food-information.component';
+import { FrontPageComponent } from './components/front-page/front-page.component';
+import { LoginComponent } from './components/login/login.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';  
-import { MaterialModule } from './material-module';
+import { MaterialModule } from './materials/material-module';
 
 @NgModule({
   declarations: [

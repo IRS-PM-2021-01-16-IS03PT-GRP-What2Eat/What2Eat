@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { FoodService } from '../food.service';
+import { FoodService } from '../../services/food.service';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-food-information',
@@ -8,22 +9,22 @@ import { FoodService } from '../food.service';
 })
 export class FoodInformationComponent implements OnInit {
   
-  public food : any;
   public foodinformation : any;
-  constructor(private _foodService: FoodService) { }
+  constructor(private _foodService: FoodService, private route: ActivatedRoute) { 
+
+  }
 
   ngOnInit(): void {
-    this.getFood();
+    const foodid = this.route.snapshot.paramMap.get('id') || '';
+    this.getFood(foodid);
   }
-  getFood() {
-    this._foodService.list().subscribe(
+
+  getFood(foodid: string) {
+    this._foodService.listDetail(foodid).subscribe(
       // the first argument is a function which runs on success
       data => {
-        this.food = data;
-        this.foodinformation = this.food.results;
-        for (let foodpiece of this.food.results) {
-          foodpiece.thumbnail = './assets/images/'+foodpiece.thumbnail+'.jpg'
-        }
+        this.foodinformation = data;
+        this.foodinformation.thumbnail = './assets/images/'+this.foodinformation.thumbnail+'.jpg'
       },
       // the second argument is a function which runs on error
       err => console.error(err),
