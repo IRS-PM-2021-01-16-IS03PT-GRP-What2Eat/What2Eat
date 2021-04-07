@@ -8,14 +8,26 @@
       <mat-icon>home</mat-icon>
       <span>Home</span>
     </button>
-    <button routerLink='/login' mat-menu-item>
-      <mat-icon>cake</mat-icon>
-      <span>Login</span>
-    </button>
-    <button routerLink='/foodinformation' mat-menu-item>
-      <mat-icon>icecream</mat-icon>
-      <span>Food information</span>
-    </button>
+    <div class="row" *ngIf="username">
+      <button mat-menu-item>
+        <mat-icon>cake</mat-icon>
+        <span>You are loggged in as {{ username }}</span>
+      </button>
+      <button (click)="logout()" mat-menu-item>
+        <mat-icon>done</mat-icon>
+        <span>Log out</span>
+      </button>
+    </div>
+    <div class="row" *ngIf="username == ''">
+      <button routerLink='/login' mat-menu-item>
+        <mat-icon>cake</mat-icon>
+        <span>Login</span>
+      </button>
+      <button routerLink='/register' mat-menu-item>
+        <mat-icon>icecream</mat-icon>
+        <span>Register</span>
+      </button>
+    </div>
   </mat-menu>  
   <span class="example-spacer"></span>
   <span>{{title}}</span>

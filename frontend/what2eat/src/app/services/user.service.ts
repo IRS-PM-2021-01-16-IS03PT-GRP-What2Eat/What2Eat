@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import {HttpClient, HttpHeaders} from '@angular/common/http';
+import { Router } from '@angular/router';
 
 @Injectable({
   providedIn: 'root'
@@ -25,7 +26,9 @@ export class UserService {
    // error messages received from the login attempt
    public errors: any = [];
 
-   constructor(private http: HttpClient) {
+
+
+   constructor(private http: HttpClient, private route: Router) {
      this.httpOptions = {
        headers: new HttpHeaders({'Content-Type': 'application/json'})
      };
@@ -39,17 +42,17 @@ export class UserService {
    public login(user : string) {
      this.http.post('/api/token/', user, this.httpOptions).subscribe(
        data => {
-         this.updateData(data);
+         this.updateData(data, user);
        },
        err => {
          this.errors = err['error'];
        }
      );
    }
-  
+
    // Refreshes the JWT token, to extend the time the user is logged in
    public refreshToken() {
-     this.http.post('/api/token/refresh/', JSON.stringify({refresh: this.refreshtoken}), this.httpOptions).subscribe(
+     this.http.post('/api/token/refresh/', JSON.stringify({refresh: localStorage.getItem('refresh')}), this.httpOptions).subscribe(
        data => {
          this.updateDataRefresh(data);
        },
@@ -65,32 +68,48 @@ export class UserService {
       this.token_expires = new Date();
       this.username = "";
       localStorage.clear();
+      window.location.reload();
    }
   
-   private updateData(data : any) {
+   private updateData(data : any, user: string) {
      this.token = data['access'];
      this.refreshtoken = data['refresh'];
      localStorage.setItem('access', this.token);
      localStorage.setItem('refresh', this.refreshtoken);
+     localStorage.setItem('username', JSON.parse(user).username);
      this.errors = [];
      // decode the token to read the username and expiration timestamp
      const token_parts = this.token.split(/\./);
      const token_decoded = JSON.parse(window.atob(token_parts[1]));
      this.token_expires = new Date(token_decoded.exp * 1000);
-     this.username = token_decoded.user_id;
+     //this.username = token_decoded.user_id;
+     window.location.href = '/frontpage';
    }
 
    private updateDataRefresh(data : any) {
     // when we refresh we only get back the access token, so leave refreshtoken unchanged
     this.token = data['access'];
-    this.errors = [];
     localStorage.setItem('access', this.token);
-    localStorage.setItem('refresh', this.refreshtoken);
+    this.errors = [];
     // decode the token to read the username and expiration timestamp
     const token_parts = this.token.split(/\./);
     const token_decoded = JSON.parse(window.atob(token_parts[1]));
     this.token_expires = new Date(token_decoded.exp * 1000);
-    this.username = token_decoded.user_id;
+  }
+
+  public register(register : string) {
+    this.http.post('/api/register/', register, this.httpOptions).subscribe(
+      data => {
+        this.updateRegisterData(data)
+      },
+      err => {
+        this.errors = err['error'];
+      }
+    );
+  }
+
+  private updateRegisterData(data : any) {
+    this.username = data['username'];
   }
 }
 

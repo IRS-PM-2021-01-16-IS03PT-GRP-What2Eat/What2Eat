@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {UserService} from '../user.service';
+import {UserService} from '../../services/user.service';
 
 @Component({
   selector: 'app-login',
@@ -26,8 +26,9 @@ export class LoginComponent implements OnInit {
   refreshToken() {
     this._userService.refreshToken();
   }
- 
+
   logout() {
     this._userService.logout();
   }
+
 }
