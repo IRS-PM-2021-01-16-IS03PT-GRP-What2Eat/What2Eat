@@ -19,6 +19,8 @@ class FoodSerializer(serializers.HyperlinkedModelSerializer):
         fields = ['id', 'title', 'description', 'ingredients', 'link', 'methods', 'thumbnail' ]
 
 
+
+
 class RegisterSerializer(serializers.HyperlinkedModelSerializer):
     password = serializers.CharField(write_only=True, required=True, validators=[validate_password])
 
