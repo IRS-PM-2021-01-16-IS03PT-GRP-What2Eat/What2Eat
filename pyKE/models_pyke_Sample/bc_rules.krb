@@ -1,0 +1,102 @@
+######################
+###### BMR rule ######
+######################
+rule_calculate_bmr_male
+    use calculate_bmr($bmr, 'male', $weight, $height, $age)
+    when
+        python bmr = calculate_bmr_male($weight, $height, $age)
+        $bmr = bmr
+        
+rule_calculate_bmr_female
+    use calculate_bmr($bmr, 'female', $weight, $height, $age)
+    when
+        python bmr = calculate_bmr_female($weight, $height, $age)
+        $bmr = bmr
+
+####################################
+###### EnergyAmount_kcal rule ######
+####################################
+rule_calculate_EnergyAmount_kcal_sedentary
+    use calculate_EnergyAmount_kcal($energy, $bmr, 'sedentary')
+    when
+        python energy = calculate_EnergyAmount_kcal_sedentary($bmr)
+        $energy = energy
+
+rule_calculate_EnergyAmount_kcal_lightly_active
+    use calculate_EnergyAmount_kcal($energy, $bmr, 'lightly_active')
+    when
+        python energy = calculate_EnergyAmount_kcal_lightly_active($bmr)
+        $energy = energy
+
+rule_calculate_EnergyAmount_kcal_moderately_active
+    use calculate_EnergyAmount_kcal($energy, $bmr, 'moderately_active')
+    when
+        python energy = calculate_EnergyAmount_kcal_moderately_active($bmr)
+        $energy = energy
+
+rule_calculate_EnergyAmount_kcal_very_active
+    use calculate_EnergyAmount_kcal($energy, $bmr, 'very_active')
+    when
+        python energy = calculate_EnergyAmount_kcal_very_active($bmr)
+        $energy = energy
+
+####################################
+######### Nutrients rule ###########
+####################################
+rule_calculate_Nutrients_standard
+    use calculate_Nutrients($carbo_g, $fat_g, $protein_g, $energy, 'standard')
+    when
+        python carbo_g, fat_g, protein_g = calculate_Nutrients_standard($energy)
+        $carbo_g = carbo_g
+        $fat_g = fat_g
+        $protein_g = protein_g
+
+rule_calculate_Nutrients_ketogenic
+    use calculate_Nutrients($carbo_g, $fat_g, $protein_g, $energy, 'ketogenic')
+    when
+        python carbo_g, fat_g, protein_g = calculate_Nutrients_ketogenic($energy)
+        $carbo_g = carbo_g
+        $fat_g = fat_g
+        $protein_g = protein_g
+
+
+######################################################
+###### Regular Python fuctions for calculations ######
+######################################################
+bc_extras
+    def calculate_bmr_male(weight, height, age):
+        return 10 * weight + 6.25 * height - 5 * age + 5
+
+    def calculate_bmr_female(weight, height, age):
+        return 10 * weight + 6.25 * height - 5 * age - 161
+
+    def calculate_EnergyAmount_kcal_sedentary(bmr):
+        return bmr * 1.2
+
+    def calculate_EnergyAmount_kcal_lightly_active(bmr):
+        return bmr * 1.375
+
+    def calculate_EnergyAmount_kcal_moderately_active(bmr):
+        return bmr * 1.55
+
+    def calculate_EnergyAmount_kcal_very_active(bmr):
+        return bmr * 1.725
+
+
+    # - Carbohydrates provide 4 Calories of energy per gram
+    # - Fats provide 9 Calories of energy per gram
+    # - Protein provide 4 Calories of energy per gram
+
+    # Standard diet = balance ratio of Carbs:Fat:Protein = 40%:30%:30%
+    def calculate_Nutrients_standard(energy):
+        carbo_g = float('%.2f' % (energy * 0.4 / 4))
+        fat_g = float('%.2f' % (energy * 0.3 / 9))
+        protein_g = float('%.2f' % (energy * 0.3 / 4))
+        return carbo_g, fat_g, protein_g
+
+    # Keto diet = 75% Fat, 20% Protein, 5% Carb or Carb<50grams
+    def calculate_Nutrients_ketogenic(energy):
+        carbo_g = float('%.2f' % (energy * 0.05 / 4))
+        fat_g = float('%.2f' % (energy * 0.75 / 9))
+        protein_g = float('%.2f' % (energy * 0.2 / 4))
+        return carbo_g, fat_g, protein_g
