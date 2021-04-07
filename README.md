@@ -17,6 +17,8 @@ https://medium.com/django-rest/django-rest-framework-login-and-register-user-fd9
 `python manage.py runserver` <br>
 
 ## Angular
+### install
+`npm install` <br>
 
 ### running
 `ng serve` <br>
