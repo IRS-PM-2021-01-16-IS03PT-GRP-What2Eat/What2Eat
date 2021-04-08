@@ -13,10 +13,14 @@ https://medium.com/django-rest/django-rest-framework-login-and-register-user-fd9
 `python manage.py makemigrations what2eat` <br>
 `python manage.py migrate what2eat` <br>
 
+### install
+`pip install -r requirements.txt` <br>
+
 ### running
 `python manage.py runserver` <br>
 
 ## Angular
+
 ### install
 `npm install` <br>
 
