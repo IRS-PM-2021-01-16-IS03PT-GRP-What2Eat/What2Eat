@@ -1,4 +1,8 @@
-from pyke import knowledge_engine, krb_traceback, goal
+from pyke import knowledge_engine
+import pandas as pd
+
+recipe = pd.read_csv("/home/ai-user/Downloads/Practice Module_RS_materials/pyke-What2Eat/What2Eat_Pivot.csv")
+
 
 # Compile and load .krb files in same directory (recursively).
 engine = knowledge_engine.engine(__file__)
@@ -14,52 +18,47 @@ def print_fc_facts():
     engine.get_kb("facts").dump_specific_facts()
 
 
-def is_animal(animal):
+def is_healthy():
     engine.reset()
     engine.activate("fc_rules")  # Runs all applicable forward-chaining rules.
 
     try:
-        vars, plan = engine.prove_1_goal("facts.Animal($animal)",animal=animal)
-        print("{} is an animal".format(animal))
+        vars, plan = engine.prove_1_goal("facts.is_healthy($recipe)",recipe=recipe)
+        return vars[recipe]
     except:
-        print("{} is not an animal".format(animal))
+        print("{} is not healthy".format(recipe))
 
 
-def who_loves_hellokitty():
+def is_carnivore():
     engine.reset()
     engine.activate("fc_rules")  # Runs all applicable forward-chaining rules.
 
     try:
-        vars, plan = engine.prove_1_goal("facts.Loves($person,'HelloKitty')")
-        print("{} loves HelloKitty".format(vars['person']))
+        vars, plan = engine.prove_1_goal("facts.is_carnivore($recipe)",recipe=recipe)
+        return vars[recipe]
     except:
-        print("Couldn't find such a person")
+        print("{} is not carnivore".format(recipe))
 
-
-def who_kills_hellokitty():
+def is_vegetarian():
     engine.reset()
     engine.activate("fc_rules")  # Runs all applicable forward-chaining rules.
 
-    # Find a goal
     try:
-        vars, plan = engine.prove_1_goal("facts.Kills($person,'HelloKitty', True)")
-        print("{} kills HelloKitty".format(vars['person']))
+        vars, plan = engine.prove_1_goal("facts.is_vegetarian($recipe)",recipe=recipe)
+        return vars[recipe]
     except:
-        print("Couldn't find such a person")
+        print("{} is not vegetarian".format(recipe))
     
 
 def main():
-    # Is HelloKitty an animal?
-    is_animal('HelloKitty')
-
-    # Is Sam an animal?
-    is_animal('Sam')
-
-    # Who loves HelloKitty?
-    who_loves_hellokitty()
+    x = input("Please Pick Your Preference:\n1. Healthy\n2. Carnivore\n3. Vegetarian\n")
+    if x == 1:
+        is_healthy()
+    elif x == 2:
+        is_carnivore()
+    else:
+        is_vegetarian()
     
-    # Who kills HelloKitty?
-    who_kills_hellokitty()
 
 
 main()

@@ -1,0 +1,24 @@
+is_healthy
+	foreach
+		facts.Vegetable($x)
+		facts.Meat($y)
+		facts.Fruit($z)
+		facts.Carbs($w)
+	assert
+		facts.healthy($recipe,($w,$x,$y,$z))
+
+is_carnivore
+	foreach
+		facts.Meat($x)
+		facts.Meat($y)
+	assert
+		facts.carnivore($recipe,($x,$y))
+		
+		
+is_vegetarian
+	foreach
+		facts.Vegetable($x)
+		facts.Vegetable($y)
+	assert
+		facts.vegetarian($recipe,($x,$y))
+
