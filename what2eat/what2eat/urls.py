@@ -14,9 +14,10 @@ def page_not_found_custom(request):
 
 urlpatterns = [
     path('api/register/', RegisterView.as_view()),
-  #  path('api/food/',page_not_found_custom),
+    # this just to block the /food list path as it is not necessary
+    # path('api/food/',page_not_found_custom),
     path('api/food/',views.food_list),
-    path('api/food/<int:pk>',views.food_detail()),
+  #  path('api/food/<int:pk>',views.food_detail()),
     path('', include(router.urls))
 ]
 
