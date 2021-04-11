@@ -11,6 +11,7 @@
 /node_modules
 
 # IDEs and editors
+/what2eat/.idea/*
 /.idea
 .project
 .classpath
