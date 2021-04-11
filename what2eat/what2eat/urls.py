@@ -2,7 +2,7 @@ from django.urls import include, path
 from django.views.defaults import page_not_found
 from rest_framework import routers
 from .views import FoodViewSet, UserViewSet, GroupViewSet, RegisterView
-from what2eat import views
+from . import views
 
 router = routers.DefaultRouter()
 router.register(r'api/users', UserViewSet)
