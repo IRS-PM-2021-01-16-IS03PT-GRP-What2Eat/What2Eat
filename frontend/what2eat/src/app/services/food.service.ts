@@ -13,7 +13,7 @@ export class FoodService {
   constructor(private http: HttpClient) { }
 
   // Uses http.get() to load data from a single API endpoint
-  list()  {
+  list(): Observable<Food[]> {
      let httpOptions = {
        headers: new HttpHeaders({
        'Content-Type': 'application/json',
