@@ -13,6 +13,7 @@ import { LoginComponent } from './components/login/login.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';  
 import { MaterialModule } from './materials/material-module';
 import { RegisterComponent } from './components/register/register.component';
+import { RatingsComponent } from './components/ratings/ratings.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { RegisterComponent } from './components/register/register.component';
     FoodInformationComponent,
     FrontPageComponent,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
+    RatingsComponent
   ],
   imports: [
     BrowserModule,

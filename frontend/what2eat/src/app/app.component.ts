@@ -14,7 +14,7 @@ export class AppComponent {
   constructor(public _userService: UserService) { }
 
   ngOnInit(): void {
-    if(localStorage.getItem('username')){
+    if(localStorage.getItem('username')&& localStorage.getItem('access')){
         this.username = localStorage.getItem('username');
     }
   }

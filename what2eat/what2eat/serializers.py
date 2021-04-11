@@ -18,9 +18,6 @@ class FoodSerializer(serializers.HyperlinkedModelSerializer):
         model = Food
         fields = ['id', 'title', 'description', 'ingredients', 'link', 'methods', 'thumbnail' ]
 
-
-
-
 class RegisterSerializer(serializers.HyperlinkedModelSerializer):
     password = serializers.CharField(write_only=True, required=True, validators=[validate_password])
 
@@ -38,3 +35,8 @@ class RegisterSerializer(serializers.HyperlinkedModelSerializer):
 
         # create one more object concurrently?
         return user
+
+class FoodRatingSerializer(serializers.HyperlinkedModelSerializer):
+    class Meta:
+        model = Food
+        fields = ['id', 'title', 'description', 'ingredients', 'link', 'methods', 'thumbnail' ]

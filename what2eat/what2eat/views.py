@@ -7,7 +7,7 @@ from django.http import HttpResponse, JsonResponse
 from rest_framework.parsers  import JSONParser
 from .models import Food
 from django.views.decorators.csrf import csrf_exempt
-
+import random
 
 class UserViewSet(viewsets.ModelViewSet):
     """
@@ -27,56 +27,57 @@ class GroupViewSet(viewsets.ModelViewSet):
     permission_classes = [permissions.IsAuthenticated]
     http_method_names = ['get']
 
-class FoodViewSet(viewsets.ModelViewSet):
-    """
-    Provides basic CRUD functions for the Food model
-    """
-    queryset = Food.objects.all()
+class FoodView(generics.ListAPIView):
+    def get_queryset(self):
+        ingredient_row_total = Food.objects.all().count()
+        random_list_of_6 = random.sample(range(1,ingredient_row_total+1), 6)
+        return Food.objects.all().filter(pk__in=random_list_of_6)
+
+    queryset = get_queryset
     serializer_class = FoodSerializer
     permission_classes = []
-    http_method_names = ['get']
 
 class RegisterView(generics.CreateAPIView):
     queryset = User.objects.all()
     permission_classes = []
     serializer_class = RegisterSerializer
 
-@csrf_exempt
-def food_list (request):
-    if request.method == 'GET':
-        food = Food.objects.all()
-        serializer = FoodSerializer(food, many=True)
-        return JsonResponse(serializer.data, safe = False)
-
-    elif request == 'POST':
-        data = JSONParser.parse(request)
-        serializer = FoodSerializer(data=data)
-
-        if serializer.is_valid():
-            serializer.save()
-            return JsonResponse(serializer.data, status=201)
-        return JsonResponse(serializer.errors, status=400)
-
-def food_detail (request, pk):
-    try:
-        food = Food.objects.get(pk=pk)
-    except Food.DoesNotExist:
-        return HttpResponse(status=404)
-
-    if request.method == 'GET':
-        serializer = FoodSerializer(food)
-        return JsonResponse(serializer.data)
-
-    elif request.method == 'PUT':
-        data = JSONParser().parse(request)
-        serializer = FoodSerializer(food, data=data)
-        if serializer.is_valid():
-            serializer.save()
-            return JsonResponse(serializer.data)
-        return JsonResponse(serializer.errors, status=400)
-
-    elif request.method == 'DELETE':
-        food.delete()
-        return HttpResponse(status=204)
+# @csrf_exempt
+# def food_list (request):
+#     if request.method == 'GET':
+#         food = Food.objects.all()
+#         serializer = FoodSerializer(food, many=True)
+#         return JsonResponse(serializer.data, safe = False)
+#
+#     elif request == 'POST':
+#         data = JSONParser.parse(request)
+#         serializer = FoodSerializer(data=data)
+#
+#         if serializer.is_valid():
+#             serializer.save()
+#             return JsonResponse(serializer.data, status=201)
+#         return JsonResponse(serializer.errors, status=400)
+#
+# def food_detail (request, pk):
+#     try:
+#         food = Food.objects.get(pk=pk)
+#     except Food.DoesNotExist:
+#         return HttpResponse(status=404)
+#
+#     if request.method == 'GET':
+#         serializer = FoodSerializer(food)
+#         return JsonResponse(serializer.data)
+#
+#     elif request.method == 'PUT':
+#         data = JSONParser().parse(request)
+#         serializer = FoodSerializer(food, data=data)
+#         if serializer.is_valid():
+#             serializer.save()
+#             return JsonResponse(serializer.data)
+#         return JsonResponse(serializer.errors, status=400)
+#
+#     elif request.method == 'DELETE':
+#         food.delete()
+#         return HttpResponse(status=204)
 
 

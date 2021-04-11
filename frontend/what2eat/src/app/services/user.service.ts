@@ -68,7 +68,7 @@ export class UserService {
       this.token_expires = new Date();
       this.username = "";
       localStorage.clear();
-      window.location.reload();
+      window.location.href = '/frontpage';
    }
   
    private updateData(data : any, user: string) {
