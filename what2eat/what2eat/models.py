@@ -9,3 +9,9 @@ class Food(models.Model):
     methods = models.CharField(max_length=500, blank=False, default='')
     thumbnail = models.CharField(max_length=100,blank=False, default='')
 
+class FoodRatings(models.Model):
+    userid = models.IntegerField(blank=False, default=0)
+    fooditem = models.ForeignKey(Food, on_delete=models.CASCADE)
+    ratings = models.IntegerField(blank=False, default=0)
+
+

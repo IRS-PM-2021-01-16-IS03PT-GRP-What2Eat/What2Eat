@@ -2,12 +2,12 @@ import { Component, OnInit } from '@angular/core';
 import { FoodService } from '../../services/food.service';
 
 @Component({
-  selector: 'app-food-information',
-  templateUrl: './food-information.component.html',
-  styleUrls: ['./food-information.component.css']
+  selector: 'app-ratings',
+  templateUrl: './ratings.component.html',
+  styleUrls: ['./ratings.component.css']
 })
-export class FoodInformationComponent implements OnInit {
-  
+export class RatingsComponent implements OnInit {
+
   public foodinformation : any;
   constructor(private _foodService: FoodService) { 
 
@@ -16,7 +16,7 @@ export class FoodInformationComponent implements OnInit {
   ngOnInit(): void {
     this.getFood();
   }
-
+  
   getFood() {
     this._foodService.list().subscribe(
       // the first argument is a function which runs on success
