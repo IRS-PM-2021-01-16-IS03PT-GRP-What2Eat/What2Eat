@@ -1,24 +1,23 @@
 is_healthy
-	foreach
-		facts.Vegetable($x)
-		facts.Meat($y)
-		facts.Fruit($z)
-		facts.Carbs($w)
-	assert
-		facts.healthy($recipe,($w,$x,$y,$z))
+	use return_recipe($df,'healthy',$vegetable,$meat,$fruit)
+	when
+		check $vegetable >= 1.0
+		check $meat >= 1.0
+		check $fruit > = 1.0
+		$df = python check(df)
 
-is_carnivore
-	foreach
-		facts.Meat($x)
-		facts.Meat($y)
-	assert
-		facts.carnivore($recipe,($x,$y))
+
+
+	
+######################################
+###### Regular Python fuctions  ######
+######################################
+bc_extras
+	def check(df):
 		
+		return vegetable+meat+fruit
 		
-is_vegetarian
-	foreach
-		facts.Vegetable($x)
-		facts.Vegetable($y)
-	assert
-		facts.vegetarian($recipe,($x,$y))
+
+				
+	
 
