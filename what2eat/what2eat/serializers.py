@@ -1,7 +1,8 @@
 from django.contrib.auth.models import User, Group
 from django.contrib.auth.password_validation import validate_password
 from rest_framework import serializers
-from .models import Food
+from .models import Food, FoodRatings
+
 
 class UserSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
@@ -13,7 +14,7 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
         model = Group
         fields = ['url', 'name']
 
-class FoodSerializer(serializers.HyperlinkedModelSerializer):
+class FoodSerializer(serializers.ModelSerializer):
     class Meta:
         model = Food
         fields = ['id', 'title', 'description', 'ingredients', 'link', 'methods', 'thumbnail' ]
@@ -36,7 +37,16 @@ class RegisterSerializer(serializers.HyperlinkedModelSerializer):
         # create one more object concurrently?
         return user
 
-class FoodRatingSerializer(serializers.HyperlinkedModelSerializer):
+class FoodRatingSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Food
-        fields = ['id', 'title', 'description', 'ingredients', 'link', 'methods', 'thumbnail' ]
+        model = FoodRatings
+        fields = ['ratings','fooditem']
+
+    def create(self, validated_data):
+        foodratings = FoodRatings.objects.create(
+            userid=3,
+            fooditem=validated_data['fooditem'],
+            ratings=validated_data['ratings']
+        )
+        foodratings.save()
+        return foodratings
