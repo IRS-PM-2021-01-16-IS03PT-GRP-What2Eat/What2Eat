@@ -1,11 +1,11 @@
 from django.contrib.auth.models import User, Group
 from rest_framework import viewsets, generics
 from rest_framework import permissions
-from .serializers import UserSerializer, GroupSerializer, FoodSerializer, RegisterSerializer
+from .serializers import UserSerializer, GroupSerializer, FoodSerializer, RegisterSerializer, FoodRatingSerializer
 from django.shortcuts import render
-from django.http import HttpResponse, JsonResponse
+from django.http import HttpResponse, JsonResponse, request
 from rest_framework.parsers  import JSONParser
-from .models import Food
+from .models import Food, FoodRatings
 from django.views.decorators.csrf import csrf_exempt
 import random
 
@@ -36,6 +36,11 @@ class FoodView(generics.ListAPIView):
     queryset = get_queryset
     serializer_class = FoodSerializer
     permission_classes = []
+
+class FoodRatingsView(generics.CreateAPIView):
+    queryset = FoodRatings.objects.all()
+    serializer_class = FoodRatingSerializer
+    permission_classes = [permissions.IsAuthenticated]
 
 class RegisterView(generics.CreateAPIView):
     queryset = User.objects.all()

@@ -1,7 +1,7 @@
 from django.urls import include, path
 from django.views.defaults import page_not_found
 from rest_framework import routers
-from .views import FoodView, UserViewSet, GroupViewSet, RegisterView
+from .views import FoodView, UserViewSet, GroupViewSet, RegisterView, FoodRatingsView
 from . import views
 
 router = routers.DefaultRouter()
@@ -13,6 +13,7 @@ def page_not_found_custom(request):
 
 urlpatterns = [
     path('api/register/', RegisterView.as_view()),
+    path('api/foodratings/', FoodRatingsView.as_view()),
     path('api/food/', FoodView.as_view()),
     # path('api/food/',views.food_list),
     # path('api/food/<int:pk>/',views.food_detail()),
