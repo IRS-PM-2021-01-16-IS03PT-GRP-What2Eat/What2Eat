@@ -44,7 +44,7 @@ class FoodRatingSerializer(serializers.ModelSerializer):
 
     def create(self, validated_data):
         foodratings = FoodRatings.objects.create(
-            userid=3,
+            userid=self.context['request'].user.id,
             fooditem=validated_data['fooditem'],
             ratings=validated_data['ratings']
         )
