@@ -1,4 +1,108 @@
-<p>register works!</p>
+<!DOCTYPE html>
+
+<html>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+<body ng-app="registration">
+  <div>
+    <h1 class="heading">Register</h1>
+    <mat-horizontal-stepper [linear]="isLinear" #stepper>
+      <div style="text-align:center">
+        <mat-step [stepControl]="registrationFormGroup1">
+          <form [formGroup]="registrationFormGroup1">
+            <ng-template matStepLabel>Basic Details</ng-template>
+            <mat-form-field>
+              <mat-label>Username</mat-label>
+              <input matInput placeholder="Username" formControlName="username" required>
+            </mat-form-field>
+            <br />
+            <mat-form-field>
+              <mat-label>Password</mat-label>
+              <input matInput placeholder="Password" [type]="true ? 'password' : 'text'" formControlName="password" required>
+            </mat-form-field>
+            <div>
+              <button mat-button matStepperNext (click)="register()">Register</button>
+            </div>
+          </form>
+        </mat-step>
+      </div>
+
+      <mat-step [stepControl]="registrationFormGroup2">
+        <div class="container-fluid">
+          <div style="text-align:center">
+            <form [formGroup]="registrationFormGroup2" class="form-vertical">
+              <ng-template matStepLabel>Taste Customization</ng-template>
+              <div class="form-group">
+                <mat-list>
+                  <mat-list-item *ngFor="let foodpiece of foodinformation.results">
+                    <div class="form-group row">
+                      <div class="form-group col-md-4" style="text-align:left">
+                        <img matListAvatar src="{{foodpiece.thumbnail}}" alt="...">
+                      </div>
+                      <div class="form-group col-md-4" style="text-align:left">
+                        <h3 matLine> {{ foodpiece.title }} </h3>
+                      </div>
+                      <div class="form-group col-md-4" style="text-align:left">
+                        <ngb-rating [max]="5" [(rate)]="foodpiece.rating" [readonly]="false" [resettable]="true">
+                        </ngb-rating>
+                      </div>
+                    </div>
+                  </mat-list-item>
+                </mat-list>
+
+                <!-- <mat-form-field>
+          <mat-label>Tailoring to your palate</mat-label>
+          <input matInput placeholder="Amount" formControlName="amount" required>
+        </mat-form-field>
+        <br/>
+        <mat-form-field>
+          <mat-label>Stock</mat-label>
+          <input matInput placeholder="Stock" formControlName="stock" required>
+        </mat-form-field>
+      -->
+                <br />
+                <div>
+                  <button mat-button matStepperPrevious>Back</button>
+                  <button mat-button matStepperNext (click)="submitInitialFoodRating()">Submit Food Rating</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+
+      </mat-step>
+      <mat-step>
+        <ng-template matStepLabel>Done</ng-template>
+        <p>You are now done.</p>
+
+        <!-- <mat-list>
+          <mat-list-item> <strong>Username: </strong> {{ this.registrationFormGroup1.value.username }}</mat-list-item>
+          <mat-list-item> <strong>Password:</strong> {{ this.registrationFormGroup1.value.password }}</mat-list-item>
+          <mat-list-item> <strong>Amount:</strong> {{ this.registrationFormGroup2.value.amount }}</mat-list-item>
+          <mat-list-item> <strong>Stock:</strong> {{ this.registrationFormGroup2.value.stock }}</mat-list-item>
+        </mat-list> -->
+
+        <!-- <div>
+          <button mat-button matStepperPrevious>Back</button>
+          <button mat-button (click)="stepper.reset()">Reset</button>
+          <button mat-button (click)="register()">Submit</button>
+        </div> -->
+      </mat-step>
+    </mat-horizontal-stepper>
+
+  </div>
+
+</body>
+
+</html>
+
+
+
+
+
+
+<!-- <p>register works!</p>
 <div class="row" *ngIf="_userService.username == ''">
   <div class="col-sm-4">
     <label>Username:</label><br />
@@ -16,4 +120,4 @@
 </div>
 <div class="row" *ngIf="_userService.username != ''">
   <div class="col-sm-12">Account {{ _userService.username }} created. Please log in.<br/></div>
-</div>
+</div> -->

@@ -14,4 +14,9 @@ class FoodRatings(models.Model):
     fooditem = models.ForeignKey(Food, on_delete=models.CASCADE)
     ratings = models.IntegerField(blank=False, default=0)
 
+class Registration(models.Model):
+    userid = models.IntegerField(blank=False, default=0)
+    fooditem = models.ForeignKey(Food, on_delete=models.CASCADE)
+    ratings = models.IntegerField(blank=False, default=0)
+
 

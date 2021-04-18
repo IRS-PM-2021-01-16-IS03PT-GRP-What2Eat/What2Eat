@@ -27,7 +27,7 @@ class GroupViewSet(viewsets.ModelViewSet):
     permission_classes = [permissions.IsAuthenticated]
     http_method_names = ['get']
 
-class FoodView(generics.ListAPIView):
+class InitialFoodRatingListView(generics.ListAPIView):
     def get_queryset(self):
         ingredient_row_total = Food.objects.all().count()
         random_list_of_6 = random.sample(range(1,ingredient_row_total+1), 6)

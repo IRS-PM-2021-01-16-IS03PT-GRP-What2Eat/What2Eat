@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import {HttpClient, HttpHeaders} from '@angular/common/http';
-import { Food } from 'src/interface';
+import { Food, FoodWithRating } from 'src/interface';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 
@@ -26,4 +26,14 @@ export class FoodService {
   // listDetail(foodid : string): Observable<Food> {
   //   return this.http.get<Food>('/api/food/'+foodid).pipe(map(res => res));
   // }
+
+  getInitialRatinglist(): Observable<FoodWithRating[]> {
+    let httpOptions = {
+      headers: new HttpHeaders({
+      'Content-Type': 'application/json',
+    //  'Authorization': 'Bearer ' + localStorage.getItem('access')   
+       })
+    };
+   return this.http.get<FoodWithRating[]>('/api/register/initialFoodRating/', httpOptions).pipe(map(res => res));
+ }
 }
