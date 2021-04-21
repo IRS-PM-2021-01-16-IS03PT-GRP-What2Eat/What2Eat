@@ -1,0 +1,19 @@
+
+ngb-rating {
+    color: #FFC107;
+}
+
+.mat-list-base.inline-list {
+    display: flex;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.heading {
+    display: table;
+    margin: 0 auto;
+    padding: 5px;
+  }

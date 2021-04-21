@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { HttpClientModule } from '@angular/common/http';  
-import { FormsModule } from '@angular/forms';   
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';   
 import { UserService } from './services/user.service';
 import { FoodInformationComponent } from './components/food-information/food-information.component';
 import { FrontPageComponent } from './components/front-page/front-page.component';
@@ -14,6 +14,11 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './materials/material-module';
 import { RegisterComponent } from './components/register/register.component';
 import { RatingsComponent } from './components/ratings/ratings.component';
+import {MatStepperModule} from '@angular/material/stepper';
+import {MatInputModule} from '@angular/material/input';
+import {MatButtonModule} from '@angular/material/button';
+import {MatListModule} from '@angular/material/list';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -28,9 +33,15 @@ import { RatingsComponent } from './components/ratings/ratings.component';
     BrowserModule,
     AppRoutingModule,
     FormsModule, 
+    ReactiveFormsModule,
     HttpClientModule, 
     BrowserAnimationsModule, 
-    MaterialModule
+    MaterialModule,
+    MatInputModule,
+    MatButtonModule,
+    MatListModule,
+    MatStepperModule,
+    NgbModule
   ],
   providers: [UserService],
   bootstrap: [AppComponent]
