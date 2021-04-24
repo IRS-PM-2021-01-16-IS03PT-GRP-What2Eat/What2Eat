@@ -1,0 +1,45 @@
+h1 {
+    text-align:center;
+}
+hr.dotted {
+    border-top: 3px dotted #bbb;
+}
+
+.button1 {
+    background-color: #4e4caf; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 12px;
+    width: 100%;
+}
+.button2 {
+    background-color: #e7d37a; /* Green */
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 12px;
+    border-radius: 12px;
+    width: 100%;
+}
+.button3 {
+    background-color: #f1865b; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 12px;
+    width: 100%;
+}
+  

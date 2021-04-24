@@ -19,6 +19,7 @@ import {MatInputModule} from '@angular/material/input';
 import {MatButtonModule} from '@angular/material/button';
 import {MatListModule} from '@angular/material/list';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { DailyRecommendComponent } from './daily-recommend/daily-recommend.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     FrontPageComponent,
     LoginComponent,
     RegisterComponent,
-    RatingsComponent
+    RatingsComponent,
+    DailyRecommendComponent
   ],
   imports: [
     BrowserModule,
