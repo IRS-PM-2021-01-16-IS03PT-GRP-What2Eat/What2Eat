@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import {HttpClient, HttpHeaders} from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Food, FoodWithRating } from 'src/interface';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
@@ -14,12 +14,12 @@ export class FoodService {
 
   // Uses http.get() to load data from a single API endpoint
   list(): Observable<Food[]> {
-     let httpOptions = {
-       headers: new HttpHeaders({
-       'Content-Type': 'application/json',
-       'Authorization': 'Bearer ' + localStorage.getItem('access')   
-        })
-     };
+    let httpOptions = {
+      headers: new HttpHeaders({
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer ' + localStorage.getItem('access')
+      })
+    };
     return this.http.get<Food[]>('/api/food/', httpOptions).pipe(map(res => res));
   }
 
@@ -30,10 +30,20 @@ export class FoodService {
   getInitialRatinglist(): Observable<FoodWithRating[]> {
     let httpOptions = {
       headers: new HttpHeaders({
-      'Content-Type': 'application/json',
-    //  'Authorization': 'Bearer ' + localStorage.getItem('access')   
-       })
+        'Content-Type': 'application/json',
+        //  'Authorization': 'Bearer ' + localStorage.getItem('access')   
+      })
     };
-   return this.http.get<FoodWithRating[]>('/api/register/initialFoodRating/', httpOptions).pipe(map(res => res));
- }
+    return this.http.get<FoodWithRating[]>('/api/register/initialFoodRating/', httpOptions).pipe(map(res => res));
+  }
+
+  searchDish(choice: number): Observable<any> {
+    let httpOptions = {
+      headers: new HttpHeaders({
+        'Content-Type': 'application/json',
+        //  'Authorization': 'Bearer ' + localStorage.getItem('access')   
+      })
+    };
+    return this.http.post('/api/dailyRecommend/', JSON.stringify({"choice":choice}), httpOptions);
+  }
 }

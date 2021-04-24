@@ -1,0 +1,11 @@
+<div class='center'>
+    <p>Dishes we think you would be interested in!</p>
+    <hr class="dotted">
+    <div *ngFor="let foodpiece of foodList">
+      <div class="row mb-3">
+        <div class="col-md-2 mb-1">{{ foodpiece.title }}</div><br>
+        <img [src] = "foodpiece.thumbnail">
+      </div>
+    </div> 
+</div>
+

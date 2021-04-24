@@ -1,6 +1,8 @@
 from django.contrib.auth.models import User, Group
 from rest_framework import viewsets, generics
 from rest_framework import permissions
+from rest_framework.decorators import api_view
+
 from .serializers import UserSerializer, GroupSerializer, FoodSerializer, RegisterSerializer, FoodRatingSerializer
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse, request
@@ -46,6 +48,35 @@ class RegisterView(generics.CreateAPIView):
     queryset = User.objects.all()
     permission_classes = []
     serializer_class = RegisterSerializer
+
+class RecommendListView(generics.ListAPIView):
+    def get_queryset(self):
+        ingredient_row_total = Food.objects.all().count()
+        random_list_of_6 = random.sample(range(1,ingredient_row_total+1), 6)
+        return Food.objects.all().filter(pk__in=random_list_of_6)
+
+    queryset = get_queryset
+    serializer_class = FoodSerializer
+    permission_classes = []
+
+@api_view(['POST'])
+def recommendList (request):
+    if request.method == 'POST':
+        print("inside post")
+        print(request.data)
+        choice = request.data.get("choice")
+        print(choice)
+        # TO-DO to call recommendation method
+        # below just temporary
+        ingredient_row_total = Food.objects.all().count()
+        random_list_of_6 = random.sample(range(1, ingredient_row_total + 1), 6)
+        queryResult = Food.objects.all().filter(pk__in=random_list_of_6)
+        print("after query")
+        print(queryResult)
+        resultSerializer = FoodSerializer(queryResult, many=True)
+        return JsonResponse(resultSerializer.data, safe=False)
+
+
 
 # @csrf_exempt
 # def food_list (request):

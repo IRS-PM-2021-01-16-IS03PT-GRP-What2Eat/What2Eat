@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FoodService } from '../services/food.service';
-
+import { Router } from '@angular/router';
+import { Food} from 'src/interface';
 
 @Component({
   selector: 'app-daily-recommend',
@@ -9,21 +10,30 @@ import { FoodService } from '../services/food.service';
 })
 export class DailyRecommendComponent implements OnInit {
 
-  
+  foodlist!: Food[];
+
   constructor(
-    private _foodService: FoodService
+    private _foodService: FoodService,
+    private router: Router
   ) { }
-  
 
   ngOnInit(): void {
   }
 
   searchDish(choice: number){
     console.log(choice)
+    this._foodService.searchDish(choice).subscribe(
+      data => {
+        console.log()
+        this.foodlist = data;
+        this.router.navigate(["/recommendationList"],{state: {foodData: this.foodlist}});
+      }
+    );
+
   }
 
   picky(){
-    
+
   }
 
 }

@@ -20,6 +20,7 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatListModule} from '@angular/material/list';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { DailyRecommendComponent } from './daily-recommend/daily-recommend.component';
+import { DisplayRecomendationResultComponent } from './daily-recommend/display-recomendation-result/display-recomendation-result.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { DailyRecommendComponent } from './daily-recommend/daily-recommend.compo
     LoginComponent,
     RegisterComponent,
     RatingsComponent,
-    DailyRecommendComponent
+    DailyRecommendComponent,
+    DisplayRecomendationResultComponent
   ],
   imports: [
     BrowserModule,
