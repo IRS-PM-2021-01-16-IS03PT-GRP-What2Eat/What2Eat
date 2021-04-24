@@ -37,8 +37,10 @@ export class RegisterComponent implements OnInit {
   }
 
   register() {
+    // submit user for registration
     console.log(this.registrationFormGroup1.value);
-    this._userService.register(JSON.stringify({'username': this.registrationFormGroup1.get('username'), 'password': this.registrationFormGroup1.get('password')}));
+    this._userService.register(JSON.stringify(this.registrationFormGroup1.value));
+    // save the user initial rating
   }
 
   submitInitialFoodRating(){

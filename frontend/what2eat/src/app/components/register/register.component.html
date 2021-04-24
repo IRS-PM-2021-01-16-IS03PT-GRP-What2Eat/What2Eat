@@ -5,7 +5,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
 
 <body ng-app="registration">
-  <div>
+  <div class = 'center'>
     <h1 class="heading">Register</h1>
     <mat-horizontal-stepper [linear]="isLinear" #stepper>
       <div style="text-align:center">
@@ -19,26 +19,26 @@
             <br />
             <mat-form-field>
               <mat-label>Password</mat-label>
-              <input matInput placeholder="Password" [type]="true ? 'password' : 'text'" formControlName="password" required>
+              <input matInput placeholder="Password" [type]="true ? 'password' : 'text'" formControlName="password"
+                required>
             </mat-form-field>
             <div>
-              <button mat-button matStepperNext (click)="register()">Register</button>
+              <button class="button" mat-button matStepperNext>Next</button>
             </div>
           </form>
         </mat-step>
       </div>
-
-      <mat-step [stepControl]="registrationFormGroup2">
-        <div class="container-fluid">
-          <div style="text-align:center">
-            <form [formGroup]="registrationFormGroup2" class="form-vertical">
-              <ng-template matStepLabel>Taste Customization</ng-template>
-              <div class="form-group">
-                <mat-list>
-                  <mat-list-item *ngFor="let foodpiece of foodinformation.results">
+      <div>
+        <mat-step [stepControl]="registrationFormGroup2">
+          <div class="container-fluid">
+            <div style="text-align:center">
+              <form [formGroup]="registrationFormGroup2" class="form-vertical">
+                <ng-template matStepLabel>Taste Customization</ng-template>
+                <div class="form-group">
+                  <div *ngFor="let foodpiece of foodinformation.results">
                     <div class="form-group row">
                       <div class="form-group col-md-4" style="text-align:left">
-                        <img matListAvatar src="{{foodpiece.thumbnail}}" alt="...">
+                        <img src="{{foodpiece.thumbnail}}" alt="...">
                       </div>
                       <div class="form-group col-md-4" style="text-align:left">
                         <h3 matLine> {{ foodpiece.title }} </h3>
@@ -48,42 +48,30 @@
                         </ngb-rating>
                       </div>
                     </div>
-                  </mat-list-item>
-                </mat-list>
+                  </div>
 
-                <!-- <mat-form-field>
-          <mat-label>Tailoring to your palate</mat-label>
-          <input matInput placeholder="Amount" formControlName="amount" required>
-        </mat-form-field>
-        <br/>
-        <mat-form-field>
-          <mat-label>Stock</mat-label>
-          <input matInput placeholder="Stock" formControlName="stock" required>
-        </mat-form-field>
-      -->
-                <br />
-                <div>
-                  <button mat-button matStepperPrevious>Back</button>
-                  <button mat-button matStepperNext (click)="submitInitialFoodRating()">Submit Food Rating</button>
+                  <br />
+                  <div>
+                    <button class="button" mat-button matStepperPrevious>Back</button>&nbsp;&nbsp;
+                    <button class="button" mat-button matStepperNext (click)="register()">Submit Registration</button>
+                  </div>
                 </div>
-              </div>
-            </form>
+              </form>
+            </div>
           </div>
-        </div>
-
-      </mat-step>
+        </mat-step>
+      </div>
       <mat-step>
         <ng-template matStepLabel>Done</ng-template>
-        <p>You are now done.</p>
-
+        <p>You have successfully register the account. Please proceed to login.</p>
         <!-- <mat-list>
           <mat-list-item> <strong>Username: </strong> {{ this.registrationFormGroup1.value.username }}</mat-list-item>
           <mat-list-item> <strong>Password:</strong> {{ this.registrationFormGroup1.value.password }}</mat-list-item>
           <mat-list-item> <strong>Amount:</strong> {{ this.registrationFormGroup2.value.amount }}</mat-list-item>
           <mat-list-item> <strong>Stock:</strong> {{ this.registrationFormGroup2.value.stock }}</mat-list-item>
-        </mat-list> -->
+        </mat-list>
 
-        <!-- <div>
+        <div>
           <button mat-button matStepperPrevious>Back</button>
           <button mat-button (click)="stepper.reset()">Reset</button>
           <button mat-button (click)="register()">Submit</button>
