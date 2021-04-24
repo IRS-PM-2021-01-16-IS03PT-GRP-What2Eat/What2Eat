@@ -1,0 +1,2145 @@
+,recipe_id,recipe_name,ingredient_tags,ingredient_category
+0,90295,Mom's Apple Fritters,oil,oil
+1,90295,Mom's Apple Fritters,flour,dairy
+2,90295,Mom's Apple Fritters,sugar,sugar
+4,90295,Mom's Apple Fritters,milk,dairy
+6,90295,Mom's Apple Fritters,oil,oil
+8,90295,Mom's Apple Fritters,sugar,sugar
+10,14685,Slow Cooker Beef Stew I,flour,dairy
+13,14685,Slow Cooker Beef Stew I,garlic,veg
+17,14685,Slow Cooker Beef Stew I,onion,veg
+19,14685,Slow Cooker Beef Stew I,potatoes,veg
+20,14685,Slow Cooker Beef Stew I,carrots,veg
+21,14685,Slow Cooker Beef Stew I,celery,veg
+22,22736,Easy Southern Biscuits,flour,dairy
+23,22736,Easy Southern Biscuits,sugar,sugar
+24,22736,Easy Southern Biscuits,milk,dairy
+26,244562,Braised Brisket with Garlic,oil,oil
+28,244562,Braised Brisket with Garlic,garlic,veg
+34,244562,Braised Brisket with Garlic,garlic,veg
+35,75256,Indian Matar Paneer (Cottage Cheese and Peas),milk,dairy
+37,75256,Indian Matar Paneer (Cottage Cheese and Peas),oil,oil
+39,75256,Indian Matar Paneer (Cottage Cheese and Peas),onion,veg
+41,75256,Indian Matar Paneer (Cottage Cheese and Peas),corn,sugar
+42,75256,Indian Matar Paneer (Cottage Cheese and Peas),peas,veg
+48,85477,Chicken Breasts with Plum Salsa and Basmati Rice,rice,sugar
+49,85477,Chicken Breasts with Plum Salsa and Basmati Rice,onion,veg
+50,85477,Chicken Breasts with Plum Salsa and Basmati Rice,peppers,veg
+52,85477,Chicken Breasts with Plum Salsa and Basmati Rice,sugar,sugar
+53,85477,Chicken Breasts with Plum Salsa and Basmati Rice,chicken,meat
+56,85477,Chicken Breasts with Plum Salsa and Basmati Rice,oil,oil
+58,14877,Zucchini Pie,onion,veg
+61,14877,Zucchini Pie,oil,oil
+62,14877,Zucchini Pie,cheese,dairy
+67,240806,Easy Sauerkraut and Sausage Balls,sausage,meat
+68,31811,Spicy Sausage Casserole,oil,oil
+69,31811,Spicy Sausage Casserole,sausage,meat
+71,31811,Spicy Sausage Casserole,garlic,veg
+73,31811,Spicy Sausage Casserole,corn,sugar
+74,31811,Spicy Sausage Casserole,peas,veg
+80,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,pork,meat
+82,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,sugar,sugar
+92,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,sugar,sugar
+94,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,mustard,carbs
+95,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,honey,sugar
+101,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,oil,oil
+102,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,sugar,sugar
+105,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,cabbage,veg
+106,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,carrots,veg
+107,256914,Barbecued Pulled Pork with Sweet & Sour Slaw,cucumber,veg
+109,235068,Gingerbread People from JELL-O,butter,dairy
+110,235068,Gingerbread People from JELL-O,sugar,sugar
+113,235068,Gingerbread People from JELL-O,flour,dairy
+117,219930,Grilled Corn Off the Cob Salad,corn,sugar
+118,219930,Grilled Corn Off the Cob Salad,celery,veg
+120,219930,Grilled Corn Off the Cob Salad,onion,veg
+121,219930,Grilled Corn Off the Cob Salad,peppers,veg
+122,219930,Grilled Corn Off the Cob Salad,oil,oil
+125,219930,Grilled Corn Off the Cob Salad,mustard,carbs
+126,219930,Grilled Corn Off the Cob Salad,sugar,sugar
+128,215084,Old-School Baltimore Crab Soup,carrots,veg
+130,215084,Old-School Baltimore Crab Soup,barley,carbs
+134,215084,Old-School Baltimore Crab Soup,cabbage,veg
+136,215084,Old-School Baltimore Crab Soup,potatoes,veg
+138,215084,Old-School Baltimore Crab Soup,corn,sugar
+139,215084,Old-School Baltimore Crab Soup,beans,veg
+140,215084,Old-School Baltimore Crab Soup,beans,veg
+141,215084,Old-School Baltimore Crab Soup,peas,veg
+143,215084,Old-School Baltimore Crab Soup,crabs,meat
+144,215084,Old-School Baltimore Crab Soup,bacon,meat
+147,150344,Corn Muffin Pancakes,flour,dairy
+149,150344,Corn Muffin Pancakes,milk,dairy
+150,150344,Corn Muffin Pancakes,oil,oil
+151,176930,Apple Goat Cheese Bruschetta,cheese,dairy
+152,176930,Apple Goat Cheese Bruschetta,apple,veg
+157,10295,Ambrosia Cookies,flour,dairy
+160,10295,Ambrosia Cookies,butter,dairy
+161,10295,Ambrosia Cookies,sugar,sugar
+162,10295,Ambrosia Cookies,sugar,sugar
+163,10295,Ambrosia Cookies,eggs,meat
+165,10295,Ambrosia Cookies,oats,carbs
+168,24791,Easy Slow Cooker Chicken Wings,chicken,meat
+171,24791,Easy Slow Cooker Chicken Wings,molasses,sugar
+176,24791,Easy Slow Cooker Chicken Wings,garlic,veg
+179,228115,2 Minute Cheese Quesadillas,cheese,dairy
+181,218198,Avocado Ice Cream,sugar,sugar
+183,218198,Avocado Ice Cream,milk,dairy
+184,218198,Avocado Ice Cream,milk,dairy
+185,218198,Avocado Ice Cream,juice,sugar
+187,228039,Roasted Tomato Caprese Salad,oil,oil
+189,228039,Roasted Tomato Caprese Salad,garlic,veg
+190,228039,Roasted Tomato Caprese Salad,sugar,sugar
+193,228039,Roasted Tomato Caprese Salad,cheese,dairy
+195,228039,Roasted Tomato Caprese Salad,oil,oil
+197,246601,Four Cheese & Herb Bites,cheese,dairy
+200,246601,Four Cheese & Herb Bites,cheese,dairy
+201,246601,Four Cheese & Herb Bites,cheese,dairy
+202,246601,Four Cheese & Herb Bites,cheese,dairy
+204,10536,Tender Shortbread,butter,dairy
+205,10536,Tender Shortbread,flour,dairy
+206,10536,Tender Shortbread,fructose,sugar
+208,21467,Tri-Color Pasta Salad,cheese,dairy
+209,21467,Tri-Color Pasta Salad,broccoli,veg
+213,45138,Asian Barbequed Butterflied Leg of Lamb,soy,carbs
+214,45138,Asian Barbequed Butterflied Leg of Lamb,garlic,veg
+215,45138,Asian Barbequed Butterflied Leg of Lamb,honey,sugar
+216,45138,Asian Barbequed Butterflied Leg of Lamb,oil,oil
+220,45138,Asian Barbequed Butterflied Leg of Lamb,lamb,meat
+221,239264,Mashed Rutabagas with Bacon,bacon,meat
+222,239264,Mashed Rutabagas with Bacon,butter,dairy
+226,16234,Easy Beer and Ketchup Meatballs,beef,meat
+227,16234,Easy Beer and Ketchup Meatballs,garlic,veg
+228,16234,Easy Beer and Ketchup Meatballs,onion,veg
+229,239078,Philly Cheesesteak Quesadillas,sirloin,meat
+231,239078,Philly Cheesesteak Quesadillas,peppers,veg
+234,239078,Philly Cheesesteak Quesadillas,cheese,dairy
+236,9900,Polka Dots,oil,oil
+237,9900,Polka Dots,eggs,meat
+239,23861,Portuguese Bean Soup I,sausage,meat
+240,23861,Portuguese Bean Soup I,oil,oil
+241,23861,Portuguese Bean Soup I,carrots,veg
+242,23861,Portuguese Bean Soup I,onion,veg
+243,23861,Portuguese Bean Soup I,celery,veg
+245,23861,Portuguese Bean Soup I,potatoes,veg
+246,23861,Portuguese Bean Soup I,chicken,meat
+248,23861,Portuguese Bean Soup I,beans,veg
+249,23861,Portuguese Bean Soup I,tomato,veg
+251,237143,Banana Cherry Smoothie,banana,veg
+253,237143,Banana Cherry Smoothie,milk,dairy
+254,237143,Banana Cherry Smoothie,cherries,veg
+255,237143,Banana Cherry Smoothie,honey,sugar
+257,144909,Lemon Pepper Lamb Fries (Lemon Pepper Mountain Oysters),oil,oil
+258,144909,Lemon Pepper Lamb Fries (Lemon Pepper Mountain Oysters),peppers,veg
+259,144909,Lemon Pepper Lamb Fries (Lemon Pepper Mountain Oysters),onion,veg
+260,144909,Lemon Pepper Lamb Fries (Lemon Pepper Mountain Oysters),spinach,veg
+261,144909,Lemon Pepper Lamb Fries (Lemon Pepper Mountain Oysters),butter,dairy
+265,6691,Pumpernickel Bread I,milk,dairy
+266,6691,Pumpernickel Bread I,oil,oil
+267,6691,Pumpernickel Bread I,molasses,sugar
+268,6691,Pumpernickel Bread I,flour,dairy
+269,6691,Pumpernickel Bread I,flour,dairy
+274,222601,Zucchini-Chocolate Chip Muffins,flour,dairy
+275,222601,Zucchini-Chocolate Chip Muffins,sugar,sugar
+280,222601,Zucchini-Chocolate Chip Muffins,oil,oil
+281,222601,Zucchini-Chocolate Chip Muffins,milk,dairy
+289,217076,"Red, White and Black Bean Salad",juice,sugar
+290,217076,"Red, White and Black Bean Salad",garlic,veg
+292,217076,"Red, White and Black Bean Salad",mustard,carbs
+295,217076,"Red, White and Black Bean Salad",oil,oil
+297,217076,"Red, White and Black Bean Salad",beans,veg
+298,217076,"Red, White and Black Bean Salad",beans,veg
+299,217076,"Red, White and Black Bean Salad",onion,veg
+302,16661,Clinton's Special Vegetarian Quiche,spinach,veg
+305,16661,Clinton's Special Vegetarian Quiche,onion,veg
+306,16661,Clinton's Special Vegetarian Quiche,butter,dairy
+307,16661,Clinton's Special Vegetarian Quiche,eggs,meat
+308,16661,Clinton's Special Vegetarian Quiche,cheese,dairy
+309,16661,Clinton's Special Vegetarian Quiche,cheese,dairy
+312,23053,Sukiyaki,oil,oil
+313,23053,Sukiyaki,sirloin,meat
+314,23053,Sukiyaki,soy,carbs
+316,23053,Sukiyaki,chicken,meat
+317,23053,Sukiyaki,sugar,sugar
+319,23053,Sukiyaki,celery,veg
+324,10818,Neecie's PBJ Bars,flour,dairy
+325,10818,Neecie's PBJ Bars,oats,carbs
+327,10818,Neecie's PBJ Bars,butter,dairy
+328,10818,Neecie's PBJ Bars,sugar,sugar
+329,10818,Neecie's PBJ Bars,sugar,sugar
+331,10818,Neecie's PBJ Bars,butter,dairy
+332,10818,Neecie's PBJ Bars,milk,dairy
+335,10818,Neecie's PBJ Bars,flour,dairy
+336,10818,Neecie's PBJ Bars,oats,carbs
+337,10818,Neecie's PBJ Bars,sugar,sugar
+339,10818,Neecie's PBJ Bars,butter,dairy
+340,10182,Cucidati I,figs,veg
+341,10182,Cucidati I,raisins,veg
+345,10182,Cucidati I,nuts,carbs
+346,10182,Cucidati I,chocolate,dairy
+352,10182,Cucidati I,flour,dairy
+353,10182,Cucidati I,sugar,sugar
+355,10182,Cucidati I,eggs,meat
+356,10182,Cucidati I,milk,dairy
+359,10182,Cucidati I,sugar,sugar
+361,56954,Angel's Ravioli Alfredo with Mushrooms,butter,dairy
+362,56954,Angel's Ravioli Alfredo with Mushrooms,mushrooms,veg
+363,56954,Angel's Ravioli Alfredo with Mushrooms,garlic,veg
+365,56954,Angel's Ravioli Alfredo with Mushrooms,cheese,dairy
+368,143809,Best Steak Marinade in Existence,soy,carbs
+369,143809,Best Steak Marinade in Existence,oil,oil
+372,143809,Best Steak Marinade in Existence,garlic,veg
+377,143809,Best Steak Marinade in Existence,garlic,veg
+379,10508,Vanishing Oatmeal Cookies,sugar,sugar
+380,10508,Vanishing Oatmeal Cookies,sugar,sugar
+381,10508,Vanishing Oatmeal Cookies,eggs,meat
+384,10508,Vanishing Oatmeal Cookies,flour,dairy
+388,10508,Vanishing Oatmeal Cookies,oats,carbs
+393,218131,Malaysian Watermelon Salad,sugar,sugar
+396,218131,Malaysian Watermelon Salad,bacon,meat
+398,218131,Malaysian Watermelon Salad,garlic,veg
+401,218131,Malaysian Watermelon Salad,sugar,sugar
+407,186934,Hoisin-Ginger Beef Skewers,juice,sugar
+408,186934,Hoisin-Ginger Beef Skewers,honey,sugar
+409,186934,Hoisin-Ginger Beef Skewers,garlic,veg
+412,186934,Hoisin-Ginger Beef Skewers,oil,oil
+413,186934,Hoisin-Ginger Beef Skewers,garlic,veg
+419,15704,Chocolate Decadence Yule Log,flour,dairy
+421,15704,Chocolate Decadence Yule Log,eggs,meat
+422,15704,Chocolate Decadence Yule Log,sugar,sugar
+423,15704,Chocolate Decadence Yule Log,chocolate,dairy
+425,15704,Chocolate Decadence Yule Log,sugar,sugar
+427,15704,Chocolate Decadence Yule Log,sugar,sugar
+428,15704,Chocolate Decadence Yule Log,chocolate,dairy
+429,15704,Chocolate Decadence Yule Log,cheese,dairy
+430,15704,Chocolate Decadence Yule Log,sugar,sugar
+433,241169,Orange Pancakes,flour,dairy
+438,220717,Cabbage Balushka or Cabbage and Noodles,butter,dairy
+439,220717,Cabbage Balushka or Cabbage and Noodles,onion,veg
+440,220717,Cabbage Balushka or Cabbage and Noodles,cabbage,veg
+444,7855,Toffee Cake,chocolate,dairy
+446,19795,Ga Ga Clusters,milk,dairy
+448,19795,Ga Ga Clusters,peanuts,carbs
+449,235113,Salami Rosettes,cheese,dairy
+450,235113,Salami Rosettes,cheese,dairy
+455,258473,Rosemary and Goat Cheese Crostini with Walnuts and Honey,cheese,dairy
+458,258473,Rosemary and Goat Cheese Crostini with Walnuts and Honey,honey,sugar
+459,215978,Tilapia Salad,oil,oil
+465,215978,Tilapia Salad,tomato,veg
+466,215978,Tilapia Salad,avocado,veg
+470,7741,Banana Split Cheesecake,butter,dairy
+471,7741,Banana Split Cheesecake,sugar,sugar
+472,7741,Banana Split Cheesecake,cheese,dairy
+473,7741,Banana Split Cheesecake,pineapple,veg
+476,7741,Banana Split Cheesecake,cherries,veg
+477,7741,Banana Split Cheesecake,syrup,sugar
+480,212697,Stewed Korean Short Ribs (Kalbi Jim),onion,veg
+481,212697,Stewed Korean Short Ribs (Kalbi Jim),carrots,veg
+482,212697,Stewed Korean Short Ribs (Kalbi Jim),garlic,veg
+484,212697,Stewed Korean Short Ribs (Kalbi Jim),soy,carbs
+485,212697,Stewed Korean Short Ribs (Kalbi Jim),sugar,sugar
+487,150325,Orange Pork Chops with Tarragon,oil,oil
+491,150325,Orange Pork Chops with Tarragon,juice,sugar
+496,229924,Apple-Blueberry Buckle,sugar,sugar
+500,229924,Apple-Blueberry Buckle,butter,dairy
+501,229924,Apple-Blueberry Buckle,sugar,sugar
+503,229924,Apple-Blueberry Buckle,flour,dairy
+505,229924,Apple-Blueberry Buckle,milk,dairy
+506,229924,Apple-Blueberry Buckle,blueberries,veg
+507,229924,Apple-Blueberry Buckle,sugar,sugar
+508,229924,Apple-Blueberry Buckle,flour,dairy
+510,229924,Apple-Blueberry Buckle,butter,dairy
+514,241262,Baked Crab Cakes with Roasted Red Pepper Remoulade,butter,dairy
+520,241262,Baked Crab Cakes with Roasted Red Pepper Remoulade,peppers,veg
+522,25525,Local Kine Wontons,oil,oil
+523,25525,Local Kine Wontons,cheese,dairy
+524,25525,Local Kine Wontons,soy,carbs
+530,228310,Quick and Creamy Pasta Carbonara,garlic,veg
+531,228310,Quick and Creamy Pasta Carbonara,milk,dairy
+532,228310,Quick and Creamy Pasta Carbonara,cheese,dairy
+533,228310,Quick and Creamy Pasta Carbonara,butter,dairy
+534,228310,Quick and Creamy Pasta Carbonara,cheese,dairy
+535,228310,Quick and Creamy Pasta Carbonara,peas,veg
+536,228310,Quick and Creamy Pasta Carbonara,ham,meat
+537,11959,Slow Cooker Lasagna,beef,meat
+538,11959,Slow Cooker Lasagna,onion,veg
+539,11959,Slow Cooker Lasagna,garlic,veg
+540,11959,Slow Cooker Lasagna,tomato,veg
+541,11959,Slow Cooker Lasagna,tomato,veg
+545,11959,Slow Cooker Lasagna,cheese,dairy
+546,11959,Slow Cooker Lasagna,cheese,dairy
+547,11959,Slow Cooker Lasagna,cheese,dairy
+549,11972,Laurel's Lasagna,beef,meat
+550,11972,Laurel's Lasagna,pork,meat
+553,11972,Laurel's Lasagna,tomato,veg
+554,11972,Laurel's Lasagna,tomato,veg
+556,11972,Laurel's Lasagna,garlic,veg
+559,11972,Laurel's Lasagna,sugar,sugar
+563,11972,Laurel's Lasagna,cheese,dairy
+564,11972,Laurel's Lasagna,cheese,dairy
+565,11972,Laurel's Lasagna,eggs,meat
+566,11972,Laurel's Lasagna,cheese,dairy
+567,11972,Laurel's Lasagna,cheese,dairy
+568,234911,Chorizo-Stuffed Peppers with Green Chile Ranchero Sauce,sausage,meat
+569,234911,Chorizo-Stuffed Peppers with Green Chile Ranchero Sauce,bacon,meat
+570,234911,Chorizo-Stuffed Peppers with Green Chile Ranchero Sauce,onion,veg
+571,234911,Chorizo-Stuffed Peppers with Green Chile Ranchero Sauce,rice,sugar
+572,234911,Chorizo-Stuffed Peppers with Green Chile Ranchero Sauce,peppers,veg
+574,234911,Chorizo-Stuffed Peppers with Green Chile Ranchero Sauce,cheese,dairy
+576,234911,Chorizo-Stuffed Peppers with Green Chile Ranchero Sauce,peppers,veg
+580,234911,Chorizo-Stuffed Peppers with Green Chile Ranchero Sauce,cream,dairy
+582,15266,Grilled Chicken Cordon Bleu Sandwiches,butter,dairy
+583,15266,Grilled Chicken Cordon Bleu Sandwiches,cream,dairy
+584,15266,Grilled Chicken Cordon Bleu Sandwiches,cheese,dairy
+585,15266,Grilled Chicken Cordon Bleu Sandwiches,chicken,meat
+586,15266,Grilled Chicken Cordon Bleu Sandwiches,ham,meat
+587,137903,Balinese Chicken Wings,garlic,veg
+592,137903,Balinese Chicken Wings,sugar,sugar
+593,137903,Balinese Chicken Wings,oil,oil
+594,137903,Balinese Chicken Wings,chicken,meat
+596,25304,"Cavatelli, Broccoli and Mushrooms",broccoli,veg
+597,25304,"Cavatelli, Broccoli and Mushrooms",butter,dairy
+598,25304,"Cavatelli, Broccoli and Mushrooms",garlic,veg
+599,25304,"Cavatelli, Broccoli and Mushrooms",mushrooms,veg
+600,25304,"Cavatelli, Broccoli and Mushrooms",cheese,dairy
+601,11205,Waffle Iron Brownies,butter,dairy
+603,11205,Waffle Iron Brownies,sugar,sugar
+604,11205,Waffle Iron Brownies,eggs,meat
+606,11205,Waffle Iron Brownies,flour,dairy
+609,11205,Waffle Iron Brownies,sugar,sugar
+610,217810,Rosemary Lemon Margarita,lemons,veg
+613,217810,Rosemary Lemon Margarita,sugar,sugar
+616,159003,"Easy, Crunchy Hot Dogs",mustard,carbs
+619,12398,Crustless Cranberry Pie,flour,dairy
+620,12398,Crustless Cranberry Pie,sugar,sugar
+622,12398,Crustless Cranberry Pie,cranberries,veg
+624,12398,Crustless Cranberry Pie,butter,dairy
+625,12398,Crustless Cranberry Pie,eggs,meat
+627,216048,Chiarello's Chicken and Pastina Soup,oil,oil
+629,216048,Chiarello's Chicken and Pastina Soup,chicken,meat
+630,216048,Chiarello's Chicken and Pastina Soup,onion,veg
+632,216048,Chiarello's Chicken and Pastina Soup,celery,veg
+639,216048,Chiarello's Chicken and Pastina Soup,cheese,dairy
+640,256298,Hunt's® Monterrey Chicken and Rice Bake,oil,oil
+641,256298,Hunt's® Monterrey Chicken and Rice Bake,chicken,meat
+646,256298,Hunt's® Monterrey Chicken and Rice Bake,onion,veg
+647,256298,Hunt's® Monterrey Chicken and Rice Bake,rice,sugar
+649,256298,Hunt's® Monterrey Chicken and Rice Bake,corn,sugar
+650,256298,Hunt's® Monterrey Chicken and Rice Bake,garlic,veg
+651,256298,Hunt's® Monterrey Chicken and Rice Bake,chicken,meat
+652,256298,Hunt's® Monterrey Chicken and Rice Bake,avocado,veg
+653,256298,Hunt's® Monterrey Chicken and Rice Bake,tomato,veg
+654,256298,Hunt's® Monterrey Chicken and Rice Bake,cheese,dairy
+657,233311,Miles of Mozzarella Baked Mostaccioli,oil,oil
+658,233311,Miles of Mozzarella Baked Mostaccioli,onion,veg
+659,233311,Miles of Mozzarella Baked Mostaccioli,garlic,veg
+661,233311,Miles of Mozzarella Baked Mostaccioli,tomato,veg
+664,233311,Miles of Mozzarella Baked Mostaccioli,sugar,sugar
+670,233311,Miles of Mozzarella Baked Mostaccioli,beef,meat
+674,233311,Miles of Mozzarella Baked Mostaccioli,cheese,dairy
+675,233311,Miles of Mozzarella Baked Mostaccioli,cheese,dairy
+677,238806,"Scallops with Arugula, Lentils, and Butter Beans",oil,oil
+681,238806,"Scallops with Arugula, Lentils, and Butter Beans",garlic,veg
+682,238806,"Scallops with Arugula, Lentils, and Butter Beans",beans,veg
+685,238806,"Scallops with Arugula, Lentils, and Butter Beans",lentils,carbs
+693,235840,Avocado Mac and Cheese,milk,dairy
+694,235840,Avocado Mac and Cheese,garlic,veg
+699,235840,Avocado Mac and Cheese,cheese,dairy
+700,235840,Avocado Mac and Cheese,juice,sugar
+702,241584,Fiesta Chicken Burritos,chicken,meat
+703,241584,Fiesta Chicken Burritos,butter,dairy
+707,241584,Fiesta Chicken Burritos,cream,dairy
+714,163851,Snow Peas with Water Chestnuts,oil,oil
+717,163851,Snow Peas with Water Chestnuts,mint,carbs
+720,239689,Quick Chicken Pot Pie from Campbell's Kitchen,garlic,veg
+721,239689,Quick Chicken Pot Pie from Campbell's Kitchen,chicken,meat
+723,239689,Quick Chicken Pot Pie from Campbell's Kitchen,milk,dairy
+727,25208,Cinnamon Bran Muffins,flour,dairy
+728,25208,Cinnamon Bran Muffins,sugar,sugar
+730,25208,Cinnamon Bran Muffins,buttermilk,dairy
+731,25208,Cinnamon Bran Muffins,butter,dairy
+734,26400,Corn Chili,oil,oil
+735,26400,Corn Chili,onion,veg
+740,26400,Corn Chili,beans,veg
+741,26400,Corn Chili,beans,veg
+746,26400,Corn Chili,tomato,veg
+747,26400,Corn Chili,tomato,veg
+749,257277,Cold Chicken Pasta Salad,oil,oil
+752,257277,Cold Chicken Pasta Salad,sugar,sugar
+753,257277,Cold Chicken Pasta Salad,onion,veg
+759,257277,Cold Chicken Pasta Salad,chicken,meat
+760,257277,Cold Chicken Pasta Salad,onion,veg
+762,257277,Cold Chicken Pasta Salad,artichoke,veg
+769,58843,Mexican Halibut Bake,butter,dairy
+773,58843,Mexican Halibut Bake,cream,dairy
+774,58843,Mexican Halibut Bake,oil,oil
+775,9809,Rosettes I,eggs,meat
+776,9809,Rosettes I,sugar,sugar
+777,9809,Rosettes I,flour,dairy
+778,9809,Rosettes I,milk,dairy
+781,9809,Rosettes I,oil,oil
+782,9809,Rosettes I,sugar,sugar
+783,204426,Monte Cristo Hotdog,butter,dairy
+786,204426,Monte Cristo Hotdog,cheese,dairy
+788,20177,Todd's Famous Blueberry Pancakes,flour,dairy
+790,20177,Todd's Famous Blueberry Pancakes,sugar,sugar
+792,20177,Todd's Famous Blueberry Pancakes,milk,dairy
+793,20177,Todd's Famous Blueberry Pancakes,butter,dairy
+796,86012,Magical Peanut Butter Tacos,butter,dairy
+797,86012,Magical Peanut Butter Tacos,pineapple,veg
+798,86012,Magical Peanut Butter Tacos,banana,veg
+800,13706,Cheese Corn Casserole,butter,dairy
+801,13706,Cheese Corn Casserole,onion,veg
+803,13706,Cheese Corn Casserole,milk,dairy
+804,13706,Cheese Corn Casserole,corn,sugar
+806,13706,Cheese Corn Casserole,cream,dairy
+807,13706,Cheese Corn Casserole,cheese,dairy
+808,23000,Sam's Original Sauce,onion,veg
+809,23000,Sam's Original Sauce,oil,oil
+810,23000,Sam's Original Sauce,garlic,veg
+812,23000,Sam's Original Sauce,tomato,veg
+821,216227,Rosemary Roasted Cashews,sugar,sugar
+825,8563,Mom's Texas Chicken,flour,dairy
+830,8563,Mom's Texas Chicken,oil,oil
+831,7030,Oatmeal Soda Bread,flour,dairy
+832,7030,Oatmeal Soda Bread,oats,carbs
+835,7030,Oatmeal Soda Bread,cream,dairy
+836,7030,Oatmeal Soda Bread,milk,dairy
+837,7030,Oatmeal Soda Bread,honey,sugar
+838,7030,Oatmeal Soda Bread,sugar,sugar
+839,7030,Oatmeal Soda Bread,butter,dairy
+840,7030,Oatmeal Soda Bread,butter,dairy
+848,228902,Crunchy Fish Tacos,cream,dairy
+849,218370,"Eggplant Slices, Tomatoes, and Mozzarella",flour,dairy
+850,218370,"Eggplant Slices, Tomatoes, and Mozzarella",oil,oil
+852,218370,"Eggplant Slices, Tomatoes, and Mozzarella",cheese,dairy
+853,218370,"Eggplant Slices, Tomatoes, and Mozzarella",oil,oil
+854,218370,"Eggplant Slices, Tomatoes, and Mozzarella",anchovy,meat
+855,218370,"Eggplant Slices, Tomatoes, and Mozzarella",garlic,veg
+859,256819,Lemony Pickled Mushrooms,mushrooms,veg
+866,256819,Lemony Pickled Mushrooms,sugar,sugar
+867,256819,Lemony Pickled Mushrooms,garlic,veg
+871,254946,Chef John's Hawaiian-Style Ahi Poke,soy,carbs
+872,254946,Chef John's Hawaiian-Style Ahi Poke,oil,oil
+875,254946,Chef John's Hawaiian-Style Ahi Poke,nuts,carbs
+882,19153,Broiled Sweet Potatoes,potatoes,veg
+883,19153,Broiled Sweet Potatoes,butter,dairy
+884,19153,Broiled Sweet Potatoes,sugar,sugar
+886,12831,Shrimp and Crab Casserole,rice,sugar
+888,12831,Shrimp and Crab Casserole,shrimp,meat
+889,12831,Shrimp and Crab Casserole,onion,veg
+890,12831,Shrimp and Crab Casserole,milk,dairy
+894,9080,"Easy Blue Cheese, Port, and Walnut Spread",cheese,dairy
+895,9080,"Easy Blue Cheese, Port, and Walnut Spread",butter,dairy
+898,160371,Guyanese Lime Cookies,flour,dairy
+902,160371,Guyanese Lime Cookies,sugar,sugar
+905,160371,Guyanese Lime Cookies,butter,dairy
+906,160371,Guyanese Lime Cookies,sugar,sugar
+908,160371,Guyanese Lime Cookies,juice,sugar
+909,240730,Virginia Eggnog,sugar,sugar
+911,240730,Virginia Eggnog,milk,dairy
+912,240730,Virginia Eggnog,cream,dairy
+918,198656,Awesome Summer Watermelon Salad,mustard,carbs
+919,198656,Awesome Summer Watermelon Salad,garlic,veg
+922,198656,Awesome Summer Watermelon Salad,oil,oil
+923,198656,Awesome Summer Watermelon Salad,watermelon,veg
+924,198656,Awesome Summer Watermelon Salad,cheese,dairy
+925,198656,Awesome Summer Watermelon Salad,onion,veg
+927,73346,Southern as You Can Get Collard Greens,greens,veg
+929,73346,Southern as You Can Get Collard Greens,chicken,meat
+935,51238,Southwestern Chicken Pitas with Chipotle Sauce,peppers,veg
+936,51238,Southwestern Chicken Pitas with Chipotle Sauce,butter,dairy
+942,51238,Southwestern Chicken Pitas with Chipotle Sauce,garlic,veg
+945,51238,Southwestern Chicken Pitas with Chipotle Sauce,oil,oil
+946,51238,Southwestern Chicken Pitas with Chipotle Sauce,onion,veg
+949,51238,Southwestern Chicken Pitas with Chipotle Sauce,lettuce,veg
+950,51238,Southwestern Chicken Pitas with Chipotle Sauce,cheese,dairy
+951,247360,"Carrot, Apple, Cucumber, OJ, and Turmeric Smoothie",juice,sugar
+952,247360,"Carrot, Apple, Cucumber, OJ, and Turmeric Smoothie",cucumber,veg
+953,247360,"Carrot, Apple, Cucumber, OJ, and Turmeric Smoothie",carrots,veg
+956,247360,"Carrot, Apple, Cucumber, OJ, and Turmeric Smoothie",kale,veg
+961,211361,Cinnamon Pumpkin Waffles,flour,dairy
+963,211361,Cinnamon Pumpkin Waffles,sugar,sugar
+968,211361,Cinnamon Pumpkin Waffles,milk,dairy
+969,211361,Cinnamon Pumpkin Waffles,pumpkin,veg
+970,211361,Cinnamon Pumpkin Waffles,butter,dairy
+971,211361,Cinnamon Pumpkin Waffles,oil,oil
+976,20219,Whiskey Slush,concentrate,sugar
+977,20219,Whiskey Slush,concentrate,sugar
+978,20219,Whiskey Slush,tea,carbs
+979,20219,Whiskey Slush,sugar,sugar
+982,20219,Whiskey Slush,lemons,veg
+983,254768,Kate's Grilled Corn Salad,corn,sugar
+984,254768,Kate's Grilled Corn Salad,tomato,veg
+985,254768,Kate's Grilled Corn Salad,cheese,dairy
+987,254768,Kate's Grilled Corn Salad,cucumber,veg
+992,254768,Kate's Grilled Corn Salad,garlic,veg
+993,229905,Easy Sweet Potato Crisp,potatoes,veg
+994,229905,Easy Sweet Potato Crisp,oats,carbs
+995,229905,Easy Sweet Potato Crisp,sugar,sugar
+997,229905,Easy Sweet Potato Crisp,butter,dairy
+1000,242210,Wine Hummus,beans,veg
+1004,242210,Wine Hummus,garlic,veg
+1007,26378,Chicken Corn Chowder,butter,dairy
+1008,26378,Chicken Corn Chowder,onion,veg
+1013,26378,Chicken Corn Chowder,potatoes,veg
+1015,26378,Chicken Corn Chowder,cream,dairy
+1016,230579,Applesauce Pumpkin Bread,sugar,sugar
+1018,230579,Applesauce Pumpkin Bread,pumpkin,veg
+1027,230579,Applesauce Pumpkin Bread,chocolate,dairy
+1028,230579,Applesauce Pumpkin Bread,flour,dairy
+1029,230579,Applesauce Pumpkin Bread,sugar,sugar
+1030,72565,Dilled Creamed Potatoes,potatoes,veg
+1031,72565,Dilled Creamed Potatoes,oil,oil
+1032,72565,Dilled Creamed Potatoes,onion,veg
+1033,72565,Dilled Creamed Potatoes,garlic,veg
+1034,72565,Dilled Creamed Potatoes,cream,dairy
+1038,7528,Blueberry Dump Cake,blueberries,veg
+1039,7528,Blueberry Dump Cake,sugar,sugar
+1040,7528,Blueberry Dump Cake,butter,dairy
+1042,213994,Sunday Vegetarian Strata,oil,oil
+1043,213994,Sunday Vegetarian Strata,sausage,meat
+1044,213994,Sunday Vegetarian Strata,onion,veg
+1045,213994,Sunday Vegetarian Strata,garlic,veg
+1048,213994,Sunday Vegetarian Strata,mustard,carbs
+1049,213994,Sunday Vegetarian Strata,cheese,dairy
+1050,213994,Sunday Vegetarian Strata,eggs,meat
+1051,213994,Sunday Vegetarian Strata,milk,dairy
+1054,239466,Chef John's Cranberry Bean Ragout,oil,oil
+1055,239466,Chef John's Cranberry Bean Ragout,garlic,veg
+1057,239466,Chef John's Cranberry Bean Ragout,beans,veg
+1059,239466,Chef John's Cranberry Bean Ragout,tomato,veg
+1065,97500,Hungarian Beigli,sugar,sugar
+1066,97500,Hungarian Beigli,butter,dairy
+1068,97500,Hungarian Beigli,cream,dairy
+1069,97500,Hungarian Beigli,flour,dairy
+1071,97500,Hungarian Beigli,milk,dairy
+1072,97500,Hungarian Beigli,sugar,sugar
+1075,97500,Hungarian Beigli,raisins,veg
+1078,13475,Corn Pudding I,oil,oil
+1079,13475,Corn Pudding I,onion,veg
+1081,13475,Corn Pudding I,garlic,veg
+1082,13475,Corn Pudding I,corn,sugar
+1083,13475,Corn Pudding I,milk,dairy
+1087,13475,Corn Pudding I,cheese,dairy
+1092,11195,Angel Chocolate Chip Cookies,sugar,sugar
+1093,11195,Angel Chocolate Chip Cookies,eggs,meat
+1095,11195,Angel Chocolate Chip Cookies,flour,dairy
+1098,11195,Angel Chocolate Chip Cookies,milk,dairy
+1100,238042,Butter Pecan Ice Cream from Eagle Brand®,cream,dairy
+1101,238042,Butter Pecan Ice Cream from Eagle Brand®,milk,dairy
+1103,238042,Butter Pecan Ice Cream from Eagle Brand®,butter,dairy
+1107,25899,Creamed Carrot Strips,carrots,veg
+1108,25899,Creamed Carrot Strips,butter,dairy
+1109,25899,Creamed Carrot Strips,celery,veg
+1110,25899,Creamed Carrot Strips,onion,veg
+1111,25899,Creamed Carrot Strips,flour,dairy
+1115,25899,Creamed Carrot Strips,milk,dairy
+1116,76373,Picadillo,oil,oil
+1117,76373,Picadillo,beef,meat
+1118,76373,Picadillo,sausage,meat
+1119,76373,Picadillo,onion,veg
+1121,76373,Picadillo,garlic,veg
+1130,76373,Picadillo,sugar,sugar
+1135,76373,Picadillo,juice,sugar
+1136,220504,Ham and Potato Casserole (Easy and Economical!),milk,dairy
+1137,220504,Ham and Potato Casserole (Easy and Economical!),potatoes,veg
+1141,66779,Classic Veal Marsala,oil,oil
+1143,66779,Classic Veal Marsala,flour,dairy
+1146,66779,Classic Veal Marsala,mushrooms,veg
+1148,66779,Classic Veal Marsala,garlic,veg
+1149,66779,Classic Veal Marsala,chicken,meat
+1151,66779,Classic Veal Marsala,butter,dairy
+1153,223108,Shrimp Primavera with Goat Cheese,oil,oil
+1155,223108,Shrimp Primavera with Goat Cheese,garlic,veg
+1156,223108,Shrimp Primavera with Goat Cheese,artichoke,veg
+1160,223108,Shrimp Primavera with Goat Cheese,shrimp,meat
+1161,223108,Shrimp Primavera with Goat Cheese,cheese,dairy
+1162,212772,Easy Rum-Flavored Black Beans and Rice,rice,sugar
+1164,212772,Easy Rum-Flavored Black Beans and Rice,oil,oil
+1166,212772,Easy Rum-Flavored Black Beans and Rice,celery,veg
+1167,212772,Easy Rum-Flavored Black Beans and Rice,garlic,veg
+1168,212772,Easy Rum-Flavored Black Beans and Rice,onion,veg
+1169,212772,Easy Rum-Flavored Black Beans and Rice,beans,veg
+1176,24195,Pumpkin Swirled Cheese Cake,butter,dairy
+1177,24195,Pumpkin Swirled Cheese Cake,flour,dairy
+1178,24195,Pumpkin Swirled Cheese Cake,sugar,sugar
+1179,24195,Pumpkin Swirled Cheese Cake,sugar,sugar
+1180,24195,Pumpkin Swirled Cheese Cake,flour,dairy
+1181,24195,Pumpkin Swirled Cheese Cake,cheese,dairy
+1182,24195,Pumpkin Swirled Cheese Cake,cheese,dairy
+1187,24195,Pumpkin Swirled Cheese Cake,eggs,meat
+1188,24195,Pumpkin Swirled Cheese Cake,pumpkin,veg
+1189,24195,Pumpkin Swirled Cheese Cake,milk,dairy
+1191,261303,Juli's Fool-Proof Rib Roast,beef,meat
+1193,261303,Juli's Fool-Proof Rib Roast,garlic,veg
+1197,261303,Juli's Fool-Proof Rib Roast,potatoes,veg
+1198,261303,Juli's Fool-Proof Rib Roast,onion,veg
+1199,261303,Juli's Fool-Proof Rib Roast,cream,dairy
+1203,258747,Jamaican Cornmeal Porridge,milk,dairy
+1204,258747,Jamaican Cornmeal Porridge,milk,dairy
+1205,258747,Jamaican Cornmeal Porridge,sugar,sugar
+1211,10319,Colossal Cookies,sugar,sugar
+1212,10319,Colossal Cookies,sugar,sugar
+1213,10319,Colossal Cookies,eggs,meat
+1215,10319,Colossal Cookies,butter,dairy
+1217,10319,Colossal Cookies,oats,carbs
+1221,19036,Death By Chocolate Cake,butter,dairy
+1223,19036,Death By Chocolate Cake,eggs,meat
+1224,19036,Death By Chocolate Cake,cream,dairy
+1225,19036,Death By Chocolate Cake,sugar,sugar
+1227,19036,Death By Chocolate Cake,oil,oil
+1230,237008,Baked Chipotle Chicken Flautas,chicken,meat
+1231,237008,Baked Chipotle Chicken Flautas,chicken,meat
+1232,237008,Baked Chipotle Chicken Flautas,peppers,veg
+1236,237008,Baked Chipotle Chicken Flautas,oil,oil
+1239,237008,Baked Chipotle Chicken Flautas,cream,dairy
+1242,8568,Chicken Salad Al La Barbara,chicken,meat
+1243,8568,Chicken Salad Al La Barbara,celery,veg
+1245,8568,Chicken Salad Al La Barbara,grapes,veg
+1247,8568,Chicken Salad Al La Barbara,oranges,veg
+1248,8568,Chicken Salad Al La Barbara,milk,dairy
+1249,8568,Chicken Salad Al La Barbara,sugar,sugar
+1256,168579,Thai Peanut Noodle Stir-Fry,butter,dairy
+1257,168579,Thai Peanut Noodle Stir-Fry,soy,carbs
+1258,168579,Thai Peanut Noodle Stir-Fry,honey,sugar
+1259,168579,Thai Peanut Noodle Stir-Fry,sugar,sugar
+1260,168579,Thai Peanut Noodle Stir-Fry,oil,oil
+1264,168579,Thai Peanut Noodle Stir-Fry,oil,oil
+1265,168579,Thai Peanut Noodle Stir-Fry,garlic,veg
+1266,168579,Thai Peanut Noodle Stir-Fry,onion,veg
+1268,168579,Thai Peanut Noodle Stir-Fry,carrots,veg
+1270,168579,Thai Peanut Noodle Stir-Fry,peas,veg
+1272,11995,"Spaghetti with Garlic, Herbs, and Tomatoes",garlic,veg
+1273,11995,"Spaghetti with Garlic, Herbs, and Tomatoes",oil,oil
+1280,11995,"Spaghetti with Garlic, Herbs, and Tomatoes",cheese,dairy
+1282,20803,Monte Cristo Sandwich,mustard,carbs
+1283,20803,Monte Cristo Sandwich,ham,meat
+1285,20803,Monte Cristo Sandwich,cheese,dairy
+1287,20803,Monte Cristo Sandwich,milk,dairy
+1290,235013,Contadina® Mushroom Chicken Cacciatore,flour,dairy
+1291,235013,Contadina® Mushroom Chicken Cacciatore,oil,oil
+1293,235013,Contadina® Mushroom Chicken Cacciatore,onion,veg
+1294,235013,Contadina® Mushroom Chicken Cacciatore,garlic,veg
+1300,17778,Fig and Date Bread,dates,veg
+1301,17778,Fig and Date Bread,figs,veg
+1302,17778,Fig and Date Bread,butter,dairy
+1305,17778,Fig and Date Bread,sugar,sugar
+1307,17778,Fig and Date Bread,eggs,meat
+1308,17778,Fig and Date Bread,flour,dairy
+1309,17778,Fig and Date Bread,flour,dairy
+1312,207245,Balsamic Coleslaw,cabbage,veg
+1313,207245,Balsamic Coleslaw,cabbage,veg
+1314,207245,Balsamic Coleslaw,carrots,veg
+1315,207245,Balsamic Coleslaw,garlic,veg
+1316,207245,Balsamic Coleslaw,onion,veg
+1321,215038,Fresh Beet Salad,bacon,meat
+1323,215038,Fresh Beet Salad,peas,veg
+1324,215038,Fresh Beet Salad,cheese,dairy
+1326,7117,Dark Rye Bread,molasses,sugar
+1327,7117,Dark Rye Bread,oil,oil
+1329,7117,Dark Rye Bread,flour,dairy
+1330,7117,Dark Rye Bread,flour,dairy
+1331,7117,Dark Rye Bread,sugar,sugar
+1335,145061,"Red, White and Blue Potato Salad",potatoes,veg
+1336,145061,"Red, White and Blue Potato Salad",onion,veg
+1337,145061,"Red, White and Blue Potato Salad",cheese,dairy
+1338,217014,Grapefruit Tea Cookies,flour,dairy
+1341,217014,Grapefruit Tea Cookies,juice,sugar
+1342,217014,Grapefruit Tea Cookies,milk,dairy
+1343,217014,Grapefruit Tea Cookies,butter,dairy
+1344,217014,Grapefruit Tea Cookies,sugar,sugar
+1347,217014,Grapefruit Tea Cookies,sugar,sugar
+1348,217014,Grapefruit Tea Cookies,juice,sugar
+1349,213654,"Chicken, Asparagus, and Mushroom Skillet",butter,dairy
+1350,213654,"Chicken, Asparagus, and Mushroom Skillet",oil,oil
+1354,213654,"Chicken, Asparagus, and Mushroom Skillet",garlic,veg
+1359,213654,"Chicken, Asparagus, and Mushroom Skillet",asparagus,veg
+1360,213654,"Chicken, Asparagus, and Mushroom Skillet",mushrooms,veg
+1361,214000,Baked Ham with Sweet Glaze,ham,meat
+1363,214000,Baked Ham with Sweet Glaze,sugar,sugar
+1364,214000,Baked Ham with Sweet Glaze,flour,dairy
+1365,214000,Baked Ham with Sweet Glaze,mustard,carbs
+1366,214000,Baked Ham with Sweet Glaze,honey,sugar
+1369,214000,Baked Ham with Sweet Glaze,cherries,veg
+1372,14966,Cheese Blintzes,sugar,sugar
+1374,14966,Cheese Blintzes,cheese,dairy
+1375,14966,Cheese Blintzes,milk,dairy
+1377,14966,Cheese Blintzes,butter,dairy
+1378,14966,Cheese Blintzes,cream,dairy
+1380,214679,Mediterranean Chicken and Orzo Salad In Red Pepper Cups,oil,oil
+1382,214679,Mediterranean Chicken and Orzo Salad In Red Pepper Cups,mustard,carbs
+1383,214679,Mediterranean Chicken and Orzo Salad In Red Pepper Cups,garlic,veg
+1386,214679,Mediterranean Chicken and Orzo Salad In Red Pepper Cups,onion,veg
+1391,214679,Mediterranean Chicken and Orzo Salad In Red Pepper Cups,cheese,dairy
+1392,214679,Mediterranean Chicken and Orzo Salad In Red Pepper Cups,chicken,meat
+1393,214679,Mediterranean Chicken and Orzo Salad In Red Pepper Cups,peppers,veg
+1395,139275,Gluten-Free Irish Soda Bread,flour,dairy
+1396,139275,Gluten-Free Irish Soda Bread,flour,dairy
+1397,139275,Gluten-Free Irish Soda Bread,sugar,sugar
+1401,139275,Gluten-Free Irish Soda Bread,buttermilk,dairy
+1402,13098,Tomato-Mushroom Soup,onion,veg
+1403,13098,Tomato-Mushroom Soup,garlic,veg
+1404,13098,Tomato-Mushroom Soup,oil,oil
+1405,13098,Tomato-Mushroom Soup,butter,dairy
+1406,13098,Tomato-Mushroom Soup,mushrooms,veg
+1410,13098,Tomato-Mushroom Soup,tomato,veg
+1412,13098,Tomato-Mushroom Soup,cheese,dairy
+1414,242431,Green Beans with Feta and Walnuts,oil,oil
+1415,242431,Green Beans with Feta and Walnuts,garlic,veg
+1417,242431,Green Beans with Feta and Walnuts,beans,veg
+1418,242431,Green Beans with Feta and Walnuts,cheese,dairy
+1420,235248,Kosher Broiled Turkey Burgers with Cranberry Sauce,milk,dairy
+1425,235248,Kosher Broiled Turkey Burgers with Cranberry Sauce,lettuce,veg
+1428,22821,Appetizer Mussels,tomato,veg
+1429,22821,Appetizer Mussels,garlic,veg
+1431,22821,Appetizer Mussels,mussels,meat
+1432,22821,Appetizer Mussels,butter,dairy
+1433,91837,Clam Bake,potatoes,veg
+1434,91837,Clam Bake,mussels,meat
+1435,91837,Clam Bake,shrimp,meat
+1436,91837,Clam Bake,chicken,meat
+1438,91837,Clam Bake,butter,dairy
+1443,221915,Quick Taco Salad,onion,veg
+1444,221915,Quick Taco Salad,lettuce,veg
+1446,221915,Quick Taco Salad,cheese,dairy
+1449,221915,Quick Taco Salad,peppers,veg
+1450,221915,Quick Taco Salad,cream,dairy
+1451,221915,Quick Taco Salad,corn,sugar
+1452,216110,Spicy Turkey Sweet Potato Gumbo,oil,oil
+1455,216110,Spicy Turkey Sweet Potato Gumbo,onion,veg
+1456,216110,Spicy Turkey Sweet Potato Gumbo,celery,veg
+1459,216110,Spicy Turkey Sweet Potato Gumbo,flour,dairy
+1463,216110,Spicy Turkey Sweet Potato Gumbo,chicken,meat
+1471,15284,White BBQ Sauce,sugar,sugar
+1472,236150,Johnsonville Strawberry and Apple Chicken Sausage Salad,chicken,meat
+1476,236150,Johnsonville Strawberry and Apple Chicken Sausage Salad,cheese,dairy
+1478,236150,Johnsonville Strawberry and Apple Chicken Sausage Salad,honey,sugar
+1479,236150,Johnsonville Strawberry and Apple Chicken Sausage Salad,oil,oil
+1481,234935,Idahoan Mexican Casserole,oil,oil
+1482,234935,Idahoan Mexican Casserole,onion,veg
+1483,234935,Idahoan Mexican Casserole,garlic,veg
+1491,234935,Idahoan Mexican Casserole,corn,sugar
+1493,24727,Stack of Onion Rings,oil,oil
+1494,24727,Stack of Onion Rings,flour,dairy
+1495,24727,Stack of Onion Rings,eggs,meat
+1496,24727,Stack of Onion Rings,cream,dairy
+1500,73110,Peanut Butter and Apple Sandwich,butter,dairy
+1501,73110,Peanut Butter and Apple Sandwich,apple,veg
+1503,228351,The Last Caesar Salad Recipe You'll Ever Need,garlic,veg
+1504,228351,The Last Caesar Salad Recipe You'll Ever Need,cheese,dairy
+1506,228351,The Last Caesar Salad Recipe You'll Ever Need,mustard,carbs
+1508,215055,Bengali Chicken Curry with Potatoes,oil,oil
+1510,215055,Bengali Chicken Curry with Potatoes,garlic,veg
+1517,215055,Bengali Chicken Curry with Potatoes,potatoes,veg
+1519,92617,Easy Welsh Rarebit,cheese,dairy
+1520,92617,Easy Welsh Rarebit,milk,dairy
+1525,76202,Apple and Honey Sorbet,sugar,sugar
+1527,76202,Apple and Honey Sorbet,honey,sugar
+1530,16986,Broccoli Salad IV,cheese,dairy
+1532,16986,Broccoli Salad IV,onion,veg
+1534,16986,Broccoli Salad IV,sugar,sugar
+1536,90251,Open-Face Swiss Burger,onion,veg
+1538,90251,Open-Face Swiss Burger,mushrooms,veg
+1540,90251,Open-Face Swiss Burger,cheese,dairy
+1541,90251,Open-Face Swiss Burger,cream,dairy
+1542,26434,Lentil Soup III,lentils,carbs
+1543,26434,Lentil Soup III,chicken,meat
+1544,26434,Lentil Soup III,onion,veg
+1545,26434,Lentil Soup III,tomato,veg
+1546,26434,Lentil Soup III,garlic,veg
+1548,233067,Cheddar Bacon Hamburgers with Horseradish,beef,meat
+1549,233067,Cheddar Bacon Hamburgers with Horseradish,cheese,dairy
+1552,233067,Cheddar Bacon Hamburgers with Horseradish,garlic,veg
+1556,13496,Sweet Potato Casserole III,potatoes,veg
+1557,13496,Sweet Potato Casserole III,eggs,meat
+1558,13496,Sweet Potato Casserole III,sugar,sugar
+1559,13496,Sweet Potato Casserole III,butter,dairy
+1560,13496,Sweet Potato Casserole III,milk,dairy
+1562,13496,Sweet Potato Casserole III,butter,dairy
+1563,13496,Sweet Potato Casserole III,sugar,sugar
+1568,232858,Lemon Basil Pasta Salad,oil,oil
+1571,232858,Lemon Basil Pasta Salad,cheese,dairy
+1574,229805,Golden Soft Pretzels,sugar,sugar
+1576,229805,Golden Soft Pretzels,butter,dairy
+1579,229805,Golden Soft Pretzels,flour,dairy
+1584,73888,Cheesy Macaroni and Beef Casserole with Thyme,beef,meat
+1585,73888,Cheesy Macaroni and Beef Casserole with Thyme,onion,veg
+1587,73888,Cheesy Macaroni and Beef Casserole with Thyme,milk,dairy
+1588,73888,Cheesy Macaroni and Beef Casserole with Thyme,mustard,carbs
+1593,73888,Cheesy Macaroni and Beef Casserole with Thyme,flour,dairy
+1594,73888,Cheesy Macaroni and Beef Casserole with Thyme,cheese,dairy
+1597,72815,Fresh Cherry Cobbler,butter,dairy
+1598,72815,Fresh Cherry Cobbler,flour,dairy
+1599,72815,Fresh Cherry Cobbler,sugar,sugar
+1600,72815,Fresh Cherry Cobbler,milk,dairy
+1601,72815,Fresh Cherry Cobbler,cherries,veg
+1602,72815,Fresh Cherry Cobbler,sugar,sugar
+1603,72815,Fresh Cherry Cobbler,flour,dairy
+1611,70675,Pasta and White Beans Gratin,garlic,veg
+1612,70675,Pasta and White Beans Gratin,cheese,dairy
+1613,70675,Pasta and White Beans Gratin,oil,oil
+1614,70675,Pasta and White Beans Gratin,cheese,dairy
+1615,70675,Pasta and White Beans Gratin,onion,veg
+1618,70675,Pasta and White Beans Gratin,oil,oil
+1619,70675,Pasta and White Beans Gratin,beans,veg
+1624,70675,Pasta and White Beans Gratin,oil,oil
+1625,234206,Bake Sale Marshmallow Treats,butter,dairy
+1627,234206,Bake Sale Marshmallow Treats,rice,sugar
+1632,241432,Best Lemon Squares,flour,dairy
+1633,241432,Best Lemon Squares,butter,dairy
+1634,241432,Best Lemon Squares,sugar,sugar
+1636,241432,Best Lemon Squares,sugar,sugar
+1637,241432,Best Lemon Squares,eggs,meat
+1638,241432,Best Lemon Squares,flour,dairy
+1641,241432,Best Lemon Squares,sugar,sugar
+1646,14283,Mardi's Broccoli Salad,broccoli,veg
+1647,14283,Mardi's Broccoli Salad,onion,veg
+1657,19268,Moist Persimmon Cookie,sugar,sugar
+1659,19268,Moist Persimmon Cookie,flour,dairy
+1671,110090,Sun-Dried Tomato Cedar Plank Salmon,oil,oil
+1672,12394,Apple Dumplings with Pie Crust,butter,dairy
+1677,12394,Apple Dumplings with Pie Crust,sugar,sugar
+1681,12394,Apple Dumplings with Pie Crust,sugar,sugar
+1682,12394,Apple Dumplings with Pie Crust,juice,sugar
+1684,213717,Chakchouka (Shakshouka),oil,oil
+1685,213717,Chakchouka (Shakshouka),onion,veg
+1686,213717,Chakchouka (Shakshouka),peppers,veg
+1687,213717,Chakchouka (Shakshouka),garlic,veg
+1693,213717,Chakchouka (Shakshouka),eggs,meat
+1695,73757,Penne Pasta with Spinach and Bacon,oil,oil
+1696,73757,Penne Pasta with Spinach and Bacon,bacon,meat
+1697,73757,Penne Pasta with Spinach and Bacon,garlic,veg
+1699,73757,Penne Pasta with Spinach and Bacon,spinach,veg
+1700,127500,Japanese-Style Deep-Fried Shrimp,shrimp,meat
+1703,127500,Japanese-Style Deep-Fried Shrimp,garlic,veg
+1704,127500,Japanese-Style Deep-Fried Shrimp,flour,dairy
+1708,127500,Japanese-Style Deep-Fried Shrimp,oil,oil
+1709,256191,Baked Ham & Chive Mashed Potato Cakes,potatoes,veg
+1710,256191,Baked Ham & Chive Mashed Potato Cakes,onion,veg
+1711,256191,Baked Ham & Chive Mashed Potato Cakes,butter,dairy
+1714,256191,Baked Ham & Chive Mashed Potato Cakes,eggs,meat
+1715,256191,Baked Ham & Chive Mashed Potato Cakes,ham,meat
+1718,256191,Baked Ham & Chive Mashed Potato Cakes,cheese,dairy
+1720,24608,Mustard Oil Dressing,oil,oil
+1725,24608,Mustard Oil Dressing,onion,veg
+1726,24608,Mustard Oil Dressing,oil,oil
+1728,246654,Grilled Salmon Radicchio Wraps,tomato,veg
+1730,246654,Grilled Salmon Radicchio Wraps,onion,veg
+1732,246654,Grilled Salmon Radicchio Wraps,cream,dairy
+1734,246654,Grilled Salmon Radicchio Wraps,milk,dairy
+1739,69520,Mom's Best Granola,oats,carbs
+1745,69520,Mom's Best Granola,oil,oil
+1746,69520,Mom's Best Granola,honey,sugar
+1748,69520,Mom's Best Granola,sugar,sugar
+1751,65896,Zesty Slow Cooker Chicken Barbecue,chicken,meat
+1754,65896,Zesty Slow Cooker Chicken Barbecue,sugar,sugar
+1756,10221,Banana Cake Cookies,sugar,sugar
+1757,10221,Banana Cake Cookies,eggs,meat
+1759,10221,Banana Cake Cookies,flour,dairy
+1764,10221,Banana Cake Cookies,sugar,sugar
+1765,10221,Banana Cake Cookies,butter,dairy
+1767,10221,Banana Cake Cookies,milk,dairy
+1768,260307,Baked Potato Soup with Rivels,bacon,meat
+1769,260307,Baked Potato Soup with Rivels,potatoes,veg
+1770,260307,Baked Potato Soup with Rivels,corn,sugar
+1771,260307,Baked Potato Soup with Rivels,celery,veg
+1772,260307,Baked Potato Soup with Rivels,onion,veg
+1773,260307,Baked Potato Soup with Rivels,garlic,veg
+1774,260307,Baked Potato Soup with Rivels,chicken,meat
+1775,260307,Baked Potato Soup with Rivels,butter,dairy
+1776,260307,Baked Potato Soup with Rivels,flour,dairy
+1777,260307,Baked Potato Soup with Rivels,milk,dairy
+1778,260307,Baked Potato Soup with Rivels,eggs,meat
+1779,260307,Baked Potato Soup with Rivels,flour,dairy
+1780,260307,Baked Potato Soup with Rivels,cheese,dairy
+1781,260307,Baked Potato Soup with Rivels,cheese,dairy
+1786,238489,Copycat Chipotle® Cilantro-Lime Brown Rice,rice,sugar
+1788,238489,Copycat Chipotle® Cilantro-Lime Brown Rice,garlic,veg
+1789,238489,Copycat Chipotle® Cilantro-Lime Brown Rice,oil,oil
+1792,229875,Gluten-Free European Apple Cake,flour,dairy
+1793,229875,Gluten-Free European Apple Cake,flour,dairy
+1794,229875,Gluten-Free European Apple Cake,flour,dairy
+1795,229875,Gluten-Free European Apple Cake,flour,dairy
+1800,229875,Gluten-Free European Apple Cake,sugar,sugar
+1801,229875,Gluten-Free European Apple Cake,oil,oil
+1802,229875,Gluten-Free European Apple Cake,eggs,meat
+1806,82135,Polish Noodles,sausage,meat
+1808,82135,Polish Noodles,onion,veg
+1810,82135,Polish Noodles,cabbage,veg
+1812,82135,Polish Noodles,cream,dairy
+1814,228716,Fat Granny's Minestrone Soup,onion,veg
+1815,228716,Fat Granny's Minestrone Soup,garlic,veg
+1824,228716,Fat Granny's Minestrone Soup,oil,oil
+1825,228716,Fat Granny's Minestrone Soup,butter,dairy
+1827,228716,Fat Granny's Minestrone Soup,celery,veg
+1828,228716,Fat Granny's Minestrone Soup,onion,veg
+1829,228716,Fat Granny's Minestrone Soup,garlic,veg
+1833,228716,Fat Granny's Minestrone Soup,tomato,veg
+1834,228716,Fat Granny's Minestrone Soup,bean,carbs
+1835,228716,Fat Granny's Minestrone Soup,beans,veg
+1838,233863,Mexican Bison Bake with Cilantro-Lime Cream,bison,meat
+1839,233863,Mexican Bison Bake with Cilantro-Lime Cream,garlic,veg
+1840,233863,Mexican Bison Bake with Cilantro-Lime Cream,beans,veg
+1847,233863,Mexican Bison Bake with Cilantro-Lime Cream,cheese,dairy
+1848,233863,Mexican Bison Bake with Cilantro-Lime Cream,onion,veg
+1850,233863,Mexican Bison Bake with Cilantro-Lime Cream,cream,dairy
+1854,35064,Super Duper Zucchini Muffins,flour,dairy
+1855,35064,Super Duper Zucchini Muffins,sugar,sugar
+1860,35064,Super Duper Zucchini Muffins,milk,dairy
+1861,35064,Super Duper Zucchini Muffins,eggs,meat
+1865,35064,Super Duper Zucchini Muffins,sugar,sugar
+1866,220826,Zucchini Roll-Ups,cheese,dairy
+1867,220826,Zucchini Roll-Ups,bacon,meat
+1868,89033,Garden Tomato Salsa,onion,veg
+1871,89033,Garden Tomato Salsa,peppers,veg
+1873,89033,Garden Tomato Salsa,oil,oil
+1877,234186,Sausage Croissants,sausage,meat
+1878,234186,Sausage Croissants,onion,veg
+1879,234186,Sausage Croissants,cheese,dairy
+1880,234186,Sausage Croissants,peppers,veg
+1882,231604,Chinese Style Low Carb Meatballs,pork,meat
+1883,231604,Chinese Style Low Carb Meatballs,eggs,meat
+1884,231604,Chinese Style Low Carb Meatballs,soy,carbs
+1886,231604,Chinese Style Low Carb Meatballs,garlic,veg
+1889,25322,Baked Shells in Sauce,tomato,veg
+1892,25322,Baked Shells in Sauce,cheese,dairy
+1893,25322,Baked Shells in Sauce,cheese,dairy
+1894,260681,Slow Cooker Pork Chops with Caramelized Onions and Peas,oil,oil
+1897,260681,Slow Cooker Pork Chops with Caramelized Onions and Peas,garlic,veg
+1898,260681,Slow Cooker Pork Chops with Caramelized Onions and Peas,sugar,sugar
+1902,260681,Slow Cooker Pork Chops with Caramelized Onions and Peas,butter,dairy
+1904,203961,Seafood Marinara Pasta,oil,oil
+1905,203961,Seafood Marinara Pasta,garlic,veg
+1906,203961,Seafood Marinara Pasta,onion,veg
+1907,203961,Seafood Marinara Pasta,oil,oil
+1911,203961,Seafood Marinara Pasta,tomato,veg
+1914,203961,Seafood Marinara Pasta,mussels,meat
+1915,203961,Seafood Marinara Pasta,shrimp,meat
+1919,216099,It's Way Better Than Thanksgiving Turkey Turkey,oil,oil
+1924,216099,It's Way Better Than Thanksgiving Turkey Turkey,butter,dairy
+1925,216099,It's Way Better Than Thanksgiving Turkey Turkey,garlic,veg
+1926,216099,It's Way Better Than Thanksgiving Turkey Turkey,onion,veg
+1928,216099,It's Way Better Than Thanksgiving Turkey Turkey,sugar,sugar
+1929,216099,It's Way Better Than Thanksgiving Turkey Turkey,flour,dairy
+1933,214938,Stuffed Sole with Imitation Crab,celery,veg
+1934,214938,Stuffed Sole with Imitation Crab,cheese,dairy
+1936,214938,Stuffed Sole with Imitation Crab,onion,veg
+1942,17100,Chocolate Chip Scones,flour,dairy
+1946,17100,Chocolate Chip Scones,sugar,sugar
+1949,17100,Chocolate Chip Scones,milk,dairy
+1951,20749,Country Style Fried Potatoes,potatoes,veg
+1954,20749,Country Style Fried Potatoes,garlic,veg
+1958,21652,Spring Rolls,onion,veg
+1959,21652,Spring Rolls,shrimp,meat
+1960,21652,Spring Rolls,pork,meat
+1961,21652,Spring Rolls,oil,oil
+1962,21652,Spring Rolls,sprouts,veg
+1964,21652,Spring Rolls,soy,carbs
+1965,21652,Spring Rolls,fish,meat
+1966,21652,Spring Rolls,garlic,veg
+1968,21652,Spring Rolls,oil,oil
+1970,222623,Pepperoni Caesar Pasta Salad,cheese,dairy
+1974,12997,Baked Potato Soup I,bacon,meat
+1976,12997,Baked Potato Soup I,flour,dairy
+1977,12997,Baked Potato Soup I,milk,dairy
+1978,12997,Baked Potato Soup I,potatoes,veg
+1980,12997,Baked Potato Soup I,cheese,dairy
+1981,12997,Baked Potato Soup I,cream,dairy
+1985,241809,Delicious and Fast Chicken Curry,onion,veg
+1986,241809,Delicious and Fast Chicken Curry,chicken,meat
+1987,241809,Delicious and Fast Chicken Curry,oil,oil
+1988,241809,Delicious and Fast Chicken Curry,onion,veg
+1989,241809,Delicious and Fast Chicken Curry,garlic,veg
+1992,241809,Delicious and Fast Chicken Curry,milk,dairy
+1993,258494,Chinese Barbeque Pork (Char Siu),soy,carbs
+1994,258494,Chinese Barbeque Pork (Char Siu),honey,sugar
+1997,258494,Chinese Barbeque Pork (Char Siu),sugar,sugar
+1998,258494,Chinese Barbeque Pork (Char Siu),garlic,veg
+2007,222338,Burrata Bruschetta with Figs,oil,oil
+2008,222338,Burrata Bruschetta with Figs,cheese,dairy
+2012,222656,Baked Zucchini Squares,cheese,dairy
+2013,222656,Baked Zucchini Squares,cheese,dairy
+2018,222656,Baked Zucchini Squares,eggs,meat
+2019,222656,Baked Zucchini Squares,oil,oil
+2020,222656,Baked Zucchini Squares,onion,veg
+2025,9536,Snowballs,butter,dairy
+2026,9536,Snowballs,sugar,sugar
+2028,9536,Snowballs,flour,dairy
+2031,9536,Snowballs,sugar,sugar
+2032,10938,Pecan Turtles® Bars,flour,dairy
+2033,10938,Pecan Turtles® Bars,sugar,sugar
+2034,10938,Pecan Turtles® Bars,butter,dairy
+2036,10938,Pecan Turtles® Bars,butter,dairy
+2037,10938,Pecan Turtles® Bars,chocolate,dairy
+2042,239476,Sriracha Chicken Soup,onion,veg
+2043,239476,Sriracha Chicken Soup,garlic,veg
+2047,239476,Sriracha Chicken Soup,oil,oil
+2050,239476,Sriracha Chicken Soup,chicken,meat
+2051,239476,Sriracha Chicken Soup,beans,veg
+2053,214748,Apricots with Mascarpone Cream,cream,dairy
+2054,214748,Apricots with Mascarpone Cream,sugar,sugar
+2055,214748,Apricots with Mascarpone Cream,cheese,dairy
+2060,214748,Apricots with Mascarpone Cream,honey,sugar
+2063,77035,Kiwi Strawberry Smoothie,banana,veg
+2064,77035,Kiwi Strawberry Smoothie,kiwi,carbs
+2073,231986,Avocado Baked Eggs,eggs,meat
+2076,231986,Avocado Baked Eggs,bacon,meat
+2078,64356,Dilled Green Beans,beans,veg
+2079,64356,Dilled Green Beans,butter,dairy
+2080,64356,Dilled Green Beans,onion,veg
+2085,64356,Dilled Green Beans,eggs,meat
+2087,239080,Grandma's Lemon Cauliflower Side Dish,cauliflower,veg
+2089,239080,Grandma's Lemon Cauliflower Side Dish,garlic,veg
+2090,239080,Grandma's Lemon Cauliflower Side Dish,butter,dairy
+2094,17029,Pineapple Puffs,butter,dairy
+2095,17029,Pineapple Puffs,sugar,sugar
+2097,17029,Pineapple Puffs,pineapple,veg
+2098,17029,Pineapple Puffs,flour,dairy
+2102,245256,Skinny Cream of Mushroom Soup,bacon,meat
+2103,245256,Skinny Cream of Mushroom Soup,potatoes,veg
+2104,245256,Skinny Cream of Mushroom Soup,onion,veg
+2105,245256,Skinny Cream of Mushroom Soup,mushrooms,veg
+2106,245256,Skinny Cream of Mushroom Soup,garlic,veg
+2107,245256,Skinny Cream of Mushroom Soup,onion,veg
+2109,245256,Skinny Cream of Mushroom Soup,milk,dairy
+2111,245256,Skinny Cream of Mushroom Soup,flour,dairy
+2113,59676,Easy Chip Dip,cream,dairy
+2117,7346,Coconut Cake I,cream,dairy
+2118,7346,Coconut Cake I,sugar,sugar
+2121,41216,Whole Wheat and Nuts Muffins,flour,dairy
+2122,41216,Whole Wheat and Nuts Muffins,flour,dairy
+2123,41216,Whole Wheat and Nuts Muffins,sugar,sugar
+2128,41216,Whole Wheat and Nuts Muffins,milk,dairy
+2131,11350,Madeleines II,eggs,meat
+2134,11350,Madeleines II,sugar,sugar
+2135,11350,Madeleines II,flour,dairy
+2136,11350,Madeleines II,butter,dairy
+2137,13916,Baked Spinach,flour,dairy
+2139,13916,Baked Spinach,cheese,dairy
+2142,13916,Baked Spinach,butter,dairy
+2143,13916,Baked Spinach,milk,dairy
+2146,256209,Cauliflower Totchos,beef,meat
+2149,256209,Cauliflower Totchos,cheese,dairy
+2150,256209,Cauliflower Totchos,lettuce,veg
+2151,256209,Cauliflower Totchos,tomato,veg
+2152,239433,Fried Peach and Pancetta Pizza,bacon,meat
+2153,239433,Fried Peach and Pancetta Pizza,oil,oil
+2155,239433,Fried Peach and Pancetta Pizza,flour,dairy
+2156,239433,Fried Peach and Pancetta Pizza,oil,oil
+2157,239433,Fried Peach and Pancetta Pizza,cheese,dairy
+2161,239433,Fried Peach and Pancetta Pizza,cheese,dairy
+2162,239433,Fried Peach and Pancetta Pizza,oil,oil
+2163,246060,"Easy, Tangy Hollandaise Sauce",butter,dairy
+2169,228407,Uber-Braten Kielbasa and Sauerkraut Casserole,butter,dairy
+2170,228407,Uber-Braten Kielbasa and Sauerkraut Casserole,flour,dairy
+2171,228407,Uber-Braten Kielbasa and Sauerkraut Casserole,mustard,carbs
+2173,228407,Uber-Braten Kielbasa and Sauerkraut Casserole,milk,dairy
+2174,228407,Uber-Braten Kielbasa and Sauerkraut Casserole,cheese,dairy
+2175,228407,Uber-Braten Kielbasa and Sauerkraut Casserole,sausage,meat
+2177,228407,Uber-Braten Kielbasa and Sauerkraut Casserole,cheese,dairy
+2178,24086,Buffalo Chicken Wings III,chicken,meat
+2179,24086,Buffalo Chicken Wings III,butter,dairy
+2181,24086,Buffalo Chicken Wings III,tomato,veg
+2184,204821,Ginataang Manok (Chicken Cooked in Coconut Milk),oil,oil
+2186,204821,Ginataang Manok (Chicken Cooked in Coconut Milk),chicken,meat
+2188,204821,Ginataang Manok (Chicken Cooked in Coconut Milk),milk,dairy
+2189,204821,Ginataang Manok (Chicken Cooked in Coconut Milk),spinach,veg
+2190,231854,Sauteed Carrots and Leeks,carrots,veg
+2191,231854,Sauteed Carrots and Leeks,chicken,meat
+2192,231854,Sauteed Carrots and Leeks,butter,dairy
+2193,231854,Sauteed Carrots and Leeks,sugar,sugar
+2197,228091,Paleo Omelet Muffins,eggs,meat
+2198,228091,Paleo Omelet Muffins,ham,meat
+2200,228091,Paleo Omelet Muffins,onion,veg
+2206,201182,Kibbee Lebanese Style,mint,carbs
+2211,201182,Kibbee Lebanese Style,onion,veg
+2213,201182,Kibbee Lebanese Style,lamb,meat
+2214,201182,Kibbee Lebanese Style,nuts,carbs
+2216,17738,Tommy's Ham Casserole,cheese,dairy
+2217,17738,Tommy's Ham Casserole,cream,dairy
+2218,17738,Tommy's Ham Casserole,milk,dairy
+2220,15867,Chicken and Dumplings III,chicken,meat
+2221,15867,Chicken and Dumplings III,celery,veg
+2224,16338,Cranberry Salad IV,cranberries,veg
+2226,16338,Cranberry Salad IV,sugar,sugar
+2227,16338,Cranberry Salad IV,pineapple,veg
+2238,221080,Chicken Breasts with Chipotle Green Onion Gravy,oil,oil
+2239,221080,Chicken Breasts with Chipotle Green Onion Gravy,butter,dairy
+2240,221080,Chicken Breasts with Chipotle Green Onion Gravy,flour,dairy
+2241,221080,Chicken Breasts with Chipotle Green Onion Gravy,chicken,meat
+2244,240367,Slow Cooker Pulled Pork from RED GOLD®,sugar,sugar
+2250,240367,Slow Cooker Pulled Pork from RED GOLD®,mustard,carbs
+2252,240367,Slow Cooker Pulled Pork from RED GOLD®,garlic,veg
+2256,228441,Easy Cabbage Casserole,cabbage,veg
+2257,228441,Easy Cabbage Casserole,cheese,dairy
+2258,228441,Easy Cabbage Casserole,onion,veg
+2259,228441,Easy Cabbage Casserole,celery,veg
+2260,228441,Easy Cabbage Casserole,butter,dairy
+2263,241330,VELVEETA® Italian Sausage Bake,sausage,meat
+2268,241330,VELVEETA® Italian Sausage Bake,cheese,dairy
+2270,23123,Stromboli,beef,meat
+2271,23123,Stromboli,ham,meat
+2273,23123,Stromboli,onion,veg
+2275,23123,Stromboli,butter,dairy
+2276,23123,Stromboli,sausage,meat
+2277,23123,Stromboli,cheese,dairy
+2279,12338,Grasshopper Pie I,butter,dairy
+2281,12338,Grasshopper Pie I,milk,dairy
+2282,12338,Grasshopper Pie I,cream,dairy
+2285,7094,Banana Nut Oatmeal Bread,oats,carbs
+2289,7094,Banana Nut Oatmeal Bread,oil,oil
+2291,7094,Banana Nut Oatmeal Bread,sugar,sugar
+2293,7094,Banana Nut Oatmeal Bread,buttermilk,dairy
+2294,7094,Banana Nut Oatmeal Bread,oats,carbs
+2295,7094,Banana Nut Oatmeal Bread,flour,dairy
+2299,19886,Amy's Garlic Egg Chicken,garlic,veg
+2301,19886,Amy's Garlic Egg Chicken,butter,dairy
+2303,19886,Amy's Garlic Egg Chicken,cheese,dairy
+2305,19886,Amy's Garlic Egg Chicken,garlic,veg
+2309,75129,Mango-Pineapple Smoothie,pineapple,veg
+2312,75129,Mango-Pineapple Smoothie,milk,dairy
+2314,84411,"Spinach, Red Lentil, and Bean Curry",lentils,carbs
+2315,84411,"Spinach, Red Lentil, and Bean Curry",tomato,veg
+2321,84411,"Spinach, Red Lentil, and Bean Curry",oil,oil
+2322,84411,"Spinach, Red Lentil, and Bean Curry",onion,veg
+2323,84411,"Spinach, Red Lentil, and Bean Curry",garlic,veg
+2325,84411,"Spinach, Red Lentil, and Bean Curry",spinach,veg
+2328,84411,"Spinach, Red Lentil, and Bean Curry",beans,veg
+2329,93648,Cranberry Puffs,cranberries,veg
+2331,93648,Cranberry Puffs,sugar,sugar
+2332,93648,Cranberry Puffs,cheese,dairy
+2334,93648,Cranberry Puffs,oil,oil
+2335,236613,Chicken and Vegetable Quesadillas,oil,oil
+2336,236613,Chicken and Vegetable Quesadillas,garlic,veg
+2337,236613,Chicken and Vegetable Quesadillas,squash,veg
+2338,236613,Chicken and Vegetable Quesadillas,chicken,meat
+2341,236613,Chicken and Vegetable Quesadillas,oil,oil
+2343,236613,Chicken and Vegetable Quesadillas,cheese,dairy
+2344,236613,Chicken and Vegetable Quesadillas,beans,veg
+2349,14565,Naan,sugar,sugar
+2350,14565,Naan,milk,dairy
+2353,14565,Naan,flour,dairy
+2354,14565,Naan,garlic,veg
+2355,14565,Naan,butter,dairy
+2357,215011,Raisin Tea Biscuits,flour,dairy
+2358,215011,Raisin Tea Biscuits,sugar,sugar
+2360,215011,Raisin Tea Biscuits,butter,dairy
+2361,215011,Raisin Tea Biscuits,milk,dairy
+2369,15862,Pecan Pie Tarts,cheese,dairy
+2370,15862,Pecan Pie Tarts,butter,dairy
+2371,15862,Pecan Pie Tarts,flour,dairy
+2372,15862,Pecan Pie Tarts,butter,dairy
+2373,15862,Pecan Pie Tarts,sugar,sugar
+2374,15862,Pecan Pie Tarts,eggs,meat
+2377,241572,Orange Glazed Ham,ham,meat
+2380,241572,Orange Glazed Ham,garlic,veg
+2384,27198,Chocolate Bombs,sugar,sugar
+2385,27198,Chocolate Bombs,oats,carbs
+2389,27198,Chocolate Bombs,sugar,sugar
+2391,198296,Grilled Blue Cheese Pears,oil,oil
+2392,198296,Grilled Blue Cheese Pears,pears,veg
+2393,198296,Grilled Blue Cheese Pears,cheese,dairy
+2394,198296,Grilled Blue Cheese Pears,butter,dairy
+2395,7037,Angel Biscuit Rolls,flour,dairy
+2396,7037,Angel Biscuit Rolls,sugar,sugar
+2401,7037,Angel Biscuit Rolls,buttermilk,dairy
+2402,7037,Angel Biscuit Rolls,butter,dairy
+2403,21473,Dressed Up Brussels Sprouts,sprouts,veg
+2404,21473,Dressed Up Brussels Sprouts,sausage,meat
+2408,21473,Dressed Up Brussels Sprouts,garlic,veg
+2410,21473,Dressed Up Brussels Sprouts,butter,dairy
+2411,228784,Brown Sugar Fudge,sugar,sugar
+2412,228784,Brown Sugar Fudge,milk,dairy
+2413,228784,Brown Sugar Fudge,butter,dairy
+2414,228784,Brown Sugar Fudge,sugar,sugar
+2416,12648,Fresh Blueberry Pie III,flour,dairy
+2418,12648,Fresh Blueberry Pie III,sugar,sugar
+2419,12648,Fresh Blueberry Pie III,oil,oil
+2420,12648,Fresh Blueberry Pie III,milk,dairy
+2421,12648,Fresh Blueberry Pie III,blueberries,veg
+2422,12648,Fresh Blueberry Pie III,blueberries,veg
+2424,12648,Fresh Blueberry Pie III,sugar,sugar
+2427,12648,Fresh Blueberry Pie III,butter,dairy
+2429,76979,Chicken Salad With Thai-Flavored Dressing,chicken,meat
+2430,76979,Chicken Salad With Thai-Flavored Dressing,celery,veg
+2432,76979,Chicken Salad With Thai-Flavored Dressing,peanuts,carbs
+2433,76979,Chicken Salad With Thai-Flavored Dressing,juice,sugar
+2434,76979,Chicken Salad With Thai-Flavored Dressing,fish,meat
+2436,76979,Chicken Salad With Thai-Flavored Dressing,sugar,sugar
+2441,76979,Chicken Salad With Thai-Flavored Dressing,lettuce,veg
+2443,76979,Chicken Salad With Thai-Flavored Dressing,carrots,veg
+2444,76979,Chicken Salad With Thai-Flavored Dressing,peanuts,carbs
+2446,255568,Spinach Artichoke Omelet,onion,veg
+2447,255568,Spinach Artichoke Omelet,artichoke,veg
+2448,255568,Spinach Artichoke Omelet,spinach,veg
+2450,255568,Spinach Artichoke Omelet,eggs,meat
+2454,15596,Light Pimento Cheese,cheese,dairy
+2456,71632,Layered Nacho Bake,beef,meat
+2457,71632,Layered Nacho Bake,onion,veg
+2459,71632,Layered Nacho Bake,beans,veg
+2460,71632,Layered Nacho Bake,cheese,dairy
+2464,71632,Layered Nacho Bake,lettuce,veg
+2467,71632,Layered Nacho Bake,cheese,dairy
+2468,71632,Layered Nacho Bake,avocado,veg
+2469,71632,Layered Nacho Bake,cream,dairy
+2473,218886,Summer Fresh Fruit Salad,peaches,veg
+2474,218886,Summer Fresh Fruit Salad,grapes,veg
+2478,218886,Summer Fresh Fruit Salad,concentrate,sugar
+2479,218886,Summer Fresh Fruit Salad,concentrate,sugar
+2482,237728,Mascarpone Brulee with Fresh Berries,blackberries,veg
+2483,237728,Mascarpone Brulee with Fresh Berries,sugar,sugar
+2485,237728,Mascarpone Brulee with Fresh Berries,cheese,dairy
+2487,237728,Mascarpone Brulee with Fresh Berries,sugar,sugar
+2490,237728,Mascarpone Brulee with Fresh Berries,sugar,sugar
+2492,20231,Tasso Ham,sugar,sugar
+2494,20231,Tasso Ham,onion,veg
+2495,20231,Tasso Ham,garlic,veg
+2499,20231,Tasso Ham,garlic,veg
+2500,20231,Tasso Ham,onion,veg
+2504,20231,Tasso Ham,honey,sugar
+2505,221217,Marinated Fajita Chicken,juice,sugar
+2506,221217,Marinated Fajita Chicken,oil,oil
+2507,221217,Marinated Fajita Chicken,garlic,veg
+2515,18981,English Trifle to Die For,raspberries,veg
+2516,18981,English Trifle to Die For,cream,dairy
+2518,18981,English Trifle to Die For,sugar,sugar
+2519,18981,English Trifle to Die For,cream,dairy
+2523,19389,Greek Orzo Salad,tomato,veg
+2524,19389,Greek Orzo Salad,cucumber,veg
+2525,19389,Greek Orzo Salad,onion,veg
+2526,19389,Greek Orzo Salad,cheese,dairy
+2532,185564,Grilled Okra,okra,veg
+2533,185564,Grilled Okra,butter,dairy
+2537,81283,Spanish Style White Bean and Sausage Soup,beans,veg
+2540,81283,Spanish Style White Bean and Sausage Soup,oil,oil
+2541,81283,Spanish Style White Bean and Sausage Soup,onion,veg
+2542,81283,Spanish Style White Bean and Sausage Soup,garlic,veg
+2545,81283,Spanish Style White Bean and Sausage Soup,kale,veg
+2546,178033,Acorn Squash Gnocchi with Parmesan Sage Beurre Blanc,garlic,veg
+2549,178033,Acorn Squash Gnocchi with Parmesan Sage Beurre Blanc,flour,dairy
+2550,178033,Acorn Squash Gnocchi with Parmesan Sage Beurre Blanc,flour,dairy
+2556,178033,Acorn Squash Gnocchi with Parmesan Sage Beurre Blanc,butter,dairy
+2557,178033,Acorn Squash Gnocchi with Parmesan Sage Beurre Blanc,cheese,dairy
+2559,15242,Spinach and Pasta Shells,spinach,veg
+2560,15242,Spinach and Pasta Shells,oil,oil
+2561,15242,Spinach and Pasta Shells,garlic,veg
+2565,19133,Tomato Sauce Corn Chicken,flour,dairy
+2566,19133,Tomato Sauce Corn Chicken,oil,oil
+2567,19133,Tomato Sauce Corn Chicken,tomato,veg
+2568,19133,Tomato Sauce Corn Chicken,corn,sugar
+2569,19133,Tomato Sauce Corn Chicken,onion,veg
+2570,19133,Tomato Sauce Corn Chicken,garlic,veg
+2577,74430,"Basil, Tomato and Mozzarella Sandwich",cheese,dairy
+2580,258790,Pinto Bean Fudge,beans,veg
+2582,258790,Pinto Bean Fudge,butter,dairy
+2584,258790,Pinto Bean Fudge,sugar,sugar
+2586,176707,Sweet and Oh So Spicy Kielbasa,oil,oil
+2587,176707,Sweet and Oh So Spicy Kielbasa,sausage,meat
+2591,176707,Sweet and Oh So Spicy Kielbasa,cherries,veg
+2595,171738,Roasted Vegetable Orzo,squash,veg
+2596,171738,Roasted Vegetable Orzo,onion,veg
+2597,171738,Roasted Vegetable Orzo,asparagus,veg
+2598,171738,Roasted Vegetable Orzo,mushrooms,veg
+2599,171738,Roasted Vegetable Orzo,garlic,veg
+2600,171738,Roasted Vegetable Orzo,oil,oil
+2601,171738,Roasted Vegetable Orzo,sugar,sugar
+2606,171738,Roasted Vegetable Orzo,cheese,dairy
+2608,194356,Kraft® Triple-Layer Lemon Pie,milk,dairy
+2613,218738,Olive Dip,onion,veg
+2616,218738,Olive Dip,cheese,dairy
+2620,230546,Tomalito - Sweet Corn Pudding or Cake,butter,dairy
+2623,230546,Tomalito - Sweet Corn Pudding or Cake,corn,sugar
+2625,230546,Tomalito - Sweet Corn Pudding or Cake,sugar,sugar
+2626,230546,Tomalito - Sweet Corn Pudding or Cake,cream,dairy
+2629,216335,Splendicious Slow Cooker Spaghetti Sauce,tomato,veg
+2638,216335,Splendicious Slow Cooker Spaghetti Sauce,oil,oil
+2639,216335,Splendicious Slow Cooker Spaghetti Sauce,onion,veg
+2640,216335,Splendicious Slow Cooker Spaghetti Sauce,garlic,veg
+2642,216335,Splendicious Slow Cooker Spaghetti Sauce,mushrooms,veg
+2643,216335,Splendicious Slow Cooker Spaghetti Sauce,sugar,sugar
+2644,216335,Splendicious Slow Cooker Spaghetti Sauce,oil,oil
+2646,216335,Splendicious Slow Cooker Spaghetti Sauce,garlic,veg
+2650,9309,Water Chestnut Wraparounds,soy,carbs
+2651,9309,Water Chestnut Wraparounds,sugar,sugar
+2653,9309,Water Chestnut Wraparounds,bacon,meat
+2654,10035,Pumpkin Cookies II,sugar,sugar
+2655,10035,Pumpkin Cookies II,eggs,meat
+2657,10035,Pumpkin Cookies II,pumpkin,veg
+2658,10035,Pumpkin Cookies II,flour,dairy
+2662,16011,Chicken Veggie Soup I,chicken,meat
+2663,16011,Chicken Veggie Soup I,carrots,veg
+2664,16011,Chicken Veggie Soup I,potatoes,veg
+2666,12664,Kreatopita Argostoli,rice,sugar
+2667,12664,Kreatopita Argostoli,garlic,veg
+2668,12664,Kreatopita Argostoli,lamb,meat
+2670,12664,Kreatopita Argostoli,potatoes,veg
+2671,12664,Kreatopita Argostoli,eggs,meat
+2675,12664,Kreatopita Argostoli,cheese,dairy
+2676,12664,Kreatopita Argostoli,oil,oil
+2681,12664,Kreatopita Argostoli,butter,dairy
+2683,20412,Easy Breezy Casserole,chicken,meat
+2685,29483,Ken's Scallops,oil,oil
+2686,29483,Ken's Scallops,garlic,veg
+2691,56907,Ravioli Lasagna,cheese,dairy
+2692,56907,Ravioli Lasagna,spinach,veg
+2693,56907,Ravioli Lasagna,cheese,dairy
+2694,56907,Ravioli Lasagna,eggs,meat
+2699,56907,Ravioli Lasagna,cheese,dairy
+2701,16508,Vegan Cheesecake,milk,dairy
+2702,16508,Vegan Cheesecake,sugar,sugar
+2704,16508,Vegan Cheesecake,syrup,sugar
+2706,17376,Beef and Brew,butter,dairy
+2707,17376,Beef and Brew,mushrooms,veg
+2717,17376,Beef and Brew,flour,dairy
+2718,239972,Cranberry Chocolate-Dipped Cookies,butter,dairy
+2719,239972,Cranberry Chocolate-Dipped Cookies,sugar,sugar
+2720,239972,Cranberry Chocolate-Dipped Cookies,sugar,sugar
+2723,239972,Cranberry Chocolate-Dipped Cookies,eggs,meat
+2725,239972,Cranberry Chocolate-Dipped Cookies,flour,dairy
+2727,239972,Cranberry Chocolate-Dipped Cookies,cranberries,veg
+2736,255887,Paleo Toasted Maple Pecans,butter,dairy
+2737,255887,Paleo Toasted Maple Pecans,syrup,sugar
+2739,219758,Ellen's Chicken Cacciatore,oil,oil
+2740,219758,Ellen's Chicken Cacciatore,chicken,meat
+2741,219758,Ellen's Chicken Cacciatore,onion,veg
+2742,219758,Ellen's Chicken Cacciatore,mushrooms,veg
+2743,219758,Ellen's Chicken Cacciatore,garlic,veg
+2746,219758,Ellen's Chicken Cacciatore,juice,sugar
+2752,23092,Herbed Potatoes with Sauce,potatoes,veg
+2755,23201,Crawfish Fettuccine II,butter,dairy
+2756,23201,Crawfish Fettuccine II,onion,veg
+2758,23201,Crawfish Fettuccine II,garlic,veg
+2759,23201,Crawfish Fettuccine II,flour,dairy
+2761,23201,Crawfish Fettuccine II,cream,dairy
+2763,23201,Crawfish Fettuccine II,tomato,veg
+2765,23201,Crawfish Fettuccine II,cheese,dairy
+2766,229621,Dylan's Apple Cream Coffee Cake,oats,carbs
+2768,229621,Dylan's Apple Cream Coffee Cake,sugar,sugar
+2769,229621,Dylan's Apple Cream Coffee Cake,flour,dairy
+2773,229621,Dylan's Apple Cream Coffee Cake,butter,dairy
+2774,229621,Dylan's Apple Cream Coffee Cake,sugar,sugar
+2775,229621,Dylan's Apple Cream Coffee Cake,sugar,sugar
+2776,229621,Dylan's Apple Cream Coffee Cake,eggs,meat
+2778,229621,Dylan's Apple Cream Coffee Cake,cream,dairy
+2779,229621,Dylan's Apple Cream Coffee Cake,apple,veg
+2782,11773,Easy Fettucine Alfredo,oil,oil
+2783,11773,Easy Fettucine Alfredo,milk,dairy
+2784,11773,Easy Fettucine Alfredo,cheese,dairy
+2788,239023,Almond Sandwich Bread,flour,dairy
+2789,239023,Almond Sandwich Bread,eggs,meat
+2793,239023,Almond Sandwich Bread,oil,oil
+2794,77452,Pumpkin Chile Vichyssoise,pumpkin,veg
+2795,77452,Pumpkin Chile Vichyssoise,chicken,meat
+2796,77452,Pumpkin Chile Vichyssoise,peppers,veg
+2797,77452,Pumpkin Chile Vichyssoise,butter,dairy
+2798,77452,Pumpkin Chile Vichyssoise,onion,veg
+2803,77452,Pumpkin Chile Vichyssoise,buttermilk,dairy
+2804,142013,Chopped Baked Clams,oil,oil
+2805,142013,Chopped Baked Clams,onion,veg
+2806,142013,Chopped Baked Clams,garlic,veg
+2812,142013,Chopped Baked Clams,butter,dairy
+2813,107512,Warm Mexican Corn Dip,cheese,dairy
+2814,107512,Warm Mexican Corn Dip,butter,dairy
+2815,107512,Warm Mexican Corn Dip,corn,sugar
+2817,246599,Spinach & Artichoke Dip from Pretzel Crisps®,spinach,veg
+2819,246599,Spinach & Artichoke Dip from Pretzel Crisps®,cheese,dairy
+2820,246599,Spinach & Artichoke Dip from Pretzel Crisps®,cream,dairy
+2821,246599,Spinach & Artichoke Dip from Pretzel Crisps®,cheese,dairy
+2822,246599,Spinach & Artichoke Dip from Pretzel Crisps®,garlic,veg
+2825,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,beef,meat
+2826,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,pork,meat
+2827,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,corn,sugar
+2829,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,cream,dairy
+2830,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,cheese,dairy
+2831,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,onion,veg
+2832,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,milk,dairy
+2834,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,peppers,veg
+2835,74650,Dad's Down Home Cornbread and Jalapeno Meatloaf,garlic,veg
+2838,222597,Country Green Beans,bacon,meat
+2839,222597,Country Green Beans,beans,veg
+2840,222597,Country Green Beans,onion,veg
+2841,222597,Country Green Beans,butter,dairy
+2842,222597,Country Green Beans,chicken,meat
+2843,222597,Country Green Beans,garlic,veg
+2846,146626,The World's Greatest Crab Recipe,oil,oil
+2847,146626,The World's Greatest Crab Recipe,butter,dairy
+2848,146626,The World's Greatest Crab Recipe,garlic,veg
+2850,238290,Shrimp and Pasta in Lemon Cream Sauce,cheese,dairy
+2851,238290,Shrimp and Pasta in Lemon Cream Sauce,shrimp,meat
+2857,234789,Mashed Potato Stuffed Cannoli,cheese,dairy
+2858,234789,Mashed Potato Stuffed Cannoli,garlic,veg
+2859,234789,Mashed Potato Stuffed Cannoli,onion,veg
+2861,180653,Vegetable Tagine,oil,oil
+2862,180653,Vegetable Tagine,onion,veg
+2864,180653,Vegetable Tagine,garlic,veg
+2865,180653,Vegetable Tagine,carrots,veg
+2866,180653,Vegetable Tagine,potatoes,veg
+2870,180653,Vegetable Tagine,chicken,meat
+2872,180653,Vegetable Tagine,honey,sugar
+2877,180653,Vegetable Tagine,beans,veg
+2880,175352,Awesome Banana Pancakes,buttermilk,dairy
+2881,175352,Awesome Banana Pancakes,eggs,meat
+2882,175352,Awesome Banana Pancakes,flour,dairy
+2885,45771,Pears in Chocolate Sauce,pears,veg
+2888,45771,Pears in Chocolate Sauce,sugar,sugar
+2890,45771,Pears in Chocolate Sauce,chocolate,dairy
+2891,45771,Pears in Chocolate Sauce,cream,dairy
+2892,45771,Pears in Chocolate Sauce,butter,dairy
+2894,45771,Pears in Chocolate Sauce,cherries,veg
+2895,7387,Pineapple Sponge Cake,flour,dairy
+2896,7387,Pineapple Sponge Cake,eggs,meat
+2898,7387,Pineapple Sponge Cake,sugar,sugar
+2900,7387,Pineapple Sponge Cake,pineapple,veg
+2901,7387,Pineapple Sponge Cake,cream,dairy
+2902,7387,Pineapple Sponge Cake,pineapple,veg
+2903,7387,Pineapple Sponge Cake,cherries,veg
+2904,12549,French Apple Pie with Cream Cheese Topping,butter,dairy
+2905,12549,French Apple Pie with Cream Cheese Topping,sugar,sugar
+2911,12549,French Apple Pie with Cream Cheese Topping,flour,dairy
+2913,12549,French Apple Pie with Cream Cheese Topping,apple,veg
+2916,12549,French Apple Pie with Cream Cheese Topping,cheese,dairy
+2917,12549,French Apple Pie with Cream Cheese Topping,butter,dairy
+2919,12549,French Apple Pie with Cream Cheese Topping,sugar,sugar
+2920,240751,Truffled Cauliflower Gratin,butter,dairy
+2921,240751,Truffled Cauliflower Gratin,flour,dairy
+2922,240751,Truffled Cauliflower Gratin,milk,dairy
+2923,240751,Truffled Cauliflower Gratin,cheese,dairy
+2927,240751,Truffled Cauliflower Gratin,cauliflower,veg
+2929,240751,Truffled Cauliflower Gratin,cheese,dairy
+2930,240751,Truffled Cauliflower Gratin,oil,oil
+2932,15012,Delmonico Potatoes,potatoes,veg
+2936,15012,Delmonico Potatoes,onion,veg
+2937,15012,Delmonico Potatoes,butter,dairy
+2938,15012,Delmonico Potatoes,cream,dairy
+2939,15012,Delmonico Potatoes,milk,dairy
+2940,15012,Delmonico Potatoes,cheese,dairy
+2941,223578,Vegan Lentil Salad,lentils,carbs
+2942,223578,Vegan Lentil Salad,corn,sugar
+2943,223578,Vegan Lentil Salad,beans,veg
+2945,223578,Vegan Lentil Salad,oil,oil
+2947,223578,Vegan Lentil Salad,sugar,sugar
+2951,18783,Turkey Goulash,garlic,veg
+2952,18783,Turkey Goulash,tomato,veg
+2953,18783,Turkey Goulash,sugar,sugar
+2956,13166,Curry Beef Soup,butter,dairy
+2961,13166,Curry Beef Soup,potatoes,veg
+2964,62151,Fruit Leather,sugar,sugar
+2966,62151,Fruit Leather,apple,veg
+2967,62151,Fruit Leather,pears,veg
+2968,229355,Grandma's Baking Powder Biscuits,flour,dairy
+2969,229355,Grandma's Baking Powder Biscuits,sugar,sugar
+2974,229355,Grandma's Baking Powder Biscuits,milk,dairy
+2975,235224,Cherry Pineapple Banana Bread,sugar,sugar
+2976,235224,Cherry Pineapple Banana Bread,sugar,sugar
+2977,235224,Cherry Pineapple Banana Bread,butter,dairy
+2984,235224,Cherry Pineapple Banana Bread,flour,dairy
+2985,235224,Cherry Pineapple Banana Bread,buttermilk,dairy
+2986,235224,Cherry Pineapple Banana Bread,pineapple,veg
+2987,235224,Cherry Pineapple Banana Bread,cherries,veg
+2991,257453,Simply Seared Scallops,oil,oil
+2992,257453,Simply Seared Scallops,butter,dairy
+2994,240527,Easy Egg Tacos,oil,oil
+2996,240527,Easy Egg Tacos,garlic,veg
+2997,240527,Easy Egg Tacos,ham,meat
+2999,240527,Easy Egg Tacos,eggs,meat
+3002,240527,Easy Egg Tacos,butter,dairy
+3003,240527,Easy Egg Tacos,wheat,carbs
+3007,222107,Healthier Jalapeno Popper Spread,cheese,dairy
+3010,222107,Healthier Jalapeno Popper Spread,peppers,veg
+3012,222107,Healthier Jalapeno Popper Spread,cheese,dairy
+3013,7232,Tangy Buttermilk Cheese Bread,buttermilk,dairy
+3014,7232,Tangy Buttermilk Cheese Bread,flour,dairy
+3016,7232,Tangy Buttermilk Cheese Bread,sugar,sugar
+3017,7232,Tangy Buttermilk Cheese Bread,cheese,dairy
+3027,161632,True Wisconsin Bloody Mary,tomato,veg
+3028,161632,True Wisconsin Bloody Mary,celery,veg
+3033,233056,Best Chicken Salad Sandwich,cranberries,veg
+3034,233056,Best Chicken Salad Sandwich,celery,veg
+3035,233056,Best Chicken Salad Sandwich,apple,veg
+3036,233056,Best Chicken Salad Sandwich,grapes,veg
+3038,233056,Best Chicken Salad Sandwich,chicken,meat
+3040,231636,Colorful Broccoli Salad,sugar,sugar
+3042,231636,Colorful Broccoli Salad,bacon,meat
+3044,231636,Colorful Broccoli Salad,onion,veg
+3045,231636,Colorful Broccoli Salad,cheese,dairy
+3049,145943,Grilled Veggie-Portobello Mushroom Burgers,squash,veg
+3051,145943,Grilled Veggie-Portobello Mushroom Burgers,cheese,dairy
+3053,247156,Lemon Chicken and Snow Pea Noodle Bowls,chicken,meat
+3056,247156,Lemon Chicken and Snow Pea Noodle Bowls,oil,oil
+3057,247156,Lemon Chicken and Snow Pea Noodle Bowls,chicken,meat
+3058,247156,Lemon Chicken and Snow Pea Noodle Bowls,peas,veg
+3063,12769,Crab Canapes,onion,veg
+3064,12769,Crab Canapes,cheese,dairy
+3070,222741,Tofu with Tomatoes and Balsamic Vinegar,oil,oil
+3072,222741,Tofu with Tomatoes and Balsamic Vinegar,onion,veg
+3073,222741,Tofu with Tomatoes and Balsamic Vinegar,garlic,veg
+3076,222965,Diablo Shrimp,butter,dairy
+3077,222965,Diablo Shrimp,oil,oil
+3082,222965,Diablo Shrimp,shrimp,meat
+3084,222965,Diablo Shrimp,cheese,dairy
+3086,7852,Easter Cake,sugar,sugar
+3087,7852,Easter Cake,eggs,meat
+3090,7852,Easter Cake,flour,dairy
+3093,14778,Sausage Casserole II,potatoes,veg
+3094,14778,Sausage Casserole II,onion,veg
+3095,14778,Sausage Casserole II,corn,sugar
+3097,14778,Sausage Casserole II,sausage,meat
+3099,261048,Spinach Con Queso Dip,cheese,dairy
+3100,261048,Spinach Con Queso Dip,milk,dairy
+3103,261048,Spinach Con Queso Dip,spinach,veg
+3106,7631,Chocolate Chip Cookie Dough Cheesecake,chocolate,dairy
+3107,7631,Chocolate Chip Cookie Dough Cheesecake,sugar,sugar
+3108,7631,Chocolate Chip Cookie Dough Cheesecake,butter,dairy
+3110,7631,Chocolate Chip Cookie Dough Cheesecake,cheese,dairy
+3111,7631,Chocolate Chip Cookie Dough Cheesecake,sugar,sugar
+3112,7631,Chocolate Chip Cookie Dough Cheesecake,sugar,sugar
+3113,7631,Chocolate Chip Cookie Dough Cheesecake,cream,dairy
+3114,7631,Chocolate Chip Cookie Dough Cheesecake,eggs,meat
+3117,7631,Chocolate Chip Cookie Dough Cheesecake,butter,dairy
+3118,7631,Chocolate Chip Cookie Dough Cheesecake,sugar,sugar
+3119,7631,Chocolate Chip Cookie Dough Cheesecake,sugar,sugar
+3123,7631,Chocolate Chip Cookie Dough Cheesecake,flour,dairy
+3125,7631,Chocolate Chip Cookie Dough Cheesecake,cream,dairy
+3126,7631,Chocolate Chip Cookie Dough Cheesecake,sugar,sugar
+3130,84923,Aunt Bev's Glorified Grilled Cheese Sandwich,butter,dairy
+3132,84923,Aunt Bev's Glorified Grilled Cheese Sandwich,mustard,carbs
+3133,84923,Aunt Bev's Glorified Grilled Cheese Sandwich,ham,meat
+3134,84923,Aunt Bev's Glorified Grilled Cheese Sandwich,cheese,dairy
+3135,242229,Honey Mustard-Soy Salmon,oil,oil
+3136,242229,Honey Mustard-Soy Salmon,mustard,carbs
+3137,242229,Honey Mustard-Soy Salmon,soy,carbs
+3144,40533,Red Cabbage,cabbage,veg
+3146,40533,Red Cabbage,sugar,sugar
+3151,40533,Red Cabbage,butter,dairy
+3154,244245,Chef John's Grilled Garlic and Herb Shrimp,garlic,veg
+3159,244245,Chef John's Grilled Garlic and Herb Shrimp,oil,oil
+3160,244245,Chef John's Grilled Garlic and Herb Shrimp,shrimp,meat
+3163,244245,Chef John's Grilled Garlic and Herb Shrimp,oil,oil
+3169,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,oil,oil
+3170,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,juice,sugar
+3172,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,garlic,veg
+3173,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,mint,carbs
+3177,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,lettuce,veg
+3179,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,peanuts,carbs
+3180,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,cucumber,veg
+3185,214898,Homemade Tomato Basil Pasta Sauce,butter,dairy
+3188,214898,Homemade Tomato Basil Pasta Sauce,oil,oil
+3191,214898,Homemade Tomato Basil Pasta Sauce,flour,dairy
+3193,214898,Homemade Tomato Basil Pasta Sauce,garlic,veg
+3194,19029,Creme Brulee II,cream,dairy
+3195,19029,Creme Brulee II,sugar,sugar
+3199,19029,Creme Brulee II,sugar,sugar
+3201,21017,Tuna Dip I,mustard,carbs
+3205,104996,Christmas in The Islands Bread,eggs,meat
+3206,104996,Christmas in The Islands Bread,oil,oil
+3208,104996,Christmas in The Islands Bread,milk,dairy
+3209,104996,Christmas in The Islands Bread,flour,dairy
+3210,104996,Christmas in The Islands Bread,sugar,sugar
+3214,104996,Christmas in The Islands Bread,pineapple,veg
+3215,104996,Christmas in The Islands Bread,cherries,veg
+3217,87020,Hooley's Devil Stuffed Shrimp,shrimp,meat
+3223,87020,Hooley's Devil Stuffed Shrimp,cheese,dairy
+3224,239633,Easy Southwestern Chicken Soup,chicken,meat
+3225,239633,Easy Southwestern Chicken Soup,beans,veg
+3226,239633,Easy Southwestern Chicken Soup,peppers,veg
+3228,239633,Easy Southwestern Chicken Soup,chicken,meat
+3229,239633,Easy Southwestern Chicken Soup,garlic,veg
+3234,7239,Rum Raisin Bread,flour,dairy
+3235,7239,Rum Raisin Bread,milk,dairy
+3236,7239,Rum Raisin Bread,sugar,sugar
+3238,7239,Rum Raisin Bread,butter,dairy
+3239,7239,Rum Raisin Bread,cream,dairy
+3242,7239,Rum Raisin Bread,oil,oil
+3244,218288,Garlic Spinach,butter,dairy
+3245,218288,Garlic Spinach,garlic,veg
+3246,218288,Garlic Spinach,spinach,veg
+3249,50417,Rum Cranberry Applesauce Bundt Cake,flour,dairy
+3254,50417,Rum Cranberry Applesauce Bundt Cake,butter,dairy
+3255,50417,Rum Cranberry Applesauce Bundt Cake,sugar,sugar
+3256,50417,Rum Cranberry Applesauce Bundt Cake,sugar,sugar
+3257,50417,Rum Cranberry Applesauce Bundt Cake,eggs,meat
+3261,50417,Rum Cranberry Applesauce Bundt Cake,cranberries,veg
+3262,50417,Rum Cranberry Applesauce Bundt Cake,butter,dairy
+3263,50417,Rum Cranberry Applesauce Bundt Cake,sugar,sugar
+3264,50417,Rum Cranberry Applesauce Bundt Cake,sugar,sugar
+3266,228514,Cream Of Carrot Soup,butter,dairy
+3267,228514,Cream Of Carrot Soup,carrots,veg
+3269,228514,Cream Of Carrot Soup,onion,veg
+3270,228514,Cream Of Carrot Soup,celery,veg
+3271,228514,Cream Of Carrot Soup,chicken,meat
+3273,228514,Cream Of Carrot Soup,cream,dairy
+3277,242017,Raspberry-Infused Vodka,raspberries,veg
+3278,242017,Raspberry-Infused Vodka,sugar,sugar
+3280,240704,Chicken Mushroom Dijon,milk,dairy
+3281,240704,Chicken Mushroom Dijon,flour,dairy
+3283,240704,Chicken Mushroom Dijon,oil,oil
+3284,240704,Chicken Mushroom Dijon,butter,dairy
+3285,240704,Chicken Mushroom Dijon,mushrooms,veg
+3287,240704,Chicken Mushroom Dijon,chicken,meat
+3288,240704,Chicken Mushroom Dijon,mustard,carbs
+3291,216080,Cheesy Chicken Bundles,butter,dairy
+3292,216080,Cheesy Chicken Bundles,mushrooms,veg
+3295,216080,Cheesy Chicken Bundles,cheese,dairy
+3296,216080,Cheesy Chicken Bundles,cheese,dairy
+3297,216080,Cheesy Chicken Bundles,cheese,dairy
+3298,91471,No Yolk Deviled Eggs,eggs,meat
+3301,91471,No Yolk Deviled Eggs,sugar,sugar
+3302,91471,No Yolk Deviled Eggs,mustard,carbs
+3305,14581,Marinated Veggies,squash,veg
+3306,14581,Marinated Veggies,onion,veg
+3307,14581,Marinated Veggies,mushrooms,veg
+3309,14581,Marinated Veggies,oil,oil
+3310,14581,Marinated Veggies,soy,carbs
+3312,14581,Marinated Veggies,garlic,veg
+3313,8086,Black Forest Chocolate Cake,milk,dairy
+3315,8086,Black Forest Chocolate Cake,sugar,sugar
+3316,8086,Black Forest Chocolate Cake,eggs,meat
+3319,12030,Tuna Noodle Casserole II,cream,dairy
+3320,12030,Tuna Noodle Casserole II,milk,dairy
+3322,12030,Tuna Noodle Casserole II,cheese,dairy
+3323,12030,Tuna Noodle Casserole II,onion,veg
+3326,230875,Potluck Potato Casserole,cheese,dairy
+3328,230875,Potluck Potato Casserole,cream,dairy
+3329,230875,Potluck Potato Casserole,cheese,dairy
+3331,230875,Potluck Potato Casserole,garlic,veg
+3333,230875,Potluck Potato Casserole,potatoes,veg
+3334,230875,Potluck Potato Casserole,cheese,dairy
+3336,42618,Brussels Sprouts Bake,sprouts,veg
+3337,42618,Brussels Sprouts Bake,butter,dairy
+3338,42618,Brussels Sprouts Bake,cream,dairy
+3340,42618,Brussels Sprouts Bake,cheese,dairy
+3344,134483,Chicago-Style Hot Dog,mustard,carbs
+3346,134483,Chicago-Style Hot Dog,onion,veg
+3349,134483,Chicago-Style Hot Dog,peppers,veg
+3351,25683,New England Clam Chowder III,butter,dairy
+3352,25683,New England Clam Chowder III,flour,dairy
+3354,25683,New England Clam Chowder III,celery,veg
+3355,25683,New England Clam Chowder III,milk,dairy
+3356,25683,New England Clam Chowder III,chicken,meat
+3357,25683,New England Clam Chowder III,cream,dairy
+3363,149397,Cheese-Filled Green Plantains,oil,oil
+3364,13100,Old-World Cabbage Soup,cabbage,veg
+3365,13100,Old-World Cabbage Soup,carrots,veg
+3366,13100,Old-World Cabbage Soup,onion,veg
+3367,13100,Old-World Cabbage Soup,celery,veg
+3371,13100,Old-World Cabbage Soup,chicken,meat
+3374,140597,Pile of Prawns,garlic,veg
+3375,140597,Pile of Prawns,butter,dairy
+3379,259999,Cochinita Pibil (Mexican Pulled Pork in Annatto Sauce),onion,veg
+3380,259999,Cochinita Pibil (Mexican Pulled Pork in Annatto Sauce),garlic,veg
+3381,259999,Cochinita Pibil (Mexican Pulled Pork in Annatto Sauce),juice,sugar
+3391,259999,Cochinita Pibil (Mexican Pulled Pork in Annatto Sauce),onion,veg
+3398,232370,Healthy (No Sugar/Butter Added) Almond and Coconut Squares,oil,oil
+3400,232370,Healthy (No Sugar/Butter Added) Almond and Coconut Squares,cranberries,veg
+3403,232370,Healthy (No Sugar/Butter Added) Almond and Coconut Squares,flour,dairy
+3404,232370,Healthy (No Sugar/Butter Added) Almond and Coconut Squares,milk,dairy
+3410,245914,Baked Oatmeal Breakfast Bars,oats,carbs
+3411,245914,Baked Oatmeal Breakfast Bars,sugar,sugar
+3412,245914,Baked Oatmeal Breakfast Bars,sugar,sugar
+3415,245914,Baked Oatmeal Breakfast Bars,milk,dairy
+3416,245914,Baked Oatmeal Breakfast Bars,eggs,meat
+3417,245914,Baked Oatmeal Breakfast Bars,oil,oil
+3421,23783,Harvest Salad,cranberries,veg
+3422,23783,Harvest Salad,cheese,dairy
+3424,23783,Harvest Salad,avocado,veg
+3425,23783,Harvest Salad,onion,veg
+3428,23783,Harvest Salad,oil,oil
+3432,247395,Horsey Beef Pretzel Bites,beef,meat
+3433,247395,Horsey Beef Pretzel Bites,cheese,dairy
+3434,247395,Horsey Beef Pretzel Bites,onion,veg
+3439,90547,Shirazi Salad,onion,veg
+3443,15967,Peanut Butter Pie 2000,cheese,dairy
+3444,15967,Peanut Butter Pie 2000,sugar,sugar
+3445,15967,Peanut Butter Pie 2000,butter,dairy
+3446,15967,Peanut Butter Pie 2000,milk,dairy
+3449,9655,Butter Pecan Cookies,butter,dairy
+3450,9655,Butter Pecan Cookies,sugar,sugar
+3452,9655,Butter Pecan Cookies,flour,dairy
+3455,234498,Slow Cooker Taco Bean Soup,beef,meat
+3456,234498,Slow Cooker Taco Bean Soup,onion,veg
+3459,234498,Slow Cooker Taco Bean Soup,beans,veg
+3460,234498,Slow Cooker Taco Bean Soup,beans,veg
+3463,234498,Slow Cooker Taco Bean Soup,beans,veg
+3464,234498,Slow Cooker Taco Bean Soup,hominy,veg
+3466,216772,Mom's Best Ham and Bean Soup,beans,veg
+3473,216772,Mom's Best Ham and Bean Soup,garlic,veg
+3475,216772,Mom's Best Ham and Bean Soup,mustard,carbs
+3479,216772,Mom's Best Ham and Bean Soup,celery,veg
+3480,216772,Mom's Best Ham and Bean Soup,oil,oil
+3481,216772,Mom's Best Ham and Bean Soup,tomato,veg
+3484,216772,Mom's Best Ham and Bean Soup,molasses,sugar
+3485,216772,Mom's Best Ham and Bean Soup,sugar,sugar
+3488,18891,Hazelnut-Mushroom Pilaf,butter,dairy
+3489,18891,Hazelnut-Mushroom Pilaf,rice,sugar
+3491,18891,Hazelnut-Mushroom Pilaf,mushrooms,veg
+3492,18891,Hazelnut-Mushroom Pilaf,onion,veg
+3493,18891,Hazelnut-Mushroom Pilaf,celery,veg
+3494,18891,Hazelnut-Mushroom Pilaf,chicken,meat
+3500,42967,Fast Creamy Tomato Penne,butter,dairy
+3501,42967,Fast Creamy Tomato Penne,onion,veg
+3503,42967,Fast Creamy Tomato Penne,pork,meat
+3505,42967,Fast Creamy Tomato Penne,cream,dairy
+3507,11978,Simple Red Sauce with Pasta,bacon,meat
+3508,11978,Simple Red Sauce with Pasta,garlic,veg
+3509,11978,Simple Red Sauce with Pasta,onion,veg
+3510,11978,Simple Red Sauce with Pasta,oil,oil
+3512,11978,Simple Red Sauce with Pasta,peppers,veg
+3513,11978,Simple Red Sauce with Pasta,cheese,dairy
+3515,11978,Simple Red Sauce with Pasta,cheese,dairy
+3517,12792,Fish Roll Sauce,eggs,meat
+3518,12792,Fish Roll Sauce,oil,oil
+3519,12792,Fish Roll Sauce,sugar,sugar
+3520,12792,Fish Roll Sauce,butter,dairy
+3521,12792,Fish Roll Sauce,flour,dairy
+3524,12792,Fish Roll Sauce,milk,dairy
+3527,219656,"Chicken, Cheese, and Wine",cream,dairy
+3528,219656,"Chicken, Cheese, and Wine",mushrooms,veg
+3529,219656,"Chicken, Cheese, and Wine",garlic,veg
+3532,219656,"Chicken, Cheese, and Wine",cheese,dairy
+3534,166252,Ham Glaze,sugar,sugar
+3535,166252,Ham Glaze,garlic,veg
+3538,166252,Ham Glaze,juice,sugar
+3539,166252,Ham Glaze,mustard,carbs
+3540,218625,Asian Lime and Cilantro Sauce For Salmon,juice,sugar
+3541,218625,Asian Lime and Cilantro Sauce For Salmon,soy,carbs
+3542,218625,Asian Lime and Cilantro Sauce For Salmon,sugar,sugar
+3544,229119,Winter Root Soup,onion,veg
+3551,229119,Winter Root Soup,cream,dairy
+3553,229119,Winter Root Soup,cream,dairy
+3554,55191,Amazing Pork Chops in Cream Sauce,butter,dairy
+3559,55191,Amazing Pork Chops in Cream Sauce,cream,dairy
+3560,55191,Amazing Pork Chops in Cream Sauce,mushrooms,veg
+3562,21122,Kicked Up Mac and Cheese,butter,dairy
+3563,21122,Kicked Up Mac and Cheese,flour,dairy
+3564,21122,Kicked Up Mac and Cheese,milk,dairy
+3565,21122,Kicked Up Mac and Cheese,mustard,carbs
+3569,21122,Kicked Up Mac and Cheese,cheese,dairy
+3570,21122,Kicked Up Mac and Cheese,cheese,dairy
+3571,21122,Kicked Up Mac and Cheese,cheese,dairy
+3574,230964,Smore's Bars,syrup,sugar
+3575,230964,Smore's Bars,butter,dairy
+3580,20057,Island Kielbasa in a Slow Cooker,sausage,meat
+3582,20057,Island Kielbasa in a Slow Cooker,sugar,sugar
+3584,247382,Bolo de Banana Caramelizada (Caramelized Banana Cake),butter,dairy
+3585,247382,Bolo de Banana Caramelizada (Caramelized Banana Cake),flour,dairy
+3586,247382,Bolo de Banana Caramelizada (Caramelized Banana Cake),sugar,sugar
+3587,247382,Bolo de Banana Caramelizada (Caramelized Banana Cake),oil,oil
+3588,247382,Bolo de Banana Caramelizada (Caramelized Banana Cake),eggs,meat
+3589,247382,Bolo de Banana Caramelizada (Caramelized Banana Cake),milk,dairy
+3590,247382,Bolo de Banana Caramelizada (Caramelized Banana Cake),flour,dairy
+3592,247382,Bolo de Banana Caramelizada (Caramelized Banana Cake),sugar,sugar
+3595,235734,Easy Authentic Mexican Rice,oil,oil
+3596,235734,Easy Authentic Mexican Rice,onion,veg
+3597,235734,Easy Authentic Mexican Rice,garlic,veg
+3598,235734,Easy Authentic Mexican Rice,rice,sugar
+3600,235734,Easy Authentic Mexican Rice,tomato,veg
+3601,7784,Raspberry Almond Coffeecake,raspberries,veg
+3602,7784,Raspberry Almond Coffeecake,sugar,sugar
+3603,7784,Raspberry Almond Coffeecake,flour,dairy
+3604,7784,Raspberry Almond Coffeecake,sugar,sugar
+3607,7784,Raspberry Almond Coffeecake,cream,dairy
+3608,7784,Raspberry Almond Coffeecake,butter,dairy
+3612,7784,Raspberry Almond Coffeecake,sugar,sugar
+3613,7784,Raspberry Almond Coffeecake,milk,dairy
+3615,100338,Chuck Wagon Hash,beef,meat
+3616,100338,Chuck Wagon Hash,onion,veg
+3620,100338,Chuck Wagon Hash,garlic,veg
+3623,100338,Chuck Wagon Hash,corn,sugar
+3624,100338,Chuck Wagon Hash,rice,sugar
+3625,100338,Chuck Wagon Hash,cheese,dairy
+3627,228328,Whole Grain Spelt and Flax Seed Pancakes - Got Berries?,oil,oil
+3628,228328,Whole Grain Spelt and Flax Seed Pancakes - Got Berries?,buttermilk,dairy
+3629,228328,Whole Grain Spelt and Flax Seed Pancakes - Got Berries?,flour,dairy
+3631,228328,Whole Grain Spelt and Flax Seed Pancakes - Got Berries?,sugar,sugar
+3632,228328,Whole Grain Spelt and Flax Seed Pancakes - Got Berries?,oil,oil
+3633,228328,Whole Grain Spelt and Flax Seed Pancakes - Got Berries?,blueberries,veg
+3634,169322,'Day Before Payday' Kielbasa and Corn Hash,oil,oil
+3635,169322,'Day Before Payday' Kielbasa and Corn Hash,potatoes,veg
+3636,169322,'Day Before Payday' Kielbasa and Corn Hash,sausage,meat
+3637,169322,'Day Before Payday' Kielbasa and Corn Hash,onion,veg
+3638,169322,'Day Before Payday' Kielbasa and Corn Hash,corn,sugar
+3641,169322,'Day Before Payday' Kielbasa and Corn Hash,eggs,meat
+3642,233411,Avocado and Corn Salsa,corn,sugar
+3649,259381,Easy Three Ingredient Raspberry Dessert,raspberries,veg
+3651,259381,Easy Three Ingredient Raspberry Dessert,sugar,sugar
+3654,13774,Pumpkin Cookies I,butter,dairy
+3655,13774,Pumpkin Cookies I,sugar,sugar
+3656,13774,Pumpkin Cookies I,sugar,sugar
+3659,13774,Pumpkin Cookies I,pumpkin,veg
+3660,13774,Pumpkin Cookies I,oats,carbs
+3663,13774,Pumpkin Cookies I,flour,dairy
+3664,27131,Creamiest Rice Pudding,milk,dairy
+3665,27131,Creamiest Rice Pudding,sugar,sugar
+3666,27131,Creamiest Rice Pudding,rice,sugar
+3667,27131,Creamiest Rice Pudding,eggs,meat
+3668,27131,Creamiest Rice Pudding,milk,dairy
+3672,230701,Cheesy Bacon and Potatoes Casserole,bacon,meat
+3673,230701,Cheesy Bacon and Potatoes Casserole,onion,veg
+3675,230701,Cheesy Bacon and Potatoes Casserole,cheese,dairy
+3676,230701,Cheesy Bacon and Potatoes Casserole,cream,dairy
+3677,16345,Lazy Katie's Taco Salad,beef,meat
+3679,16345,Lazy Katie's Taco Salad,lettuce,veg
+3681,16345,Lazy Katie's Taco Salad,cheese,dairy
+3682,16345,Lazy Katie's Taco Salad,onion,veg
+3684,231488,Bird's Nest Breakfast Cups,potatoes,veg
+3687,231488,Bird's Nest Breakfast Cups,oil,oil
+3688,231488,Bird's Nest Breakfast Cups,cheese,dairy
+3689,231488,Bird's Nest Breakfast Cups,eggs,meat
+3691,231488,Bird's Nest Breakfast Cups,bacon,meat
+3692,231488,Bird's Nest Breakfast Cups,cheese,dairy
+3693,86091,Madi's Mushrooms,mushrooms,veg
+3696,258962,Deluxe Olive-Stuffed Burgers,beef,meat
+3697,258962,Deluxe Olive-Stuffed Burgers,garlic,veg
+3700,258962,Deluxe Olive-Stuffed Burgers,cheese,dairy
+3704,258962,Deluxe Olive-Stuffed Burgers,lettuce,veg
+3705,244513,Carrot and Apple Juice,carrots,veg
+3707,244513,Carrot and Apple Juice,celery,veg
+3710,244665,"Robo's Lo-Cal Tuna, Pineapple, Cottage Cheese, and Basil Salad",cheese,dairy
+3715,12491,Rose Galletta's Ricotta Pie,cheese,dairy
+3716,12491,Rose Galletta's Ricotta Pie,eggs,meat
+3717,12491,Rose Galletta's Ricotta Pie,sugar,sugar
+3722,12491,Rose Galletta's Ricotta Pie,flour,dairy
+3723,12491,Rose Galletta's Ricotta Pie,sugar,sugar
+3725,12491,Rose Galletta's Ricotta Pie,butter,dairy
+3726,12491,Rose Galletta's Ricotta Pie,milk,dairy
+3730,97456,Hungarian Poppy Seed Filling,milk,dairy
+3732,97456,Hungarian Poppy Seed Filling,sugar,sugar
+3735,8533,Quick Chicken Divan,broccoli,veg
+3737,8533,Quick Chicken Divan,chicken,meat
+3738,8533,Quick Chicken Divan,cream,dairy
+3740,8533,Quick Chicken Divan,cheese,dairy
+3743,258025,Sicilian Stuffed Artichokes,cheese,dairy
+3744,258025,Sicilian Stuffed Artichokes,garlic,veg
+3745,258025,Sicilian Stuffed Artichokes,oil,oil
+3748,257436,Gluten-Free Pizza Crust or Flatbread,sugar,sugar
+3751,257436,Gluten-Free Pizza Crust or Flatbread,flour,dairy
+3757,257436,Gluten-Free Pizza Crust or Flatbread,oil,oil
+3758,15094,Beef and Barley Soup III,oil,oil
+3759,15094,Beef and Barley Soup III,onion,veg
+3760,15094,Beef and Barley Soup III,celery,veg
+3761,15094,Beef and Barley Soup III,carrots,veg
+3762,15094,Beef and Barley Soup III,garlic,veg
+3764,15094,Beef and Barley Soup III,barley,carbs
+3768,15094,Beef and Barley Soup III,potatoes,veg
+3769,15094,Beef and Barley Soup III,beef,meat
+3770,15094,Beef and Barley Soup III,cabbage,veg
+3775,233773,Tomato Almond Pesto (Trapanese),cheese,dairy
+3776,233773,Tomato Almond Pesto (Trapanese),oil,oil
+3777,233773,Tomato Almond Pesto (Trapanese),garlic,veg
+3778,233773,Tomato Almond Pesto (Trapanese),anchovy,meat
+3780,233773,Tomato Almond Pesto (Trapanese),raisins,veg
+3784,89316,Preety's Chickpea Salad,garlic,veg
+3785,89316,Preety's Chickpea Salad,oil,oil
+3786,89316,Preety's Chickpea Salad,beans,veg
+3787,89316,Preety's Chickpea Salad,tomato,veg
+3788,89316,Preety's Chickpea Salad,onion,veg
+3793,222869,Mom's Mashed Potato Salad,potatoes,veg
+3794,222869,Mom's Mashed Potato Salad,onion,veg
+3795,222869,Mom's Mashed Potato Salad,eggs,meat
+3796,222869,Mom's Mashed Potato Salad,celery,veg
+3800,222869,Mom's Mashed Potato Salad,mustard,carbs
+3801,173451,Christmas Cookie Cut Outs,flour,dairy
+3806,173451,Christmas Cookie Cut Outs,butter,dairy
+3807,173451,Christmas Cookie Cut Outs,sugar,sugar
+3811,173451,Christmas Cookie Cut Outs,sugar,sugar
+3812,173451,Christmas Cookie Cut Outs,butter,dairy
+3814,173451,Christmas Cookie Cut Outs,milk,dairy
+3816,234150,Costa del Sol Barbeque Sauce,sugar,sugar
+3817,234150,Costa del Sol Barbeque Sauce,onion,veg
+3818,234150,Costa del Sol Barbeque Sauce,honey,sugar
+3820,234150,Costa del Sol Barbeque Sauce,butter,dairy
+3822,234150,Costa del Sol Barbeque Sauce,garlic,veg
+3828,148852,Mountain Apple Cake,flour,dairy
+3832,148852,Mountain Apple Cake,eggs,meat
+3833,148852,Mountain Apple Cake,oil,oil
+3835,148852,Mountain Apple Cake,sugar,sugar
+3840,148852,Mountain Apple Cake,sugar,sugar
+3841,148852,Mountain Apple Cake,milk,dairy
+3842,148852,Mountain Apple Cake,butter,dairy
+3846,148852,Mountain Apple Cake,sugar,sugar
+3849,261054,Hawaiian Roll Roast Beef and Cheese Sandwiches,beef,meat
+3850,261054,Hawaiian Roll Roast Beef and Cheese Sandwiches,cheese,dairy
+3851,261054,Hawaiian Roll Roast Beef and Cheese Sandwiches,butter,dairy
+3852,261054,Hawaiian Roll Roast Beef and Cheese Sandwiches,onion,veg
+3853,261054,Hawaiian Roll Roast Beef and Cheese Sandwiches,sugar,sugar
+3854,261054,Hawaiian Roll Roast Beef and Cheese Sandwiches,mustard,carbs
+3856,261054,Hawaiian Roll Roast Beef and Cheese Sandwiches,garlic,veg
+3858,41580,Coconut Syrup,milk,dairy
+3860,41580,Coconut Syrup,sugar,sugar
+3861,230103,Buttery Garlic Green Beans,beans,veg
+3862,230103,Buttery Garlic Green Beans,butter,dairy
+3863,230103,Buttery Garlic Green Beans,garlic,veg
+3867,217105,Cracker Cookie Brittle,butter,dairy
+3868,217105,Cracker Cookie Brittle,sugar,sugar
+3871,17816,Pork Chops with Stewed Tomatoes,onion,veg
+3874,17816,Pork Chops with Stewed Tomatoes,mushrooms,veg
+3876,240859,Shannon's White Cheese Dip,peppers,veg
+3877,240859,Shannon's White Cheese Dip,cheese,dairy
+3878,240859,Shannon's White Cheese Dip,cream,dairy
+3879,240859,Shannon's White Cheese Dip,cheese,dairy
+3880,240859,Shannon's White Cheese Dip,spinach,veg
+3881,240859,Shannon's White Cheese Dip,milk,dairy
+3882,240859,Shannon's White Cheese Dip,onion,veg
+3886,241947,Family Favorite Slow Cooker Turkey Chili,onion,veg
+3888,241947,Family Favorite Slow Cooker Turkey Chili,garlic,veg
+3889,241947,Family Favorite Slow Cooker Turkey Chili,beans,veg
+3891,241947,Family Favorite Slow Cooker Turkey Chili,tomato,veg
+3896,220501,Cheesy Potato Cakes,potatoes,veg
+3897,220501,Cheesy Potato Cakes,flour,dairy
+3898,220501,Cheesy Potato Cakes,cheese,dairy
+3899,220501,Cheesy Potato Cakes,potatoes,veg
+3903,220501,Cheesy Potato Cakes,milk,dairy
+3904,220501,Cheesy Potato Cakes,oil,oil
+3905,54786,Banana and Strawberry Smoothie,banana,veg
+3908,54786,Banana and Strawberry Smoothie,milk,dairy
+3910,59507,Mexican Turkey Burgers,oil,oil
+3911,59507,Mexican Turkey Burgers,onion,veg
+3913,59507,Mexican Turkey Burgers,garlic,veg
+3915,59507,Mexican Turkey Burgers,corn,sugar
+3920,59507,Mexican Turkey Burgers,cream,dairy
+3921,59507,Mexican Turkey Burgers,lettuce,veg
+3922,18253,Broccoli Rice Casserole,broccoli,veg
+3923,18253,Broccoli Rice Casserole,rice,sugar
+3924,18253,Broccoli Rice Casserole,cream,dairy
+3925,18253,Broccoli Rice Casserole,chicken,meat
+3927,18253,Broccoli Rice Casserole,cheese,dairy
+3928,18253,Broccoli Rice Casserole,butter,dairy
+3929,18253,Broccoli Rice Casserole,celery,veg
+3930,18253,Broccoli Rice Casserole,onion,veg
+3932,23862,BLT Soup II,bacon,meat
+3934,23862,BLT Soup II,lettuce,veg
+3935,23862,BLT Soup II,flour,dairy
+3941,23862,BLT Soup II,cream,dairy
+3942,232757,Cauliflower Au Gratin,cauliflower,veg
+3943,232757,Cauliflower Au Gratin,butter,dairy
+3944,232757,Cauliflower Au Gratin,onion,veg
+3945,232757,Cauliflower Au Gratin,flour,dairy
+3946,232757,Cauliflower Au Gratin,milk,dairy
+3947,232757,Cauliflower Au Gratin,cheese,dairy
+3953,10346,Lemon Pudding Cookies,oil,oil
+3954,10346,Lemon Pudding Cookies,sugar,sugar
+3956,237569,Honey BBQ Sauce,honey,sugar
+3958,237569,Honey BBQ Sauce,molasses,sugar
+3964,237569,Honey BBQ Sauce,onion,veg
+3965,237569,Honey BBQ Sauce,garlic,veg
+3967,10527,Peanut Butter No-Bakes,sugar,sugar
+3968,10527,Peanut Butter No-Bakes,butter,dairy
+3969,10527,Peanut Butter No-Bakes,milk,dairy
+3971,150230,Pumpkin Soup the Easy Way,butter,dairy
+3972,150230,Pumpkin Soup the Easy Way,onion,veg
+3973,150230,Pumpkin Soup the Easy Way,garlic,veg
+3974,150230,Pumpkin Soup the Easy Way,ham,meat
+3975,150230,Pumpkin Soup the Easy Way,pumpkin,veg
+3976,150230,Pumpkin Soup the Easy Way,chicken,meat
+3977,150230,Pumpkin Soup the Easy Way,cream,dairy
+3981,222569,Slow-Cooked Baked Beans,beans,veg
+3984,222569,Slow-Cooked Baked Beans,ham,meat
+3986,222569,Slow-Cooked Baked Beans,sugar,sugar
+3987,222569,Slow-Cooked Baked Beans,molasses,sugar
+3988,222569,Slow-Cooked Baked Beans,onion,veg
+3989,222569,Slow-Cooked Baked Beans,mustard,carbs
+3994,232692,Angel Food Trifle,milk,dairy
+3996,232692,Angel Food Trifle,strawberries,veg
+4000,221162,Minute Steaks with Barbeque Butter Sauce,sirloin,meat
+4006,221162,Minute Steaks with Barbeque Butter Sauce,butter,dairy
+4007,221162,Minute Steaks with Barbeque Butter Sauce,oil,oil
+4008,9609,Cinnamon Bars,butter,dairy
+4009,9609,Cinnamon Bars,sugar,sugar
+4011,9609,Cinnamon Bars,flour,dairy
+4015,244594,Tuscan Risotto,oil,oil
+4016,244594,Tuscan Risotto,onion,veg
+4017,244594,Tuscan Risotto,rice,sugar
+4019,244594,Tuscan Risotto,cheese,dairy
+4020,7053,Coconut Pumpkin Nut Bread,flour,dairy
+4021,7053,Coconut Pumpkin Nut Bread,sugar,sugar
+4022,7053,Coconut Pumpkin Nut Bread,sugar,sugar
+4023,7053,Coconut Pumpkin Nut Bread,pumpkin,veg
+4024,7053,Coconut Pumpkin Nut Bread,oil,oil
+4025,7053,Coconut Pumpkin Nut Bread,milk,dairy
+4032,214498,Sunday Morning Lemon Poppy Seed Pancakes,milk,dairy
+4036,214498,Sunday Morning Lemon Poppy Seed Pancakes,butter,dairy
+4038,214498,Sunday Morning Lemon Poppy Seed Pancakes,flour,dairy
+4039,214498,Sunday Morning Lemon Poppy Seed Pancakes,sugar,sugar
+4048,236783,Slow Cooker Sausage and Peppers,onion,veg
+4051,236783,Slow Cooker Sausage and Peppers,garlic,veg
+4056,217157,Really Awesome Chili,pork,meat
+4058,217157,Really Awesome Chili,onion,veg
+4059,217157,Really Awesome Chili,garlic,veg
+4061,217157,Really Awesome Chili,tomato,veg
+4072,217157,Really Awesome Chili,flour,dairy
+4074,223026,Mashed Kohlrabi and Red Potato Bake,potatoes,veg
+4076,223026,Mashed Kohlrabi and Red Potato Bake,cheese,dairy
+4078,83437,Vodka Cocktail Sauce,onion,veg
+4079,83437,Vodka Cocktail Sauce,celery,veg
+4087,24265,Chili II,oil,oil
+4088,24265,Chili II,beef,meat
+4089,24265,Chili II,onion,veg
+4090,24265,Chili II,garlic,veg
+4096,24265,Chili II,tomato,veg
+4097,24265,Chili II,beans,veg
+4104,24265,Chili II,sugar,sugar
+4106,129033,Mini Pumpkin Muffins with Orange Drizzle,pumpkin,veg
+4110,129033,Mini Pumpkin Muffins with Orange Drizzle,sugar,sugar
+4111,129033,Mini Pumpkin Muffins with Orange Drizzle,oil,oil
+4112,129033,Mini Pumpkin Muffins with Orange Drizzle,eggs,meat
+4113,129033,Mini Pumpkin Muffins with Orange Drizzle,flour,dairy
+4117,129033,Mini Pumpkin Muffins with Orange Drizzle,sugar,sugar
+4119,129033,Mini Pumpkin Muffins with Orange Drizzle,juice,sugar
+4120,22834,Almond Sour Cream Dip,cream,dairy
+4121,22834,Almond Sour Cream Dip,sugar,sugar
+4125,21433,Texas Enchilada Sauce,tomato,veg
+4133,21433,Texas Enchilada Sauce,garlic,veg
+4134,21433,Texas Enchilada Sauce,butter,dairy
+4135,21433,Texas Enchilada Sauce,onion,veg
+4137,9562,Christmas Snack Mix,peanuts,carbs
+4138,9562,Christmas Snack Mix,chocolate,dairy
+4139,9562,Christmas Snack Mix,peanuts,carbs
+4140,9562,Christmas Snack Mix,nuts,carbs
+4141,18050,Real Texas Chili,beef,meat
+4142,18050,Real Texas Chili,oil,oil
+4143,18050,Real Texas Chili,garlic,veg
+4146,18050,Real Texas Chili,flour,dairy
+4151,20518,Bacon Cheese Treats,cheese,dairy
+4154,20518,Bacon Cheese Treats,onion,veg
+4156,238287,Tortellini Alfredo with Peas and Bacon,cheese,dairy
+4157,238287,Tortellini Alfredo with Peas and Bacon,onion,veg
+4158,238287,Tortellini Alfredo with Peas and Bacon,mushrooms,veg
+4159,238287,Tortellini Alfredo with Peas and Bacon,bacon,meat
+4161,238287,Tortellini Alfredo with Peas and Bacon,peas,veg
+4163,238287,Tortellini Alfredo with Peas and Bacon,cheese,dairy
+4164,10445,Chocolate Coated Peanut Butter Crackers,butter,dairy
+4168,15287,Pfeffernusse Kuchen,eggs,meat
+4169,15287,Pfeffernusse Kuchen,sugar,sugar
+4170,15287,Pfeffernusse Kuchen,flour,dairy
+4175,232822,Can't Leave Alone Bars,oil,oil
+4176,232822,Can't Leave Alone Bars,eggs,meat
+4177,232822,Can't Leave Alone Bars,milk,dairy
+4178,232822,Can't Leave Alone Bars,chocolate,dairy
+4179,232822,Can't Leave Alone Bars,butter,dairy
+4184,219340,Ladybug's Poppy Seed Chicken Casserole,butter,dairy
+4187,219340,Ladybug's Poppy Seed Chicken Casserole,chicken,meat
+4188,219340,Ladybug's Poppy Seed Chicken Casserole,cream,dairy
+4189,11904,Creamy Chicken on Linguine,oil,oil
+4190,11904,Creamy Chicken on Linguine,butter,dairy
+4191,11904,Creamy Chicken on Linguine,garlic,veg
+4194,11904,Creamy Chicken on Linguine,onion,veg
+4197,11904,Creamy Chicken on Linguine,cream,dairy
+4198,11904,Creamy Chicken on Linguine,milk,dairy
+4200,11904,Creamy Chicken on Linguine,cheese,dairy
+4204,222145,Healthier Actually Delicious Turkey Burgers,onion,veg
+4207,222145,Healthier Actually Delicious Turkey Burgers,garlic,veg
+4210,14332,Strawberry Spinach Salad III,spinach,veg
+4212,14332,Strawberry Spinach Salad III,oil,oil
+4214,14332,Strawberry Spinach Salad III,sugar,sugar
+4215,14332,Strawberry Spinach Salad III,garlic,veg
+4216,14332,Strawberry Spinach Salad III,onion,veg
+4221,45340,Czech Stuffed Green Peppers,peppers,veg
+4222,45340,Czech Stuffed Green Peppers,onion,veg
+4223,45340,Czech Stuffed Green Peppers,beef,meat
+4224,45340,Czech Stuffed Green Peppers,rice,sugar
+4225,45340,Czech Stuffed Green Peppers,eggs,meat
+4228,45340,Czech Stuffed Green Peppers,oil,oil
+4237,45340,Czech Stuffed Green Peppers,cream,dairy
+4238,23539,Strawberry Oatmeal Breakfast Smoothie,milk,dairy
+4239,23539,Strawberry Oatmeal Breakfast Smoothie,oats,carbs
+4241,23539,Strawberry Oatmeal Breakfast Smoothie,strawberries,veg
+4243,23539,Strawberry Oatmeal Breakfast Smoothie,sugar,sugar
+4244,79639,Baked Bean Sandwiches,beans,veg
+4245,79639,Baked Bean Sandwiches,onion,veg
+4247,79639,Baked Bean Sandwiches,cheese,dairy
+4248,79639,Baked Bean Sandwiches,bacon,meat
+4249,45048,Pork and Hominy Stew,pork,meat
+4252,45048,Pork and Hominy Stew,oil,oil
+4253,45048,Pork and Hominy Stew,hominy,veg
+4254,45048,Pork and Hominy Stew,peppers,veg
+4256,45048,Pork and Hominy Stew,onion,veg
+4257,45048,Pork and Hominy Stew,garlic,veg
+4261,45048,Pork and Hominy Stew,cabbage,veg
+4264,11275,Chow Mein Clusters,peanuts,carbs
+4265,256624,Garlicky Blue Cheese Steak,butter,dairy
+4266,256624,Garlicky Blue Cheese Steak,cheese,dairy
+4270,256624,Garlicky Blue Cheese Steak,garlic,veg
+4272,242038,Healthier Deep Dark Old Recipe Bran Muffins,flour,dairy
+4275,242038,Healthier Deep Dark Old Recipe Bran Muffins,eggs,meat
+4277,242038,Healthier Deep Dark Old Recipe Bran Muffins,sugar,sugar
+4278,242038,Healthier Deep Dark Old Recipe Bran Muffins,molasses,sugar
+4280,242038,Healthier Deep Dark Old Recipe Bran Muffins,raisins,veg
+4282,232911,Easy Creamed Pearl Onions,butter,dairy
+4283,232911,Easy Creamed Pearl Onions,flour,dairy
+4285,232911,Easy Creamed Pearl Onions,cream,dairy
+4289,6803,Donna's Chocolate Zucchini Bread,eggs,meat
+4290,6803,Donna's Chocolate Zucchini Bread,sugar,sugar
+4291,6803,Donna's Chocolate Zucchini Bread,oil,oil
+4293,6803,Donna's Chocolate Zucchini Bread,flour,dairy
+4301,6916,Croissants,sugar,sugar
+4302,6916,Croissants,flour,dairy
+4303,6916,Croissants,sugar,sugar
+4305,6916,Croissants,milk,dairy
+4306,6916,Croissants,oil,oil
+4307,6916,Croissants,butter,dairy
+4310,16832,Date Haroset,dates,veg
+4311,16832,Date Haroset,raisins,veg
+4315,16832,Date Haroset,sugar,sugar
+4317,47520,Jalapeno Jelly,peppers,veg
+4320,47520,Jalapeno Jelly,sugar,sugar
+4322,47520,Jalapeno Jelly,peppers,veg
+4324,235072,Strawberry-Kiwi Holiday Trifle,milk,dairy
+4328,79538,Coronation Chicken,raisins,veg
+4335,23322,Cinnabun Cookies,butter,dairy
+4336,23322,Cinnabun Cookies,butter,dairy
+4337,23322,Cinnabun Cookies,sugar,sugar
+4338,23322,Cinnabun Cookies,sugar,sugar
+4339,23322,Cinnabun Cookies,eggs,meat
+4342,23322,Cinnabun Cookies,flour,dairy
+4344,23322,Cinnabun Cookies,sugar,sugar
+4345,23322,Cinnabun Cookies,butter,dairy
+4348,9034,Rosemary Chicken,oil,oil
+4352,9034,Rosemary Chicken,onion,veg
+4356,218318,Farm Lady's Delicious Chicken Parmesan,flour,dairy
+4358,218318,Farm Lady's Delicious Chicken Parmesan,cheese,dairy
+4365,218318,Farm Lady's Delicious Chicken Parmesan,cheese,dairy
+4366,222179,Chicken Curry and Potatoes,chicken,meat
+4367,222179,Chicken Curry and Potatoes,oil,oil
+4369,222179,Chicken Curry and Potatoes,garlic,veg
+4374,222179,Chicken Curry and Potatoes,potatoes,veg
+4376,80285,Portuguese Bean Soup,sausage,meat
+4377,80285,Portuguese Bean Soup,onion,veg
+4379,80285,Portuguese Bean Soup,potatoes,veg
+4380,80285,Portuguese Bean Soup,celery,veg
+4381,80285,Portuguese Bean Soup,carrots,veg
+4383,80285,Portuguese Bean Soup,tomato,veg
+4384,80285,Portuguese Bean Soup,garlic,veg
+4385,80285,Portuguese Bean Soup,cabbage,veg
+4386,80285,Portuguese Bean Soup,beans,veg
+4387,222088,Healthier Banana Crumb Muffins,flour,dairy
+4391,222088,Healthier Banana Crumb Muffins,sugar,sugar
+4393,222088,Healthier Banana Crumb Muffins,butter,dairy
+4394,222088,Healthier Banana Crumb Muffins,sugar,sugar
+4395,222088,Healthier Banana Crumb Muffins,flour,dairy
+4397,222088,Healthier Banana Crumb Muffins,butter,dairy
+4398,239254,Peanut Butter Oatmeal Cookies from Mazola®,flour,dairy
+4399,239254,Peanut Butter Oatmeal Cookies from Mazola®,oats,carbs
+4403,239254,Peanut Butter Oatmeal Cookies from Mazola®,butter,dairy
+4404,239254,Peanut Butter Oatmeal Cookies from Mazola®,oil,oil
+4405,239254,Peanut Butter Oatmeal Cookies from Mazola®,butter,dairy
+4406,239254,Peanut Butter Oatmeal Cookies from Mazola®,sugar,sugar
+4407,239254,Peanut Butter Oatmeal Cookies from Mazola®,sugar,sugar
+4408,239254,Peanut Butter Oatmeal Cookies from Mazola®,eggs,meat
+4411,241488,Turmeric Sun Dressing,oil,oil
+4413,241488,Turmeric Sun Dressing,honey,sugar
+4414,241488,Turmeric Sun Dressing,garlic,veg
+4418,214646,Macaroni Tuna Salad,celery,veg
+4419,214646,Macaroni Tuna Salad,onion,veg
+4424,237396,Spicy Quesadilla Sauce,peppers,veg
+4425,237396,Spicy Quesadilla Sauce,sugar,sugar
+4429,237396,Spicy Quesadilla Sauce,garlic,veg
+4431,220219,"Shrimp, Sausage, and Fish Jambalaya",butter,dairy
+4432,220219,"Shrimp, Sausage, and Fish Jambalaya",sausage,meat
+4433,220219,"Shrimp, Sausage, and Fish Jambalaya",onion,veg
+4434,220219,"Shrimp, Sausage, and Fish Jambalaya",celery,veg
+4436,220219,"Shrimp, Sausage, and Fish Jambalaya",garlic,veg
+4437,220219,"Shrimp, Sausage, and Fish Jambalaya",tomato,veg
+4442,220219,"Shrimp, Sausage, and Fish Jambalaya",chicken,meat
+4443,220219,"Shrimp, Sausage, and Fish Jambalaya",rice,sugar
+4444,220219,"Shrimp, Sausage, and Fish Jambalaya",shrimp,meat
+4445,220219,"Shrimp, Sausage, and Fish Jambalaya",cod,meat
