@@ -1,28 +1,23 @@
 ,recipe_id,recipe_name,ingredients,ingredient_tags
 0,219933,Benny's Famous Jalapeno Poppers,cream cheese,cheese
 1,219933,Benny's Famous Jalapeno Poppers,shredded Cheddar cheese,cheese
-2,219933,Benny's Famous Jalapeno Poppers,fresh corn kernals,kernals
 3,219933,Benny's Famous Jalapeno Poppers,salt and ground black pepper to taste,pepper
 4,219933,Benny's Famous Jalapeno Poppers,fresh jalapeno peppers,peppers
 5,219933,Benny's Famous Jalapeno Poppers,bacon,bacon
-6,219933,Benny's Famous Jalapeno Poppers,toothpicks,toothpicks
-7,245278,Chicken Posole Verde Soup,Chicken:,chicken
 8,245278,Chicken Posole Verde Soup,large skinless boneless chicken breasts,chicken
+9,245278,Chicken Posole Verde Soup,cumin,cumin
 10,245278,Chicken Posole Verde Soup,ground black pepper,pepper
-12,245278,Chicken Posole Verde Soup,lime juiced,juiced
+11,245278,Chicken Posole Verde Soup,adobo seasoning,seasoning
 13,245278,Chicken Posole Verde Soup,Salsa Verde:,verde
-15,245278,Chicken Posole Verde Soup,serrano chiles stemmed,serrano
+15,245278,Chicken Posole Verde Soup,serrano chiles stemmed,chiles
 16,245278,Chicken Posole Verde Soup,onion,onion
 17,245278,Chicken Posole Verde Soup,garlic cloves,garlic
 18,245278,Chicken Posole Verde Soup,cilantro,cilantro
 19,245278,Chicken Posole Verde Soup,kosher salt,salt
 21,245278,Chicken Posole Verde Soup,fluid ounce) container chicken stock,chicken
-22,245278,Chicken Posole Verde Soup,white hominy drained,hominy
-23,68454,Cinnamon Gelatin Salad,raspberry flavored Jell-O® mix,mix
-24,68454,Cinnamon Gelatin Salad,boiling water,water
 25,68454,Cinnamon Gelatin Salad,cinnamon red hot candies,candies
 26,68454,Cinnamon Gelatin Salad,applesauce,applesauce
-27,22733,Kids' Snack,sweetened honey corn and oat cereal,honey
+27,22733,Kids' Snack,sweetened honey corn and oat cereal,corn
 28,22733,Kids' Snack,bear-shaped graham cookies,cookies
 29,22733,Kids' Snack,miniature marshmallows,marshmallows
 30,22733,Kids' Snack,semisweet chocolate chips,chips
@@ -31,7 +26,7 @@
 33,245406,Fried Brussels Sprouts,fresh Brussels sprouts trimmed and sliced,sprouts
 34,245406,Fried Brussels Sprouts,white sugar,sugar
 35,245406,Fried Brussels Sprouts,salt and ground black pepper to taste,pepper
-36,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,Pancakes:,pancakes
+36,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,Pancakes:,:
 37,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,all-purpose flour,flour
 38,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,white sugar,sugar
 40,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,baking soda,soda
@@ -41,24 +36,18 @@
 44,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,butter,butter
 45,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,vanilla extract,vanilla
 46,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,sprinkles,sprinkles
-47,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,Sprinkle Sauce:,sprinkle
 48,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,confectioners' sugar,sugar
 49,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,heavy whipping cream,cream
 50,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,vanilla extract,vanilla
 51,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,sea salt,salt
 52,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,sprinkles,sprinkles
-53,259053,Funfetti® Pancakes with Vanilla Cream Sprinkle Sauce,cooking spray,spray
-54,245031,Country-Style Honey Mustard,yellow mustard seed,seed
-55,245031,Country-Style Honey Mustard,brown mustard seed,seed
 56,245031,Country-Style Honey Mustard,ground mustard powder,mustard
-57,245031,Country-Style Honey Mustard,almond-fruit flavored soda (such as Dr Pepper®),soda
 58,245031,Country-Style Honey Mustard,honey,honey
 59,245031,Country-Style Honey Mustard,kosher salt,salt
 60,245031,Country-Style Honey Mustard,dried thyme,thyme
 61,245031,Country-Style Honey Mustard,ground turmeric (optional),turmeric
 62,245031,Country-Style Honey Mustard,apple cider vinegar,vinegar
 63,87271,Vegan Baked Beans,dry navy beans,beans
-64,87271,Vegan Baked Beans,water,water
 65,87271,Vegan Baked Beans,olive oil,oil
 66,87271,Vegan Baked Beans,chopped sweet onions,onions
 67,87271,Vegan Baked Beans,garlic,garlic
@@ -79,11 +68,7 @@
 82,174421,Wilted Spinach with Cherries and Goat Cheese,bag fresh baby spinach,spinach
 83,174421,Wilted Spinach with Cherries and Goat Cheese,crumbled goat cheese,cheese
 84,239163,Simple and Flavorful Salisbury Steak,lean ground beef,beef
-85,239163,Simple and Flavorful Salisbury Steak,eggs beaten,beaten
-86,239163,Simple and Flavorful Salisbury Steak,Italian seasoned bread crumbs,crumbs
-87,239163,Simple and Flavorful Salisbury Steak,dry onion soup mix,mix
 88,239163,Simple and Flavorful Salisbury Steak,salt and ground black pepper to taste,pepper
-89,239163,Simple and Flavorful Salisbury Steak,beef broth,broth
 90,239163,Simple and Flavorful Salisbury Steak,cream of mushroom soup,soup
 91,239163,Simple and Flavorful Salisbury Steak,dry mustard,mustard
 92,260679,Easy Coconut Sheet Cake,Sheet Cake:,cake
@@ -96,11 +81,9 @@
 101,260679,Easy Coconut Sheet Cake,white sugar,sugar
 102,260679,Easy Coconut Sheet Cake,heavy whipping cream,cream
 103,218718,Basmati with Toasted Noodles,uncooked basmati rice,rice
-104,218718,Basmati with Toasted Noodles,water,water
 105,218718,Basmati with Toasted Noodles,salt,salt
 106,218718,Basmati with Toasted Noodles,olive oil,oil
 107,218718,Basmati with Toasted Noodles,uncooked fideo noodles,noodles
-108,218718,Basmati with Toasted Noodles,water,water
 109,218718,Basmati with Toasted Noodles,chopped fresh parsley,parsley
 110,245303,Sweet Coconut Oatmeal,coconut milk,milk
 111,245303,Sweet Coconut Oatmeal,rolled oats,oats
@@ -109,24 +92,22 @@
 114,245303,Sweet Coconut Oatmeal,brown sugar,sugar
 115,245303,Sweet Coconut Oatmeal,ground cinnamon,cinnamon
 116,235161,Ape's Pulled Pork,bottle creole butter and jalapeno injectable marinade (such as Tony Chachere's®),marinade
+117,235161,Ape's Pulled Pork,fluid ounce) can,can
 118,235161,Ape's Pulled Pork,honey,honey
 119,235161,Ape's Pulled Pork,soy sauce,soy
 120,235161,Ape's Pulled Pork,Worcestershire sauce,worcestershire
-121,235161,Ape's Pulled Pork,marinade injector,injector
-122,235161,Ape's Pulled Pork,pork shoulder roast,pork
+122,235161,Ape's Pulled Pork,pork shoulder roast,roast
 123,235161,Ape's Pulled Pork,Creole seasoning (such as Tony Chachere's®),creole
 124,235161,Ape's Pulled Pork,fresh ground black pepper to taste,pepper
 125,233794,Slow-Cooked Green Beans,bacon,bacon
 126,233794,Slow-Cooked Green Beans,onion,onion
 127,233794,Slow-Cooked Green Beans,garlic,garlic
 128,233794,Slow-Cooked Green Beans,tomato sauce,tomato
-129,233794,Slow-Cooked Green Beans,fresh green beans trimmed,trimmed
-130,233794,Slow-Cooked Green Beans,chicken broth,chicken
 131,233794,Slow-Cooked Green Beans,salt and ground black pepper to taste,pepper
 132,233794,Slow-Cooked Green Beans,cayenne pepper,pepper
 133,14817,Beer Dip I,cream cheese,cheese
-134,14817,Beer Dip I,ranch dressing mix,mix
 135,14817,Beer Dip I,shredded Cheddar cheese,cheese
+136,14817,Beer Dip I,beer,beer
 137,235886,Gluten Free Gingerbread Drops,drained and rinsed canned pinto beans,beans
 138,235886,Gluten Free Gingerbread Drops,molasses,molasses
 139,235886,Gluten Free Gingerbread Drops,oil,oil
@@ -140,9 +121,7 @@
 147,24124,Mom's Chicken Pie,sliced mushrooms,mushrooms
 148,24124,Mom's Chicken Pie,sour cream,cream
 149,24124,Mom's Chicken Pie,salt and pepper to taste,pepper
-150,24124,Mom's Chicken Pie,frozen puff pastry thawed,thawed
 151,24124,Mom's Chicken Pie,egg,egg
-152,240093,Mahi Mahi Ceviche,mahi mahi fillets diced,mahi
 153,240093,Mahi Mahi Ceviche,lime juice,lime
 154,240093,Mahi Mahi Ceviche,lemon juice,lemon
 155,240093,Mahi Mahi Ceviche,minced jalapeno pepper,pepper
@@ -151,14 +130,14 @@
 158,240093,Mahi Mahi Ceviche,cayenne pepper,pepper
 159,240093,Mahi Mahi Ceviche,diced avocados,avocados
 160,240093,Mahi Mahi Ceviche,peeled and seeded diced cucumber,cucumber
-161,240093,Mahi Mahi Ceviche,diced orange segments,segments
+161,240093,Mahi Mahi Ceviche,diced orange segments,orange
 162,240093,Mahi Mahi Ceviche,chopped fresh chives,chives
 164,240093,Mahi Mahi Ceviche,chopped cilantro,cilantro
 165,240093,Mahi Mahi Ceviche,olive oil,oil
 166,214432,Xavier Steak,New York strip steaks at least 1-inch thick,strip
 167,214432,Xavier Steak,salt and pepper to taste,pepper
 168,214432,Xavier Steak,Worcestershire sauce,worcestershire
-169,214432,Xavier Steak,asparagus spears ends trimmed,trimmed
+169,214432,Xavier Steak,asparagus spears ends trimmed,asparagus
 170,214432,Xavier Steak,olive oil,oil
 171,214432,Xavier Steak,Swiss cheese,cheese
 172,9182,Pumpkin Biscuits,all-purpose flour,flour
@@ -175,20 +154,17 @@
 184,15266,Grilled Chicken Cordon Bleu Sandwiches,Swiss cheese,cheese
 185,15266,Grilled Chicken Cordon Bleu Sandwiches,thick slice deli cooked chicken breast meat,chicken
 186,15266,Grilled Chicken Cordon Bleu Sandwiches,deli ham,ham
-188,220393,Stacked Fajita Vegetable Enchilada Casserole,red bell pepper slices,pepper
 189,220393,Stacked Fajita Vegetable Enchilada Casserole,onion,onion
-190,220393,Stacked Fajita Vegetable Enchilada Casserole,water,water
 191,220393,Stacked Fajita Vegetable Enchilada Casserole,vegetable oil,oil
-192,220393,Stacked Fajita Vegetable Enchilada Casserole,dry fajita seasoning,fajita
+192,220393,Stacked Fajita Vegetable Enchilada Casserole,dry fajita seasoning,seasoning
 193,220393,Stacked Fajita Vegetable Enchilada Casserole,all-purpose flour,flour
 194,220393,Stacked Fajita Vegetable Enchilada Casserole,nutritional yeast,yeast
 195,220393,Stacked Fajita Vegetable Enchilada Casserole,salt,salt
 196,220393,Stacked Fajita Vegetable Enchilada Casserole,garlic powder,garlic
 197,220393,Stacked Fajita Vegetable Enchilada Casserole,dry mustard powder,mustard
-198,220393,Stacked Fajita Vegetable Enchilada Casserole,water,water
 199,220393,Stacked Fajita Vegetable Enchilada Casserole,margarine,margarine
-200,220393,Stacked Fajita Vegetable Enchilada Casserole,red enchilada sauce,enchilada
 202,220393,Stacked Fajita Vegetable Enchilada Casserole,cooked brown rice,rice
+203,220393,Stacked Fajita Vegetable Enchilada Casserole,black beans rinsed and drained,beans
 204,220393,Stacked Fajita Vegetable Enchilada Casserole,sliced black olives (optional),olives
 205,220393,Stacked Fajita Vegetable Enchilada Casserole,avocado,avocado
 206,220393,Stacked Fajita Vegetable Enchilada Casserole,chopped tomato (optional),tomato
@@ -201,13 +177,12 @@
 213,10320,Peanut Butter Drops,unsweetened cocoa powder,cocoa
 214,10320,Peanut Butter Drops,butter,butter
 215,10320,Peanut Butter Drops,peanut butter,butter
+216,10320,Peanut Butter Drops,quick cooking oats,oats
 218,65486,Bolas de Mani (Peanut and Plantain Balls),salt,salt
 219,65486,Bolas de Mani (Peanut and Plantain Balls),chunky peanut butter,butter
 220,9233,Vegetarian Stuffing,loaf day-old bread,bread
 221,9233,Vegetarian Stuffing,condensed cream of mushroom soup,cream
-222,9233,Vegetarian Stuffing,vegetable broth,broth
-223,9233,Vegetarian Stuffing,water,water
-224,9233,Vegetarian Stuffing,poultry seasoning,poultry
+224,9233,Vegetarian Stuffing,poultry seasoning,seasoning
 225,9233,Vegetarian Stuffing,salt to taste,salt
 226,9233,Vegetarian Stuffing,ground black pepper to taste,pepper
 227,9233,Vegetarian Stuffing,wild rice,rice
@@ -216,7 +191,6 @@
 230,9233,Vegetarian Stuffing,chopped walnuts (optional),walnuts
 231,9233,Vegetarian Stuffing,cubed apples (optional),apples
 232,220643,Gina's Creamy Mushroom Lasagna,uncooked lasagna noodles,noodles
-233,220643,Gina's Creamy Mushroom Lasagna,cooking spray,spray
 234,220643,Gina's Creamy Mushroom Lasagna,olive oil,oil
 235,220643,Gina's Creamy Mushroom Lasagna,chopped shallots,shallots
 236,220643,Gina's Creamy Mushroom Lasagna,garlic cloves,garlic
@@ -237,8 +211,7 @@
 251,16336,Ladyfinger Cheesecake,vanilla extract,vanilla
 252,16336,Ladyfinger Cheesecake,white sugar,sugar
 253,16336,Ladyfinger Cheesecake,pint heavy whipping cream,cream
-254,16336,Ladyfinger Cheesecake,cherry pie filling,pie
-255,63248,Absolutely Delicious Stuffed Calamari,calamari tubes,tubes
+254,16336,Ladyfinger Cheesecake,cherry pie filling,cherry
 256,63248,Absolutely Delicious Stuffed Calamari,green onions,onions
 257,63248,Absolutely Delicious Stuffed Calamari,garlic,garlic
 258,63248,Absolutely Delicious Stuffed Calamari,chopped cooked shrimp meat,meat
@@ -263,7 +236,6 @@
 279,25906,Awesome Green Beans,onion,onion
 280,25906,Awesome Green Beans,garlic,garlic
 281,25906,Awesome Green Beans,links spicy pork sausage,sausage
-282,25906,Awesome Green Beans,water,water
 283,25906,Awesome Green Beans,frozen green beans,beans
 284,25906,Awesome Green Beans,seasoning salt to taste,salt
 285,229287,Shrimp Pasta with Tomato Basil Sauce,linguine pasta,pasta
@@ -273,7 +245,6 @@
 289,229287,Shrimp Pasta with Tomato Basil Sauce,chopped fresh basil,basil
 290,229287,Shrimp Pasta with Tomato Basil Sauce,Italian seasoning,seasoning
 291,229287,Shrimp Pasta with Tomato Basil Sauce,salt and ground black pepper to taste,pepper
-292,229287,Shrimp Pasta with Tomato Basil Sauce,large tomatoes chopped,tomatoes
 293,229287,Shrimp Pasta with Tomato Basil Sauce,diced tomatoes,tomatoes
 294,229287,Shrimp Pasta with Tomato Basil Sauce,red wine (optional),wine
 295,229287,Shrimp Pasta with Tomato Basil Sauce,lemon juice,lemon
@@ -290,7 +261,6 @@
 306,178742,Dublin Coddle,salt and pepper to taste,pepper
 307,105072,Easy Passion Fruit Mousse,whipping cream,cream
 308,105072,Easy Passion Fruit Mousse,sweetened condensed milk,milk
-309,105072,Easy Passion Fruit Mousse,frozen passion fruit juice concentrate,concentrate
 310,89338,Sweet Potato Chicken Casserole,olive oil,oil
 311,89338,Sweet Potato Chicken Casserole,large onion,onion
 312,89338,Sweet Potato Chicken Casserole,garlic,garlic
@@ -307,12 +277,10 @@
 324,25255,Sunshine's Company Potatoes,salt,salt
 325,25255,Sunshine's Company Potatoes,pepper,pepper
 326,25255,Sunshine's Company Potatoes,garlic salt,salt
-327,7849,Chocolate Banana Cake,devil's food cake mix,mix
 328,7849,Chocolate Banana Cake,mashed bananas,bananas
 329,7849,Chocolate Banana Cake,vegetable oil,oil
 330,7849,Chocolate Banana Cake,eggs,eggs
 332,258666,Cobb Salad with Brown Derby French Dressing,red wine vinegar,vinegar
-333,258666,Cobb Salad with Brown Derby French Dressing,water,water
 334,258666,Cobb Salad with Brown Derby French Dressing,vegetable oil,oil
 335,258666,Cobb Salad with Brown Derby French Dressing,olive oil,oil
 336,258666,Cobb Salad with Brown Derby French Dressing,lemon juice,lemon
@@ -322,17 +290,18 @@
 340,258666,Cobb Salad with Brown Derby French Dressing,ground black pepper,pepper
 341,258666,Cobb Salad with Brown Derby French Dressing,white sugar,sugar
 342,258666,Cobb Salad with Brown Derby French Dressing,dry mustard,mustard
-344,258666,Cobb Salad with Brown Derby French Dressing,head iceberg lettuce chopped,iceberg
+343,258666,Cobb Salad with Brown Derby French Dressing,Salad:,salad
+345,258666,Cobb Salad with Brown Derby French Dressing,watercress trimmed and chopped,watercress
+346,258666,Cobb Salad with Brown Derby French Dressing,tomatoes chopped,tomatoes
 347,258666,Cobb Salad with Brown Derby French Dressing,sliced deli turkey meat,meat
 348,258666,Cobb Salad with Brown Derby French Dressing,hard-cooked eggs chopped,eggs
 349,258666,Cobb Salad with Brown Derby French Dressing,crumbled blue cheese,cheese
 350,258666,Cobb Salad with Brown Derby French Dressing,cooked bacon,bacon
-351,258666,Cobb Salad with Brown Derby French Dressing,avocados diced,avocados
 352,254795,Healthy Wild Blueberry Sauce,frozen wild blueberries,blueberries
-353,254795,Healthy Wild Blueberry Sauce,water,water
 354,254795,Healthy Wild Blueberry Sauce,honey,honey
 355,254795,Healthy Wild Blueberry Sauce,lemon zested,lemon
 356,254795,Healthy Wild Blueberry Sauce,salt (optional),salt
+357,220754,Cheesy Rutabaga Bake,cubed rutabaga,rutabaga
 358,220754,Cheesy Rutabaga Bake,butter,butter
 359,220754,Cheesy Rutabaga Bake,minced garlic,garlic
 360,220754,Cheesy Rutabaga Bake,all-purpose flour,flour
@@ -340,8 +309,8 @@
 362,220754,Cheesy Rutabaga Bake,shredded Cheddar cheese,cheese
 363,220754,Cheesy Rutabaga Bake,cayenne pepper,pepper
 364,220754,Cheesy Rutabaga Bake,salt and ground black pepper to taste,pepper
-365,220754,Cheesy Rutabaga Bake,seasoned bread crumbs,crumbs
 367,83428,Pizza Casserole II,ground beef,beef
+368,83428,Pizza Casserole II,envelope sloppy joe seasoning,seasoning
 369,83428,Pizza Casserole II,refrigerated crescent roll dough,dough
 370,83428,Pizza Casserole II,shredded mozzarella cheese,cheese
 371,83428,Pizza Casserole II,shredded Cheddar cheese,cheese
@@ -349,11 +318,10 @@
 373,83548,Grandma's Dried Beef Casserole,margarine,margarine
 374,83548,Grandma's Dried Beef Casserole,all-purpose flour,flour
 375,83548,Grandma's Dried Beef Casserole,milk,milk
-376,83548,Grandma's Dried Beef Casserole,processed cheese food,cheese
 377,83548,Grandma's Dried Beef Casserole,uncooked egg noodles,noodles
 378,83548,Grandma's Dried Beef Casserole,cream of mushroom soup,soup
 379,83548,Grandma's Dried Beef Casserole,dried beef,beef
-380,83548,Grandma's Dried Beef Casserole,crushed plain potato chips,potato
+380,83548,Grandma's Dried Beef Casserole,crushed plain potato chips,chips
 382,11144,Orange Peel Cookies,white sugar,sugar
 383,11144,Orange Peel Cookies,milk,milk
 384,11144,Orange Peel Cookies,baking soda,soda
@@ -385,14 +353,11 @@
 411,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,carrots,carrots
 412,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,cremini mushrooms chopped,mushrooms
 413,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,kosher salt and ground black pepper to taste,pepper
-414,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,drained and finely chopped artichoke hearts,hearts
 415,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,garlic,garlic
 416,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,crumbled feta cheese,cheese
-417,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,dry bread crumbs,crumbs
 418,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,egg,egg
 419,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,2% milk,milk
 420,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,Worcestershire sauce,worcestershire
-421,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,extra-lean ground turkey breast,breast
 422,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,chopped fresh parsley,parsley
 423,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,chopped fresh thyme,thyme
 424,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,Italian seasoning,seasoning
@@ -401,7 +366,6 @@
 427,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,balsamic vinegar,vinegar
 428,223346,Veggie Turkey Meatloaf with Tangy Balsamic Glaze,honey,honey
 429,215105,Cheddar-Topped Veggie Beef Skillet Dinner,pearl barley,barley
-430,215105,Cheddar-Topped Veggie Beef Skillet Dinner,water,water
 431,215105,Cheddar-Topped Veggie Beef Skillet Dinner,olive oil,oil
 432,215105,Cheddar-Topped Veggie Beef Skillet Dinner,extra lean ground beef,beef
 433,215105,Cheddar-Topped Veggie Beef Skillet Dinner,onion,onion
@@ -416,7 +380,6 @@
 442,215105,Cheddar-Topped Veggie Beef Skillet Dinner,kidney beans rinsed and drained,beans
 443,215105,Cheddar-Topped Veggie Beef Skillet Dinner,shredded reduced-fat Cheddar cheese,cheese
 444,222781,Mushroom and Swiss Burger,condensed golden mushroom soup,soup
-445,222781,Mushroom and Swiss Burger,sliced mushrooms drained,mushrooms
 446,222781,Mushroom and Swiss Burger,Worcestershire sauce,worcestershire
 447,222781,Mushroom and Swiss Burger,ground beef,beef
 448,222781,Mushroom and Swiss Burger,monosodium glutamate (MSG),glutamate
@@ -425,7 +388,6 @@
 451,222781,Mushroom and Swiss Burger,hamburger buns,buns
 452,222781,Mushroom and Swiss Burger,of Swiss-style processed cheese,cheese
 453,146467,Banana-Dulce de Leche Pie (Banana-Caramel Pie),sweetened condensed milk,milk
-454,146467,Banana-Dulce de Leche Pie (Banana-Caramel Pie),graham cracker crumbs,crumbs
 455,146467,Banana-Dulce de Leche Pie (Banana-Caramel Pie),butter,butter
 456,146467,Banana-Dulce de Leche Pie (Banana-Caramel Pie),bananas,bananas
 457,146467,Banana-Dulce de Leche Pie (Banana-Caramel Pie),whipping cream,cream
@@ -433,14 +395,11 @@
 459,146467,Banana-Dulce de Leche Pie (Banana-Caramel Pie),vanilla extract,vanilla
 460,147023,Christmas Red Pickles,large cucumbers,cucumbers
 461,147023,Christmas Red Pickles,pickling lime (calcium hydroxide),lime
-462,147023,Christmas Red Pickles,red food coloring,coloring
 463,147023,Christmas Red Pickles,powdered alum,alum
 464,147023,Christmas Red Pickles,distilled white vinegar,vinegar
 465,147023,Christmas Red Pickles,white sugar,sugar
 466,147023,Christmas Red Pickles,distilled white vinegar,vinegar
-467,147023,Christmas Red Pickles,water,water
 468,147023,Christmas Red Pickles,cinnamon red hot candies,candies
-469,147023,Christmas Red Pickles,cinnamon sticks,sticks
 470,221132,Magnificent Macaroni Salad,elbow macaroni,macaroni
 471,221132,Magnificent Macaroni Salad,mayonnaise,mayonnaise
 472,221132,Magnificent Macaroni Salad,large onion,onion
@@ -448,7 +407,6 @@
 474,221132,Magnificent Macaroni Salad,prepared yellow mustard,mustard
 475,221132,Magnificent Macaroni Salad,rice vinegar,vinegar
 476,221132,Magnificent Macaroni Salad,white sugar,sugar
-477,221132,Magnificent Macaroni Salad,celery seed,seed
 478,221132,Magnificent Macaroni Salad,salt,salt
 479,221132,Magnificent Macaroni Salad,hard-cooked eggs chopped,eggs
 480,236250,Skillet Apples with Cinnamon,butter,butter
@@ -456,15 +414,13 @@
 482,236250,Skillet Apples with Cinnamon,brown sugar,sugar
 483,236250,Skillet Apples with Cinnamon,ground cinnamon,cinnamon
 484,236250,Skillet Apples with Cinnamon,nutmeg,nutmeg
-485,11263,Orange Cream Cookie Mix,orange-flavored drink mix (e.g. Tang),mix
 486,11263,Orange Cream Cookie Mix,white sugar,sugar
-487,11263,Orange Cream Cookie Mix,vanilla baking chips,vanilla
+487,11263,Orange Cream Cookie Mix,vanilla baking chips,chips
 488,11263,Orange Cream Cookie Mix,all-purpose flour,flour
 489,11263,Orange Cream Cookie Mix,baking soda,soda
 491,17834,Chicken and Dumplings II,chicken,chicken
-492,17834,Chicken and Dumplings II,water,water
-493,17834,Chicken and Dumplings II,chicken bouillon,chicken
-494,17834,Chicken and Dumplings II,poultry seasoning,poultry
+493,17834,Chicken and Dumplings II,chicken bouillon,bouillon
+494,17834,Chicken and Dumplings II,poultry seasoning,seasoning
 495,17834,Chicken and Dumplings II,dried thyme,thyme
 496,17834,Chicken and Dumplings II,garlic powder,garlic
 497,17834,Chicken and Dumplings II,dried sage,sage
@@ -479,7 +435,6 @@
 506,17834,Chicken and Dumplings II,condensed chicken broth,chicken
 507,17834,Chicken and Dumplings II,all-purpose flour,flour
 508,17834,Chicken and Dumplings II,salt and pepper to taste,pepper
-509,17834,Chicken and Dumplings II,buttermilk baking mix,buttermilk
 510,17834,Chicken and Dumplings II,chopped fresh parsley,parsley
 511,17834,Chicken and Dumplings II,ground black pepper,pepper
 512,17834,Chicken and Dumplings II,milk,milk
@@ -490,7 +445,6 @@
 517,229892,Amazing Apple Butter,ground cinnamon,cinnamon
 518,229892,Amazing Apple Butter,ground cloves,cloves
 519,229892,Amazing Apple Butter,ground allspice,allspice
-520,229892,Amazing Apple Butter,half-pint canning jars with lids and rings,jars
 521,22850,Chewy Sugar Cookies,all-purpose flour,flour
 522,22850,Chewy Sugar Cookies,baking soda,soda
 523,22850,Chewy Sugar Cookies,salt,salt
@@ -499,7 +453,6 @@
 526,22850,Chewy Sugar Cookies,eggs,eggs
 527,22850,Chewy Sugar Cookies,vanilla extract,vanilla
 528,22850,Chewy Sugar Cookies,white sugar for decoration,sugar
-529,94582,Frosted Cranberries,water,water
 530,94582,Frosted Cranberries,pasteurized egg white,egg
 531,94582,Frosted Cranberries,fresh cranberries,cranberries
 532,94582,Frosted Cranberries,white sugar,sugar
@@ -511,7 +464,6 @@
 538,10312,Winter Energy Cookies,vanilla extract,vanilla
 539,10312,Winter Energy Cookies,wheat flour,flour
 540,10312,Winter Energy Cookies,all-purpose flour,flour
-541,10312,Winter Energy Cookies,toasted wheat germ,germ
 542,10312,Winter Energy Cookies,baking soda,soda
 543,10312,Winter Energy Cookies,salt,salt
 544,10312,Winter Energy Cookies,ground cinnamon,cinnamon
@@ -519,11 +471,9 @@
 546,10312,Winter Energy Cookies,raisins,raisins
 547,10312,Winter Energy Cookies,semisweet chocolate chips,chips
 548,10312,Winter Energy Cookies,chopped walnuts,walnuts
-549,244464,Stuffed Scalloped (Patty Pan) Squash,large patty pan squash,squash
 550,244464,Stuffed Scalloped (Patty Pan) Squash,bacon,bacon
 551,244464,Stuffed Scalloped (Patty Pan) Squash,onion,onion
 552,244464,Stuffed Scalloped (Patty Pan) Squash,garlic,garlic
-553,244464,Stuffed Scalloped (Patty Pan) Squash,water,water
 554,244464,Stuffed Scalloped (Patty Pan) Squash,beef bouillon,bouillon
 555,244464,Stuffed Scalloped (Patty Pan) Squash,cayenne pepper,pepper
 556,244464,Stuffed Scalloped (Patty Pan) Squash,shredded white Cheddar cheese (optional),cheese
@@ -536,8 +486,6 @@
 563,74551,Spinach and Yogurt Soup,dried tarragon,tarragon
 564,74551,Spinach and Yogurt Soup,ground nutmeg,nutmeg
 565,74551,Spinach and Yogurt Soup,cayenne pepper,pepper
-566,74551,Spinach and Yogurt Soup,frozen chopped spinach thawed,thawed
-567,74551,Spinach and Yogurt Soup,chicken broth,chicken
 568,74551,Spinach and Yogurt Soup,plain yogurt,yogurt
 569,74551,Spinach and Yogurt Soup,lemon cut in half for garnish,lemon
 570,236291,Viennexican Coffee,hot brewed coffee,coffee
@@ -550,6 +498,7 @@
 577,236291,Viennexican Coffee,ground cinnamon,cinnamon
 578,236291,Viennexican Coffee,ground cloves,cloves
 579,236291,Viennexican Coffee,ground nutmeg,nutmeg
+580,240312,Cut-Out Sugar Cookies,egg yolks,yolks
 581,240312,Cut-Out Sugar Cookies,almond paste broken into pieces,almond
 582,240312,Cut-Out Sugar Cookies,unsalted butter,butter
 583,240312,Cut-Out Sugar Cookies,white sugar,sugar
@@ -558,14 +507,12 @@
 586,166933,Meatloaf Muffins,lean ground beef,beef
 587,166933,Meatloaf Muffins,condensed vegetable soup,soup
 588,166933,Meatloaf Muffins,chopped onion,onion
-589,166933,Meatloaf Muffins,dry bread crumbs,crumbs
 590,166933,Meatloaf Muffins,eggs,eggs
 591,166933,Meatloaf Muffins,salt,salt
 592,166933,Meatloaf Muffins,ground black pepper,pepper
 593,166933,Meatloaf Muffins,ketchup (optional),ketchup
 594,19555,Sweet Potato Casserole VII,mashed sweet potatoes,potatoes
 595,19555,Sweet Potato Casserole VII,white sugar,sugar
-596,19555,Sweet Potato Casserole VII,eggs beaten,beaten
 597,19555,Sweet Potato Casserole VII,melted butter,butter
 598,19555,Sweet Potato Casserole VII,milk,milk
 599,19555,Sweet Potato Casserole VII,vanilla extract,vanilla
@@ -573,8 +520,7 @@
 601,19555,Sweet Potato Casserole VII,all-purpose flour,flour
 602,19555,Sweet Potato Casserole VII,butter,butter
 603,19555,Sweet Potato Casserole VII,shredded coconut,coconut
-605,242441,Grilled Beef Fajitas,boneless beef top round steak,beef
-606,242441,Grilled Beef Fajitas,Reynolds Wrap® Heavy Duty Aluminum Foil,foil
+605,242441,Grilled Beef Fajitas,boneless beef top round steak,steak
 608,242441,Grilled Beef Fajitas,medium green bell pepper,pepper
 609,242441,Grilled Beef Fajitas,medium onion,onion
 610,242441,Grilled Beef Fajitas,vegetable oil,oil
@@ -586,7 +532,7 @@
 616,203322,Caribbean Zucchini Bread,baking soda,soda
 618,203322,Caribbean Zucchini Bread,ground cinnamon,cinnamon
 619,203322,Caribbean Zucchini Bread,nutmeg,nutmeg
-620,203322,Caribbean Zucchini Bread,ripe bananas mashed,mashed
+620,203322,Caribbean Zucchini Bread,ripe bananas mashed,bananas
 621,203322,Caribbean Zucchini Bread,eggs,eggs
 622,203322,Caribbean Zucchini Bread,vegetable oil,oil
 623,203322,Caribbean Zucchini Bread,unsweetened applesauce,applesauce
@@ -605,7 +551,6 @@
 636,244251,No-Cook Overnight Oatmeal,fresh blueberries,blueberries
 637,220923,Ham Salad for Two,fully-cooked ham steak cut into strips,ham
 638,220923,Ham Salad for Two,chopped celery,celery
-639,220923,Ham Salad for Two,chopped sweet onion (such as Vidalia®),onion
 640,220923,Ham Salad for Two,chopped red bell pepper,pepper
 641,220923,Ham Salad for Two,chopped sweet pickle,pickle
 642,220923,Ham Salad for Two,diced pineapple,pineapple
@@ -634,12 +579,11 @@
 667,215908,Cheddar Onion Drop Biscuits,1% buttermilk,buttermilk
 668,143117,Easy Breakfast Nachos,bulk chorizo sausage,sausage
 669,143117,Easy Breakfast Nachos,onion,onion
-670,143117,Easy Breakfast Nachos,eggs beaten,beaten
+671,143117,Easy Breakfast Nachos,tomatoes chopped,tomatoes
 672,143117,Easy Breakfast Nachos,jalapeno peppers,peppers
 673,143117,Easy Breakfast Nachos,tortilla chips,chips
 674,143117,Easy Breakfast Nachos,finely shredded Mexican blend cheese,cheese
 675,17603,Good Chocolate Pie,unbaked pie crusts,crusts
-677,17603,Good Chocolate Pie,eggs beaten,beaten
 678,17603,Good Chocolate Pie,white sugar,sugar
 679,17603,Good Chocolate Pie,vanilla extract,vanilla
 680,17603,Good Chocolate Pie,all-purpose flour,flour
@@ -655,7 +599,6 @@
 690,24403,Sicilian Sausage Soup,crushed tomatoes,tomatoes
 691,24403,Sicilian Sausage Soup,chopped fresh parsley,parsley
 692,24403,Sicilian Sausage Soup,chopped fresh basil,basil
-693,24403,Sicilian Sausage Soup,chicken broth,chicken
 694,24403,Sicilian Sausage Soup,ditalini pasta,pasta
 695,24403,Sicilian Sausage Soup,salt and pepper to taste,pepper
 696,24403,Sicilian Sausage Soup,freshly grated Parmesan cheese,cheese
@@ -666,7 +609,6 @@
 702,24597,Oriental Spinach Salad,soy sauce,soy
 703,24597,Oriental Spinach Salad,garlic powder,garlic
 705,13063,Delicata Creamy Squash Soup,onion,onion
-706,13063,Delicata Creamy Squash Soup,vegetable broth,broth
 707,13063,Delicata Creamy Squash Soup,heavy whipping cream,cream
 708,13063,Delicata Creamy Squash Soup,butter,butter
 709,13063,Delicata Creamy Squash Soup,salt to taste,salt
@@ -675,34 +617,26 @@
 712,9325,Spiced Ham Loaf,lean ground beef,beef
 713,9325,Spiced Ham Loaf,egg,egg
 714,9325,Spiced Ham Loaf,milk,milk
-715,9325,Spiced Ham Loaf,bread crumbs,crumbs
 716,9325,Spiced Ham Loaf,salt,salt
 717,9325,Spiced Ham Loaf,ground black pepper to taste,pepper
 718,9325,Spiced Ham Loaf,packed brown sugar,sugar
-719,9325,Spiced Ham Loaf,water,water
 720,9325,Spiced Ham Loaf,ground mustard,mustard
 721,9325,Spiced Ham Loaf,distilled white vinegar,vinegar
-722,50220,Babi's Bean Salad,dried black-eyed peas soaked overnight,peas
 723,50220,Babi's Bean Salad,chopped celery,celery
 724,50220,Babi's Bean Salad,shredded carrot,carrot
 725,50220,Babi's Bean Salad,chopped fresh parsley,parsley
 726,50220,Babi's Bean Salad,chopped white onion,onion
 727,50220,Babi's Bean Salad,chopped fresh mint,mint
 729,50220,Babi's Bean Salad,olive oil,oil
-730,50220,Babi's Bean Salad,oranges juiced,juiced
+730,50220,Babi's Bean Salad,oranges juiced,oranges
 731,50220,Babi's Bean Salad,lemon juiced,lemon
-732,50220,Babi's Bean Salad,garlic clove,clove
 733,50220,Babi's Bean Salad,ground coriander,coriander
 734,50220,Babi's Bean Salad,salt,salt
 735,50220,Babi's Bean Salad,freshly ground black pepper,pepper
 736,50220,Babi's Bean Salad,brown sugar,sugar
-737,223497,Watermelon Summertime Slush,ice cubes,cubes
-738,223497,Watermelon Summertime Slush,coconut water (liquid from inside coconut),water
 739,223497,Watermelon Summertime Slush,cherries pitted,cherries
 740,223497,Watermelon Summertime Slush,cubed seeded watermelon,watermelon
-741,223497,Watermelon Summertime Slush,granular sucralose sweetener (such as Splenda®) (optional),sweetener
 742,19766,Six Can Chicken Tortilla Soup,kernel corn,corn
-743,19766,Six Can Chicken Tortilla Soup,chicken broth,chicken
 744,19766,Six Can Chicken Tortilla Soup,chunk chicken,chicken
 745,19766,Six Can Chicken Tortilla Soup,black beans,beans
 746,19766,Six Can Chicken Tortilla Soup,diced tomatoes with green chile peppers,tomatoes
@@ -712,7 +646,6 @@
 750,260469,Chef John's Chicken Tinga,kosher salt plus more to taste,salt
 751,260469,Chef John's Chicken Tinga,dried oregano,oregano
 752,260469,Chef John's Chicken Tinga,chicken stock,chicken
-753,260469,Chef John's Chicken Tinga,water,water
 754,260469,Chef John's Chicken Tinga,olive oil,oil
 755,260469,Chef John's Chicken Tinga,large onion,onion
 756,260469,Chef John's Chicken Tinga,chipotle peppers in adobo sauce,peppers
@@ -723,7 +656,6 @@
 761,234467,The Herd's Tailgate Chili,onions,onions
 762,234467,The Herd's Tailgate Chili,green bell peppers,peppers
 763,234467,The Herd's Tailgate Chili,garlic,garlic
-764,234467,The Herd's Tailgate Chili,chili seasoning mix,chili
 765,234467,The Herd's Tailgate Chili,chili powder,chili
 766,234467,The Herd's Tailgate Chili,ground cumin,cumin
 767,234467,The Herd's Tailgate Chili,onion powder,onion
@@ -735,6 +667,7 @@
 773,234467,The Herd's Tailgate Chili,seasoned chili beans,beans
 774,234467,The Herd's Tailgate Chili,pinto beans drained and rinsed,beans
 775,234467,The Herd's Tailgate Chili,red kidney beans drained and rinsed,beans
+776,234467,The Herd's Tailgate Chili,black beans drained and rinsed,beans
 778,242411,Apple and Lentil Soup,olive oil,oil
 779,242411,Apple and Lentil Soup,onion,onion
 780,242411,Apple and Lentil Soup,apples,apples
@@ -744,16 +677,15 @@
 785,232791,Chilled Sugar Snap Pea Soup,olive oil,oil
 786,232791,Chilled Sugar Snap Pea Soup,leeks,leeks
 787,232791,Chilled Sugar Snap Pea Soup,salt,salt
-788,232791,Chilled Sugar Snap Pea Soup,chicken broth,chicken
 789,232791,Chilled Sugar Snap Pea Soup,ground black pepper to taste,pepper
 790,232791,Chilled Sugar Snap Pea Soup,cayenne pepper,pepper
+791,232791,Chilled Sugar Snap Pea Soup,sugar snap peas ends and strings removed,sugar
 792,232791,Chilled Sugar Snap Pea Soup,fresh mint leaves,leaves
 793,232791,Chilled Sugar Snap Pea Soup,creme fraiche,fraiche
 794,232791,Chilled Sugar Snap Pea Soup,fresh mint leaves cut into very fine strips,leaves
 795,231002,Creamy Cucumber Tomato Salad,large tomatoes diced,tomatoes
 796,231002,Creamy Cucumber Tomato Salad,large cucumber,cucumber
 797,231002,Creamy Cucumber Tomato Salad,sour cream,cream
-798,231002,Creamy Cucumber Tomato Salad,balsamic vinaigrette dressing (such as Wish-Bone®),vinaigrette
 799,231002,Creamy Cucumber Tomato Salad,lemon juice,lemon
 800,231002,Creamy Cucumber Tomato Salad,finely chopped fresh dill,dill
 801,231002,Creamy Cucumber Tomato Salad,garlic salt with parsley (such as Lawry's®),salt
@@ -776,9 +708,6 @@
 818,84014,Baked Round Steak in Barbeque Sauce,paprika,paprika
 819,84014,Baked Round Steak in Barbeque Sauce,salt,salt
 820,84014,Baked Round Steak in Barbeque Sauce,black pepper,pepper
-821,240112,Pumpkin Pie Soup,pumpkin peeled and cut into cubes,pumpkin
-822,240112,Pumpkin Pie Soup,vanilla-flavored coconut beverage,beverage
-823,240112,Pumpkin Pie Soup,chicken broth,chicken
 824,240112,Pumpkin Pie Soup,ground cinnamon,cinnamon
 825,240112,Pumpkin Pie Soup,ground ginger,ginger
 826,240112,Pumpkin Pie Soup,ground cloves,cloves
@@ -787,12 +716,11 @@
 829,240112,Pumpkin Pie Soup,vanilla yogurt (optional),yogurt
 830,240112,Pumpkin Pie Soup,chopped toasted walnuts (optional),walnuts
 831,32465,Orange Summer Cooler,orange juice,orange
-832,32465,Orange Summer Cooler,cold water,water
 833,32465,Orange Summer Cooler,orange sherbet,sherbet
 834,32465,Orange Summer Cooler,vanilla extract,vanilla
 835,32465,Orange Summer Cooler,confectioners' sugar,sugar
 837,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,olive oil,oil
-838,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,beef tenderloin filets,tenderloin
+838,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,beef tenderloin filets,filets
 839,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,Kosher salt and freshly ground black pepper,pepper
 840,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,unsalted butter,butter
 841,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,minced fresh ginger,ginger
@@ -802,14 +730,12 @@
 845,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,mirin (sweetened rice wine),mirin
 846,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,finely chopped garlic chives,chives
 847,106232,Pan Roasted Beef Tenderloin with Ginger-Shiitake Brown Butter,unsalted butter,butter
-848,168881,Garlic Teriyaki Edamame,water,water
 849,168881,Garlic Teriyaki Edamame,garlic,garlic
 850,168881,Garlic Teriyaki Edamame,frozen edamame in the pod,edamame
 852,168881,Garlic Teriyaki Edamame,brown sugar,sugar
 853,168881,Garlic Teriyaki Edamame,rice vinegar,vinegar
 854,168881,Garlic Teriyaki Edamame,sesame oil,oil
 855,168881,Garlic Teriyaki Edamame,sesame seeds,seeds
-856,233600,Savory Seafood Pizza,cooking spray,spray
 857,233600,Savory Seafood Pizza,refrigerated pizza dough,dough
 858,233600,Savory Seafood Pizza,crushed dried rosemary,rosemary
 860,233600,Savory Seafood Pizza,butter,butter
@@ -817,23 +743,19 @@
 863,233600,Savory Seafood Pizza,white cooking wine,wine
 864,233600,Savory Seafood Pizza,grated Parmesan cheese,cheese
 867,233600,Savory Seafood Pizza,shredded mozzarella cheese,cheese
+868,233600,Savory Seafood Pizza,shredded zucchini,zucchini
 869,233600,Savory Seafood Pizza,sliced fresh mushrooms,mushrooms
-870,233600,Savory Seafood Pizza,pitted black olives halved,black
-871,255957,Glazed Apple Cider Cake,cooking spray,spray
-872,255957,Glazed Apple Cider Cake,white cake mix,mix
+870,233600,Savory Seafood Pizza,pitted black olives halved,olives
 873,255957,Glazed Apple Cider Cake,apple cider,cider
 874,255957,Glazed Apple Cider Cake,eggs,eggs
 875,255957,Glazed Apple Cider Cake,butter,butter
-876,255957,Glazed Apple Cider Cake,instant vanilla pudding mix,vanilla
 878,255957,Glazed Apple Cider Cake,confectioners' sugar,sugar
 879,255957,Glazed Apple Cider Cake,apple cider,cider
-880,216523,Applesauce Pie,prepared graham cracker crust,crust
 881,216523,Applesauce Pie,sweetened condensed milk,milk
 882,216523,Applesauce Pie,applesauce,applesauce
 883,216523,Applesauce Pie,apple juice,apple
 884,216523,Applesauce Pie,ground cinnamon,cinnamon
 885,216523,Applesauce Pie,eggs,eggs
-886,232473,Mom's Pineapple Bread Pudding,bread cubed,cubed
 887,232473,Mom's Pineapple Bread Pudding,crushed pineapple,pineapple
 888,232473,Mom's Pineapple Bread Pudding,butter,butter
 889,232473,Mom's Pineapple Bread Pudding,white sugar,sugar
@@ -846,27 +768,20 @@
 898,148498,Beer-Boiled Shrimp,salt,salt
 899,148498,Beer-Boiled Shrimp,large shrimp in shell (21 to 25 per lb),shrimp
 900,148498,Beer-Boiled Shrimp,fluid ounce) bottles beer,beer
-901,231920,Wine and Rosemary Couscous,water,water
-902,231920,Wine and Rosemary Couscous,Holland House® White Cooking Wine,wine
 903,231920,Wine and Rosemary Couscous,butter,butter
-904,231920,Wine and Rosemary Couscous,dried rosemary crushed,crushed
 905,231920,Wine and Rosemary Couscous,salt,salt
-906,231920,Wine and Rosemary Couscous,couscous regular,regular
 907,64450,Chinese Braised Spare Ribs,pork spareribs,spareribs
 908,64450,Chinese Braised Spare Ribs,vegetable oil,oil
 909,64450,Chinese Braised Spare Ribs,fresh ginger root sliced,ginger
 910,64450,Chinese Braised Spare Ribs,green onions cut into 2-inch pieces,onions
 911,64450,Chinese Braised Spare Ribs,ground cinnamon,cinnamon
-912,64450,Chinese Braised Spare Ribs,water,water
 913,64450,Chinese Braised Spare Ribs,soy sauce,soy
 914,64450,Chinese Braised Spare Ribs,white sugar,sugar
 915,64450,Chinese Braised Spare Ribs,rice wine,wine
 916,64450,Chinese Braised Spare Ribs,salt,salt
 917,64450,Chinese Braised Spare Ribs,pepper,pepper
-918,241894,Black Forest Trifle,frozen pound cake thawed and cut into cubes,cubes
-919,241894,Black Forest Trifle,cherry pie filling,pie
+919,241894,Black Forest Trifle,cherry pie filling,cherry
 920,241894,Black Forest Trifle,hot fudge ice cream topping warmed,cream
-921,241894,Black Forest Trifle,frozen whipped topping thawed,thawed
 922,61680,Emily's Famous Roasted Vegetable Salad,eggplant,eggplant
 924,61680,Emily's Famous Roasted Vegetable Salad,garlic,garlic
 925,61680,Emily's Famous Roasted Vegetable Salad,olive oil,oil
@@ -876,6 +791,7 @@
 929,61680,Emily's Famous Roasted Vegetable Salad,red wine vinegar,vinegar
 930,61680,Emily's Famous Roasted Vegetable Salad,balsamic vinegar,vinegar
 931,61680,Emily's Famous Roasted Vegetable Salad,olive oil,oil
+932,61680,Emily's Famous Roasted Vegetable Salad,lemons juiced,lemons
 933,61680,Emily's Famous Roasted Vegetable Salad,chopped fresh parsley,parsley
 934,61680,Emily's Famous Roasted Vegetable Salad,chopped fresh oregano,oregano
 935,61680,Emily's Famous Roasted Vegetable Salad,salt and freshly ground black pepper to taste,pepper
@@ -885,7 +801,6 @@
 939,258557,Aji (Colombian Salsa),jalapeno pepper,pepper
 940,258557,Aji (Colombian Salsa),garlic,garlic
 941,258557,Aji (Colombian Salsa),olive oil,oil
-942,258557,Aji (Colombian Salsa),lime juiced,juiced
 943,258557,Aji (Colombian Salsa),white sugar,sugar
 944,258557,Aji (Colombian Salsa),apple cider vinegar,vinegar
 945,258557,Aji (Colombian Salsa),salt,salt
@@ -896,19 +811,16 @@
 950,223344,Summery Bean Salad,olive oil,oil
 951,223344,Summery Bean Salad,freshly cracked black pepper,pepper
 952,223344,Summery Bean Salad,salt,salt
+953,223344,Summery Bean Salad,black beans rinsed and drained,beans
 954,223344,Summery Bean Salad,garbanzo beans rinsed and drained,beans
 955,223344,Summery Bean Salad,tomato,tomato
 956,223344,Summery Bean Salad,cucumber,cucumber
 957,223344,Summery Bean Salad,red onion,onion
 958,22274,Artichoke Pie,olive oil,oil
 959,22274,Artichoke Pie,garlic,garlic
-960,22274,Artichoke Pie,artichoke hearts drained,artichoke
-961,22274,Artichoke Pie,Italian seasoned bread crumbs,crumbs
 962,22274,Artichoke Pie,grated Parmesan cheese,cheese
-963,22274,Artichoke Pie,unbaked 9 inch pie crust,crust
-964,22274,Artichoke Pie,eggs beaten,beaten
 965,22274,Artichoke Pie,mozzarella cheese,cheese
-967,59768,The Munroe Melt,prepared Dijon mustard mayonnaise blend,blend
+966,59768,The Munroe Melt,crusty sandwich roll split,sandwich
 968,59768,The Munroe Melt,deli turkey,turkey
 969,59768,The Munroe Melt,Swiss cheese,cheese
 970,59768,The Munroe Melt,deli ham,ham
@@ -934,9 +846,7 @@
 993,6791,Irish Soda Bread II,buttermilk,buttermilk
 994,6791,Irish Soda Bread II,raisins,raisins
 995,6791,Irish Soda Bread II,eggs,eggs
-996,6791,Irish Soda Bread II,caraway seed,seed
 997,15428,Farfalle with Asparagus and Smoked Salmon,farfalle pasta,pasta
-998,15428,Farfalle with Asparagus and Smoked Salmon,fresh steamed asparagus tips,tips
 999,15428,Farfalle with Asparagus and Smoked Salmon,smoked salmon,salmon
 1000,15428,Farfalle with Asparagus and Smoked Salmon,lemon juiced,lemon
 1001,15428,Farfalle with Asparagus and Smoked Salmon,chopped pistachio nuts,nuts
@@ -979,7 +889,6 @@
 1041,9907,Oatmeal Chocolate Chip Cookies I,salt,salt
 1042,9907,Oatmeal Chocolate Chip Cookies I,rolled oats,oats
 1043,9907,Oatmeal Chocolate Chip Cookies I,semisweet chocolate chips,chips
-1044,14322,Coleslaw with a Difference!,shredded coleslaw mix,mix
 1045,14322,Coleslaw with a Difference!,seasoning salt,salt
 1046,14322,Coleslaw with a Difference!,lemon juice,lemon
 1047,14322,Coleslaw with a Difference!,olive oil,oil
@@ -988,6 +897,7 @@
 1050,235901,Peppercorn Roast Beef,garlic,garlic
 1051,235901,Peppercorn Roast Beef,kosher salt to taste,salt
 1052,235901,Peppercorn Roast Beef,olive oil,oil
+1053,235901,Peppercorn Roast Beef,beef tri-tip roast at room temperature,beef
 1054,235901,Peppercorn Roast Beef,kosher salt,salt
 1055,235901,Peppercorn Roast Beef,black peppercorns coarsely ground,peppercorns
 1056,235901,Peppercorn Roast Beef,white peppercorns coarsely ground,peppercorns
@@ -995,57 +905,46 @@
 1058,235901,Peppercorn Roast Beef,pink peppercorns coarsely ground,peppercorns
 1059,235901,Peppercorn Roast Beef,butter,butter
 1061,235901,Peppercorn Roast Beef,all-purpose flour,flour
-1062,235901,Peppercorn Roast Beef,rich veal stock,stock
 1063,235901,Peppercorn Roast Beef,salt,salt
 1064,235901,Peppercorn Roast Beef,cayenne pepper,pepper
 1065,235901,Peppercorn Roast Beef,balsamic vinegar,vinegar
 1066,145140,Limegasm,frozen limeade,limeade
 1067,145140,Limegasm,fluid ounces tequila,tequila
-1068,145140,Limegasm,fluid ounces triple sec (orange-flavored liqueur),sec
 1070,145140,Limegasm,kosher salt,salt
 1071,84012,Ginny's Cauliflower and Pea Salad,large head cauliflower broken into small florets,cauliflower
-1072,84012,Ginny's Cauliflower and Pea Salad,frozen peas thawed,thawed
 1073,84012,Ginny's Cauliflower and Pea Salad,small onion,onion
 1074,84012,Ginny's Cauliflower and Pea Salad,celery,celery
-1075,84012,Ginny's Cauliflower and Pea Salad,bacon bits,bits
 1076,84012,Ginny's Cauliflower and Pea Salad,grated Parmesan cheese,cheese
 1077,84012,Ginny's Cauliflower and Pea Salad,shredded reduced-fat Cheddar cheese,cheese
 1078,84012,Ginny's Cauliflower and Pea Salad,light mayonnaise,mayonnaise
 1079,84012,Ginny's Cauliflower and Pea Salad,reduced fat sour cream,cream
 1080,84012,Ginny's Cauliflower and Pea Salad,prepared mustard,mustard
-1081,84012,Ginny's Cauliflower and Pea Salad,granular no-calorie sucralose sweetener (such as Splenda®),sweetener
 1082,84012,Ginny's Cauliflower and Pea Salad,distilled white vinegar,vinegar
 1083,84012,Ginny's Cauliflower and Pea Salad,seasoned salt (such as LAWRY'S®),salt
 1084,235862,Chicken and Hominy Soup with Lime and Cilantro,canola oil,oil
 1085,235862,Chicken and Hominy Soup with Lime and Cilantro,ground cumin,cumin
 1086,235862,Chicken and Hominy Soup with Lime and Cilantro,paprika,paprika
 1087,235862,Chicken and Hominy Soup with Lime and Cilantro,fluid ounce) can chicken broth,chicken
-1088,235862,Chicken and Hominy Soup with Lime and Cilantro,hominy undrained,undrained
 1089,235862,Chicken and Hominy Soup with Lime and Cilantro,cooked skinless boneless chicken thighs,chicken
 1090,235862,Chicken and Hominy Soup with Lime and Cilantro,diced tomatoes in juice,tomatoes
-1091,235862,Chicken and Hominy Soup with Lime and Cilantro,water,water
 1092,235862,Chicken and Hominy Soup with Lime and Cilantro,green onions,onions
-1093,235862,Chicken and Hominy Soup with Lime and Cilantro,lime juiced,juiced
 1095,235862,Chicken and Hominy Soup with Lime and Cilantro,chopped fresh cilantro,cilantro
 1096,12016,Mac and Cheese II,elbow macaroni,macaroni
 1097,12016,Mac and Cheese II,butter,butter
 1098,12016,Mac and Cheese II,all-purpose flour,flour
 1099,12016,Mac and Cheese II,milk,milk
 1100,12016,Mac and Cheese II,shredded Cheddar cheese,cheese
-1101,12016,Mac and Cheese II,cubed processed cheese food,cheese
 1102,221919,Easy Black Bean Taco Salad,ground beef,beef
-1104,221919,Easy Black Bean Taco Salad,water,water
+1105,221919,Easy Black Bean Taco Salad,black beans drained,beans
 1106,221919,Easy Black Bean Taco Salad,head romaine lettuce shredded,lettuce
 1107,221919,Easy Black Bean Taco Salad,salsa,salsa
-1109,221919,Easy Black Bean Taco Salad,shredded Mexican cheese blend,cheese
+1108,221919,Easy Black Bean Taco Salad,tomatoes diced,tomatoes
 1110,221919,Easy Black Bean Taco Salad,sour cream,cream
 1111,221919,Easy Black Bean Taco Salad,bag tortilla chips,chips
-1112,220808,Pineapple Upside Down Cupcakes,cooking spray,spray
 1113,220808,Pineapple Upside Down Cupcakes,butter,butter
 1114,220808,Pineapple Upside Down Cupcakes,brown sugar,sugar
 1115,220808,Pineapple Upside Down Cupcakes,maraschino cherries,cherries
 1116,220808,Pineapple Upside Down Cupcakes,crushed pineapple,pineapple
-1117,220808,Pineapple Upside Down Cupcakes,pineapple cake mix (such as Duncan Hines® Pineapple Supreme),cake
 1118,220808,Pineapple Upside Down Cupcakes,eggs,eggs
 1119,220808,Pineapple Upside Down Cupcakes,pineapple juice,pineapple
 1120,220808,Pineapple Upside Down Cupcakes,vegetable oil,oil
@@ -1054,28 +953,21 @@
 1123,237718,Frozen Strawberry Smoothie Bars,plain yogurt,yogurt
 1124,237718,Frozen Strawberry Smoothie Bars,apple juice,apple
 1125,237718,Frozen Strawberry Smoothie Bars,honey,honey
-1126,14772,Kangaroo Chops,pork chops,chops
 1127,14772,Kangaroo Chops,potatoes,potatoes
 1128,14772,Kangaroo Chops,ear corn,corn
 1129,14772,Kangaroo Chops,soy sauce,soy
 1130,14772,Kangaroo Chops,Worcestershire sauce,worcestershire
-1131,14772,Kangaroo Chops,water,water
 1132,14772,Kangaroo Chops,onion,onion
 1133,14772,Kangaroo Chops,garlic,garlic
-1134,14772,Kangaroo Chops,dried bread crumbs,crumbs
 1135,231829,Low-Carb Chocolate Peanut Butter Smoothie,unsweetened almond milk,milk
 1137,231829,Low-Carb Chocolate Peanut Butter Smoothie,unsweetened natural peanut butter,butter
 1138,231829,Low-Carb Chocolate Peanut Butter Smoothie,unsweetened cocoa powder,cocoa
-1139,231829,Low-Carb Chocolate Peanut Butter Smoothie,scoop vanilla-flavored whey protein powder,protein
 1140,231829,Low-Carb Chocolate Peanut Butter Smoothie,heavy whipping cream,cream
 1141,231829,Low-Carb Chocolate Peanut Butter Smoothie,vanilla extract,vanilla
 1143,24504,Shrimp Paella,uncooked white rice,rice
-1144,24504,Shrimp Paella,water,water
 1145,24504,Shrimp Paella,minced garlic,garlic
 1146,24504,Shrimp Paella,fresh shrimp,shrimp
-1147,24504,Shrimp Paella,chicken broth,chicken
 1148,24504,Shrimp Paella,peeled and diced tomatoes with juice,tomatoes
-1149,24504,Shrimp Paella,saffron threads,threads
 1150,15518,Eggless Butter Cake,cake flour,flour
 1152,15518,Eggless Butter Cake,butter,butter
 1153,15518,Eggless Butter Cake,white sugar,sugar
@@ -1086,14 +978,9 @@
 1158,238089,Twisted Colada Protein Smoothie,flax seeds,seeds
 1159,238089,Twisted Colada Protein Smoothie,chia seeds,seeds
 1160,238089,Twisted Colada Protein Smoothie,sliced frozen banana,banana
-1161,238089,Twisted Colada Protein Smoothie,coconut milk beverage (such as Silk®),beverage
-1162,238089,Twisted Colada Protein Smoothie,fresh pineapple spears,spears
-1163,238089,Twisted Colada Protein Smoothie,protein powder,protein
 1164,238089,Twisted Colada Protein Smoothie,agave nectar,nectar
-1165,20173,Rustic Country Bread,spring water,water
 1166,20173,Rustic Country Bread,bread machine yeast,yeast
 1167,20173,Rustic Country Bread,bread flour,flour
-1168,20173,Rustic Country Bread,spring water,water
 1169,20173,Rustic Country Bread,bread machine yeast,yeast
 1170,20173,Rustic Country Bread,bread flour,flour
 1171,20173,Rustic Country Bread,wheat flour,flour
@@ -1101,29 +988,21 @@
 1173,239814,Lois' Bread Pudding,brown sugar,sugar
 1174,239814,Lois' Bread Pudding,butter,butter
 1175,239814,Lois' Bread Pudding,ground cinnamon,cinnamon
-1176,239814,Lois' Bread Pudding,bread cubes,cubes
 1177,239814,Lois' Bread Pudding,milk,milk
-1178,239814,Lois' Bread Pudding,eggs beaten,beaten
-1179,241399,"Laura's ""Thin Mint"" Brownies",brownie mix (such as Betty Crocker®),mix
 1180,241399,"Laura's ""Thin Mint"" Brownies",vegetable oil,oil
-1181,241399,"Laura's ""Thin Mint"" Brownies",water,water
 1182,241399,"Laura's ""Thin Mint"" Brownies",eggs,eggs
-1183,241399,"Laura's ""Thin Mint"" Brownies",chocolate mint layer candies (such as Andes®),candies
 1184,18345,Artichokes,artichokes,artichokes
 1185,18345,Artichokes,butter,butter
 1186,18345,Artichokes,garlic,garlic
 1187,18345,Artichokes,salt and pepper to taste,pepper
 1188,86975,Poor Mamma's Spaghetti,olive oil,oil
 1189,86975,Poor Mamma's Spaghetti,garlic,garlic
-1190,86975,Poor Mamma's Spaghetti,white bread crusts trimmed,bread
+1190,86975,Poor Mamma's Spaghetti,white bread crusts trimmed,crusts
 1191,86975,Poor Mamma's Spaghetti,uncooked spaghetti,spaghetti
 1192,86975,Poor Mamma's Spaghetti,freshly ground black pepper to taste,pepper
-1193,7287,Lick Your Lips Cake,yellow cake mix,mix
 1194,7287,Lick Your Lips Cake,eggs,eggs
-1195,7287,Lick Your Lips Cake,mandarin orange segments,segments
+1195,7287,Lick Your Lips Cake,mandarin orange segments,orange
 1196,7287,Lick Your Lips Cake,crushed pineapple with juice,pineapple
-1197,7287,Lick Your Lips Cake,frozen whipped topping thawed,thawed
-1198,7287,Lick Your Lips Cake,instant vanilla pudding mix,vanilla
 1199,11026,Macadamia Nut Chocolate Chip Cookies,butter,butter
 1200,11026,Macadamia Nut Chocolate Chip Cookies,packed dark brown sugar,sugar
 1201,11026,Macadamia Nut Chocolate Chip Cookies,white sugar,sugar
@@ -1136,15 +1015,13 @@
 1209,126236,Ancho Chile Rubbed Venison Steaks with Lime-Cilantro Butter,butter,butter
 1210,126236,Ancho Chile Rubbed Venison Steaks with Lime-Cilantro Butter,lime juice,lime
 1211,126236,Ancho Chile Rubbed Venison Steaks with Lime-Cilantro Butter,chopped fresh cilantro,cilantro
-1213,126236,Ancho Chile Rubbed Venison Steaks with Lime-Cilantro Butter,ancho chile powder,chile
-1214,126236,Ancho Chile Rubbed Venison Steaks with Lime-Cilantro Butter,venison steaks,steaks
+1212,126236,Ancho Chile Rubbed Venison Steaks with Lime-Cilantro Butter,steak seasoning,seasoning
+1213,126236,Ancho Chile Rubbed Venison Steaks with Lime-Cilantro Butter,ancho chile powder,ancho
 1215,25939,Aunt Jewel's Chicken Dressing Casserole,skinless boneless chicken breast meat,chicken
 1216,25939,Aunt Jewel's Chicken Dressing Casserole,condensed cream of chicken soup,chicken
 1217,25939,Aunt Jewel's Chicken Dressing Casserole,condensed cream of celery soup,soup
 1218,25939,Aunt Jewel's Chicken Dressing Casserole,milk,milk
-1219,25939,Aunt Jewel's Chicken Dressing Casserole,chicken broth,chicken
-1220,25939,Aunt Jewel's Chicken Dressing Casserole,seasoned cornbread stuffing mix,cornbread
-1221,255328,Nayza's Mushroom Fiesta Cups,Corn Salsa:,corn
+1221,255328,Nayza's Mushroom Fiesta Cups,Corn Salsa:,salsa
 1222,255328,Nayza's Mushroom Fiesta Cups,corn,corn
 1223,255328,Nayza's Mushroom Fiesta Cups,chopped fresh cilantro,cilantro
 1225,255328,Nayza's Mushroom Fiesta Cups,jalapeno pepper,pepper
@@ -1154,7 +1031,6 @@
 1229,255328,Nayza's Mushroom Fiesta Cups,chopped garlic,garlic
 1230,255328,Nayza's Mushroom Fiesta Cups,Himalayan salt,salt
 1231,255328,Nayza's Mushroom Fiesta Cups,olive oil,oil
-1232,255328,Nayza's Mushroom Fiesta Cups,liquid smoke flavoring,smoke
 1233,255328,Nayza's Mushroom Fiesta Cups,portobello mushrooms stems removed,mushrooms
 1234,255328,Nayza's Mushroom Fiesta Cups,ground cumin,cumin
 1235,255328,Nayza's Mushroom Fiesta Cups,dried oregano,oregano
@@ -1170,17 +1046,15 @@
 1245,255328,Nayza's Mushroom Fiesta Cups,ground black pepper,pepper
 1246,255328,Nayza's Mushroom Fiesta Cups,salt,salt
 1247,255328,Nayza's Mushroom Fiesta Cups,shredded Cheddar cheese,cheese
-1248,255328,Nayza's Mushroom Fiesta Cups,avocado roughly chopped and slightly mashed,mashed
 1249,255328,Nayza's Mushroom Fiesta Cups,Roma tomato,tomato
 1250,240097,Smoked Salmon French Toast Sandwich,eggs,eggs
 1251,240097,Smoked Salmon French Toast Sandwich,milk,milk
-1252,240097,Smoked Salmon French Toast Sandwich,herbes de Provence,de
+1252,240097,Smoked Salmon French Toast Sandwich,herbes de Provence,provence
 1253,240097,Smoked Salmon French Toast Sandwich,butter,butter
 1254,240097,Smoked Salmon French Toast Sandwich,day-old French bread,bread
 1255,240097,Smoked Salmon French Toast Sandwich,fresh spinach leaves,leaves
 1256,240097,Smoked Salmon French Toast Sandwich,cream cheese,cheese
 1257,240097,Smoked Salmon French Toast Sandwich,smoked salmon,salmon
-1258,232296,Tuna Pita Melt,pita bread round,bread
 1259,232296,Tuna Pita Melt,tuna,tuna
 1261,232296,Tuna Pita Melt,mayonnaise,mayonnaise
 1262,232296,Tuna Pita Melt,olive oil,oil
@@ -1197,13 +1071,13 @@
 1273,9031,Tangy Cereal-Coated Chicken,orange juice,orange
 1274,9031,Tangy Cereal-Coated Chicken,ground ginger,ginger
 1275,9031,Tangy Cereal-Coated Chicken,honey,honey
-1276,9031,Tangy Cereal-Coated Chicken,Dijon-style prepared mustard,mustard
+1276,9031,Tangy Cereal-Coated Chicken,Dijon-style prepared mustard,-
 1277,9031,Tangy Cereal-Coated Chicken,salt and pepper to taste,pepper
 1278,9031,Tangy Cereal-Coated Chicken,skinless boneless chicken breasts,chicken
 1279,9031,Tangy Cereal-Coated Chicken,crushed buttery round crackers,crackers
-1280,9031,Tangy Cereal-Coated Chicken,wheat and barley nugget cereal (e.g. Grape-Nuts™),™
+1280,9031,Tangy Cereal-Coated Chicken,wheat and barley nugget cereal (e.g. Grape-Nuts™),cereal
 1281,9031,Tangy Cereal-Coated Chicken,all-purpose flour,flour
-1282,9031,Tangy Cereal-Coated Chicken,orange marmalade warmed,marmalade
+1282,9031,Tangy Cereal-Coated Chicken,orange marmalade warmed,orange
 1283,241994,Baked Peaches 'n Cream,brown sugar,sugar
 1284,241994,Baked Peaches 'n Cream,butter,butter
 1285,241994,Baked Peaches 'n Cream,ground cinnamon,cinnamon
@@ -1215,6 +1089,7 @@
 1292,13521,Maple Roast Turkey and Gravy,grated lemon zest,lemon
 1293,13521,Maple Roast Turkey and Gravy,butter,butter
 1294,13521,Maple Roast Turkey and Gravy,salt and ground black pepper to taste,pepper
+1295,13521,Maple Roast Turkey and Gravy,turkey,turkey
 1296,13521,Maple Roast Turkey and Gravy,chopped onion,onion
 1297,13521,Maple Roast Turkey and Gravy,chopped celery,celery
 1298,13521,Maple Roast Turkey and Gravy,coarsely chopped carrots,carrots
@@ -1224,7 +1099,6 @@
 1302,13521,Maple Roast Turkey and Gravy,bay leaf,leaf
 1303,13521,Maple Roast Turkey and Gravy,apple brandy (optional),brandy
 1304,10632,Angel Crisps,butter,butter
-1306,10632,Angel Crisps,brown sugar packed,packed
 1307,10632,Angel Crisps,white sugar,sugar
 1308,10632,Angel Crisps,egg,egg
 1309,10632,Angel Crisps,vanilla extract,vanilla
@@ -1236,6 +1110,7 @@
 1315,21079,Garlic Pita Bread Bites,pita bread cut in half,bread
 1316,21079,Garlic Pita Bread Bites,butter,butter
 1317,21079,Garlic Pita Bread Bites,crushed garlic,garlic
+1318,21079,Garlic Pita Bread Bites,dried Italian-style seasoning,seasoning
 1319,21079,Garlic Pita Bread Bites,grated Parmesan cheese,cheese
 1320,50836,Curry-Coconut Shrimp,canola oil,oil
 1321,50836,Curry-Coconut Shrimp,minced onion,onion
@@ -1248,7 +1123,6 @@
 1329,50836,Curry-Coconut Shrimp,crushed red pepper flakes,flakes
 1330,50836,Curry-Coconut Shrimp,jumbo shrimp,shrimp
 1331,50836,Curry-Coconut Shrimp,cornstarch,cornstarch
-1332,50836,Curry-Coconut Shrimp,water,water
 1333,50836,Curry-Coconut Shrimp,chopped fresh cilantro,cilantro
 1334,45396,Easy Pancakes,all-purpose flour,flour
 1335,45396,Easy Pancakes,white sugar,sugar
@@ -1258,15 +1132,12 @@
 1340,45396,Easy Pancakes,vegetable oil,oil
 1341,215787,Grilled BBQ Meatloaf,ground beef,beef
 1342,215787,Grilled BBQ Meatloaf,ground pork,pork
-1343,215787,Grilled BBQ Meatloaf,dry bread crumbs,crumbs
-1344,215787,Grilled BBQ Meatloaf,finely chopped sweet onion (such as Vidalia®),onion
 1345,215787,Grilled BBQ Meatloaf,egg,egg
 1346,215787,Grilled BBQ Meatloaf,Worcestershire sauce,worcestershire
 1347,215787,Grilled BBQ Meatloaf,minced garlic,garlic
 1348,215787,Grilled BBQ Meatloaf,dried tarragon,tarragon
 1349,215787,Grilled BBQ Meatloaf,sea salt,salt
 1350,215787,Grilled BBQ Meatloaf,ground black pepper,pepper
-1351,215787,Grilled BBQ Meatloaf,barbeque sauce,barbeque
 1352,215787,Grilled BBQ Meatloaf,ketchup,ketchup
 1353,9159,Mincemeat and Pumpkin Layer Pie,prepared meatless mincemeat,mincemeat
 1354,9159,Mincemeat and Pumpkin Layer Pie,egg,egg
@@ -1284,7 +1155,6 @@
 1366,24661,Laura's Dip,dried dill weed to taste,dill
 1367,218178,Nina's Russian Cold Beet Soup (Kholdnyk),fat-free buttermilk,buttermilk
 1368,218178,Nina's Russian Cold Beet Soup (Kholdnyk),cucumber,cucumber
-1369,218178,Nina's Russian Cold Beet Soup (Kholdnyk),sliced beets with liquid,liquid
 1370,218178,Nina's Russian Cold Beet Soup (Kholdnyk),green onions,onions
 1371,218178,Nina's Russian Cold Beet Soup (Kholdnyk),chopped fresh dill,dill
 1372,218178,Nina's Russian Cold Beet Soup (Kholdnyk),salt,salt
@@ -1294,12 +1164,7 @@
 1376,8829,Baked Chicken on Rice,milk,milk
 1377,8829,Baked Chicken on Rice,uncooked white rice,rice
 1378,8829,Baked Chicken on Rice,sliced mushrooms,mushrooms
-1379,8829,Baked Chicken on Rice,dry onion soup mix,mix
-1380,104416,Raspberry Party Shots,raspberry flavored Jell-O® mix,mix
-1381,104416,Raspberry Party Shots,boiling water,water
-1382,104416,Raspberry Party Shots,ice water,water
 1383,104416,Raspberry Party Shots,raspberry vodka,vodka
-1384,16939,Aunt Millie's Broccoli Casserole,heads fresh broccoli chopped,broccoli
 1385,16939,Aunt Millie's Broccoli Casserole,shredded American cheese,cheese
 1386,16939,Aunt Millie's Broccoli Casserole,condensed cream of mushroom soup,cream
 1387,16939,Aunt Millie's Broccoli Casserole,salt,salt
@@ -1317,15 +1182,12 @@
 1399,245262,Gingerbread Granola Bars,vegetable oil,oil
 1400,245262,Gingerbread Granola Bars,honey,honey
 1401,245262,Gingerbread Granola Bars,molasses,molasses
-1402,245262,Gingerbread Granola Bars,eggs beaten,beaten
 1403,245262,Gingerbread Granola Bars,vanilla extract,vanilla
-1404,255297,Cashew Chicken Bake,cooking spray,spray
 1405,255297,Cashew Chicken Bake,brown rice,rice
 1406,255297,Cashew Chicken Bake,diced celery,celery
 1407,255297,Cashew Chicken Bake,red bell pepper,pepper
 1408,255297,Cashew Chicken Bake,green bell pepper,pepper
 1409,255297,Cashew Chicken Bake,skinless boneless chicken breasts,chicken
-1410,255297,Cashew Chicken Bake,water,water
 1411,255297,Cashew Chicken Bake,gluten-free soy sauce (tamari),soy
 1412,255297,Cashew Chicken Bake,rice vinegar,vinegar
 1413,255297,Cashew Chicken Bake,minced garlic,garlic
@@ -1335,13 +1197,9 @@
 1417,255297,Cashew Chicken Bake,salt,salt
 1418,255297,Cashew Chicken Bake,sliced water chestnuts drained,chestnuts
 1419,255297,Cashew Chicken Bake,cashews,cashews
-1420,12721,Sole In Butter Sauce,fillets sole,sole
-1421,12721,Sole In Butter Sauce,eggs beaten,beaten
-1422,12721,Sole In Butter Sauce,dry bread crumbs,crumbs
 1423,12721,Sole In Butter Sauce,quart vegetable oil for frying,oil
 1424,12721,Sole In Butter Sauce,butter,butter
 1425,12721,Sole In Butter Sauce,garlic,garlic
-1426,12721,Sole In Butter Sauce,chicken broth,chicken
 1427,12721,Sole In Butter Sauce,white wine,wine
 1428,12721,Sole In Butter Sauce,lemon juiced,lemon
 1429,12721,Sole In Butter Sauce,salt and pepper to taste,pepper
@@ -1351,19 +1209,19 @@
 1433,143467,Spumoni Chocolate Chip Cookies,butter,butter
 1434,143467,Spumoni Chocolate Chip Cookies,white sugar,sugar
 1435,143467,Spumoni Chocolate Chip Cookies,packed brown sugar,sugar
-1436,143467,Spumoni Chocolate Chip Cookies,instant pistachio pudding mix,mix
 1437,143467,Spumoni Chocolate Chip Cookies,eggs,eggs
 1438,143467,Spumoni Chocolate Chip Cookies,vanilla extract,vanilla
-1439,143467,Spumoni Chocolate Chip Cookies,bag semi-sweet chocolate chips,chips
+1439,143467,Spumoni Chocolate Chip Cookies,bag semi-sweet chocolate chips,chocolate
 1440,143467,Spumoni Chocolate Chip Cookies,chopped maraschino cherries,cherries
 1441,143467,Spumoni Chocolate Chip Cookies,chopped pistachios,pistachios
 1442,75431,Citrus Turkey Brine,salt,salt
+1443,75431,Citrus Turkey Brine,lemon cut into wedges,wedges
+1444,75431,Citrus Turkey Brine,orange cut into wedges,wedges
 1445,75431,Citrus Turkey Brine,medium onion,onion
 1446,75431,Citrus Turkey Brine,garlic,garlic
 1447,75431,Citrus Turkey Brine,bay leaves,leaves
 1448,75431,Citrus Turkey Brine,dried thyme,thyme
 1449,75431,Citrus Turkey Brine,ground black pepper,pepper
-1450,75431,Citrus Turkey Brine,gallons cold water,water
 1451,90234,Classic White Wine Spritzer,club soda,soda
 1452,90234,Classic White Wine Spritzer,white wine,wine
 1453,11244,Ginger Biscotti with Pistachios,almonds,almonds
@@ -1381,7 +1239,6 @@
 1466,179528,Glorified Baked Cabbage,onion,onion
 1467,179528,Glorified Baked Cabbage,processed cheese food (such as Velveeta ®),cheese
 1468,179528,Glorified Baked Cabbage,cream of mushroom soup,soup
-1469,179528,Glorified Baked Cabbage,bread crumbs,crumbs
 1470,179528,Glorified Baked Cabbage,salt and pepper to taste,pepper
 1472,244219,Grilled Beets with Feta,olive oil,oil
 1473,244219,Grilled Beets with Feta,sea salt to taste,salt
@@ -1397,21 +1254,16 @@
 1485,8622,Curried Microwaved Chicken,condensed cream of mushroom soup,cream
 1486,8622,Curried Microwaved Chicken,heavy cream,cream
 1487,8622,Curried Microwaved Chicken,salt and pepper to taste,pepper
-1488,8622,Curried Microwaved Chicken,chicken thighs,chicken
 1489,8622,Curried Microwaved Chicken,fresh sliced mushrooms,mushrooms
 1490,8622,Curried Microwaved Chicken,paprika,paprika
 1491,237871,Creamy Nacho Dip,sour cream,cream
-1492,237871,Creamy Nacho Dip,light mayonnaise (such as Hellmann's Light®),mayonnaise
 1493,237871,Creamy Nacho Dip,salsa,salsa
-1494,237871,Creamy Nacho Dip,vegetable bouillon (such as Knorr®)),bouillon
-1495,237871,Creamy Nacho Dip,taco seasoning mix (such as Old El Paso®),old
-1496,237871,Creamy Nacho Dip,shredded Cheddar-Monterey Jack cheese blend,jack
 1497,11493,Special Cereal Bars I,white sugar,sugar
 1498,11493,Special Cereal Bars I,light corn syrup,syrup
 1499,11493,Special Cereal Bars I,peanut butter,butter
-1500,11493,Special Cereal Bars I,high protein crisp rice and wheat cereal,protein
-1501,11493,Special Cereal Bars I,peanut butter chips,butter
-1502,11493,Special Cereal Bars I,semi-sweet chocolate chips,chips
+1500,11493,Special Cereal Bars I,high protein crisp rice and wheat cereal,rice
+1501,11493,Special Cereal Bars I,peanut butter chips,chips
+1502,11493,Special Cereal Bars I,semi-sweet chocolate chips,chocolate
 1503,22271,Spinach Chickpea Curry,vegetable oil,oil
 1504,22271,Spinach Chickpea Curry,onion,onion
 1505,22271,Spinach Chickpea Curry,creamed corn,corn
@@ -1419,11 +1271,8 @@
 1508,22271,Spinach Chickpea Curry,ground black pepper to taste,pepper
 1509,22271,Spinach Chickpea Curry,garlic powder,garlic
 1510,22271,Spinach Chickpea Curry,garbanzo beans (chickpeas) drained and rinsed,beans
-1511,22271,Spinach Chickpea Curry,firm tofu cubed,cubed
 1512,22271,Spinach Chickpea Curry,fresh spinach stems removed,spinach
 1513,22271,Spinach Chickpea Curry,dried basil,basil
-1514,18312,Lime Fluff,lime flavored Jell-O® mix,lime
-1515,18312,Lime Fluff,frozen whipped topping thawed,thawed
 1516,18312,Lime Fluff,crushed pineapple with juice,pineapple
 1517,18312,Lime Fluff,sour cream,cream
 1518,18312,Lime Fluff,miniature marshmallows,marshmallows
@@ -1444,12 +1293,11 @@
 1533,231464,Mushroom Honey Lager Sauce,diced red onion,onion
 1534,231464,Mushroom Honey Lager Sauce,garlic,garlic
 1535,231464,Mushroom Honey Lager Sauce,baby portobello mushrooms sliced,mushrooms
-1536,231464,Mushroom Honey Lager Sauce,fluid ounce) bottle lager beer (such as Sam Adams® Winter),lager
+1536,231464,Mushroom Honey Lager Sauce,fluid ounce) bottle lager beer (such as Sam Adams® Winter),winter
 1537,231464,Mushroom Honey Lager Sauce,sprigs fresh rosemary,rosemary
-1538,231464,Mushroom Honey Lager Sauce,Cajun seasoning,cajun
+1538,231464,Mushroom Honey Lager Sauce,Cajun seasoning,seasoning
 1539,231464,Mushroom Honey Lager Sauce,honey,honey
 1540,215730,Brandied Candied Walnuts,granulated sugar,sugar
-1541,215730,Brandied Candied Walnuts,walnut halves,halves
 1542,215730,Brandied Candied Walnuts,brandy,brandy
 1543,215730,Brandied Candied Walnuts,vanilla extract,vanilla
 1544,215730,Brandied Candied Walnuts,ground cinnamon,cinnamon
@@ -1477,19 +1325,15 @@
 1569,245174,Peppermint Cupcakes with Marshmallow Fluff White Chocolate Frosting,salt,salt
 1570,245174,Peppermint Cupcakes with Marshmallow Fluff White Chocolate Frosting,milk,milk
 1572,245174,Peppermint Cupcakes with Marshmallow Fluff White Chocolate Frosting,white chocolate chips,chips
-1573,245174,Peppermint Cupcakes with Marshmallow Fluff White Chocolate Frosting,marshmallow fluff,fluff
 1574,245174,Peppermint Cupcakes with Marshmallow Fluff White Chocolate Frosting,butter,butter
 1575,245174,Peppermint Cupcakes with Marshmallow Fluff White Chocolate Frosting,confectioners' sugar,sugar
 1576,245174,Peppermint Cupcakes with Marshmallow Fluff White Chocolate Frosting,milk,milk
-1577,259563,Snickerdoodle-Crusted Apple Pie,Crust and Crumb Topping:,crust
 1578,259563,Snickerdoodle-Crusted Apple Pie,all-purpose flour,flour
-1579,259563,Snickerdoodle-Crusted Apple Pie,white sugar divided,sugar
 1580,259563,Snickerdoodle-Crusted Apple Pie,ground cinnamon divided,cinnamon
 1581,259563,Snickerdoodle-Crusted Apple Pie,salt,salt
 1582,259563,Snickerdoodle-Crusted Apple Pie,cream of tartar,tartar
 1583,259563,Snickerdoodle-Crusted Apple Pie,unsalted butter,butter
 1584,259563,Snickerdoodle-Crusted Apple Pie,apple cider vinegar,vinegar
-1585,259563,Snickerdoodle-Crusted Apple Pie,water,water
 1587,259563,Snickerdoodle-Crusted Apple Pie,Granny Smith apples,apples
 1588,259563,Snickerdoodle-Crusted Apple Pie,white sugar,sugar
 1589,259563,Snickerdoodle-Crusted Apple Pie,all-purpose flour,flour
@@ -1501,17 +1345,13 @@
 1595,22479,Spicy Sausage and Rice Casserole,garlic,garlic
 1596,22479,Spicy Sausage and Rice Casserole,green bell pepper,pepper
 1597,22479,Spicy Sausage and Rice Casserole,red bell pepper,pepper
-1598,22479,Spicy Sausage and Rice Casserole,peeled tomatoes crushed,tomatoes
-1599,22479,Spicy Sausage and Rice Casserole,chicken broth,chicken
 1600,22479,Spicy Sausage and Rice Casserole,salt,salt
 1601,22479,Spicy Sausage and Rice Casserole,ground black pepper,pepper
 1602,22479,Spicy Sausage and Rice Casserole,cayenne pepper,pepper
 1603,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,white rice,rice
-1604,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,water,water
 1605,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,olive oil,oil
 1606,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,skinless boneless chicken breast halves,chicken
 1607,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,apricot jam,jam
-1608,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,Italian-style salad dressing (such as Wishbone®),salad
 1609,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,dried minced onion,onion
 1610,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,diced pineapple,pineapple
 1611,230321,Sweet and Sour Chicken Using Italian Dressing and Apricot Jam,yellow onion,onion
@@ -1529,14 +1369,11 @@
 1624,12211,Cherry Cobbler I,milk,milk
 1625,12211,Cherry Cobbler I,white sugar,sugar
 1626,12211,Cherry Cobbler I,cornstarch,cornstarch
-1627,12211,Cherry Cobbler I,boiling water,water
-1628,12211,Cherry Cobbler I,fresh cherries pitted,cherries
 1629,12211,Cherry Cobbler I,white sugar,sugar
 1630,177497,Chicken Creole with Chile Cream Sauce,skinless boneless chicken breasts,chicken
 1631,177497,Chicken Creole with Chile Cream Sauce,Creole,creole
 1632,177497,Chicken Creole with Chile Cream Sauce,olive oil,oil
 1633,177497,Chicken Creole with Chile Cream Sauce,Campbell's® Condensed Cream of Chicken Soup (Regular,chicken
-1634,177497,Chicken Creole with Chile Cream Sauce,water,water
 1635,177497,Chicken Creole with Chile Cream Sauce,chopped green chilies,chilies
 1636,177497,Chicken Creole with Chile Cream Sauce,lime juice,lime
 1637,177497,Chicken Creole with Chile Cream Sauce,sour cream,cream
@@ -1551,8 +1388,8 @@
 1646,86811,Cuban Smoked Sausage with Chickpeas,red pepper flakes,flakes
 1647,86811,Cuban Smoked Sausage with Chickpeas,ground black pepper,pepper
 1648,86811,Cuban Smoked Sausage with Chickpeas,garlic powder,garlic
+1649,86811,Cuban Smoked Sausage with Chickpeas,adobo seasoning,seasoning
 1650,13534,Thanksgiving Meatloaf,ground turkey,turkey
-1651,13534,Thanksgiving Meatloaf,chicken-flavor stuffing mix,mix
 1652,13534,Thanksgiving Meatloaf,eggs,eggs
 1653,13534,Thanksgiving Meatloaf,milk,milk
 1654,21318,Super Al's Cocktail Sauce,finely grated raw horseradish,horseradish
@@ -1561,35 +1398,33 @@
 1657,21318,Super Al's Cocktail Sauce,ketchup,ketchup
 1658,23746,Italian Almond Cookies II,almond paste,almond
 1659,23746,Italian Almond Cookies II,all-purpose flour,flour
+1660,23746,Italian Almond Cookies II,egg whites,egg
 1661,23746,Italian Almond Cookies II,white sugar,sugar
 1662,23746,Italian Almond Cookies II,confectioners' sugar,sugar
 1663,23746,Italian Almond Cookies II,sliced almonds,almonds
-1664,258569,Corned Beef Hash Arepas,HORMEL® Mary Kitchen® Corned Beef Hash,hash
 1665,258569,Corned Beef Hash Arepas,yellow onion,onion
 1666,258569,Corned Beef Hash Arepas,vegetable oil,oil
-1667,258569,Corned Beef Hash Arepas,cooked black beans rinsed and drained,black
+1667,258569,Corned Beef Hash Arepas,cooked black beans rinsed and drained,beans
 1668,258569,Corned Beef Hash Arepas,eggs,eggs
-1669,258569,Corned Beef Hash Arepas,arepas (cooked corn flour cakes),arepas
+1669,258569,Corned Beef Hash Arepas,arepas (cooked corn flour cakes),flour
 1670,258569,Corned Beef Hash Arepas,tomato,tomato
 1671,258569,Corned Beef Hash Arepas,avocado,avocado
-1672,96951,Pisco Sour,ice cubes,cubes
 1673,96951,Pisco Sour,pisco,pisco
 1674,96951,Pisco Sour,lemon juice,lemon
 1675,96951,Pisco Sour,white sugar,sugar
-1677,96951,Pisco Sour,aromatic bitters,bitters
+1676,96951,Pisco Sour,egg white,egg
 1678,258600,Bacon & Cheddar Green Bean Casserole,Campbell's® Condensed Cream of Mushroom Soup,cream
 1679,258600,Bacon & Cheddar Green Bean Casserole,milk,milk
 1680,258600,Bacon & Cheddar Green Bean Casserole,shredded Cheddar cheese,cheese
 1681,258600,Bacon & Cheddar Green Bean Casserole,bacon,bacon
 1682,258600,Bacon & Cheddar Green Bean Casserole,ground black pepper,pepper
-1683,258600,Bacon & Cheddar Green Bean Casserole,Del Monte® Green Beans any style drained,beans
+1683,258600,Bacon & Cheddar Green Bean Casserole,Del Monte® Green Beans any style drained,any
 1684,258600,Bacon & Cheddar Green Bean Casserole,French's® Crispy Fried Onions,onions
 1685,215052,Gourmet Microwave Popcorn,unpopped popcorn,popcorn
 1686,215052,Gourmet Microwave Popcorn,salt to taste,salt
 1687,215052,Gourmet Microwave Popcorn,olive oil,oil
 1688,215479,Warm Green Bean and Potato Salad with Goat Cheese,red potatoes,potatoes
-1689,215479,Warm Green Bean and Potato Salad with Goat Cheese,serving olive oil cooking spray,olive
-1690,215479,Warm Green Bean and Potato Salad with Goat Cheese,frozen French-style green beans thawed,thawed
+1689,215479,Warm Green Bean and Potato Salad with Goat Cheese,serving olive oil cooking spray,oil
 1691,215479,Warm Green Bean and Potato Salad with Goat Cheese,chopped red onion,onion
 1692,215479,Warm Green Bean and Potato Salad with Goat Cheese,minced garlic,garlic
 1693,215479,Warm Green Bean and Potato Salad with Goat Cheese,reduced-fat balsamic vinaigrette dressing,balsamic
@@ -1597,7 +1432,7 @@
 1695,215479,Warm Green Bean and Potato Salad with Goat Cheese,chopped fresh basil,basil
 1696,215479,Warm Green Bean and Potato Salad with Goat Cheese,goat cheese,cheese
 1697,258817,Chicken Pasta with Artichoke Hearts,penne pasta,pasta
-1698,258817,Chicken Pasta with Artichoke Hearts,marinated artichokes coarsely chopped marinade reserved,artichokes
+1698,258817,Chicken Pasta with Artichoke Hearts,marinated artichokes coarsely chopped marinade reserved,marinade
 1699,258817,Chicken Pasta with Artichoke Hearts,skinless boneless chicken breasts,chicken
 1700,258817,Chicken Pasta with Artichoke Hearts,sliced fresh mushrooms,mushrooms
 1701,258817,Chicken Pasta with Artichoke Hearts,reduced-fat low-sodium chicken broth,chicken
@@ -1614,10 +1449,8 @@
 1712,59868,Robey's Blue Crab Deviled Eggs,eggs,eggs
 1713,59868,Robey's Blue Crab Deviled Eggs,mayonnaise,mayonnaise
 1714,59868,Robey's Blue Crab Deviled Eggs,paprika,paprika
-1716,59868,Robey's Blue Crab Deviled Eggs,Old Bay Seasoning TM,bay
 1718,238390,Super Thick N' Beefy Chili,dried small red beans,beans
 1720,238390,Super Thick N' Beefy Chili,beef roast,roast
-1721,238390,Super Thick N' Beefy Chili,barbeque sauce,barbeque
 1722,238390,Super Thick N' Beefy Chili,chipotle peppers in adobo sauce,peppers
 1723,238390,Super Thick N' Beefy Chili,chopped fresh cilantro,cilantro
 1724,238390,Super Thick N' Beefy Chili,red cooking wine,wine
@@ -1626,8 +1459,6 @@
 1727,238390,Super Thick N' Beefy Chili,ground cumin,cumin
 1728,238390,Super Thick N' Beefy Chili,beef bouillon powder,bouillon
 1729,238390,Super Thick N' Beefy Chili,red pepper flakes,flakes
-1730,238390,Super Thick N' Beefy Chili,liquid smoke flavoring,smoke
-1731,260682,Easy Slow Cooker Cauliflower Soup with Cheese,large head cauliflower cut into florets,florets
 1732,260682,Easy Slow Cooker Cauliflower Soup with Cheese,shredded Cheddar cheese,cheese
 1733,260682,Easy Slow Cooker Cauliflower Soup with Cheese,onion,onion
 1734,260682,Easy Slow Cooker Cauliflower Soup with Cheese,English mustard,mustard
@@ -1644,43 +1475,36 @@
 1745,67629,Venison Tenderloin,sprigs fresh rosemary,rosemary
 1746,58364,Rice-so-Nice,long grain white rice,rice
 1747,58364,Rice-so-Nice,butter,butter
-1748,58364,Rice-so-Nice,beef broth,broth
-1749,58364,Rice-so-Nice,condensed French onion soup,soup
+1749,58364,Rice-so-Nice,condensed French onion soup,onion
 1750,58364,Rice-so-Nice,sliced mushrooms,mushrooms
-1751,91735,Chocolate Peanut Butter Swirl Fudge,peanut butter chips,butter
+1751,91735,Chocolate Peanut Butter Swirl Fudge,peanut butter chips,chips
 1752,91735,Chocolate Peanut Butter Swirl Fudge,EAGLE BRAND® Sweetened Condensed Milk,milk
 1753,91735,Chocolate Peanut Butter Swirl Fudge,butter,butter
 1754,91735,Chocolate Peanut Butter Swirl Fudge,Dash salt,salt
 1755,91735,Chocolate Peanut Butter Swirl Fudge,vanilla extract,vanilla
-1756,91735,Chocolate Peanut Butter Swirl Fudge,semi-sweet chocolate chips,chips
+1756,91735,Chocolate Peanut Butter Swirl Fudge,semi-sweet chocolate chips,chocolate
 1757,20324,Wet-Bottom Shoofly Pie,all-purpose flour,flour
 1758,20324,Wet-Bottom Shoofly Pie,brown sugar,sugar
 1760,20324,Wet-Bottom Shoofly Pie,baking soda,soda
-1761,20324,Wet-Bottom Shoofly Pie,boiling water,water
 1762,20324,Wet-Bottom Shoofly Pie,dark corn syrup,syrup
 1763,20324,Wet-Bottom Shoofly Pie,molasses,molasses
 1764,20324,Wet-Bottom Shoofly Pie,salt,salt
 1765,20324,Wet-Bottom Shoofly Pie,egg,egg
-1766,20324,Wet-Bottom Shoofly Pie,unbaked pie crust,crust
 1767,13034,Bean and Sausage Soup,dry mixed beans,beans
-1768,13034,Bean and Sausage Soup,Italian turkey sausage links,links
 1769,13034,Bean and Sausage Soup,diced tomatoes,tomatoes
-1770,13034,Bean and Sausage Soup,chicken broth,chicken
 1771,13034,Bean and Sausage Soup,white wine,wine
 1772,13034,Bean and Sausage Soup,red bell pepper,pepper
 1773,13034,Bean and Sausage Soup,onion,onion
 1774,13034,Bean and Sausage Soup,celery,celery
 1775,13034,Bean and Sausage Soup,large carrots,carrots
-1776,13034,Bean and Sausage Soup,frozen green peas thawed,thawed
+1777,76604,Make-Ahead Turkey Gravy,turkey wings,wings
 1778,76604,Make-Ahead Turkey Gravy,medium onions,onions
-1779,76604,Make-Ahead Turkey Gravy,water,water
 1780,76604,Make-Ahead Turkey Gravy,quarts chicken broth,chicken
 1781,76604,Make-Ahead Turkey Gravy,chopped carrot,carrot
 1782,76604,Make-Ahead Turkey Gravy,dried thyme,thyme
 1783,76604,Make-Ahead Turkey Gravy,all-purpose flour,flour
 1784,76604,Make-Ahead Turkey Gravy,butter,butter
 1785,76604,Make-Ahead Turkey Gravy,ground black pepper,pepper
-1786,238884,Paleo Artichoke Bruschetta,artichoke hearts drained and chopped,artichoke
 1787,238884,Paleo Artichoke Bruschetta,garlic,garlic
 1788,238884,Paleo Artichoke Bruschetta,sea salt,salt
 1789,238884,Paleo Artichoke Bruschetta,freshly ground black pepper,pepper
@@ -1690,17 +1514,14 @@
 1793,238884,Paleo Artichoke Bruschetta,finely chopped red onion,onion
 1794,238884,Paleo Artichoke Bruschetta,drained capers,capers
 1795,230976,Soft Homemade Pretzels,active dry yeast,yeast
-1796,230976,Soft Homemade Pretzels,warm water (110 degrees F (43 degrees C)),water
+1796,230976,Soft Homemade Pretzels,warm water (110 degrees F (43 degrees C)),f
 1797,230976,Soft Homemade Pretzels,all-purpose flour,flour
 1798,230976,Soft Homemade Pretzels,white sugar,sugar
 1800,230976,Soft Homemade Pretzels,salt,salt
 1801,230976,Soft Homemade Pretzels,egg yolk,yolk
-1802,230976,Soft Homemade Pretzels,water,water
 1803,230976,Soft Homemade Pretzels,coarse salt,salt
-1804,24759,Squash Casserole II,yellow squash sliced,squash
 1805,24759,Squash Casserole II,milk,milk
 1806,24759,Squash Casserole II,butter,butter
-1807,24759,Squash Casserole II,eggs beaten,beaten
 1808,24759,Squash Casserole II,green onions,onions
 1809,24759,Squash Casserole II,salt and pepper to taste,pepper
 1810,24759,Squash Casserole II,white sugar,sugar
@@ -1732,7 +1553,6 @@
 1836,206311,Peanut Butter and Honey No-Bake Cookies,honey,honey
 1837,206311,Peanut Butter and Honey No-Bake Cookies,salt,salt
 1838,206311,Peanut Butter and Honey No-Bake Cookies,crunchy peanut butter,butter
-1840,162029,Flat Iron Steak Simplicity!,flat iron steaks,iron
 1841,162029,Flat Iron Steak Simplicity!,lemon pepper seasoning,pepper
 1842,162029,Flat Iron Steak Simplicity!,onion powder,onion
 1843,162029,Flat Iron Steak Simplicity!,garlic powder,garlic
@@ -1742,7 +1562,6 @@
 1847,74203,Kheer (Rice Pudding),Basmati rice,rice
 1848,74203,Kheer (Rice Pudding),raisins,raisins
 1849,74203,Kheer (Rice Pudding),ground cardamom,cardamom
-1850,74203,Kheer (Rice Pudding),rose water (optional),water
 1851,74203,Kheer (Rice Pudding),sliced almonds toasted,almonds
 1852,74203,Kheer (Rice Pudding),chopped pistachio nuts,nuts
 1853,218437,Sour Cherry Pudding Cake,all-purpose flour,flour
@@ -1752,12 +1571,11 @@
 1858,218437,Sour Cherry Pudding Cake,pitted tart red cherries,cherries
 1859,218437,Sour Cherry Pudding Cake,white sugar,sugar
 1860,218437,Sour Cherry Pudding Cake,almond extract,almond
-1862,239249,Crispy Chipotle Roasted Smashed Potatoes,Mazola® Corn Oil,corn
+1862,239249,Crispy Chipotle Roasted Smashed Potatoes,Mazola® Corn Oil,oil
 1863,239249,Crispy Chipotle Roasted Smashed Potatoes,Spice Islands® Sea Salt to taste,salt
 1865,21124,Rich Macaroni and Tomato Bake,macaroni,macaroni
 1866,21124,Rich Macaroni and Tomato Bake,bacon,bacon
 1868,21124,Rich Macaroni and Tomato Bake,ground black pepper,pepper
-1869,21124,Rich Macaroni and Tomato Bake,eggs beaten,beaten
 1870,21124,Rich Macaroni and Tomato Bake,heavy cream,cream
 1871,21124,Rich Macaroni and Tomato Bake,milk,milk
 1872,21124,Rich Macaroni and Tomato Bake,ground nutmeg,nutmeg
@@ -1767,7 +1585,6 @@
 1876,56225,Fried Sweet Potatoes,packed light brown sugar,sugar
 1878,206870,Beef Brisket with Chipotle Tomatillo Sauce,chipotle peppers in adobo sauce,peppers
 1879,206870,Beef Brisket with Chipotle Tomatillo Sauce,tomato sauce,tomato
-1880,206870,Beef Brisket with Chipotle Tomatillo Sauce,water,water
 1881,206870,Beef Brisket with Chipotle Tomatillo Sauce,salt,salt
 1882,206870,Beef Brisket with Chipotle Tomatillo Sauce,brown sugar,sugar
 1883,206870,Beef Brisket with Chipotle Tomatillo Sauce,olive oil,oil
@@ -1776,11 +1593,10 @@
 1886,206870,Beef Brisket with Chipotle Tomatillo Sauce,beef brisket,brisket
 1887,241170,Oatmeal Energy Bars,rolled oats,oats
 1888,241170,Oatmeal Energy Bars,all-purpose flour,flour
-1889,241170,Oatmeal Energy Bars,vegan semi-sweet chocolate chips,chips
+1889,241170,Oatmeal Energy Bars,vegan semi-sweet chocolate chips,chocolate
 1890,241170,Oatmeal Energy Bars,ground unsalted cashews,cashews
 1891,241170,Oatmeal Energy Bars,shelled unsalted sunflower seeds,seeds
 1892,241170,Oatmeal Energy Bars,ground flax meal,flax
-1893,241170,Oatmeal Energy Bars,wheat germ,germ
 1894,241170,Oatmeal Energy Bars,ground cinnamon,cinnamon
 1895,241170,Oatmeal Energy Bars,sea salt,salt
 1896,241170,Oatmeal Energy Bars,honey warmed,honey
@@ -1788,19 +1604,17 @@
 1898,241170,Oatmeal Energy Bars,vanilla extract,vanilla
 1899,177843,Pre-Game Paella,vegetable oil,oil
 1900,177843,Pre-Game Paella,uncooked regular long-grain white rice,rice
-1901,177843,Pre-Game Paella,Swanson® Chicken Stock heated,chicken
-1902,177843,Pre-Game Paella,Pace® Thick & Chunky Salsa,®
+1902,177843,Pre-Game Paella,Pace® Thick & Chunky Salsa,salsa
 1903,177843,Pre-Game Paella,ground turmeric,turmeric
 1904,177843,Pre-Game Paella,turkey kielbasa,kielbasa
 1905,177843,Pre-Game Paella,frozen peeled and deveined small cooked shrimp,shrimp
 1906,177843,Pre-Game Paella,refrigerated fully-cooked chicken breast strips,chicken
 1907,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,zucchini spiralized,spiralized
-1908,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,water,water
 1909,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,salt,salt
-1910,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,quinoa rinsed,rinsed
 1911,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,vegetable oil,oil
 1912,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,garlic,garlic
 1913,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,drained and rinsed canned cannellini beans,beans
+1914,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,cherry tomatoes halved,tomatoes
 1915,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,freshly grated Parmesan cheese,cheese
 1916,259286,Zucchini Noodle and Cannellini Bean Quinoa Bowl,salt and ground black pepper to taste,pepper
 1917,25169,French Dressing II,white sugar,sugar
@@ -1809,14 +1623,11 @@
 1920,25169,French Dressing II,garlic,garlic
 1921,25169,French Dressing II,white vinegar,vinegar
 1922,25169,French Dressing II,hot pepper sauce,pepper
-1923,25169,French Dressing II,celery seed,seed
-1924,25169,French Dressing II,liquid smoke flavoring,smoke
 1925,25169,French Dressing II,minced fresh chives,chives
 1926,17559,Anniversary Chicken II,thick cut bacon,bacon
 1927,17559,Anniversary Chicken II,onion,onion
 1928,17559,Anniversary Chicken II,olive oil,oil
 1929,17559,Anniversary Chicken II,skinless boneless chicken breast halves,chicken
-1930,17559,Anniversary Chicken II,stir-fry sauce,sauce
 1931,17559,Anniversary Chicken II,Ranch-style salad dressing,salad
 1932,17559,Anniversary Chicken II,grated Parmesan cheese,cheese
 1933,235517,Brown Sugar Cookies,brown sugar,sugar
@@ -1830,18 +1641,17 @@
 1943,24695,Bertha's Blueberry Dumplings,salt,salt
 1944,24695,Bertha's Blueberry Dumplings,lard,lard
 1945,24695,Bertha's Blueberry Dumplings,milk,milk
-1946,24695,Bertha's Blueberry Dumplings,water,water
 1947,24695,Bertha's Blueberry Dumplings,white sugar,sugar
 1948,24695,Bertha's Blueberry Dumplings,pint blueberries,blueberries
 1949,14338,Frozen Cranberry Salad,cream cheese,cheese
 1950,14338,Frozen Cranberry Salad,butter,butter
 1951,14338,Frozen Cranberry Salad,white sugar,sugar
+1952,14338,Frozen Cranberry Salad,cranberry sauce,cranberry
 1953,14338,Frozen Cranberry Salad,crushed pineapple,pineapple
 1954,14338,Frozen Cranberry Salad,chopped walnuts,walnuts
 1955,14338,Frozen Cranberry Salad,heavy whipping cream,cream
 1956,14338,Frozen Cranberry Salad,confectioners' sugar,sugar
 1957,14338,Frozen Cranberry Salad,vanilla extract,vanilla
-1958,10039,Nutcracker Bars,butter flavored shortening,butter
 1959,10039,Nutcracker Bars,packed brown sugar,sugar
 1960,10039,Nutcracker Bars,creamy peanut butter,butter
 1961,10039,Nutcracker Bars,eggs,eggs
@@ -1849,7 +1659,6 @@
 1964,10039,Nutcracker Bars,salt,salt
 1965,10039,Nutcracker Bars,milk,milk
 1966,10039,Nutcracker Bars,vanilla extract,vanilla
-1967,10039,Nutcracker Bars,butter flavored shortening,butter
 1968,10039,Nutcracker Bars,creamy peanut butter,butter
 1969,10039,Nutcracker Bars,confectioners' sugar,sugar
 1970,10039,Nutcracker Bars,milk,milk
@@ -1861,6 +1670,7 @@
 1976,235221,Low-Fat Pumpkin Chocolate Chip Bread,unsweetened applesauce,applesauce
 1977,235221,Low-Fat Pumpkin Chocolate Chip Bread,white sugar,sugar
 1978,235221,Low-Fat Pumpkin Chocolate Chip Bread,egg,egg
+1979,235221,Low-Fat Pumpkin Chocolate Chip Bread,egg whites,egg
 1980,235221,Low-Fat Pumpkin Chocolate Chip Bread,ground nutmeg,nutmeg
 1981,235221,Low-Fat Pumpkin Chocolate Chip Bread,ground cinnamon,cinnamon
 1982,235221,Low-Fat Pumpkin Chocolate Chip Bread,ground cloves,cloves
@@ -1873,12 +1683,11 @@
 1989,12092,American Apple Pie,ground cinnamon,cinnamon
 1990,12092,American Apple Pie,peeled cored and sliced apples,apples
 1991,12092,American Apple Pie,raisins,raisins
-1992,12092,American Apple Pie,recipe pastry for a 9 inch double crust pie,pie
+1992,12092,American Apple Pie,recipe pastry for a 9 inch double crust pie,pastry
 1993,12092,American Apple Pie,egg,egg
 1994,26282,Pastachutta,spaghetti,spaghetti
 1995,26282,Pastachutta,butter,butter
 1996,26282,Pastachutta,garlic,garlic
-1997,26282,Pastachutta,fresh mushrooms sliced,sliced
 1998,26282,Pastachutta,onion,onion
 1999,26282,Pastachutta,salt and pepper to taste,pepper
 2000,222220,Peppery Coleslaw with Cucumbers and Celery,small head cabbage shredded,cabbage
@@ -1895,13 +1704,12 @@
 2012,231776,Hedgehog Cookies,baking soda,soda
 2013,231776,Hedgehog Cookies,salt,salt
 2014,231776,Hedgehog Cookies,white sugar,sugar
-2015,231776,Hedgehog Cookies,butter-flavored shortening,shortening
 2016,231776,Hedgehog Cookies,corn syrup,syrup
 2017,231776,Hedgehog Cookies,eggs,eggs
 2018,231776,Hedgehog Cookies,vanilla extract,vanilla
 2019,231776,Hedgehog Cookies,pecans,pecans
 2020,231776,Hedgehog Cookies,chocolate chips,chips
-2021,46982,Pesto Pasta with Chicken,bow tie pasta,pasta
+2021,46982,Pesto Pasta with Chicken,bow tie pasta,tie
 2022,46982,Pesto Pasta with Chicken,olive oil,oil
 2023,46982,Pesto Pasta with Chicken,garlic,garlic
 2024,46982,Pesto Pasta with Chicken,boneless skinless chicken breasts,chicken
@@ -1912,7 +1720,6 @@
 2030,8729,Julia's Easy Slow Cooker Chicken,condensed cream of mushroom soup,cream
 2031,8729,Julia's Easy Slow Cooker Chicken,milk,milk
 2032,8729,Julia's Easy Slow Cooker Chicken,cornstarch,cornstarch
-2033,8729,Julia's Easy Slow Cooker Chicken,dry onion soup mix,mix
 2034,19416,Easy Mac 'n' Cheese,macaroni,macaroni
 2035,19416,Easy Mac 'n' Cheese,process cheese sauce,cheese
 2037,19416,Easy Mac 'n' Cheese,grated Parmesan cheese,cheese
@@ -1920,7 +1727,6 @@
 2039,19416,Easy Mac 'n' Cheese,buttery round crackers,crackers
 2040,222373,Salmon Burgers with Lemon Basil Mayo,salmon,salmon
 2041,222373,Salmon Burgers with Lemon Basil Mayo,small yellow onion,onion
-2042,222373,Salmon Burgers with Lemon Basil Mayo,panko bread crumbs,crumbs
 2043,222373,Salmon Burgers with Lemon Basil Mayo,green bell pepper,pepper
 2044,222373,Salmon Burgers with Lemon Basil Mayo,garlic,garlic
 2045,222373,Salmon Burgers with Lemon Basil Mayo,egg,egg
@@ -1934,37 +1740,33 @@
 2053,222373,Salmon Burgers with Lemon Basil Mayo,Dijon mustard,mustard
 2054,222373,Salmon Burgers with Lemon Basil Mayo,lemon pepper,pepper
 2055,97646,Slow Cooker Apple-Scented Venison Roast,olive oil,oil
-2056,97646,Slow Cooker Apple-Scented Venison Roast,boneless venison roast,roast
+2056,97646,Slow Cooker Apple-Scented Venison Roast,boneless venison roast,venison
 2057,97646,Slow Cooker Apple-Scented Venison Roast,large apple cored and quartered,apple
 2058,97646,Slow Cooker Apple-Scented Venison Roast,small onions,onions
 2059,97646,Slow Cooker Apple-Scented Venison Roast,crushed garlic,garlic
-2060,97646,Slow Cooker Apple-Scented Venison Roast,boiling water,water
 2061,97646,Slow Cooker Apple-Scented Venison Roast,beef bouillon,bouillon
 2062,222045,Beet Greens and Green Beans with Tomato and Onion,olive oil,oil
 2063,222045,Beet Greens and Green Beans with Tomato and Onion,small yellow onion,onion
-2064,222045,Beet Greens and Green Beans with Tomato and Onion,fresh green beans trimmed,trimmed
 2065,222045,Beet Greens and Green Beans with Tomato and Onion,chopped beet greens,greens
 2066,222045,Beet Greens and Green Beans with Tomato and Onion,small tomato,tomato
 2067,222045,Beet Greens and Green Beans with Tomato and Onion,large clove garlic,garlic
 2068,222045,Beet Greens and Green Beans with Tomato and Onion,ground thyme,thyme
 2069,222045,Beet Greens and Green Beans with Tomato and Onion,red pepper flakes,flakes
-2070,222045,Beet Greens and Green Beans with Tomato and Onion,water,water
 2071,222045,Beet Greens and Green Beans with Tomato and Onion,cider vinegar,vinegar
 2072,222045,Beet Greens and Green Beans with Tomato and Onion,sea salt to taste,salt
 2073,222045,Beet Greens and Green Beans with Tomato and Onion,ground black pepper to taste,pepper
-2074,246024,Gluten Free Spicy Mac & Cheese,box Barilla® Gluten Free Elbows,®
 2075,246024,Gluten Free Spicy Mac & Cheese,heavy cream,cream
 2076,246024,Gluten Free Spicy Mac & Cheese,organic milk,milk
 2077,246024,Gluten Free Spicy Mac & Cheese,cornstarch,cornstarch
 2078,246024,Gluten Free Spicy Mac & Cheese,shredded pepperjack cheese,cheese
 2079,246024,Gluten Free Spicy Mac & Cheese,Salt and black pepper to taste,pepper
 2080,246024,Gluten Free Spicy Mac & Cheese,small fresh jalapeno pepper,pepper
+2081,246024,Gluten Free Spicy Mac & Cheese,egg yolks,yolks
 2082,176263,Quick and Yummy Hummus,garbanzo beans rinsed and drained,beans
 2083,176263,Quick and Yummy Hummus,plain yogurt,yogurt
 2084,176263,Quick and Yummy Hummus,fresh lemon juice,lemon
 2085,176263,Quick and Yummy Hummus,garlic,garlic
 2086,176263,Quick and Yummy Hummus,olive oil,oil
-2087,176263,Quick and Yummy Hummus,water,water
 2088,176263,Quick and Yummy Hummus,salt,salt
 2089,176263,Quick and Yummy Hummus,ground black pepper,pepper
 2090,176263,Quick and Yummy Hummus,ground cumin,cumin
@@ -1981,17 +1783,13 @@
 2101,213996,Avocado and Edamame Dip,onion,onion
 2102,213996,Avocado and Edamame Dip,tightly packed cilantro,cilantro
 2103,213996,Avocado and Edamame Dip,olive oil,oil
-2104,213996,Avocado and Edamame Dip,large avocado peeled pitted and cubed,avocado
 2105,213996,Avocado and Edamame Dip,lemon juiced,lemon
+2106,213996,Avocado and Edamame Dip,chile-garlic sauce (such as Sriracha®),garlic
 2107,213996,Avocado and Edamame Dip,salt and pepper to taste,pepper
-2108,19073,No Bake Sugar Free Cheese Cake,graham cracker crumbs,crumbs
 2109,19073,No Bake Sugar Free Cheese Cake,butter,butter
 2110,19073,No Bake Sugar Free Cheese Cake,ground cinnamon,cinnamon
-2111,19073,No Bake Sugar Free Cheese Cake,sugar free lemon flavored Jell-O®,®
-2112,19073,No Bake Sugar Free Cheese Cake,boiling water,water
 2113,19073,No Bake Sugar Free Cheese Cake,reduced fat cream cheese,cheese
 2114,19073,No Bake Sugar Free Cheese Cake,vanilla extract,vanilla
-2115,19073,No Bake Sugar Free Cheese Cake,frozen light whipped topping thawed,light
 2116,223275,Deep Dish Pea and Vegetable Casserole,chopped cauliflower,cauliflower
 2117,223275,Deep Dish Pea and Vegetable Casserole,sliced carrots,carrots
 2118,223275,Deep Dish Pea and Vegetable Casserole,butter,butter
@@ -2000,7 +1798,6 @@
 2121,223275,Deep Dish Pea and Vegetable Casserole,white sugar,sugar
 2122,223275,Deep Dish Pea and Vegetable Casserole,salt,salt
 2123,223275,Deep Dish Pea and Vegetable Casserole,ground black pepper,pepper
-2124,223275,Deep Dish Pea and Vegetable Casserole,frozen peas thawed,thawed
 2125,223275,Deep Dish Pea and Vegetable Casserole,onion,onion
 2126,223275,Deep Dish Pea and Vegetable Casserole,green beans,beans
 2127,223275,Deep Dish Pea and Vegetable Casserole,chopped green bell pepper,pepper
@@ -2022,7 +1819,7 @@
 2144,15190,Au Gratin Potatoes II,peeled and shredded potatoes,potatoes
 2145,15190,Au Gratin Potatoes II,shredded Cheddar cheese,cheese
 2146,15190,Au Gratin Potatoes II,chopped green onions,onions
-2147,15190,Au Gratin Potatoes II,cornflakes cereal,cornflakes
+2147,15190,Au Gratin Potatoes II,cornflakes cereal,cereal
 2148,15190,Au Gratin Potatoes II,unsalted butter,butter
 2149,15190,Au Gratin Potatoes II,chopped fresh parsley (optional),parsley
 2150,80328,Kofta,ground beef,beef
@@ -2030,16 +1827,12 @@
 2152,80328,Kofta,egg yolk,yolk
 2153,80328,Kofta,chopped fresh oregano,oregano
 2154,80328,Kofta,salt and pepper to taste,pepper
-2155,80328,Kofta,bamboo skewers soaked in water for 20 minutes,skewers
-2156,21426,Jean's Swedish Faux Meatballs,bread crumbled,bread
 2157,21426,Jean's Swedish Faux Meatballs,chopped onion,onion
 2158,21426,Jean's Swedish Faux Meatballs,ground black pepper,pepper
 2159,21426,Jean's Swedish Faux Meatballs,ground nutmeg,nutmeg
 2160,21426,Jean's Swedish Faux Meatballs,skim milk,milk
-2161,21426,Jean's Swedish Faux Meatballs,frozen burger-style crumbles,crumbles
 2162,21426,Jean's Swedish Faux Meatballs,butter,butter
 2163,21426,Jean's Swedish Faux Meatballs,all-purpose flour,flour
-2164,21426,Jean's Swedish Faux Meatballs,vegetable broth,broth
 2165,21426,Jean's Swedish Faux Meatballs,half-and-half cream,cream
 2166,79311,Creamed Cucumber Slices,mayonnaise,mayonnaise
 2167,79311,Creamed Cucumber Slices,milk,milk
@@ -2060,30 +1853,32 @@
 2183,178151,"Felix K.'s 'Don't even try to say these aren't the best you've ever eaten, because they are' Chocolate Chip Cookies",vanilla extract,vanilla
 2184,178151,"Felix K.'s 'Don't even try to say these aren't the best you've ever eaten, because they are' Chocolate Chip Cookies",bag chocolate chips,chips
 2185,245981,Korean BBQ Beef Tacos,vegetable oil,oil
-2186,245981,Korean BBQ Beef Tacos,Knorr® beef flavored bouillon cube,cube
-2188,245981,Korean BBQ Beef Tacos,Knorr® Menu Flavors Rice Sides™,™
+2186,245981,Korean BBQ Beef Tacos,Knorr® beef flavored bouillon cube,beef
 2189,245981,Korean BBQ Beef Tacos,shredded carrot,carrot
 2190,245981,Korean BBQ Beef Tacos,thinly sliced snow peas,peas
 2191,245981,Korean BBQ Beef Tacos,green onions,onions
 2192,245981,Korean BBQ Beef Tacos,lime juice,lime
 2194,244718,Zucchini Bread Breakfast Pizza,coconut flour,flour
 2195,244718,Zucchini Bread Breakfast Pizza,ground cinnamon,cinnamon
+2196,244718,Zucchini Bread Breakfast Pizza,shredded zucchini,zucchini
 2197,244718,Zucchini Bread Breakfast Pizza,egg,egg
 2198,244718,Zucchini Bread Breakfast Pizza,pure maple syrup,syrup
 2199,244718,Zucchini Bread Breakfast Pizza,vanilla extract,vanilla
 2200,244718,Zucchini Bread Breakfast Pizza,Greek yogurt,yogurt
 2201,244718,Zucchini Bread Breakfast Pizza,fresh strawberries hulled and sliced,strawberries
 2202,244718,Zucchini Bread Breakfast Pizza,grapes halved,grapes
+2203,244718,Zucchini Bread Breakfast Pizza,banana sliced,banana
 2204,244718,Zucchini Bread Breakfast Pizza,orange zest,orange
 2205,244718,Zucchini Bread Breakfast Pizza,maple syrup,syrup
+2206,19868,Jill's World-Famous Coffee Liqueur Brownies,squares unsweetened chocolate,chocolate
 2207,19868,Jill's World-Famous Coffee Liqueur Brownies,butter,butter
 2208,19868,Jill's World-Famous Coffee Liqueur Brownies,eggs,eggs
 2209,19868,Jill's World-Famous Coffee Liqueur Brownies,white sugar,sugar
 2210,19868,Jill's World-Famous Coffee Liqueur Brownies,vanilla extract,vanilla
 2211,19868,Jill's World-Famous Coffee Liqueur Brownies,all-purpose flour,flour
+2212,19868,Jill's World-Famous Coffee Liqueur Brownies,coffee flavored liqueur,coffee
 2213,19868,Jill's World-Famous Coffee Liqueur Brownies,chopped walnuts,walnuts
 2214,23114,Cranana Jam,cranberries,cranberries
-2215,23114,Cranana Jam,water,water
 2216,23114,Cranana Jam,mashed bananas,bananas
 2217,23114,Cranana Jam,white sugar,sugar
 2218,23114,Cranana Jam,fluid ounce) container liquid pectin,pectin
@@ -2093,10 +1888,8 @@
 2222,255271,Grown Up Mac & Cheese,butter,butter
 2223,255271,Grown Up Mac & Cheese,flour,flour
 2224,255271,Grown Up Mac & Cheese,fat-free milk,milk
-2225,255271,Grown Up Mac & Cheese,panko bread crumbs,crumbs
 2226,255271,Grown Up Mac & Cheese,chopped fresh parsley,parsley
 2227,255271,Grown Up Mac & Cheese,processed American cheese,cheese
-2228,255271,Grown Up Mac & Cheese,link Johnsonville® Smoked,johnsonville
 2229,74950,My Amish Friend's Caramel Corn,quarts plain popped popcorn,popcorn
 2230,74950,My Amish Friend's Caramel Corn,dry roasted peanuts (optional),peanuts
 2231,74950,My Amish Friend's Caramel Corn,brown sugar,sugar
@@ -2109,13 +1902,10 @@
 2238,75108,Raspberry Cheesecake Stuffed French Toast,vanilla extract,vanilla
 2239,75108,Raspberry Cheesecake Stuffed French Toast,white sugar,sugar
 2240,75108,Raspberry Cheesecake Stuffed French Toast,cinnamon,cinnamon
-2241,75108,Raspberry Cheesecake Stuffed French Toast,eggs beaten,beaten
-2242,75108,Raspberry Cheesecake Stuffed French Toast,raspberry puree,puree
 2243,75108,Raspberry Cheesecake Stuffed French Toast,cream cheese,cheese
+2244,75108,Raspberry Cheesecake Stuffed French Toast,loaf French bread cut into 1 inch slices,bread
 2245,75108,Raspberry Cheesecake Stuffed French Toast,butter,butter
 2246,75108,Raspberry Cheesecake Stuffed French Toast,confectioners' sugar for dusting,sugar
-2247,75108,Raspberry Cheesecake Stuffed French Toast,nutmeg for topping,nutmeg
-2248,219654,Spanish-Style Swiss Chard with Raisins and Pine Nuts,Swiss chard stemmed and chopped,swiss
 2249,219654,Spanish-Style Swiss Chard with Raisins and Pine Nuts,extra virgin olive oil,oil
 2250,219654,Spanish-Style Swiss Chard with Raisins and Pine Nuts,raisins,raisins
 2251,219654,Spanish-Style Swiss Chard with Raisins and Pine Nuts,pine nuts,nuts
@@ -2129,12 +1919,12 @@
 2260,109297,Cedar Planked Salmon,minced garlic,garlic
 2262,72747,Blueberry-Lemon Pound Cake,butter,butter
 2263,72747,Blueberry-Lemon Pound Cake,white sugar,sugar
+2264,72747,Blueberry-Lemon Pound Cake,milk room temperature,milk
 2265,72747,Blueberry-Lemon Pound Cake,eggs,eggs
 2266,72747,Blueberry-Lemon Pound Cake,lemon extract,lemon
 2268,72747,Blueberry-Lemon Pound Cake,unbleached all-purpose flour,flour
 2269,72747,Blueberry-Lemon Pound Cake,grated lemon zest,lemon
 2270,72747,Blueberry-Lemon Pound Cake,fresh blueberries,blueberries
-2271,240922,Sesame-Roasted Salmon,cooking spray,spray
 2272,240922,Sesame-Roasted Salmon,garlic,garlic
 2273,240922,Sesame-Roasted Salmon,soy sauce,soy
 2274,240922,Sesame-Roasted Salmon,Dijon mustard,mustard
@@ -2147,12 +1937,10 @@
 2282,245160,Maple Granola,almond flour,flour
 2283,15408,Pasta Milan,penne pasta,pasta
 2284,15408,Pasta Milan,frozen green peas,peas
-2285,15408,Pasta Milan,asparagus tips,tips
 2286,15408,Pasta Milan,Gorgonzola cheese,cheese
 2287,15408,Pasta Milan,heavy whipping cream,cream
 2288,15408,Pasta Milan,salt and pepper to taste,pepper
 2289,7820,White Texas Sheet Cake,butter,butter
-2290,7820,White Texas Sheet Cake,water,water
 2291,7820,White Texas Sheet Cake,all-purpose flour,flour
 2292,7820,White Texas Sheet Cake,white sugar,sugar
 2293,7820,White Texas Sheet Cake,eggs,eggs
@@ -2166,20 +1954,19 @@
 2302,7820,White Texas Sheet Cake,almond extract,almond
 2303,7820,White Texas Sheet Cake,chopped pecans,pecans
 2304,193307,Easy Mochi,sweetened red bean paste,bean
-2305,193307,Easy Mochi,sweet rice flour (mochiko),rice
-2307,193307,Easy Mochi,water,water
+2305,193307,Easy Mochi,sweet rice flour (mochiko),flour
 2308,193307,Easy Mochi,white sugar,sugar
 2309,193307,Easy Mochi,cornstarch for rolling out the dough,cornstarch
-2310,237598,Chocolate Cream Puff Swans,Pâte à Choux (Cream Puff Dough):,puff
-2311,237598,Chocolate Cream Puff Swans,water,water
+2310,237598,Chocolate Cream Puff Swans,Pâte à Choux (Cream Puff Dough):,dough
 2312,237598,Chocolate Cream Puff Swans,unsalted butter,butter
 2313,237598,Chocolate Cream Puff Swans,white sugar,sugar
 2314,237598,Chocolate Cream Puff Swans,salt,salt
 2315,237598,Chocolate Cream Puff Swans,all-purpose flour,flour
 2316,237598,Chocolate Cream Puff Swans,eggs,eggs
-2317,237598,Chocolate Cream Puff Swans,Ganache:,ganache
+2317,237598,Chocolate Cream Puff Swans,Ganache:,:
+2318,237598,Chocolate Cream Puff Swans,dark chocolate chopped,chocolate
 2319,237598,Chocolate Cream Puff Swans,heavy whipping cream,cream
-2320,237598,Chocolate Cream Puff Swans,Cream:,cream
+2320,237598,Chocolate Cream Puff Swans,Cream:,:
 2321,237598,Chocolate Cream Puff Swans,cold heavy whipping cream,cream
 2322,237598,Chocolate Cream Puff Swans,white sugar,sugar
 2323,237598,Chocolate Cream Puff Swans,vanilla extract,vanilla
@@ -2191,6 +1978,7 @@
 2329,241079,Quick Pickled Pepper Onion Relish,kosher salt to taste,salt
 2330,59343,Scottie's Chicken Tortilla Soup,fluid ounce) can chicken broth,chicken
 2331,59343,Scottie's Chicken Tortilla Soup,kernel corn,corn
+2332,59343,Scottie's Chicken Tortilla Soup,black beans drained,beans
 2333,59343,Scottie's Chicken Tortilla Soup,beef bouillon,bouillon
 2334,59343,Scottie's Chicken Tortilla Soup,chopped broccoli,broccoli
 2335,59343,Scottie's Chicken Tortilla Soup,stewed tomatoes (crushed),tomatoes
@@ -2199,10 +1987,11 @@
 2338,59343,Scottie's Chicken Tortilla Soup,olive oil,oil
 2339,59343,Scottie's Chicken Tortilla Soup,boneless skinless chicken breasts,chicken
 2340,59343,Scottie's Chicken Tortilla Soup,lime juice,lime
+2341,59343,Scottie's Chicken Tortilla Soup,tequila,tequila
 2342,59343,Scottie's Chicken Tortilla Soup,onion powder,onion
 2343,59343,Scottie's Chicken Tortilla Soup,garlic salt,salt
 2344,59343,Scottie's Chicken Tortilla Soup,cayenne pepper,pepper
-2345,59343,Scottie's Chicken Tortilla Soup,Cajun seasoning,cajun
+2345,59343,Scottie's Chicken Tortilla Soup,Cajun seasoning,seasoning
 2346,59343,Scottie's Chicken Tortilla Soup,shredded white Cheddar cheese,cheese
 2347,229940,Chicken Ranch Dijon,skinless boneless chicken breast halves,chicken
 2348,229940,Chicken Ranch Dijon,salt and ground black pepper to taste,pepper
@@ -2211,6 +2000,7 @@
 2352,229940,Chicken Ranch Dijon,dry white wine,wine
 2353,229940,Chicken Ranch Dijon,angel hair pasta,pasta
 2354,229940,Chicken Ranch Dijon,chopped fresh parsley,parsley
+2355,23157,Turkey in a Bag,turkey,turkey
 2356,23157,Turkey in a Bag,salt and pepper to taste,pepper
 2357,23157,Turkey in a Bag,all-purpose flour,flour
 2358,23157,Turkey in a Bag,celery,celery
@@ -2226,7 +2016,6 @@
 2369,222337,Brown Butter Pineapple Corn Muffins,salt,salt
 2370,222337,Brown Butter Pineapple Corn Muffins,buttermilk,buttermilk
 2371,222337,Brown Butter Pineapple Corn Muffins,large eggs,eggs
-2372,146032,Nicole's Garbanzo-Citrus Spread,garbanzo beans drained liquid reserved,beans
 2373,146032,Nicole's Garbanzo-Citrus Spread,garlic,garlic
 2374,146032,Nicole's Garbanzo-Citrus Spread,tahini,tahini
 2375,146032,Nicole's Garbanzo-Citrus Spread,kosher salt,salt
@@ -2238,11 +2027,12 @@
 2382,256405,Paleo Chicken Marsala,sea salt and ground black pepper to taste,pepper
 2383,256405,Paleo Chicken Marsala,extra-virgin olive oil,oil
 2384,256405,Paleo Chicken Marsala,unsalted butter,butter
+2385,256405,Paleo Chicken Marsala,small shallot finely chopped,shallot
 2387,256405,Paleo Chicken Marsala,cremini mushrooms stemmed and halved,mushrooms
 2388,256405,Paleo Chicken Marsala,sweet Marsala wine,wine
 2389,256405,Paleo Chicken Marsala,chicken stock,chicken
 2390,256405,Paleo Chicken Marsala,chopped flat-leaf parsley,parsley
-2391,18378,Chocolate Pecan Pie VI,semi-sweet chocolate chips,chips
+2391,18378,Chocolate Pecan Pie VI,semi-sweet chocolate chips,chocolate
 2392,18378,Chocolate Pecan Pie VI,butter,butter
 2393,18378,Chocolate Pecan Pie VI,sweetened condensed milk,milk
 2394,18378,Chocolate Pecan Pie VI,large eggs,eggs
@@ -2257,7 +2047,6 @@
 2403,232969,Bacon-Wrapped Dates Stuffed with Manchego Cheese,manchego cheese,cheese
 2404,232969,Bacon-Wrapped Dates Stuffed with Manchego Cheese,dried pitted dates,dates
 2405,232969,Bacon-Wrapped Dates Stuffed with Manchego Cheese,bacon,bacon
-2406,232969,Bacon-Wrapped Dates Stuffed with Manchego Cheese,wooden toothpicks,toothpicks
 2408,241993,Eggplant Panini,salt and ground black pepper to taste,pepper
 2409,241993,Eggplant Panini,olive oil,oil
 2410,241993,Eggplant Panini,loaf flat bread sliced horizontally and cut into 4 equal pieces,bread
@@ -2267,40 +2056,36 @@
 2414,54047,Chef Nick's Amazing Calamari,ricotta cheese,cheese
 2415,54047,Chef Nick's Amazing Calamari,mascarpone cheese,cheese
 2416,54047,Chef Nick's Amazing Calamari,sun-dried tomatoes chopped,tomatoes
-2417,54047,Chef Nick's Amazing Calamari,dry bread crumbs,crumbs
 2418,54047,Chef Nick's Amazing Calamari,dried oregano,oregano
 2419,54047,Chef Nick's Amazing Calamari,salt and pepper to taste,pepper
 2421,54047,Chef Nick's Amazing Calamari,butter,butter
 2422,54047,Chef Nick's Amazing Calamari,garlic,garlic
 2423,54047,Chef Nick's Amazing Calamari,sesame seeds,seeds
+2424,256095,Stef's Slow Cooker Creme Brulee,egg yolks,yolks
 2425,256095,Stef's Slow Cooker Creme Brulee,white sugar,sugar
 2426,256095,Stef's Slow Cooker Creme Brulee,salt,salt
 2427,256095,Stef's Slow Cooker Creme Brulee,heavy whipping cream,cream
 2428,256095,Stef's Slow Cooker Creme Brulee,vanilla extract,vanilla
 2429,256095,Stef's Slow Cooker Creme Brulee,white sugar,sugar
-2430,61688,My Ambrosia,fruit cocktail,cocktail
 2431,61688,My Ambrosia,mandarin oranges,oranges
 2432,61688,My Ambrosia,maraschino cherries,cherries
 2433,61688,My Ambrosia,crushed pineapple,pineapple
 2434,61688,My Ambrosia,pint fresh strawberries hulled and quartered lengthwise,strawberries
-2435,61688,My Ambrosia,frozen whipped topping thawed,thawed
 2436,61688,My Ambrosia,shredded coconut,coconut
 2437,61688,My Ambrosia,chopped walnuts,walnuts
-2438,61688,My Ambrosia,toffee baking bits,bits
 2439,61688,My Ambrosia,miniature marshmallows,marshmallows
 2440,222099,Healthier Chicken Cordon Bleu I,skinless boneless chicken breast halves,chicken
 2441,222099,Healthier Chicken Cordon Bleu I,salt,salt
 2442,222099,Healthier Chicken Cordon Bleu I,ground black pepper,pepper
 2443,222099,Healthier Chicken Cordon Bleu I,Jarlsberg cheese,cheese
 2444,222099,Healthier Chicken Cordon Bleu I,cooked ham,ham
-2445,222099,Healthier Chicken Cordon Bleu I,wheat bread crumbs,crumbs
 2446,186255,Cheese Crepe Souffle,butter,butter
-2447,186255,Cheese Crepe Souffle,frozen cheese-filled blintzes,blintzes
+2448,186255,Cheese Crepe Souffle,egg whites,egg
+2449,186255,Cheese Crepe Souffle,egg yolks,yolks
 2450,186255,Cheese Crepe Souffle,sour cream,cream
 2451,186255,Cheese Crepe Souffle,white sugar,sugar
 2452,186255,Cheese Crepe Souffle,vanilla extract,vanilla
 2453,186255,Cheese Crepe Souffle,salt,salt
-2454,151010,Duck Confit,uncooked Peking duck legs,legs
 2455,151010,Duck Confit,kosher salt,salt
 2456,151010,Duck Confit,lemon zested and thinly sliced,lemon
 2457,151010,Duck Confit,garlic,garlic
@@ -2310,7 +2095,6 @@
 2461,151010,Duck Confit,rendered duck fat,fat
 2462,246455,Overnight Oats Blueberry Smoothie Bowl,rolled oats,oats
 2463,246455,Overnight Oats Blueberry Smoothie Bowl,unsweetened vanilla-flavored almond milk divided,milk
-2464,246455,Overnight Oats Blueberry Smoothie Bowl,frozen banana chopped,banana
 2465,246455,Overnight Oats Blueberry Smoothie Bowl,blueberries,blueberries
 2466,246455,Overnight Oats Blueberry Smoothie Bowl,vanilla extract,vanilla
 2467,246455,Overnight Oats Blueberry Smoothie Bowl,maple syrup,syrup
@@ -2324,19 +2108,16 @@
 2476,222657,Indian Sweet Potato and Lentil Soup,ground turmeric,turmeric
 2477,222657,Indian Sweet Potato and Lentil Soup,garam masala,masala
 2478,222657,Indian Sweet Potato and Lentil Soup,lentils,lentils
-2479,222657,Indian Sweet Potato and Lentil Soup,vegetable broth,broth
 2480,222657,Indian Sweet Potato and Lentil Soup,sweet potatoes,potatoes
 2481,222657,Indian Sweet Potato and Lentil Soup,chopped fresh spinach,spinach
 2482,222657,Indian Sweet Potato and Lentil Soup,salt to taste (optional),salt
 2483,237774,Mango Mousse,heavy whipping cream,cream
-2484,237774,Mango Mousse,mango pureed,pureed
 2486,241041,Baked Apple Cinnamon Rolls,unsalted butter,butter
 2487,241041,Baked Apple Cinnamon Rolls,heavy cream,cream
 2488,241041,Baked Apple Cinnamon Rolls,light brown sugar,sugar
 2489,241041,Baked Apple Cinnamon Rolls,Mott's® Original Applesauce,applesauce
 2490,241041,Baked Apple Cinnamon Rolls,vanilla extract,vanilla
-2491,241041,Baked Apple Cinnamon Rolls,Rolls:,rolls
-2492,241041,Baked Apple Cinnamon Rolls,refrigerated pizza crust,crust
+2491,241041,Baked Apple Cinnamon Rolls,Rolls:,:
 2493,241041,Baked Apple Cinnamon Rolls,light brown sugar,sugar
 2494,241041,Baked Apple Cinnamon Rolls,granulated sugar,sugar
 2495,241041,Baked Apple Cinnamon Rolls,ground cinnamon,cinnamon
@@ -2347,18 +2128,14 @@
 2500,220460,Raleys Irish Corned Beef Stew,peeled and cubed parsnips,parsnips
 2501,220460,Raleys Irish Corned Beef Stew,peeled and cubed carrots,carrots
 2502,220460,Raleys Irish Corned Beef Stew,extra large onion,onion
-2503,220460,Raleys Irish Corned Beef Stew,water,water
-2505,220460,Raleys Irish Corned Beef Stew,beef broth,broth
+2504,220460,Raleys Irish Corned Beef Stew,fluid ounce) can,can
 2506,220460,Raleys Irish Corned Beef Stew,head cabbage cored and coarsely chopped,cabbage
 2507,220460,Raleys Irish Corned Beef Stew,distilled white vinegar,vinegar
 2508,222906,Creamy Arugula Sauce,roughly chopped arugula,arugula
 2509,222906,Creamy Arugula Sauce,roughly chopped fresh cilantro,cilantro
-2511,222906,Creamy Arugula Sauce,lime juiced,juiced
 2512,222906,Creamy Arugula Sauce,garlic,garlic
-2513,222906,Creamy Arugula Sauce,water,water
 2514,222906,Creamy Arugula Sauce,salt to taste,salt
 2515,222906,Creamy Arugula Sauce,ground black pepper to taste,pepper
-2516,236873,Chicken and Rice in Creamy Sauce,water,water
 2517,236873,Chicken and Rice in Creamy Sauce,uncooked jasmine rice,rice
 2518,236873,Chicken and Rice in Creamy Sauce,thick-cut bacon,bacon
 2519,236873,Chicken and Rice in Creamy Sauce,skinless boneless chicken breast halves,chicken
@@ -2372,30 +2149,22 @@
 2527,236873,Chicken and Rice in Creamy Sauce,condensed cream of chicken soup,chicken
 2528,234498,Slow Cooker Taco Bean Soup,ground beef,beef
 2529,234498,Slow Cooker Taco Bean Soup,onion,onion
-2531,234498,Slow Cooker Taco Bean Soup,white beans undrained,undrained
-2532,234498,Slow Cooker Taco Bean Soup,red kidney beans undrained,undrained
-2533,234498,Slow Cooker Taco Bean Soup,white kidney beans undrained,undrained
-2534,234498,Slow Cooker Taco Bean Soup,ranch-style beans undrained,undrained
-2535,234498,Slow Cooker Taco Bean Soup,pinto beans undrained,undrained
-2536,234498,Slow Cooker Taco Bean Soup,black beans undrained,beans
-2537,234498,Slow Cooker Taco Bean Soup,white hominy drained,hominy
 2538,234498,Slow Cooker Taco Bean Soup,diced tomatoes with green chile peppers,tomatoes
 2539,230277,Smoked Chipotle Tomato Basil Soup,olive oil,oil
 2540,230277,Smoked Chipotle Tomato Basil Soup,large cloves garlic,garlic
 2541,230277,Smoked Chipotle Tomato Basil Soup,crushed tomatoes (such as Hunt's®),tomatoes
-2542,230277,Smoked Chipotle Tomato Basil Soup,chicken broth,chicken
 2543,230277,Smoked Chipotle Tomato Basil Soup,tomato and clam juice cocktail,tomato
-2544,230277,Smoked Chipotle Tomato Basil Soup,bottled bloody mary mix (such as Zing Zang®),mix
+2544,230277,Smoked Chipotle Tomato Basil Soup,bottled bloody mary mix (such as Zing Zang®),mary
 2545,230277,Smoked Chipotle Tomato Basil Soup,dried basil,basil
 2546,230277,Smoked Chipotle Tomato Basil Soup,chipotle-flavored hot sauce (such as Tabasco® Chipotle Pepper Sauce),pepper
 2547,230277,Smoked Chipotle Tomato Basil Soup,garlic salt,salt
 2548,230277,Smoked Chipotle Tomato Basil Soup,ground black pepper to taste,pepper
+2550,9923,Forgotten Kisses,egg whites,egg
 2551,9923,Forgotten Kisses,cream of tartar,tartar
 2552,9923,Forgotten Kisses,salt,salt
 2553,9923,Forgotten Kisses,white sugar,sugar
 2554,9923,Forgotten Kisses,vanilla extract,vanilla
 2555,9923,Forgotten Kisses,semisweet chocolate chips,chips
-2556,9923,Forgotten Kisses,red food coloring,coloring
 2557,11892,Penne and Vodka Sauce,penne pasta,pasta
 2558,11892,Penne and Vodka Sauce,butter,butter
 2559,11892,Penne and Vodka Sauce,thinly sliced pancetta bacon,bacon
@@ -2411,7 +2180,6 @@
 2569,111933,Venison Bacon Burgers,bacon,bacon
 2570,111933,Venison Bacon Burgers,olive oil,oil
 2571,111933,Venison Bacon Burgers,minced garlic,garlic
-2572,111933,Venison Bacon Burgers,shallots minced,shallots
 2573,111933,Venison Bacon Burgers,ground venison,venison
 2574,111933,Venison Bacon Burgers,Worcestershire sauce,worcestershire
 2575,111933,Venison Bacon Burgers,chopped fresh parsley,parsley
@@ -2421,7 +2189,7 @@
 2579,82734,Tammy's Tangy Chops,garlic,garlic
 2580,82734,Tammy's Tangy Chops,ground cinnamon,cinnamon
 2581,82734,Tammy's Tangy Chops,soy sauce,soy
-2582,82734,Tammy's Tangy Chops,thick cut boneless pork chops,chops
+2583,82734,Tammy's Tangy Chops,quart oil for deep frying,oil
 2584,233274,Watermelon-Cucumber Salad with Sushi Vinegar and Lime,cucumbers,cucumbers
 2585,233274,Watermelon-Cucumber Salad with Sushi Vinegar and Lime,cubed seeded watermelon,watermelon
 2586,233274,Watermelon-Cucumber Salad with Sushi Vinegar and Lime,finely chopped red onion,onion
@@ -2442,7 +2210,6 @@
 2602,262355,Breaded Tofu Nuggets,garlic salt,salt
 2603,262355,Breaded Tofu Nuggets,onion powder,onion
 2604,262355,Breaded Tofu Nuggets,ground black pepper,pepper
-2605,262355,Breaded Tofu Nuggets,panko bread crumbs,crumbs
 2606,262355,Breaded Tofu Nuggets,vegetable oil,oil
 2607,237481,Tasty Strawberry Smoothie,low-fat strawberry yogurt,yogurt
 2608,237481,Tasty Strawberry Smoothie,low-fat milk,milk
@@ -2450,6 +2217,7 @@
 2610,237481,Tasty Strawberry Smoothie,ground oats,oats
 2612,237481,Tasty Strawberry Smoothie,vanilla extract,vanilla
 2613,18347,Blueberry Cornmeal Muffins,all-purpose flour,flour
+2614,18347,Blueberry Cornmeal Muffins,cornmeal,cornmeal
 2615,18347,Blueberry Cornmeal Muffins,brown sugar,sugar
 2616,18347,Blueberry Cornmeal Muffins,salt,salt
 2618,18347,Blueberry Cornmeal Muffins,milk,milk
@@ -2461,59 +2229,50 @@
 2624,74654,Artichokes in a Garlic and Olive Oil Sauce,butter,butter
 2625,74654,Artichokes in a Garlic and Olive Oil Sauce,garlic,garlic
 2626,74654,Artichokes in a Garlic and Olive Oil Sauce,sprig fresh basil,basil
-2627,74654,Artichokes in a Garlic and Olive Oil Sauce,artichoke hearts drained and quartered,artichoke
+2628,46490,Schweinshaxe,carrot,carrot
 2629,46490,Schweinshaxe,onion,onion
 2631,46490,Schweinshaxe,celery,celery
-2632,46490,Schweinshaxe,meaty pork knuckles,knuckles
-2633,46490,Schweinshaxe,vegetable shortening,shortening
 2634,46490,Schweinshaxe,black peppercorns,peppercorns
 2635,46490,Schweinshaxe,salt to taste,salt
+2636,46490,Schweinshaxe,beer,beer
 2637,46490,Schweinshaxe,ground cumin,cumin
 2638,25268,Maria's Spanish Rice,olive oil,oil
 2639,25268,Maria's Spanish Rice,large yellow onion,onion
 2640,25268,Maria's Spanish Rice,garlic,garlic
 2641,25268,Maria's Spanish Rice,uncooked white rice,rice
-2642,25268,Maria's Spanish Rice,water,water
 2643,25268,Maria's Spanish Rice,diced pimento peppers,peppers
 2645,142435,Nectarine Blush,brown sugar,sugar
 2646,142435,Nectarine Blush,buttermilk,buttermilk
-2647,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,salmon fillet,fillet
 2648,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,green beans tails trimmed,beans
 2649,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,slivered almonds,almonds
 2650,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,arugula greens,greens
 2651,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,white peppercorns,peppercorns
-2653,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,Maille® Honey Dijon Mustard,mustard
 2654,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,lemon juiced and zested,lemon
 2655,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,olive oil,oil
 2656,229530,Hot Salmon Salad with Maille® Honey Dijon Mustard,Sea salt,salt
 2657,246563,Curry Udon,carrots,carrots
 2658,246563,Curry Udon,small onion,onion
-2659,246563,Curry Udon,water,water
 2660,246563,Curry Udon,vegetable oil,oil
 2661,246563,Curry Udon,all-purpose flour,flour
 2662,246563,Curry Udon,all-purpose flour,flour
 2663,246563,Curry Udon,red curry powder,curry
-2664,246563,Curry Udon,hot vegetable stock,stock
 2665,246563,Curry Udon,soy sauce,soy
 2666,246563,Curry Udon,maple syrup,syrup
 2667,246563,Curry Udon,udon noodles,noodles
 2668,21369,Hash Brown Casserole III,butter,butter
-2669,21369,Hash Brown Casserole III,frozen hash browns,browns
 2670,21369,Hash Brown Casserole III,shredded Colby cheese,cheese
 2671,21369,Hash Brown Casserole III,minced onion,onion
 2672,21369,Hash Brown Casserole III,milk,milk
-2673,21369,Hash Brown Casserole III,beef broth,broth
 2674,21369,Hash Brown Casserole III,ground black pepper,pepper
 2675,21369,Hash Brown Casserole III,salt,salt
 2676,21369,Hash Brown Casserole III,garlic powder,garlic
 2677,23110,Snow on the Mountain II,uncooked long-grain rice,rice
 2678,23110,Snow on the Mountain II,condensed cream of chicken soup,chicken
-2679,23110,Snow on the Mountain II,chicken broth,chicken
 2680,23110,Snow on the Mountain II,chow mein noodles,noodles
+2681,23110,Snow on the Mountain II,tomatoes sliced,tomatoes
 2682,23110,Snow on the Mountain II,chopped celery,celery
 2683,23110,Snow on the Mountain II,chopped green bell pepper,pepper
 2684,23110,Snow on the Mountain II,chopped green onions,onions
-2685,23110,Snow on the Mountain II,pineapple chunks,chunks
 2686,23110,Snow on the Mountain II,shredded Cheddar cheese,cheese
 2687,23110,Snow on the Mountain II,slivered almonds,almonds
 2688,23110,Snow on the Mountain II,shredded coconut,coconut
@@ -2528,6 +2287,7 @@
 2698,135731,Bobotie from Boschendal Manor House,lemon zest,lemon
 2699,135731,Bobotie from Boschendal Manor House,blanched almonds chopped,almonds
 2700,135731,Bobotie from Boschendal Manor House,lemon juice,lemon
+2701,135731,Bobotie from Boschendal Manor House,mango chutney chopped,mango
 2702,135731,Bobotie from Boschendal Manor House,egg,egg
 2703,135731,Bobotie from Boschendal Manor House,white sugar,sugar
 2704,135731,Bobotie from Boschendal Manor House,salt,salt
@@ -2545,7 +2305,7 @@
 2716,14208,Allison's Pasta Salad,mayonnaise,mayonnaise
 2717,14208,Allison's Pasta Salad,sour cream,cream
 2718,14208,Allison's Pasta Salad,cider vinegar,vinegar
-2719,14208,Allison's Pasta Salad,prepared Dijon-style mustard,mustard
+2719,14208,Allison's Pasta Salad,prepared Dijon-style mustard,-
 2720,14208,Allison's Pasta Salad,white sugar,sugar
 2721,14208,Allison's Pasta Salad,ground black pepper,pepper
 2722,14208,Allison's Pasta Salad,dried dill weed,weed
@@ -2555,21 +2315,16 @@
 2726,14208,Allison's Pasta Salad,chopped green onions,onions
 2727,14208,Allison's Pasta Salad,diced sharp Cheddar cheese,cheese
 2728,229132,Beef Sirloin Tip Roast with Mushrooms,vegetable oil,oil
-2731,229132,Beef Sirloin Tip Roast with Mushrooms,beef broth,broth
-2732,229132,Beef Sirloin Tip Roast with Mushrooms,envelope onion soup mix,mix
+2729,229132,Beef Sirloin Tip Roast with Mushrooms,sirloin tip roast,roast
 2733,229132,Beef Sirloin Tip Roast with Mushrooms,cornstarch,cornstarch
-2734,229132,Beef Sirloin Tip Roast with Mushrooms,beef broth,broth
+2735,165587,Bacon Wrapped Pineapple and Water Chestnuts,water chestnuts drained,chestnuts
 2736,165587,Bacon Wrapped Pineapple and Water Chestnuts,garlic powder,garlic
 2737,165587,Bacon Wrapped Pineapple and Water Chestnuts,soy sauce,soy
 2738,165587,Bacon Wrapped Pineapple and Water Chestnuts,thick sliced bacon,bacon
-2739,165587,Bacon Wrapped Pineapple and Water Chestnuts,pineapple chunks,chunks
-2740,165587,Bacon Wrapped Pineapple and Water Chestnuts,toothpicks,toothpicks
 2741,165587,Bacon Wrapped Pineapple and Water Chestnuts,brown sugar,sugar
 2742,185158,Greek Goddess Pasta Salad,tri-colored rotini pasta,pasta
-2743,185158,Greek Goddess Pasta Salad,small head broccoli broken into small florets,broccoli
 2744,185158,Greek Goddess Pasta Salad,minced garlic,garlic
 2745,185158,Greek Goddess Pasta Salad,small red onion,onion
-2746,185158,Greek Goddess Pasta Salad,marinated artichoke hearts drained and chopped,artichoke
 2747,185158,Greek Goddess Pasta Salad,pitted kalamata olives sliced,olives
 2748,185158,Greek Goddess Pasta Salad,roasted red bell peppers,peppers
 2749,185158,Greek Goddess Pasta Salad,Roma tomatoes diced,tomatoes
@@ -2581,17 +2336,17 @@
 2756,10517,Cookie Pralines,packed dark brown sugar,sugar
 2757,10517,Cookie Pralines,all-purpose flour,flour
 2758,10517,Cookie Pralines,salt,salt
+2759,10517,Cookie Pralines,egg white,egg
 2760,10517,Cookie Pralines,vanilla extract,vanilla
 2761,10517,Cookie Pralines,chopped pecans,pecans
 2762,103887,Ginger-Scallion Crusted Salmon,Cucumber Salad:,salad
 2763,103887,Ginger-Scallion Crusted Salmon,sesame oil,oil
 2764,103887,Ginger-Scallion Crusted Salmon,chopped fresh dill,dill
 2765,103887,Ginger-Scallion Crusted Salmon,rice wine vinegar,vinegar
-2766,103887,Ginger-Scallion Crusted Salmon,mirin (Japanese rice wine),mirin
+2766,103887,Ginger-Scallion Crusted Salmon,mirin (Japanese rice wine),japanese
 2767,103887,Ginger-Scallion Crusted Salmon,white sesame seeds,seeds
 2768,103887,Ginger-Scallion Crusted Salmon,black sesame seeds,seeds
 2769,103887,Ginger-Scallion Crusted Salmon,cucumbers halved seeded and cut into very thin slices,very
-2770,103887,Ginger-Scallion Crusted Salmon,Ginger Crust:,crust
 2771,103887,Ginger-Scallion Crusted Salmon,minced fresh ginger root,ginger
 2772,103887,Ginger-Scallion Crusted Salmon,green onions,onions
 2773,103887,Ginger-Scallion Crusted Salmon,garlic,garlic
@@ -2601,7 +2356,6 @@
 2779,103887,Ginger-Scallion Crusted Salmon,honey,honey
 2780,103887,Ginger-Scallion Crusted Salmon,Ponzu Butter:,butter
 2781,103887,Ginger-Scallion Crusted Salmon,unsalted butter,butter
-2782,103887,Ginger-Scallion Crusted Salmon,shallots minced,shallots
 2783,103887,Ginger-Scallion Crusted Salmon,dry white wine,wine
 2785,103887,Ginger-Scallion Crusted Salmon,heavy cream,cream
 2786,103887,Ginger-Scallion Crusted Salmon,cold unsalted butter,butter
@@ -2614,25 +2368,22 @@
 2794,71722,Asian Lettuce Wraps,soy sauce,soy
 2795,71722,Asian Lettuce Wraps,rice wine vinegar,vinegar
 2796,71722,Asian Lettuce Wraps,minced pickled ginger,ginger
-2797,71722,Asian Lettuce Wraps,Asian chile pepper sauce,pepper
+2797,71722,Asian Lettuce Wraps,Asian chile pepper sauce,chile
+2798,71722,Asian Lettuce Wraps,water chestnuts drained and finely chopped,chestnuts
 2799,71722,Asian Lettuce Wraps,green onions,onions
 2800,71722,Asian Lettuce Wraps,Asian (dark) sesame oil,oil
 2801,238068,Mango Watermelon Smoothie,cubed seeded watermelon,watermelon
 2802,238068,Mango Watermelon Smoothie,mango,mango
-2803,238068,Mango Watermelon Smoothie,water,water
 2804,238068,Mango Watermelon Smoothie,white sugar,sugar
-2805,238068,Mango Watermelon Smoothie,ice cubes (optional),cubes
 2806,222506,Polish Sausage and Pierogy Haluski,frozen pierogies,pierogies
 2807,222506,Polish Sausage and Pierogy Haluski,butter,butter
 2808,222506,Polish Sausage and Pierogy Haluski,head cabbage sliced,cabbage
 2809,222506,Polish Sausage and Pierogy Haluski,onion,onion
 2810,222506,Polish Sausage and Pierogy Haluski,salt and ground black pepper to taste,pepper
 2811,222506,Polish Sausage and Pierogy Haluski,kielbasa sausage,sausage
-2812,222506,Polish Sausage and Pierogy Haluski,beef broth,broth
 2813,144059,Jumbo Breakfast Cookies,white sugar,sugar
 2814,144059,Jumbo Breakfast Cookies,peanut butter,butter
 2815,144059,Jumbo Breakfast Cookies,butter,butter
-2816,144059,Jumbo Breakfast Cookies,water,water
 2817,144059,Jumbo Breakfast Cookies,vanilla extract,vanilla
 2818,144059,Jumbo Breakfast Cookies,eggs,eggs
 2819,144059,Jumbo Breakfast Cookies,all-purpose flour,flour
@@ -2640,8 +2391,6 @@
 2821,144059,Jumbo Breakfast Cookies,salt,salt
 2822,144059,Jumbo Breakfast Cookies,rolled oats,oats
 2823,144059,Jumbo Breakfast Cookies,raisins,raisins
-2824,144059,Jumbo Breakfast Cookies,toasted oat cereal rings (such as Cheerios®),oat
-2825,213575,Crawfish Pie,prepared deep-dish pie crust,crust
 2826,213575,Crawfish Pie,butter,butter
 2827,213575,Crawfish Pie,chopped onion,onion
 2828,213575,Crawfish Pie,chopped green bell pepper,pepper
@@ -2650,9 +2399,7 @@
 2831,213575,Crawfish Pie,ground cayenne pepper,pepper
 2832,213575,Crawfish Pie,white pepper,pepper
 2833,213575,Crawfish Pie,diced tomatoes,tomatoes
-2834,213575,Crawfish Pie,peeled crawfish tails,tails
 2835,213575,Crawfish Pie,all-purpose flour,flour
-2836,213575,Crawfish Pie,water,water
 2837,18855,Veggie Casserole,French-style green beans drained,beans
 2838,18855,Veggie Casserole,white corn,corn
 2839,18855,Veggie Casserole,small onion,onion
@@ -2663,11 +2410,8 @@
 2844,18855,Veggie Casserole,salt and pepper to taste,pepper
 2845,18855,Veggie Casserole,cheese flavored crackers,crackers
 2846,18855,Veggie Casserole,butter,butter
-2847,232479,Baked Eggplant Antipasto,large eggplant cut into 1/4-inch rounds,eggplant
 2848,232479,Baked Eggplant Antipasto,salt to taste,salt
-2849,232479,Baked Eggplant Antipasto,diced tomatoes undrained,tomatoes
 2850,232479,Baked Eggplant Antipasto,tomato sauce,tomato
-2851,232479,Baked Eggplant Antipasto,marinated artichoke hearts undrained,artichoke
 2852,232479,Baked Eggplant Antipasto,roasted red peppers,peppers
 2853,232479,Baked Eggplant Antipasto,pine nuts,nuts
 2854,232479,Baked Eggplant Antipasto,garlic,garlic
@@ -2697,12 +2441,12 @@
 2879,24265,Chili II,ground beef,beef
 2880,24265,Chili II,small onion,onion
 2881,24265,Chili II,garlic,garlic
-2882,24265,Chili II,beef stock,stock
 2883,24265,Chili II,red wine,wine
 2884,24265,Chili II,balsamic vinegar,vinegar
 2885,24265,Chili II,stewed tomatoes lightly drained,tomatoes
 2886,24265,Chili II,sun-dried tomatoes softened and chopped,tomatoes
 2887,24265,Chili II,tomato paste,tomato
+2888,24265,Chili II,black beans drained,beans
 2889,24265,Chili II,cayenne pepper,pepper
 2890,24265,Chili II,chili powder,chili
 2891,24265,Chili II,salt,salt
@@ -2721,29 +2465,23 @@
 2904,144185,Fresh Fruit Ice Cream in a Baggie,white sugar,sugar
 2905,144185,Fresh Fruit Ice Cream in a Baggie,vanilla extract,vanilla
 2906,144185,Fresh Fruit Ice Cream in a Baggie,chopped fresh strawberries,strawberries
-2907,144185,Fresh Fruit Ice Cream in a Baggie,ice cubes,cubes
 2908,144185,Fresh Fruit Ice Cream in a Baggie,kosher salt,salt
 2909,245216,Pineapple Brown Sugar Glazed Ham,bone-in ham,ham
-2910,245216,Pineapple Brown Sugar Glazed Ham,pineapple rings,pineapple
 2911,245216,Pineapple Brown Sugar Glazed Ham,pineapple juice,pineapple
-2912,245216,Pineapple Brown Sugar Glazed Ham,brown sugar divided,sugar
 2913,245216,Pineapple Brown Sugar Glazed Ham,crushed pineapple,pineapple
 2914,171282,Bloody Mary Ceviche,cooked peeled and deveined shrimp,shrimp
-2915,171282,Bloody Mary Ceviche,roma (plum) tomatoes chopped,tomatoes
 2916,171282,Bloody Mary Ceviche,red onion,onion
 2917,171282,Bloody Mary Ceviche,cucumber,cucumber
-2918,171282,Bloody Mary Ceviche,cilantro chopped,cilantro
-2919,171282,Bloody Mary Ceviche,bottled Bloody Mary mix,bloody
 2920,171282,Bloody Mary Ceviche,limes,limes
 2921,171282,Bloody Mary Ceviche,hot pepper sauce to taste,pepper
 2922,171282,Bloody Mary Ceviche,salt and black pepper to taste,pepper
 2923,49713,Dandelion Salad,torn dandelion greens,greens
 2924,49713,Dandelion Salad,red onion,onion
+2925,49713,Dandelion Salad,tomatoes chopped,tomatoes
 2926,49713,Dandelion Salad,dried basil,basil
 2927,49713,Dandelion Salad,salt and pepper to taste,pepper
+2928,95670,Cran-Apple-Pear Sauce,berry cranberry sauce,cranberry
 2929,95670,Cran-Apple-Pear Sauce,apple pie filling,pie
-2930,95670,Cran-Apple-Pear Sauce,sliced pears drained,pears
-2931,246526,Grace Love's Smothered Steak,Spice Rub:,rub
 2932,246526,Grace Love's Smothered Steak,sea salt,salt
 2933,246526,Grace Love's Smothered Steak,garlic salt,salt
 2934,246526,Grace Love's Smothered Steak,freshly ground black pepper,pepper
@@ -2756,8 +2494,6 @@
 2942,246526,Grace Love's Smothered Steak,onions,onions
 2943,246526,Grace Love's Smothered Steak,yellow bell peppers,peppers
 2944,246526,Grace Love's Smothered Steak,sliced mushrooms,mushrooms
-2945,246526,Grace Love's Smothered Steak,water,water
-2946,236929,Easy Cowboy Beans (Frijoles Charros),pinto beans undrained,undrained
 2947,236929,Easy Cowboy Beans (Frijoles Charros),diced tomatoes with green chile peppers (such as RO*TEL®),peppers
 2948,236929,Easy Cowboy Beans (Frijoles Charros),cubed cooked ham,ham
 2949,236929,Easy Cowboy Beans (Frijoles Charros),finely chopped fresh cilantro,cilantro
@@ -2772,13 +2508,12 @@
 2959,217099,Chicken In the Yellow Bowl,all-purpose flour,flour
 2960,217099,Chicken In the Yellow Bowl,bone-in chicken pieces,chicken
 2961,217099,Chicken In the Yellow Bowl,vegetable oil for frying,oil
-2962,217099,Chicken In the Yellow Bowl,condensed French onion soup,soup
+2962,217099,Chicken In the Yellow Bowl,condensed French onion soup,onion
 2963,217099,Chicken In the Yellow Bowl,condensed cream of chicken soup,chicken
 2964,7957,Richest Ever Chocolate Pound Cake,eggs,eggs
 2965,7957,Richest Ever Chocolate Pound Cake,butter,butter
 2966,7957,Richest Ever Chocolate Pound Cake,white sugar,sugar
 2967,7957,Richest Ever Chocolate Pound Cake,semisweet chocolate chips,chips
-2968,7957,Richest Ever Chocolate Pound Cake,hot water,water
 2969,7957,Richest Ever Chocolate Pound Cake,buttermilk,buttermilk
 2970,7957,Richest Ever Chocolate Pound Cake,vanilla extract,vanilla
 2971,7957,Richest Ever Chocolate Pound Cake,all-purpose flour,flour
@@ -2806,6 +2541,7 @@
 2995,234940,Sausage-Stuffed Cherry Pepper Poppers,pickled red peppers (such as Peppadew®),peppers
 2996,234940,Sausage-Stuffed Cherry Pepper Poppers,olive oil,oil
 2997,234940,Sausage-Stuffed Cherry Pepper Poppers,chopped fresh parsley (optional),parsley
+3000,172317,No Mess Squash on the Barbeque,tomatoes cut into wedges (optional),wedges
 3001,172317,No Mess Squash on the Barbeque,small onion,onion
 3002,172317,No Mess Squash on the Barbeque,garlic,garlic
 3003,172317,No Mess Squash on the Barbeque,olive oil,oil
@@ -2830,7 +2566,6 @@
 3023,244570,Margarita Shrimp Salad from Swanson®,lime,lime
 3024,244570,Margarita Shrimp Salad from Swanson®,garlic,garlic
 3025,244570,Margarita Shrimp Salad from Swanson®,large fresh shrimp,shrimp
-3026,244570,Margarita Shrimp Salad from Swanson®,Swanson® Chicken Broth,chicken
 3027,244570,Margarita Shrimp Salad from Swanson®,medium orange bell pepper,pepper
 3028,244570,Margarita Shrimp Salad from Swanson®,small onion,onion
 3029,244570,Margarita Shrimp Salad from Swanson®,chopped fresh cilantro leaves,leaves
@@ -2838,7 +2573,6 @@
 3031,244570,Margarita Shrimp Salad from Swanson®,large tomatoes thickly sliced,tomatoes
 3032,244570,Margarita Shrimp Salad from Swanson®,ground black pepper,pepper
 3033,219909,Breakfast Apples,apple cored and chopped,apple
-3034,219909,Breakfast Apples,crispy rice cereal squares (such as Rice Chex®),squares
 3035,219909,Breakfast Apples,ground cinnamon,cinnamon
 3036,219909,Breakfast Apples,coconut oil,oil
 3037,219909,Breakfast Apples,sliced fresh strawberries (optional),strawberries
@@ -2858,8 +2592,6 @@
 3053,206680,Crawfish Cakes,mayonnaise,mayonnaise
 3054,206680,Crawfish Cakes,Dijon mustard,mustard
 3055,206680,Crawfish Cakes,Worcestershire sauce,worcestershire
-3056,206680,Crawfish Cakes,hot pepper sauce (such as Crystal ®),pepper
-3057,206680,Crawfish Cakes,cooked and peeled whole crawfish tails,tails
 3058,206680,Crawfish Cakes,sleeve buttery round crackers,crackers
 3059,206680,Crawfish Cakes,canola oil,oil
 3060,218901,Beef Enchiladas with Spicy Red Sauce,olive oil,oil
@@ -2875,18 +2607,13 @@
 3070,218901,Beef Enchiladas with Spicy Red Sauce,prepared salsa,salsa
 3071,218901,Beef Enchiladas with Spicy Red Sauce,tomato sauce,tomato
 3072,218901,Beef Enchiladas with Spicy Red Sauce,tomato paste,tomato
-3073,218901,Beef Enchiladas with Spicy Red Sauce,chicken broth,chicken
 3074,218901,Beef Enchiladas with Spicy Red Sauce,ground beef,beef
 3075,218901,Beef Enchiladas with Spicy Red Sauce,finely chopped onion,onion
 3076,218901,Beef Enchiladas with Spicy Red Sauce,minced garlic,garlic
 3077,218901,Beef Enchiladas with Spicy Red Sauce,chili powder,chili
 3078,218901,Beef Enchiladas with Spicy Red Sauce,ground cumin,cumin
-3079,218901,Beef Enchiladas with Spicy Red Sauce,prepared red enchilada sauce,sauce
-3080,218901,Beef Enchiladas with Spicy Red Sauce,beef broth,broth
-3081,218901,Beef Enchiladas with Spicy Red Sauce,shredded Mexican-style cheese blend,cheese
-3082,218901,Beef Enchiladas with Spicy Red Sauce,cooking spray,spray
+3079,218901,Beef Enchiladas with Spicy Red Sauce,prepared red enchilada sauce,enchilada
 3083,218901,Beef Enchiladas with Spicy Red Sauce,flour tortillas,tortillas
-3084,218901,Beef Enchiladas with Spicy Red Sauce,shredded Mexican-style cheese blend,cheese
 3085,218901,Beef Enchiladas with Spicy Red Sauce,chopped fresh cilantro,cilantro
 3086,241607,Vietnamese Grilled Lemongrass Chicken,canola oil,oil
 3087,241607,Vietnamese Grilled Lemongrass Chicken,finely chopped lemongrass,lemongrass
@@ -2894,14 +2621,13 @@
 3089,241607,Vietnamese Grilled Lemongrass Chicken,soy sauce,soy
 3090,241607,Vietnamese Grilled Lemongrass Chicken,light brown sugar,sugar
 3091,241607,Vietnamese Grilled Lemongrass Chicken,minced garlic,garlic
-3093,241607,Vietnamese Grilled Lemongrass Chicken,chicken thighs,chicken
+3092,241607,Vietnamese Grilled Lemongrass Chicken,fish sauce,fish
 3094,70909,Jill's Sweet and Tangy Meatloaf,butter,butter
 3095,70909,Jill's Sweet and Tangy Meatloaf,onion,onion
 3096,70909,Jill's Sweet and Tangy Meatloaf,honey,honey
 3097,70909,Jill's Sweet and Tangy Meatloaf,ketchup,ketchup
 3098,70909,Jill's Sweet and Tangy Meatloaf,soy sauce,soy
 3100,70909,Jill's Sweet and Tangy Meatloaf,ground beef,beef
-3101,201143,Beef Mac Casserole,uncooked pasta shells,shells
 3102,201143,Beef Mac Casserole,ground beef,beef
 3103,201143,Beef Mac Casserole,chopped onions,onions
 3104,201143,Beef Mac Casserole,chopped green bell pepper,pepper
@@ -2918,13 +2644,14 @@
 3116,70628,Quick and Easy Eggs Benedict,white vinegar,vinegar
 3117,70628,Quick and Easy Eggs Benedict,eggs,eggs
 3118,70628,Quick and Easy Eggs Benedict,butter,butter
+3119,70628,Quick and Easy Eggs Benedict,egg yolks,yolks
 3120,70628,Quick and Easy Eggs Benedict,heavy cream,cream
 3121,70628,Quick and Easy Eggs Benedict,ground cayenne pepper,pepper
 3122,70628,Quick and Easy Eggs Benedict,salt,salt
 3123,70628,Quick and Easy Eggs Benedict,lemon juice,lemon
+3124,70628,Quick and Easy Eggs Benedict,English muffins split and toasted,muffins
 3125,218987,Spicy Habanero Dipping Sauce,malt vinegar,vinegar
 3126,218987,Spicy Habanero Dipping Sauce,soy sauce,soy
-3127,218987,Spicy Habanero Dipping Sauce,water,water
 3128,218987,Spicy Habanero Dipping Sauce,white sugar,sugar
 3129,218987,Spicy Habanero Dipping Sauce,garlic,garlic
 3130,218987,Spicy Habanero Dipping Sauce,chopped fresh cilantro,cilantro
@@ -2934,17 +2661,15 @@
 3134,229557,Garlic Sausage and Pasta in a Bechamel Sauce,salt to taste,salt
 3135,229557,Garlic Sausage and Pasta in a Bechamel Sauce,white pepper to taste,pepper
 3136,229557,Garlic Sausage and Pasta in a Bechamel Sauce,milk,milk
+3138,229557,Garlic Sausage and Pasta in a Bechamel Sauce,egg yolks,yolks
 3139,229557,Garlic Sausage and Pasta in a Bechamel Sauce,ground nutmeg,nutmeg
 3140,229557,Garlic Sausage and Pasta in a Bechamel Sauce,garlic chicken sausage (such as al fresco® All Natural Roasted Garlic Chicken Sausage),chicken
 3141,215783,Zucchini Orzo,uncooked orzo pasta,pasta
 3142,215783,Zucchini Orzo,lemon juice,lemon
 3143,215783,Zucchini Orzo,olive oil,oil
-3144,215783,Zucchini Orzo,sweet onion (such as Vidalia®),onion
 3145,215783,Zucchini Orzo,chopped green onion,onion
-3147,215783,Zucchini Orzo,yellow squash cut into 1/2-inch cubes,cubes
 3148,215783,Zucchini Orzo,dried parsley,parsley
 3149,215783,Zucchini Orzo,salt and ground black pepper to taste,pepper
-3150,6773,Simple Whole Wheat Bread,warm water (110 degrees F/45 degrees C),water
 3151,6773,Simple Whole Wheat Bread,active dry yeast,yeast
 3152,6773,Simple Whole Wheat Bread,honey,honey
 3153,6773,Simple Whole Wheat Bread,bread flour,flour
@@ -2957,7 +2682,6 @@
 3160,236560,Very Orange Smoothie without Oranges,carrots,carrots
 3162,236560,Very Orange Smoothie without Oranges,yellow bell pepper,pepper
 3163,236560,Very Orange Smoothie without Oranges,red bell pepper,pepper
-3164,236560,Very Orange Smoothie without Oranges,chilled mineral water,water
 3165,236560,Very Orange Smoothie without Oranges,lemon juice,lemon
 3166,236560,Very Orange Smoothie without Oranges,honey,honey
 3167,236560,Very Orange Smoothie without Oranges,chia seeds,seeds
@@ -2969,7 +2693,6 @@
 3173,236731,Tender Pork Stew with Beans,minced garlic,garlic
 3174,236731,Tender Pork Stew with Beans,diced tomatoes with green chile peppers,tomatoes
 3175,236731,Tender Pork Stew with Beans,kidney beans rinsed and drained,beans
-3176,236731,Tender Pork Stew with Beans,beef broth,broth
 3177,236731,Tender Pork Stew with Beans,diced green chile peppers,peppers
 3178,236731,Tender Pork Stew with Beans,chili powder,chili
 3179,236731,Tender Pork Stew with Beans,dried basil,basil
@@ -2978,7 +2701,6 @@
 3182,236731,Tender Pork Stew with Beans,bag frozen corn (optional),corn
 3183,236731,Tender Pork Stew with Beans,bag frozen sliced carrots (optional),carrots
 3184,192524,My Favorite Chicken and Wild Rice Soup,vegetable oil,oil
-3185,192524,My Favorite Chicken and Wild Rice Soup,chicken pieces,chicken
 3186,192524,My Favorite Chicken and Wild Rice Soup,carrots,carrots
 3187,192524,My Favorite Chicken and Wild Rice Soup,celery,celery
 3188,192524,My Favorite Chicken and Wild Rice Soup,large whole onion,onion
@@ -2993,9 +2715,7 @@
 3197,88924,Tender Tomato Chicken Breasts,ground black pepper,pepper
 3198,88924,Tender Tomato Chicken Breasts,onion powder,onion
 3199,88924,Tender Tomato Chicken Breasts,chopped stewed tomatoes 1/2 the liquid reserved,tomatoes
-3200,88924,Tender Tomato Chicken Breasts,chicken broth,chicken
 3201,88924,Tender Tomato Chicken Breasts,frozen mixed vegetables,vegetables
-3202,88924,Tender Tomato Chicken Breasts,water,water
 3203,241372,Easy Baked BBQ Pork Chops,onion,onion
 3204,241372,Easy Baked BBQ Pork Chops,ketchup,ketchup
 3205,241372,Easy Baked BBQ Pork Chops,white wine vinegar,vinegar
@@ -3004,7 +2724,6 @@
 3208,241372,Easy Baked BBQ Pork Chops,Worcestershire sauce,worcestershire
 3209,241372,Easy Baked BBQ Pork Chops,yellow mustard,mustard
 3210,241372,Easy Baked BBQ Pork Chops,cayenne pepper,pepper
-3211,241372,Easy Baked BBQ Pork Chops,thin pork chops,chops
 3212,241372,Easy Baked BBQ Pork Chops,salt and ground black pepper to taste,pepper
 3213,18328,Sliced Potatoes with Bacon and Parsley,small Yukon Gold potatoes,potatoes
 3214,18328,Sliced Potatoes with Bacon and Parsley,coarse salt,salt
@@ -3013,7 +2732,6 @@
 3217,18328,Sliced Potatoes with Bacon and Parsley,coarse salt,salt
 3218,18328,Sliced Potatoes with Bacon and Parsley,bacon,bacon
 3219,18328,Sliced Potatoes with Bacon and Parsley,diced onion,onion
-3220,18328,Sliced Potatoes with Bacon and Parsley,beef broth,broth
 3221,18328,Sliced Potatoes with Bacon and Parsley,chopped fresh parsley,parsley
 3222,23994,Oriental Vinaigrette,honey,honey
 3223,23994,Oriental Vinaigrette,rice wine vinegar,vinegar
@@ -3021,19 +2739,17 @@
 3225,23994,Oriental Vinaigrette,Dijon mustard,mustard
 3226,23994,Oriental Vinaigrette,sesame oil,oil
 3227,112273,Venison Salami,ground venison,venison
-3228,112273,Venison Salami,sugar-based curing mixture (such as Morton® Quick Cure®),®
 3229,112273,Venison Salami,white sugar,sugar
 3230,112273,Venison Salami,cracked peppercorns,peppercorns
-3231,112273,Venison Salami,mustard seed,seed
 3232,112273,Venison Salami,ground black pepper,pepper
 3233,112273,Venison Salami,garlic powder,garlic
 3234,112273,Venison Salami,onion powder,onion
-3235,112273,Venison Salami,hickory-flavored liquid smoke,smoke
 3236,112273,Venison Salami,salt,salt
 3237,170270,Indiana Corn Chowder,bacon,bacon
 3238,170270,Indiana Corn Chowder,onion,onion
 3239,170270,Indiana Corn Chowder,celery,celery
 3240,170270,Indiana Corn Chowder,green bell pepper,pepper
+3241,170270,Indiana Corn Chowder,carrot,carrot
 3242,170270,Indiana Corn Chowder,cream-style corn,corn
 3243,170270,Indiana Corn Chowder,kernel corn,corn
 3244,170270,Indiana Corn Chowder,carton chicken broth,chicken
@@ -3045,6 +2761,7 @@
 3250,155715,Cherry Mandlbrodt,all-purpose flour,flour
 3251,155715,Cherry Mandlbrodt,salt,salt
 3253,155715,Cherry Mandlbrodt,chopped pecans,pecans
+3254,155715,Cherry Mandlbrodt,maraschino cherries halved,cherries
 3255,155715,Cherry Mandlbrodt,cinnamon sugar,sugar
 3257,234340,Frankly Super Supper,sourdough bread,bread
 3258,234340,Frankly Super Supper,butter,butter
@@ -3052,7 +2769,6 @@
 3260,234340,Frankly Super Supper,dill pickle slices,pickle
 3261,159633,Broccoli with Poppy Seed Sauce,butter,butter
 3262,159633,Broccoli with Poppy Seed Sauce,minced onion,onion
-3263,159633,Broccoli with Poppy Seed Sauce,broccoli florets,florets
 3264,159633,Broccoli with Poppy Seed Sauce,sour cream,cream
 3265,159633,Broccoli with Poppy Seed Sauce,distilled white vinegar,vinegar
 3266,159633,Broccoli with Poppy Seed Sauce,white sugar,sugar
@@ -3061,16 +2777,12 @@
 3269,159633,Broccoli with Poppy Seed Sauce,salt (optional),salt
 3270,159633,Broccoli with Poppy Seed Sauce,cayenne pepper,pepper
 3271,159633,Broccoli with Poppy Seed Sauce,chopped pecans (optional),pecans
-3272,6742,Cheddar Biscuits,biscuit baking mix,mix
 3273,6742,Cheddar Biscuits,shredded Cheddar cheese,cheese
 3274,6742,Cheddar Biscuits,milk,milk
 3275,6742,Cheddar Biscuits,garlic powder,garlic
 3277,6742,Cheddar Biscuits,dried parsley,parsley
 3278,6742,Cheddar Biscuits,garlic salt,salt
 3279,216100,Split Pea Smoked Turkey Soup,dried split peas,peas
-3280,216100,Split Pea Smoked Turkey Soup,water,water
-3281,216100,Split Pea Smoked Turkey Soup,smoked turkey legs,legs
-3282,216100,Split Pea Smoked Turkey Soup,chicken broth,chicken
 3283,216100,Split Pea Smoked Turkey Soup,chopped carrot,carrot
 3284,216100,Split Pea Smoked Turkey Soup,chopped celery,celery
 3285,216100,Split Pea Smoked Turkey Soup,potatoes,potatoes
@@ -3078,19 +2790,15 @@
 3287,216100,Split Pea Smoked Turkey Soup,garlic powder,garlic
 3288,216100,Split Pea Smoked Turkey Soup,dried oregano,oregano
 3289,216100,Split Pea Smoked Turkey Soup,bay leaves,leaves
-3290,222353,Corn Cob Puppies (Corn Dogs),bun-length hot dogs (such as Gwaltney® Bun Sized Jumbo Franks),®
 3291,222353,Corn Cob Puppies (Corn Dogs),quart vegetable oil for frying,oil
 3292,222353,Corn Cob Puppies (Corn Dogs),all-purpose flour,flour
 3294,222353,Corn Cob Puppies (Corn Dogs),buttermilk,buttermilk
 3295,222353,Corn Cob Puppies (Corn Dogs),large eggs,eggs
 3296,222353,Corn Cob Puppies (Corn Dogs),white sugar,sugar
-3297,222353,Corn Cob Puppies (Corn Dogs),bacon drippings,drippings
 3298,222353,Corn Cob Puppies (Corn Dogs),salt,salt
 3300,222353,Corn Cob Puppies (Corn Dogs),garlic powder,garlic
-3301,222353,Corn Cob Puppies (Corn Dogs),sturdy bamboo skewers,skewers
 3303,231852,Baked Plantain with Cheese,butter,butter
 3304,231852,Baked Plantain with Cheese,mozzarella cheese,cheese
-3305,239080,Grandma's Lemon Cauliflower Side Dish,water,water
 3306,239080,Grandma's Lemon Cauliflower Side Dish,large head cauliflower,cauliflower
 3307,239080,Grandma's Lemon Cauliflower Side Dish,lemon,lemon
 3308,239080,Grandma's Lemon Cauliflower Side Dish,garlic,garlic
@@ -3101,6 +2809,7 @@
 3313,10290,Sweet Butter Cookies,unsalted butter,butter
 3314,10290,Sweet Butter Cookies,white sugar,sugar
 3315,10290,Sweet Butter Cookies,all-purpose flour,flour
+3316,10290,Sweet Butter Cookies,egg yolks,yolks
 3317,10290,Sweet Butter Cookies,vanilla extract,vanilla
 3318,12220,Pumpkin Honey Pie,eggs,eggs
 3319,12220,Pumpkin Honey Pie,solid pack pumpkin puree,pumpkin
@@ -3122,9 +2831,7 @@
 3335,15013,Dirty Rice,ground cumin,cumin
 3336,15013,Dirty Rice,ground cinnamon,cinnamon
 3337,15013,Dirty Rice,uncooked white rice,rice
-3338,15013,Dirty Rice,water,water
 3339,15013,Dirty Rice,salt,salt
-3340,15013,Dirty Rice,roma (plum) tomatoes chopped,tomatoes
 3341,15013,Dirty Rice,corn kernels,kernels
 3342,15013,Dirty Rice,black beans cooked and drained,beans
 3343,15013,Dirty Rice,toasted pine nuts,nuts
@@ -3132,8 +2839,7 @@
 3345,15013,Dirty Rice,red onion,onion
 3346,15013,Dirty Rice,fresh lime juice,lime
 3347,15013,Dirty Rice,chopped fresh cilantro,cilantro
-3348,15013,Dirty Rice,lime cut into wedges,lime
-3350,229439,Polynesian Meatballs,Minute® Brown Rice uncooked,®
+3348,15013,Dirty Rice,lime cut into wedges,wedges
 3351,229439,Polynesian Meatballs,crushed pineapple,pineapple
 3352,229439,Polynesian Meatballs,ground turkey,turkey
 3353,229439,Polynesian Meatballs,green onions,onions
@@ -3149,29 +2855,24 @@
 3364,254232,Authentic Thai Basil Chicken (Very Easy and Fast),soy sauce,soy
 3365,254232,Authentic Thai Basil Chicken (Very Easy and Fast),white sugar,sugar
 3366,254232,Authentic Thai Basil Chicken (Very Easy and Fast),small chile peppers,peppers
-3367,254232,Authentic Thai Basil Chicken (Very Easy and Fast),water,water
 3368,254232,Authentic Thai Basil Chicken (Very Easy and Fast),fresh basil leaves,leaves
 3369,141549,Potlatch Fall Harvest Soup,solid-pack pumpkin (not pumpkin pie filling),pumpkin
 3370,141549,Potlatch Fall Harvest Soup,creamed corn,corn
 3371,141549,Potlatch Fall Harvest Soup,2% low-fat milk,milk
-3372,141549,Potlatch Fall Harvest Soup,chicken broth,chicken
 3373,141549,Potlatch Fall Harvest Soup,apple cider,cider
-3374,141549,Potlatch Fall Harvest Soup,water,water
 3375,141549,Potlatch Fall Harvest Soup,butter,butter
 3376,141549,Potlatch Fall Harvest Soup,ground mace,mace
 3377,141549,Potlatch Fall Harvest Soup,salt and pepper to taste,pepper
 3378,141549,Potlatch Fall Harvest Soup,frozen corn,corn
 3379,227993,Creamy Cheddar Beef Enchiladas,white rice,rice
-3380,227993,Creamy Cheddar Beef Enchiladas,water,water
 3381,227993,Creamy Cheddar Beef Enchiladas,ground beef,beef
 3382,227993,Creamy Cheddar Beef Enchiladas,onion,onion
 3383,227993,Creamy Cheddar Beef Enchiladas,garlic,garlic
-3385,227993,Creamy Cheddar Beef Enchiladas,water,water
+3384,227993,Creamy Cheddar Beef Enchiladas,taco seasoning,seasoning
 3386,227993,Creamy Cheddar Beef Enchiladas,refried beans,beans
 3387,227993,Creamy Cheddar Beef Enchiladas,cottage cheese,cheese
 3388,227993,Creamy Cheddar Beef Enchiladas,shredded Cheddar cheese,cheese
 3389,227993,Creamy Cheddar Beef Enchiladas,flour tortillas,tortillas
-3390,227993,Creamy Cheddar Beef Enchiladas,red enchilada sauce,enchilada
 3391,227993,Creamy Cheddar Beef Enchiladas,sour cream,cream
 3392,227993,Creamy Cheddar Beef Enchiladas,shredded Cheddar cheese,cheese
 3393,39534,Tejano Style Shrimp Cocktail,cooked medium shrimp,shrimp
@@ -3186,14 +2887,11 @@
 3402,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",sesame oil,oil
 3403,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",small onion,onion
 3404,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",garlic,garlic
+3405,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",canned lentils drained and rinsed,lentils
 3406,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",diced carrots,carrots
 3407,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",corn kernels,kernels
 3408,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",dry white wine,wine
-3409,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",chicken broth,chicken
-3410,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",chicken broth,chicken
 3411,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",dry white wine,wine
-3412,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",box pearl (Israeli) couscous,pearl
-3413,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",chicken broth,chicken
 3414,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",dry white wine,wine
 3415,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",baby spinach leaves stems removed,leaves
 3416,228984,"Pearl Couscous with Lentils, Carrots, Spinach, and Corn",lemon juice,lemon
@@ -3209,7 +2907,8 @@
 3427,214980,Cappuccino Pound Cake with Bittersweet Chocolate,chopped dark chocolate,chocolate
 3428,214980,Cappuccino Pound Cake with Bittersweet Chocolate,confectioners' sugar,sugar
 3429,258952,Sweet Potato Black Bean Burgers,large sweet potato,potato
-3430,258952,Sweet Potato Black Bean Burgers,cooking spray,spray
+3431,258952,Sweet Potato Black Bean Burgers,black beans rinsed and drained,beans
+3432,258952,Sweet Potato Black Bean Burgers,quick cooking oats,oats
 3433,258952,Sweet Potato Black Bean Burgers,chopped onion,onion
 3434,258952,Sweet Potato Black Bean Burgers,Dijon mustard,mustard
 3435,258952,Sweet Potato Black Bean Burgers,ground cumin,cumin
@@ -3225,7 +2924,6 @@
 3445,12648,Fresh Blueberry Pie III,fresh blueberries,blueberries
 3446,12648,Fresh Blueberry Pie III,salt,salt
 3447,12648,Fresh Blueberry Pie III,white sugar,sugar
-3448,12648,Fresh Blueberry Pie III,water,water
 3449,12648,Fresh Blueberry Pie III,cornstarch,cornstarch
 3450,12648,Fresh Blueberry Pie III,butter,butter
 3451,12648,Fresh Blueberry Pie III,lemon juice,lemon
@@ -3248,14 +2946,13 @@
 3469,130808,Mom's Portuguese Beef Stew,salt,salt
 3470,130808,Mom's Portuguese Beef Stew,onion,onion
 3471,130808,Mom's Portuguese Beef Stew,green bell pepper,pepper
+3472,130808,Mom's Portuguese Beef Stew,carrot,carrot
 3473,130808,Mom's Portuguese Beef Stew,paprika,paprika
 3474,130808,Mom's Portuguese Beef Stew,fresh tomato,tomato
 3475,130808,Mom's Portuguese Beef Stew,white wine,wine
-3476,130808,Mom's Portuguese Beef Stew,water,water
 3477,130808,Mom's Portuguese Beef Stew,sprigs fresh parsley,parsley
 3478,130808,Mom's Portuguese Beef Stew,red potatoes,potatoes
 3479,130808,Mom's Portuguese Beef Stew,sweet potato,potato
-3480,130808,Mom's Portuguese Beef Stew,green beans drained,beans
 3481,17892,Pineapple Macadamia Nut Bread,chopped macadamia nuts,nuts
 3482,17892,Pineapple Macadamia Nut Bread,eggs,eggs
 3483,17892,Pineapple Macadamia Nut Bread,vegetable oil,oil
@@ -3269,23 +2966,22 @@
 3493,12401,Peach Berry Cobbler,butter,butter
 3494,12401,Peach Berry Cobbler,packed brown sugar,sugar
 3495,12401,Peach Berry Cobbler,cornstarch,cornstarch
-3496,12401,Peach Berry Cobbler,cold water,water
 3497,12401,Peach Berry Cobbler,fresh peaches,peaches
 3498,12401,Peach Berry Cobbler,fresh blueberries,blueberries
 3499,12401,Peach Berry Cobbler,butter,butter
 3500,12401,Peach Berry Cobbler,lemon juice,lemon
 3501,12401,Peach Berry Cobbler,coarse granulated sugar,sugar
 3502,12401,Peach Berry Cobbler,ground nutmeg,nutmeg
-3503,255601,Vegetarian Quinoa Frittatas,water,water
 3504,255601,Vegetarian Quinoa Frittatas,quinoa,quinoa
 3505,255601,Vegetarian Quinoa Frittatas,olive oil,oil
 3506,255601,Vegetarian Quinoa Frittatas,chopped fresh rosemary,rosemary
+3507,255601,Vegetarian Quinoa Frittatas,shredded zucchini,zucchini
 3508,255601,Vegetarian Quinoa Frittatas,shredded mozzarella cheese,cheese
 3509,255601,Vegetarian Quinoa Frittatas,drained and rinsed black beans,beans
 3510,255601,Vegetarian Quinoa Frittatas,shredded Parmesan cheese,cheese
 3511,255601,Vegetarian Quinoa Frittatas,eggs,eggs
+3512,255601,Vegetarian Quinoa Frittatas,egg whites,egg
 3513,255601,Vegetarian Quinoa Frittatas,ground white pepper,pepper
-3514,12996,Cauliflower-Cheese Soup,water,water
 3516,12996,Cauliflower-Cheese Soup,cubed potatoes,potatoes
 3517,12996,Cauliflower-Cheese Soup,finely chopped celery,celery
 3518,12996,Cauliflower-Cheese Soup,diced carrots,carrots
@@ -3296,21 +2992,17 @@
 3523,12996,Cauliflower-Cheese Soup,salt and pepper to taste,pepper
 3524,12996,Cauliflower-Cheese Soup,shredded Cheddar cheese,cheese
 3525,232534,Coconut Cream Dip,cream cheese,cheese
-3526,232534,Coconut Cream Dip,cream of coconut (such as Coco Lopez®),coconut
-3527,232534,Coconut Cream Dip,frozen whipped topping (such as Cool Whip®) thawed,cool
 3528,22945,White Chili III,butter,butter
 3529,22945,White Chili III,chopped onion,onion
 3530,22945,White Chili III,celery,celery
 3531,22945,White Chili III,cooked chopped turkey meat,meat
-3533,22945,White Chili III,chicken broth,chicken
+3532,22945,White Chili III,cannellini beans drained and rinsed,beans
 3534,22945,White Chili III,white corn,corn
 3535,22945,White Chili III,chopped green chile peppers,peppers
 3536,22945,White Chili III,ground cumin,cumin
 3537,22945,White Chili III,hot pepper sauce,pepper
 3538,22945,White Chili III,shredded Monterey Jack cheese,cheese
 3539,22945,White Chili III,chopped fresh parsley,parsley
-3540,27138,Gramma's Apple Bread Pudding,PUDDING,pudding
-3541,27138,Gramma's Apple Bread Pudding,soft bread cubes,cubes
 3542,27138,Gramma's Apple Bread Pudding,raisins,raisins
 3543,27138,Gramma's Apple Bread Pudding,peeled and sliced apples,apples
 3544,27138,Gramma's Apple Bread Pudding,brown sugar,sugar
@@ -3318,7 +3010,6 @@
 3546,27138,Gramma's Apple Bread Pudding,margarine,margarine
 3547,27138,Gramma's Apple Bread Pudding,ground cinnamon,cinnamon
 3548,27138,Gramma's Apple Bread Pudding,vanilla extract,vanilla
-3549,27138,Gramma's Apple Bread Pudding,eggs beaten,beaten
 3550,27138,Gramma's Apple Bread Pudding,VANILLA SAUCE,vanilla
 3551,27138,Gramma's Apple Bread Pudding,white sugar,sugar
 3552,27138,Gramma's Apple Bread Pudding,brown sugar,sugar
@@ -3328,10 +3019,8 @@
 3556,34892,Krautburger,lean ground beef,beef
 3557,34892,Krautburger,onion,onion
 3558,34892,Krautburger,medium head cabbage shredded,cabbage
-3559,34892,Krautburger,dry onion soup mix,mix
 3560,34892,Krautburger,mild Cheddar cheese,cheese
 3561,34892,Krautburger,black pepper to taste,pepper
-3562,34892,Krautburger,loaves frozen bread dough thawed,thawed
 3563,34892,Krautburger,butter flavored cooking spray,butter
 3565,89855,Ginger Pear Crisp,crushed gingersnap cookies,cookies
 3566,89855,Ginger Pear Crisp,all-purpose flour,flour
@@ -3346,20 +3035,16 @@
 3576,246288,The Best Panna Cotta You Will Ever Have,heavy whipping cream,cream
 3577,246288,The Best Panna Cotta You Will Ever Have,white sugar,sugar
 3578,246288,The Best Panna Cotta You Will Ever Have,unflavored gelatin,gelatin
-3579,246288,The Best Panna Cotta You Will Ever Have,water,water
 3580,246288,The Best Panna Cotta You Will Ever Have,quart buttermilk,buttermilk
 3581,246288,The Best Panna Cotta You Will Ever Have,Blueberry Topping:,blueberry
 3582,246288,The Best Panna Cotta You Will Ever Have,fresh blueberries,blueberries
 3583,246288,The Best Panna Cotta You Will Ever Have,orange juice,orange
 3584,246288,The Best Panna Cotta You Will Ever Have,white sugar,sugar
-3585,237695,The Shorba Freekeh of Algeria,large tomatoes cut into chunks,tomatoes
 3586,237695,The Shorba Freekeh of Algeria,onions,onions
 3587,237695,The Shorba Freekeh of Algeria,serrano pepper,pepper
 3588,237695,The Shorba Freekeh of Algeria,Anaheim pepper,pepper
-3589,237695,The Shorba Freekeh of Algeria,zucchini cut into chunks,chunks
 3590,237695,The Shorba Freekeh of Algeria,garlic,garlic
 3591,237695,The Shorba Freekeh of Algeria,olive oil,oil
-3592,237695,The Shorba Freekeh of Algeria,lamb stew meat cut into 1-inch cubes,lamb
 3593,237695,The Shorba Freekeh of Algeria,ground beef,beef
 3594,237695,The Shorba Freekeh of Algeria,salt,salt
 3595,237695,The Shorba Freekeh of Algeria,vegetable bouillon,bouillon
@@ -3369,22 +3054,22 @@
 3599,237695,The Shorba Freekeh of Algeria,ground coriander,coriander
 3600,237695,The Shorba Freekeh of Algeria,ground turmeric,turmeric
 3601,237695,The Shorba Freekeh of Algeria,cayenne pepper,pepper
-3602,237695,The Shorba Freekeh of Algeria,quarts water,water
 3603,237695,The Shorba Freekeh of Algeria,tomato paste,tomato
 3604,237695,The Shorba Freekeh of Algeria,finely ground freekeh,freekeh
 3605,237695,The Shorba Freekeh of Algeria,green peas,peas
 3606,237695,The Shorba Freekeh of Algeria,butter,butter
-3609,237584,Curried Quinoa Veggie Bowl,Cauliflower:,cauliflower
+3608,237695,The Shorba Freekeh of Algeria,lemon cut into wedges,wedges
+3609,237584,Curried Quinoa Veggie Bowl,Cauliflower:,:
 3610,237584,Curried Quinoa Veggie Bowl,coconut oil,oil
 3611,237584,Curried Quinoa Veggie Bowl,garam masala,masala
 3612,237584,Curried Quinoa Veggie Bowl,ground cumin,cumin
 3613,237584,Curried Quinoa Veggie Bowl,salt,salt
-3614,237584,Curried Quinoa Veggie Bowl,large head cauliflower separated into florets,florets
+3614,237584,Curried Quinoa Veggie Bowl,large head cauliflower separated into florets,cauliflower
 3616,237584,Curried Quinoa Veggie Bowl,coconut oil,oil
 3617,237584,Curried Quinoa Veggie Bowl,garlic,garlic
 3618,237584,Curried Quinoa Veggie Bowl,chopped onion,onion
 3619,237584,Curried Quinoa Veggie Bowl,quinoa,quinoa
-3620,237584,Curried Quinoa Veggie Bowl,Silk® Unsweetened Coconutmilk,®
+3620,237584,Curried Quinoa Veggie Bowl,Silk® Unsweetened Coconutmilk,coconutmilk
 3622,237584,Curried Quinoa Veggie Bowl,salt,salt
 3624,237584,Curried Quinoa Veggie Bowl,Toasted coconut flakes for garnish,flakes
 3625,222325,Mango Bread,all-purpose flour,flour
@@ -3409,12 +3094,10 @@
 3644,49334,Honey Buttermilk Oatbread,egg,egg
 3645,49334,Honey Buttermilk Oatbread,buttermilk,buttermilk
 3646,49334,Honey Buttermilk Oatbread,active dry yeast,yeast
-3647,13708,Baked Pineapple II,eggs beaten,beaten
 3648,13708,Baked Pineapple II,butter,butter
 3649,13708,Baked Pineapple II,white sugar,sugar
 3650,13708,Baked Pineapple II,crushed pineapple with juice,pineapple
 3651,13708,Baked Pineapple II,milk,milk
-3652,13708,Baked Pineapple II,soft bread cubes,cubes
 3653,13708,Baked Pineapple II,vanilla extract,vanilla
 3655,12797,Trout Amandine,salt and pepper to taste,pepper
 3656,12797,Trout Amandine,all-purpose flour,flour
@@ -3422,13 +3105,9 @@
 3658,12797,Trout Amandine,blanched slivered almonds,almonds
 3659,12797,Trout Amandine,lemon juice,lemon
 3660,12797,Trout Amandine,chopped fresh parsley,parsley
-3661,12797,Trout Amandine,lemon for garnish,lemon
 3662,237157,Easy Strawberry Fruit Dip,strawberry-flavored cream cheese,cheese
 3663,237157,Easy Strawberry Fruit Dip,marshmallow creme,creme
 3664,38167,Cajun Paella,olive oil,oil
-3665,38167,Cajun Paella,chicken leg quarters,quarters
-3666,38167,Cajun Paella,dirty rice mix,mix
-3667,38167,Cajun Paella,water,water
 3669,38167,Cajun Paella,medium shrimp,shrimp
 3670,38167,Cajun Paella,andouille sausage,sausage
 3671,38167,Cajun Paella,sliced mushrooms,mushrooms
@@ -3436,7 +3115,6 @@
 3673,38167,Cajun Paella,large sweet onion,onion
 3674,38167,Cajun Paella,garlic,garlic
 3675,19389,Greek Orzo Salad,uncooked orzo pasta,pasta
-3676,19389,Greek Orzo Salad,marinated artichoke hearts,hearts
 3677,19389,Greek Orzo Salad,tomato,tomato
 3678,19389,Greek Orzo Salad,cucumber,cucumber
 3679,19389,Greek Orzo Salad,red onion,onion
@@ -3446,23 +3124,20 @@
 3683,19389,Greek Orzo Salad,lemon juice,lemon
 3684,19389,Greek Orzo Salad,dried oregano,oregano
 3685,19389,Greek Orzo Salad,lemon pepper,pepper
-3686,15795,Raspberry Chiffon Pie II,prepared graham cracker crust,crust
 3687,15795,Raspberry Chiffon Pie II,raspberries,raspberries
-3688,15795,Raspberry Chiffon Pie II,water,water
 3689,15795,Raspberry Chiffon Pie II,unflavored gelatin,gelatin
-3690,15795,Raspberry Chiffon Pie II,cold water,water
+3691,15795,Raspberry Chiffon Pie II,egg yolks,yolks
 3692,15795,Raspberry Chiffon Pie II,white sugar,sugar
+3693,15795,Raspberry Chiffon Pie II,egg whites,egg
 3694,15795,Raspberry Chiffon Pie II,cream of tartar,tartar
 3695,15795,Raspberry Chiffon Pie II,white sugar,sugar
 3696,15795,Raspberry Chiffon Pie II,heavy whipping cream,cream
 3697,15795,Raspberry Chiffon Pie II,fresh raspberries,raspberries
 3698,256655,Cauliflower with Water Chestnuts and Black Olives,salt,salt
-3699,256655,Cauliflower with Water Chestnuts and Black Olives,head cauliflower cut into big chunks,chunks
 3700,256655,Cauliflower with Water Chestnuts and Black Olives,olive oil,oil
 3701,256655,Cauliflower with Water Chestnuts and Black Olives,garlic,garlic
 3702,256655,Cauliflower with Water Chestnuts and Black Olives,sliced water chestnuts drained,chestnuts
 3703,256655,Cauliflower with Water Chestnuts and Black Olives,sliced black olives,olives
-3704,256655,Cauliflower with Water Chestnuts and Black Olives,water,water
 3705,256655,Cauliflower with Water Chestnuts and Black Olives,salt and ground black pepper to taste,pepper
 3706,7562,Cone Cupcakes,butter,butter
 3707,7562,Cone Cupcakes,white sugar,sugar
@@ -3471,7 +3146,6 @@
 3710,7562,Cone Cupcakes,all-purpose flour,flour
 3712,7562,Cone Cupcakes,salt,salt
 3713,7562,Cone Cupcakes,milk,milk
-3714,7562,Cone Cupcakes,flat bottomed ice cream cones,cones
 3715,74755,Apple Milkshake,apple,apple
 3716,74755,Apple Milkshake,milk,milk
 3717,74755,Apple Milkshake,scoops vanilla ice cream,cream
@@ -3504,12 +3178,11 @@
 3746,206162,Legume My Shepherd's Pie,cayenne pepper,pepper
 3747,206162,Legume My Shepherd's Pie,shredded mozzarella cheese,cheese
 3748,206162,Legume My Shepherd's Pie,grated Parmesan cheese,cheese
-3749,256856,Rosca de Reyes,Bread:,bread
+3749,256856,Rosca de Reyes,Bread:,:
 3750,256856,Rosca de Reyes,all-purpose flour,flour
 3751,256856,Rosca de Reyes,eggs,eggs
 3752,256856,Rosca de Reyes,eggs separated,eggs
 3753,256856,Rosca de Reyes,white sugar,sugar
-3754,256856,Rosca de Reyes,warm water,water
 3755,256856,Rosca de Reyes,dry yeast,yeast
 3756,256856,Rosca de Reyes,orange zested,orange
 3757,256856,Rosca de Reyes,lime zested,lime
@@ -3519,12 +3192,12 @@
 3762,256856,Rosca de Reyes,white sugar,sugar
 3763,256856,Rosca de Reyes,butter,butter
 3764,256856,Rosca de Reyes,all-purpose flour,flour
-3765,256856,Rosca de Reyes,candied citrus peels,peels
 3766,10389,Peanut Clusters Chocolate Cookie,white sugar,sugar
 3767,10389,Peanut Clusters Chocolate Cookie,evaporated milk,milk
 3768,10389,Peanut Clusters Chocolate Cookie,butter,butter
 3769,10389,Peanut Clusters Chocolate Cookie,crunchy peanut butter,butter
 3770,10389,Peanut Clusters Chocolate Cookie,vanilla extract,vanilla
+3771,10389,Peanut Clusters Chocolate Cookie,quick cooking oats,oats
 3772,10389,Peanut Clusters Chocolate Cookie,peanuts,peanuts
 3773,10389,Peanut Clusters Chocolate Cookie,squares semisweet chocolate,chocolate
 3774,23663,Western Pound Cake,cake flour,flour
@@ -3532,7 +3205,6 @@
 3777,23663,Western Pound Cake,chopped walnuts,walnuts
 3778,23663,Western Pound Cake,butter,butter
 3779,23663,Western Pound Cake,white sugar,sugar
-3780,23663,Western Pound Cake,eggs beaten,beaten
 3781,23663,Western Pound Cake,vanilla extract,vanilla
 3782,23663,Western Pound Cake,milk,milk
 3783,11415,Easy Rugalech,butter,butter
@@ -3541,8 +3213,8 @@
 3786,11415,Easy Rugalech,raisins,raisins
 3787,11415,Easy Rugalech,ground cinnamon,cinnamon
 3788,11415,Easy Rugalech,granulated sugar,sugar
+3789,254242,Lebanese Fattoush (Bread Salad),Salad:,salad
 3790,254242,Lebanese Fattoush (Bread Salad),pita bread,bread
-3791,254242,Lebanese Fattoush (Bread Salad),head romaine lettuce chopped,lettuce
 3793,254242,Lebanese Fattoush (Bread Salad),English cucumber,cucumber
 3794,254242,Lebanese Fattoush (Bread Salad),tomato,tomato
 3795,254242,Lebanese Fattoush (Bread Salad),green onions,onions
@@ -3556,17 +3228,16 @@
 3804,95753,Funky Enchilada Casserole,olive oil,oil
 3805,95753,Funky Enchilada Casserole,skinless boneless chicken breast meat,chicken
 3806,95753,Funky Enchilada Casserole,ground cumin,cumin
-3807,95753,Funky Enchilada Casserole,dry Mexican,mexican
 3808,95753,Funky Enchilada Casserole,cayenne pepper,pepper
 3809,95753,Funky Enchilada Casserole,medium onion,onion
 3810,95753,Funky Enchilada Casserole,garlic,garlic
 3811,95753,Funky Enchilada Casserole,red bell pepper,pepper
 3812,95753,Funky Enchilada Casserole,yellow bell pepper,pepper
 3813,95753,Funky Enchilada Casserole,orange bell pepper,pepper
+3814,95753,Funky Enchilada Casserole,black beans rinsed and drained,beans
 3815,95753,Funky Enchilada Casserole,kidney beans rinsed and drained,beans
 3816,95753,Funky Enchilada Casserole,frozen corn kernels,kernels
 3817,95753,Funky Enchilada Casserole,corn tortillas,tortillas
-3818,95753,Funky Enchilada Casserole,fresh cilantro chopped,cilantro
 3819,95753,Funky Enchilada Casserole,shredded pepperjack cheese,cheese
 3820,240591,"Vegan Chocolate Chip, Oatmeal, and Nut Cookies",white sugar,sugar
 3821,240591,"Vegan Chocolate Chip, Oatmeal, and Nut Cookies",soy milk,milk
@@ -3577,7 +3248,7 @@
 3826,240591,"Vegan Chocolate Chip, Oatmeal, and Nut Cookies",rolled oats,oats
 3827,240591,"Vegan Chocolate Chip, Oatmeal, and Nut Cookies",baking soda,soda
 3828,240591,"Vegan Chocolate Chip, Oatmeal, and Nut Cookies",salt,salt
-3829,240591,"Vegan Chocolate Chip, Oatmeal, and Nut Cookies",vegan semi-sweet chocolate chips,chips
+3829,240591,"Vegan Chocolate Chip, Oatmeal, and Nut Cookies",vegan semi-sweet chocolate chips,chocolate
 3831,238851,Cucumber Sandwich Spread,cream cheese,cheese
 3832,238851,Cucumber Sandwich Spread,cucumber,cucumber
 3833,238851,Cucumber Sandwich Spread,green onions (white part only),onions
@@ -3586,21 +3257,18 @@
 3836,238851,Cucumber Sandwich Spread,cayenne pepper,pepper
 3837,238851,Cucumber Sandwich Spread,lemon pepper,pepper
 3838,258831,Make Ahead Cauliflower Salad,bacon,bacon
-3839,258831,Make Ahead Cauliflower Salad,head iceberg lettuce finely chopped,iceberg
+3839,258831,Make Ahead Cauliflower Salad,head iceberg lettuce finely chopped,lettuce
 3840,258831,Make Ahead Cauliflower Salad,head cauliflower florets finely chopped,cauliflower
 3841,258831,Make Ahead Cauliflower Salad,large red onion,onion
 3842,258831,Make Ahead Cauliflower Salad,mayonnaise,mayonnaise
 3843,258831,Make Ahead Cauliflower Salad,white sugar,sugar
 3844,258831,Make Ahead Cauliflower Salad,grated Parmesan cheese,cheese
 3845,258831,Make Ahead Cauliflower Salad,ground black pepper,pepper
-3846,219506,Sausage and Mushroom Stuffing,Swanson® Chicken Broth,chicken
 3847,219506,Sausage and Mushroom Stuffing,Generous dash ground black pepper,pepper
 3848,219506,Sausage and Mushroom Stuffing,celery,celery
 3849,219506,Sausage and Mushroom Stuffing,small onion,onion
-3850,219506,Sausage and Mushroom Stuffing,mushrooms sliced,sliced
-3851,219506,Sausage and Mushroom Stuffing,Pepperidge Farm® Herb Seasoned Stuffing,®
+3850,219506,Sausage and Mushroom Stuffing,mushrooms sliced,mushrooms
 3852,219506,Sausage and Mushroom Stuffing,bulk sausage,sausage
-3853,7528,Blueberry Dump Cake,yellow cake mix,mix
 3854,7528,Blueberry Dump Cake,fresh blueberries,blueberries
 3855,7528,Blueberry Dump Cake,white sugar,sugar
 3856,7528,Blueberry Dump Cake,butter,butter
@@ -3608,6 +3276,7 @@
 3858,41679,Banana Cranberry Bread,white sugar,sugar
 3860,41679,Banana Cranberry Bread,eggs,eggs
 3861,41679,Banana Cranberry Bread,mashed bananas,bananas
+3862,41679,Banana Cranberry Bread,cranberry sauce,cranberry
 3863,41679,Banana Cranberry Bread,milk,milk
 3864,41679,Banana Cranberry Bread,vanilla extract,vanilla
 3865,41679,Banana Cranberry Bread,all-purpose flour,flour
@@ -3615,7 +3284,6 @@
 3868,41679,Banana Cranberry Bread,ground cinnamon,cinnamon
 3869,41679,Banana Cranberry Bread,ground nutmeg,nutmeg
 3870,41679,Banana Cranberry Bread,chopped walnuts,walnuts
-3871,239739,Gingered Pear Martini,ice cubes,cubes
 3872,239739,Gingered Pear Martini,fluid ounces pear vodka,vodka
 3874,239739,Gingered Pear Martini,fluid ounce ginger liqueur,ginger
 3875,239739,Gingered Pear Martini,freshly grated nutmeg,nutmeg
@@ -3643,16 +3311,11 @@
 3898,234788,Lemon Mint Pound Cake,sugar,sugar
 3899,234788,Lemon Mint Pound Cake,loosely packed fresh mint leaves,leaves
 3900,234788,Lemon Mint Pound Cake,butter,butter
-3901,234788,Lemon Mint Pound Cake,confectioners' sugar divided,divided
 3902,234788,Lemon Mint Pound Cake,eggs,eggs
-3903,234788,Lemon Mint Pound Cake,heavy whipping cream divided,cream
 3904,234788,Lemon Mint Pound Cake,lemon juice,lemon
-3905,234788,Lemon Mint Pound Cake,grated lemon peel,peel
-3906,234788,Lemon Mint Pound Cake,lemon curd*,lemon
 3907,234788,Lemon Mint Pound Cake,quart fresh strawberries sliced,strawberries
 3908,234788,Lemon Mint Pound Cake,blueberries,blueberries
 3909,50843,Fig and Olive Tapenade,chopped dried figs,figs
-3910,50843,Fig and Olive Tapenade,water,water
 3911,50843,Fig and Olive Tapenade,olive oil,oil
 3912,50843,Fig and Olive Tapenade,balsamic vinegar,vinegar
 3913,50843,Fig and Olive Tapenade,dried rosemary,rosemary
@@ -3664,7 +3327,6 @@
 3919,50843,Fig and Olive Tapenade,chopped toasted walnuts,walnuts
 3920,50843,Fig and Olive Tapenade,cream cheese,cheese
 3921,76899,Slow Cooker Thanksgiving Turkey,bacon,bacon
-3922,76899,Slow Cooker Thanksgiving Turkey,bone-in turkey breast,breast
 3923,76899,Slow Cooker Thanksgiving Turkey,garlic pepper,pepper
 3925,76899,Slow Cooker Thanksgiving Turkey,all-purpose flour,flour
 3926,76899,Slow Cooker Thanksgiving Turkey,Worcestershire sauce,worcestershire
@@ -3676,13 +3338,10 @@
 3933,15077,Restaurant-Style Potato Skins,potatoes,potatoes
 3934,15077,Restaurant-Style Potato Skins,vegetable oil,oil
 3935,15077,Restaurant-Style Potato Skins,shredded Cheddar cheese,cheese
-3936,15077,Restaurant-Style Potato Skins,bacon bits,bits
 3937,15077,Restaurant-Style Potato Skins,sour cream,cream
 3938,14251,Orange Fluff I,mandarin oranges drained,oranges
 3939,14251,Orange Fluff I,crushed pineapple,pineapple
 3940,14251,Orange Fluff I,cottage cheese,cheese
-3941,14251,Orange Fluff I,orange flavored Jell-O® mix,mix
-3942,14251,Orange Fluff I,frozen whipped topping thawed,thawed
 3944,15572,Coconut Custard Pie III,eggs,eggs
 3945,15572,Coconut Custard Pie III,white sugar,sugar
 3946,15572,Coconut Custard Pie III,salt,salt
@@ -3697,12 +3356,10 @@
 3955,142031,Roasted Pepper-Avocado Salsa,large onion,onion
 3956,142031,Roasted Pepper-Avocado Salsa,garlic,garlic
 3957,142031,Roasted Pepper-Avocado Salsa,olive oil,oil
-3958,142031,Roasted Pepper-Avocado Salsa,lime juiced,juiced
 3959,142031,Roasted Pepper-Avocado Salsa,kosher salt,salt
 3960,142031,Roasted Pepper-Avocado Salsa,ground black pepper,pepper
 3961,238454,Grilled Spaghetti Sandwich,butter,butter
 3962,238454,Grilled Spaghetti Sandwich,garlic powder,garlic
-3963,238454,Grilled Spaghetti Sandwich,hoagie rolls,rolls
 3964,238454,Grilled Spaghetti Sandwich,thin slices mozzarella cheese,cheese
 3965,238454,Grilled Spaghetti Sandwich,cold cooked spaghetti,spaghetti
 3966,238454,Grilled Spaghetti Sandwich,spaghetti sauce,spaghetti
@@ -3717,18 +3374,15 @@
 3975,11040,Play Dough Cookies,vanilla extract,vanilla
 3976,11040,Play Dough Cookies,all-purpose flour,flour
 3978,11040,Play Dough Cookies,salt,salt
-3980,11040,Play Dough Cookies,lollipop sticks,sticks
-3981,239271,Chocolate Chip and Pumpkin Bread,cooking spray,spray
+3979,11040,Play Dough Cookies,assorted colors of paste food coloring,coloring
 3982,239271,Chocolate Chip and Pumpkin Bread,pumpkin puree,pumpkin
 3983,239271,Chocolate Chip and Pumpkin Bread,white sugar,sugar
 3984,239271,Chocolate Chip and Pumpkin Bread,brown sugar,sugar
-3985,239271,Chocolate Chip and Pumpkin Bread,eggs beaten,beaten
 3986,239271,Chocolate Chip and Pumpkin Bread,vegetable oil,oil
 3987,239271,Chocolate Chip and Pumpkin Bread,vanilla extract,vanilla
 3988,239271,Chocolate Chip and Pumpkin Bread,pumpkin pie spice,pumpkin
 3989,239271,Chocolate Chip and Pumpkin Bread,self-rising flour,flour
 3990,239271,Chocolate Chip and Pumpkin Bread,semisweet chocolate chips,chips
-3991,246236,Easy S'Mores Bars,graham cracker squares,squares
 3992,246236,Easy S'Mores Bars,butter,butter
 3993,246236,Easy S'Mores Bars,brown sugar,sugar
 3994,246236,Easy S'Mores Bars,miniature marshmallows,marshmallows
@@ -3737,10 +3391,7 @@
 3998,213939,Horsey Parsnip Puree,prepared horseradish,horseradish
 3999,213939,Horsey Parsnip Puree,fat free evaporated milk,milk
 4000,213939,Horsey Parsnip Puree,salt and ground black pepper to taste,pepper
-4002,142709,Vegetarian Lentil Spaghetti,stewed tomatoes undrained,tomatoes
-4003,142709,Vegetarian Lentil Spaghetti,artichoke hearts in water,hearts
 4004,142709,Vegetarian Lentil Spaghetti,cayenne pepper,pepper
-4005,142709,Vegetarian Lentil Spaghetti,water,water
 4006,142709,Vegetarian Lentil Spaghetti,olive oil,oil
 4007,142709,Vegetarian Lentil Spaghetti,thin spaghetti,spaghetti
 4008,142709,Vegetarian Lentil Spaghetti,green onions,onions
@@ -3759,7 +3410,6 @@
 4022,6666,Sweet Potato Bread I,salt,salt
 4023,6666,Sweet Potato Bread I,ground cinnamon,cinnamon
 4024,6666,Sweet Potato Bread I,ground nutmeg,nutmeg
-4025,6666,Sweet Potato Bread I,water,water
 4026,6666,Sweet Potato Bread I,cooked and mashed sweet potatoes,potatoes
 4027,6666,Sweet Potato Bread I,chopped pecans,pecans
 4028,221381,Curried Cottage Fries,potatoes,potatoes
@@ -3769,39 +3419,32 @@
 4033,221381,Curried Cottage Fries,salt,salt
 4034,221381,Curried Cottage Fries,garlic powder,garlic
 4035,20693,Champagne Peach Punch,peach nectar,nectar
-4036,20693,Champagne Peach Punch,frozen orange juice concentrate,orange
 4037,20693,Champagne Peach Punch,lemon juice,lemon
 4038,20693,Champagne Peach Punch,peach brandy,brandy
 4039,20693,Champagne Peach Punch,grenadine syrup,syrup
-4040,20693,Champagne Peach Punch,fluid ounce) bottle carbonated water,water
 4041,20693,Champagne Peach Punch,bottles champagne,champagne
 4042,245662,Avocado-Tomatillo Dip with Jalapenos and Cilantro,fresh tomatillos husks discarded and tomatillos rinsed,tomatillos
 4043,245662,Avocado-Tomatillo Dip with Jalapenos and Cilantro,thickly sliced white onion,onion
 4044,245662,Avocado-Tomatillo Dip with Jalapenos and Cilantro,fresh jalapeno chili,chili
-4045,245662,Avocado-Tomatillo Dip with Jalapenos and Cilantro,packed fresh cilantro sprigs,cilantro
+4045,245662,Avocado-Tomatillo Dip with Jalapenos and Cilantro,packed fresh cilantro sprigs,sprigs
 4046,245662,Avocado-Tomatillo Dip with Jalapenos and Cilantro,Hass avocados,avocados
 4047,245662,Avocado-Tomatillo Dip with Jalapenos and Cilantro,salt,salt
-4048,20657,Carla's Fruit Dip,frozen whipped topping thawed,thawed
 4049,20657,Carla's Fruit Dip,marshmallow creme,creme
 4050,20657,Carla's Fruit Dip,cream cheese,cheese
 4051,14241,Orange Vinaigrette Brown Rice Salad,uncooked brown rice,rice
-4052,14241,Orange Vinaigrette Brown Rice Salad,water,water
 4053,14241,Orange Vinaigrette Brown Rice Salad,orange juice,orange
 4054,14241,Orange Vinaigrette Brown Rice Salad,vegetable oil,oil
 4055,14241,Orange Vinaigrette Brown Rice Salad,balsamic vinegar,vinegar
 4056,14241,Orange Vinaigrette Brown Rice Salad,honey,honey
 4057,14241,Orange Vinaigrette Brown Rice Salad,orange zest,orange
 4058,14241,Orange Vinaigrette Brown Rice Salad,salt,salt
-4059,14241,Orange Vinaigrette Brown Rice Salad,spinach leaves packed,leaves
 4060,14241,Orange Vinaigrette Brown Rice Salad,large orange peeled sectioned and cut into bite-size,orange
 4061,14241,Orange Vinaigrette Brown Rice Salad,slivered red onion,onion
-4062,241658,Twice Baked Cauliflower with Bacon,cooking spray,spray
 4063,241658,Twice Baked Cauliflower with Bacon,bags frozen cauliflower,cauliflower
 4064,241658,Twice Baked Cauliflower with Bacon,sour cream,cream
 4065,241658,Twice Baked Cauliflower with Bacon,plain yogurt,yogurt
 4066,241658,Twice Baked Cauliflower with Bacon,salted butter,butter
 4067,241658,Twice Baked Cauliflower with Bacon,shredded Cheddar cheese,cheese
-4068,241658,Twice Baked Cauliflower with Bacon,bacon bits,bits
 4069,241658,Twice Baked Cauliflower with Bacon,chopped fresh chives,chives
 4070,241658,Twice Baked Cauliflower with Bacon,minced garlic,garlic
 4071,241658,Twice Baked Cauliflower with Bacon,black pepper,pepper
@@ -3812,38 +3455,30 @@
 4076,216440,Chicken Breasts in a Sour Cream and Wine Sauce,green onions (white part only),onions
 4077,216440,Chicken Breasts in a Sour Cream and Wine Sauce,paprika,paprika
 4078,216440,Chicken Breasts in a Sour Cream and Wine Sauce,all-purpose flour,flour
-4079,216440,Chicken Breasts in a Sour Cream and Wine Sauce,chicken bouillon,chicken
-4080,216440,Chicken Breasts in a Sour Cream and Wine Sauce,hot water,water
+4079,216440,Chicken Breasts in a Sour Cream and Wine Sauce,chicken bouillon,bouillon
 4081,216440,Chicken Breasts in a Sour Cream and Wine Sauce,dry white wine,wine
 4082,216440,Chicken Breasts in a Sour Cream and Wine Sauce,sour cream,cream
 4083,216440,Chicken Breasts in a Sour Cream and Wine Sauce,uncooked white rice,rice
-4084,216440,Chicken Breasts in a Sour Cream and Wine Sauce,water,water
 4085,216440,Chicken Breasts in a Sour Cream and Wine Sauce,toasted slivered almonds,almonds
 4086,17751,Frosty,confectioners' sugar,sugar
-4087,17751,Frosty,water,water
 4088,17751,Frosty,vanilla extract,vanilla
 4089,239389,Marie's Fish Chowder,butter,butter
 4090,239389,Marie's Fish Chowder,chopped onion,onion
 4091,239389,Marie's Fish Chowder,celery,celery
 4092,239389,Marie's Fish Chowder,chicken stock,chicken
 4093,239389,Marie's Fish Chowder,diced potatoes,potatoes
-4094,239389,Marie's Fish Chowder,cod cut into 1/2-inch cubes,cod
 4095,239389,Marie's Fish Chowder,parsley,parsley
-4096,239389,Marie's Fish Chowder,seafood seasoning (such as Old Bay®),®
 4097,239389,Marie's Fish Chowder,garlic salt,salt
 4098,239389,Marie's Fish Chowder,salt and ground black pepper to taste,pepper
 4099,239389,Marie's Fish Chowder,all-purpose flour,flour
 4100,239389,Marie's Fish Chowder,bottle clam juice,bottle
 4101,239389,Marie's Fish Chowder,cornstarch,cornstarch
-4102,239389,Marie's Fish Chowder,cold water,water
 4104,258405,Chia Pineapple Smoothie,bananas,bananas
 4105,258405,Chia Pineapple Smoothie,frozen pineapple,pineapple
 4106,258405,Chia Pineapple Smoothie,almond butter,butter
 4107,258405,Chia Pineapple Smoothie,chia seeds,seeds
-4108,258405,Chia Pineapple Smoothie,water,water
 4110,237125,Orange Tilapia,orange juice,orange
 4111,237125,Orange Tilapia,butter,butter
-4112,237125,Orange Tilapia,panko bread crumbs,crumbs
 4113,237125,Orange Tilapia,orange juice,orange
 4114,237125,Orange Tilapia,garlic,garlic
 4115,237125,Orange Tilapia,minced fresh basil,basil
@@ -3855,20 +3490,17 @@
 4121,85816,Georgia Cracker Salad,hard-cooked egg,egg
 4122,85816,Georgia Cracker Salad,salt and freshly ground black pepper to taste,pepper
 4123,239404,Creamy Cabbage with Noodles,butter,butter
-4124,239404,Creamy Cabbage with Noodles,medium head cabbage cut into 1-inch chunks,cabbage
 4125,239404,Creamy Cabbage with Noodles,large onion,onion
 4126,239404,Creamy Cabbage with Noodles,Diamond Crystal® Kosher Salt,salt
 4127,239404,Creamy Cabbage with Noodles,ground black pepper,pepper
 4128,239404,Creamy Cabbage with Noodles,heavy cream,cream
-4129,239404,Creamy Cabbage with Noodles,chicken broth,chicken
 4130,239404,Creamy Cabbage with Noodles,all-purpose flour,flour
 4131,239404,Creamy Cabbage with Noodles,dried egg noodles,noodles
 4132,220226,Buck's Italian-Grilled Asparagus,butter,butter
 4133,220226,Buck's Italian-Grilled Asparagus,olive oil,oil
-4134,220226,Buck's Italian-Grilled Asparagus,fresh asparagus trimmed,trimmed
 4135,220226,Buck's Italian-Grilled Asparagus,hot pepper sauce,pepper
 4136,220226,Buck's Italian-Grilled Asparagus,slivered almonds,almonds
-4137,220226,Buck's Italian-Grilled Asparagus,Italian herb seasoning,herb
+4137,220226,Buck's Italian-Grilled Asparagus,Italian herb seasoning,seasoning
 4138,220226,Buck's Italian-Grilled Asparagus,onion,onion
 4139,220226,Buck's Italian-Grilled Asparagus,salt and ground black pepper to taste,pepper
 4140,220226,Buck's Italian-Grilled Asparagus,grated Parmesan cheese,cheese
@@ -3884,7 +3516,6 @@
 4150,203223,Haydari (Turkish Yogurt Dip),plain yogurt,yogurt
 4151,203223,Haydari (Turkish Yogurt Dip),garlic,garlic
 4152,203223,Haydari (Turkish Yogurt Dip),salt,salt
-4153,203223,Haydari (Turkish Yogurt Dip),fresh dill chopped,dill
 4154,203223,Haydari (Turkish Yogurt Dip),fresh parsley,parsley
 4155,203223,Haydari (Turkish Yogurt Dip),cream cheese,cheese
 4156,203223,Haydari (Turkish Yogurt Dip),mint leaves for garnish,leaves
@@ -3894,18 +3525,15 @@
 4160,6962,Seven Grain Bread I,white sugar,sugar
 4161,6962,Seven Grain Bread I,nonfat dry milk powder,milk
 4162,6962,Seven Grain Bread I,margarine,margarine
-4163,6962,Seven Grain Bread I,warm water (110 degrees F/45 degrees C),water
 4164,6962,Seven Grain Bread I,seven grain cereal,cereal
 4165,240206,Simple Broccolini,broccolini,broccolini
 4166,240206,Simple Broccolini,olive oil,oil
 4167,240206,Simple Broccolini,garlic,garlic
-4168,240206,Simple Broccolini,lemon wedge,wedge
 4169,240206,Simple Broccolini,salt and ground black pepper to taste,pepper
 4170,240206,Simple Broccolini,red pepper flakes (optional),flakes
 4171,162091,Awesome Red Wine Pot Roast,boneless beef chuck roast,beef
 4172,162091,Awesome Red Wine Pot Roast,all-purpose flour,flour
 4173,162091,Awesome Red Wine Pot Roast,canola oil,oil
-4174,162091,Awesome Red Wine Pot Roast,water,water
 4175,162091,Awesome Red Wine Pot Roast,red wine,wine
 4176,162091,Awesome Red Wine Pot Roast,dried basil,basil
 4177,162091,Awesome Red Wine Pot Roast,dried marjoram,marjoram
@@ -3914,6 +3542,7 @@
 4180,162091,Awesome Red Wine Pot Roast,ground black pepper,pepper
 4181,162091,Awesome Red Wine Pot Roast,onion,onion
 4182,162091,Awesome Red Wine Pot Roast,red potatoes,potatoes
+4183,162091,Awesome Red Wine Pot Roast,carrot,carrot
 4184,162091,Awesome Red Wine Pot Roast,pearl onions,onions
 4185,173638,Roasted Garlic Dip,heads garlic,garlic
 4186,173638,Roasted Garlic Dip,olive oil,oil
@@ -3923,14 +3552,13 @@
 4190,173638,Roasted Garlic Dip,red wine vinegar,vinegar
 4191,173638,Roasted Garlic Dip,salt,salt
 4192,173638,Roasted Garlic Dip,ground black pepper,pepper
-4193,217303,Hearty Vegetable Salad,DOLE® Field Greens,®
+4193,217303,Hearty Vegetable Salad,DOLE® Field Greens,greens
 4194,217303,Hearty Vegetable Salad,large large tomato,tomato
 4195,217303,Hearty Vegetable Salad,cucumber,cucumber
-4196,217303,Hearty Vegetable Salad,Parmesan cheese-flavored croutons,parmesan
+4196,217303,Hearty Vegetable Salad,Parmesan cheese-flavored croutons,croutons
 4197,217303,Hearty Vegetable Salad,enoki mushrooms,mushrooms
-4198,217303,Hearty Vegetable Salad,walnut halves toasted,halves
-4199,217303,Hearty Vegetable Salad,pitted kalamata olives cut in half,kalamata
-4200,217303,Hearty Vegetable Salad,Bacon Onion and Mustard Salad Dressing (recipe below),onion
+4199,217303,Hearty Vegetable Salad,pitted kalamata olives cut in half,olives
+4200,217303,Hearty Vegetable Salad,Bacon Onion and Mustard Salad Dressing (recipe below),salad
 4201,53602,Doughnut Bread Pudding,stale raised glazed donuts,donuts
 4202,53602,Doughnut Bread Pudding,raisins,raisins
 4203,53602,Doughnut Bread Pudding,eggs (room temperature),eggs
@@ -3949,11 +3577,9 @@
 4216,95318,Grandma's Cracker Dressing,fresh ground black pepper,pepper
 4217,95318,Grandma's Cracker Dressing,half-and-half cream,cream
 4218,95318,Grandma's Cracker Dressing,cornstarch,cornstarch
-4219,95318,Grandma's Cracker Dressing,chicken broth,chicken
 4220,16175,Hot Artichoke Dip,Parmesan cheese,cheese
 4221,16175,Hot Artichoke Dip,mayonnaise,mayonnaise
 4222,16175,Hot Artichoke Dip,heavy whipping cream,cream
-4223,16175,Hot Artichoke Dip,artichoke hearts drained and chopped,artichoke
 4224,16175,Hot Artichoke Dip,thinly sliced green onion,onion
 4225,16175,Hot Artichoke Dip,chopped pimento peppers,peppers
 4226,132277,Holiday Cherry Pie,all-purpose flour,flour
@@ -3962,22 +3588,18 @@
 4229,132277,Holiday Cherry Pie,ground nutmeg,nutmeg
 4230,132277,Holiday Cherry Pie,salt,salt
 4231,132277,Holiday Cherry Pie,butter,butter
-4232,132277,Holiday Cherry Pie,unbaked deep dish pie crust,crust
-4233,132277,Holiday Cherry Pie,cherry pie filling,pie
+4233,132277,Holiday Cherry Pie,cherry pie filling,cherry
 4234,132277,Holiday Cherry Pie,ground cinnamon,cinnamon
 4235,132277,Holiday Cherry Pie,sliced almonds,almonds
-4236,218466,The French Bread,sourdough starter,starter
-4237,218466,The French Bread,water,water
 4238,218466,The French Bread,olive oil,oil
 4239,218466,The French Bread,salt,salt
 4240,218466,The French Bread,white sugar,sugar
 4241,218466,The French Bread,active dry yeast,yeast
 4242,218466,The French Bread,all-purpose flour,flour
-4244,218466,The French Bread,boiling water,water
+4243,218466,The French Bread,cornmeal,cornmeal
 4245,218466,The French Bread,egg yolk,yolk
 4246,218466,The French Bread,milk,milk
 4247,254422,Watermelon Basil Salad,basil leaves,leaves
-4248,254422,Watermelon Basil Salad,watermelon,watermelon
 4249,254422,Watermelon Basil Salad,lemon juice,lemon
 4250,254422,Watermelon Basil Salad,kosher salt,salt
 4251,254422,Watermelon Basil Salad,chili powder,chili
@@ -3987,7 +3609,7 @@
 4256,156468,Caribbean Breeze,fluid ounces orange juice,orange
 4257,156468,Caribbean Breeze,fluid ounces pineapple juice,pineapple
 4258,156468,Caribbean Breeze,grenadine,grenadine
-4259,156468,Caribbean Breeze,orange wedge for garnish,wedge
+4259,156468,Caribbean Breeze,orange wedge for garnish,orange
 4260,254484,Spring Strawberry Soup,pints hulled strawberries,strawberries
 4261,254484,Spring Strawberry Soup,plain yogurt,yogurt
 4262,254484,Spring Strawberry Soup,freshly squeezed orange juice,orange
@@ -3995,9 +3617,7 @@
 4264,254484,Spring Strawberry Soup,simple syrup,syrup
 4265,254484,Spring Strawberry Soup,vanilla extract,vanilla
 4266,8891,Cindy's Tasty Wings,frozen chicken wings,chicken
-4267,8891,Cindy's Tasty Wings,apricot preserves,preserves
-4268,8891,Cindy's Tasty Wings,dry onion soup mix,mix
-4269,8891,Cindy's Tasty Wings,bottle Catalina salad dressing,bottle
+4269,8891,Cindy's Tasty Wings,bottle Catalina salad dressing,salad
 4270,23133,David's Secret Ingredient Chocolate Chip Cookies,crispy rice cereal,cereal
 4271,23133,David's Secret Ingredient Chocolate Chip Cookies,all-purpose flour,flour
 4272,23133,David's Secret Ingredient Chocolate Chip Cookies,baking soda,soda
@@ -4009,7 +3629,6 @@
 4278,23133,David's Secret Ingredient Chocolate Chip Cookies,vanilla extract,vanilla
 4279,23133,David's Secret Ingredient Chocolate Chip Cookies,semisweet chocolate chips,chips
 4280,88020,Fizzy Gelatin Salad,unsweetened applesauce,applesauce
-4281,88020,Fizzy Gelatin Salad,lime flavored Jell-O® mix,lime
 4282,88020,Fizzy Gelatin Salad,ginger ale,ale
 4283,9273,Fruitcake,packed brown sugar,sugar
 4284,9273,Fruitcake,all-purpose flour,flour
@@ -4030,9 +3649,7 @@
 4299,175600,Super Easy Scones,all-purpose flour,flour
 4300,175600,Super Easy Scones,light cream,cream
 4301,175600,Super Easy Scones,lemonade,lemonade
-4302,175600,Super Easy Scones,flour for dusting,flour
 4304,237216,'Meat's Too Expensive!' Vegetarian Burgers,dried lentils,lentils
-4305,237216,'Meat's Too Expensive!' Vegetarian Burgers,wheat germ,germ
 4306,237216,'Meat's Too Expensive!' Vegetarian Burgers,small onion,onion
 4307,237216,'Meat's Too Expensive!' Vegetarian Burgers,finely chopped green bell pepper,pepper
 4308,237216,'Meat's Too Expensive!' Vegetarian Burgers,shredded mozzarella cheese,cheese
@@ -4050,16 +3667,13 @@
 4320,46704,Texas Jambalaya,smoked sausage,sausage
 4321,46704,Texas Jambalaya,cooked ham cut into bite-size pieces,ham
 4322,46704,Texas Jambalaya,diced tomatoes with green chile peppers,tomatoes
-4323,46704,Texas Jambalaya,chicken broth,chicken
 4324,46704,Texas Jambalaya,dried thyme,thyme
 4325,46704,Texas Jambalaya,bay leaf,leaf
-4326,46704,Texas Jambalaya,ranch-style beans undrained,undrained
 4327,260312,Christmas Santa Cupcakes,unfrosted cupcakes cooled,cupcakes
-4328,260312,Christmas Santa Cupcakes,vanilla frosting,frosting
 4329,260312,Christmas Santa Cupcakes,red sprinkles,sprinkles
 4330,260312,Christmas Santa Cupcakes,white chocolate chips,chips
 4331,260312,Christmas Santa Cupcakes,mini chocolate chips,chips
-4332,260312,Christmas Santa Cupcakes,red candy-coated chocolate pieces (such as M&M's®),chocolate
+4332,260312,Christmas Santa Cupcakes,red candy-coated chocolate pieces (such as M&M's®),m&m's
 4333,260312,Christmas Santa Cupcakes,coconut flakes,flakes
 4334,131198,Tropical Shrimp Scampi,linguine pasta,pasta
 4335,131198,Tropical Shrimp Scampi,olive oil,oil
@@ -4076,19 +3690,17 @@
 4346,258160,Chinese Pork Meatballs,ground pork,pork
 4347,258160,Chinese Pork Meatballs,eggs,eggs
 4348,258160,Chinese Pork Meatballs,cornstarch,cornstarch
-4349,258160,Chinese Pork Meatballs,cornstarch divided,divided
 4350,258160,Chinese Pork Meatballs,spring onions,onions
 4351,258160,Chinese Pork Meatballs,inch thick) slice fresh ginger finely chopped,ginger
 4352,258160,Chinese Pork Meatballs,salt,salt
 4353,258160,Chinese Pork Meatballs,soy sauce,soy
 4354,258160,Chinese Pork Meatballs,vegetable oil,oil
-4355,258160,Chinese Pork Meatballs,chicken broth,chicken
-4356,258160,Chinese Pork Meatballs,water,water
 4357,235077,Mushroom and Bacon Green Beans,butter,butter
 4358,235077,Mushroom and Bacon Green Beans,sliced white mushrooms,mushrooms
 4359,235077,Mushroom and Bacon Green Beans,minced onion,onion
 4360,235077,Mushroom and Bacon Green Beans,minced garlic,garlic
 4361,235077,Mushroom and Bacon Green Beans,crumbled cooked bacon,bacon
+4362,235077,Mushroom and Bacon Green Beans,lemon-pepper seasoning,seasoning
 4363,235077,Mushroom and Bacon Green Beans,seasoned salt,salt
 4364,235077,Mushroom and Bacon Green Beans,frozen green beans,beans
 4365,29906,Sarah Contona's Sweet Potato Pie,crushed graham crackers,crackers
@@ -4128,26 +3740,17 @@
 4399,258556,Pressure Cooker Salsa Lime Chicken and Rice,salt,salt
 4400,258556,Pressure Cooker Salsa Lime Chicken and Rice,garlic salt,salt
 4401,258556,Pressure Cooker Salsa Lime Chicken and Rice,ground black pepper,pepper
-4402,258556,Pressure Cooker Salsa Lime Chicken and Rice,shredded Mexican cheese blend,cheese
 4403,258556,Pressure Cooker Salsa Lime Chicken and Rice,uncooked jasmine rice,rice
-4404,258556,Pressure Cooker Salsa Lime Chicken and Rice,water,water
 4405,239893,Cheesy Chicken and Potato Soup,onion,onion
 4406,239893,Cheesy Chicken and Potato Soup,bacon grease,grease
-4407,239893,Cheesy Chicken and Potato Soup,1-inch potato chunks,chunks
-4408,239893,Cheesy Chicken and Potato Soup,chicken broth,chicken
-4409,239893,Cheesy Chicken and Potato Soup,water,water
 4410,239893,Cheesy Chicken and Potato Soup,butter,butter
 4411,239893,Cheesy Chicken and Potato Soup,flour,flour
 4412,239893,Cheesy Chicken and Potato Soup,milk,milk
 4413,239893,Cheesy Chicken and Potato Soup,shredded Cheddar cheese,cheese
 4414,239893,Cheesy Chicken and Potato Soup,shredded cooked chicken,chicken
-4415,159524,Chicken with Wild Rice and Vegetables Casserole,cooking spray,spray
-4416,159524,Chicken with Wild Rice and Vegetables Casserole,boxes long grain and wild rice mix,mix
+4416,159524,Chicken with Wild Rice and Vegetables Casserole,boxes long grain and wild rice mix,rice
 4417,159524,Chicken with Wild Rice and Vegetables Casserole,olive oil,oil
-4418,159524,Chicken with Wild Rice and Vegetables Casserole,chicken broth,chicken
-4419,159524,Chicken with Wild Rice and Vegetables Casserole,water,water
 4420,159524,Chicken with Wild Rice and Vegetables Casserole,frozen California blend vegetables,vegetables
-4421,159524,Chicken with Wild Rice and Vegetables Casserole,frozen chicken tenders,tenders
 4422,159524,Chicken with Wild Rice and Vegetables Casserole,olive oil,oil
 4423,159524,Chicken with Wild Rice and Vegetables Casserole,salt and black pepper to taste,pepper
 4424,159524,Chicken with Wild Rice and Vegetables Casserole,paprika,paprika
@@ -4162,8 +3765,9 @@
 4434,150427,Hiyashi Chuka Noodles,ramen noodles,noodles
 4435,150427,Hiyashi Chuka Noodles,egg,egg
 4436,150427,Hiyashi Chuka Noodles,cucumber,cucumber
+4437,150427,Hiyashi Chuka Noodles,carrot,carrot
 4438,150427,Hiyashi Chuka Noodles,cooked ham cut into thin strips,ham
-4440,150427,Hiyashi Chuka Noodles,hot Chinese mustard (optional),chinese
+4440,150427,Hiyashi Chuka Noodles,hot Chinese mustard (optional),mustard
 4441,174836,Glazed Orange Spice Cookies,all-purpose flour,flour
 4443,174836,Glazed Orange Spice Cookies,ground nutmeg,nutmeg
 4444,174836,Glazed Orange Spice Cookies,ground cloves,cloves
@@ -4177,12 +3781,10 @@
 4453,174836,Glazed Orange Spice Cookies,orange marmalade,marmalade
 4454,174836,Glazed Orange Spice Cookies,orange juice,orange
 4455,174836,Glazed Orange Spice Cookies,sliced almonds for garnish (optional),almonds
-4456,150193,Garden Meatloaf,ground beef chuck,chuck
 4457,150193,Garden Meatloaf,chopped onion,onion
 4458,150193,Garden Meatloaf,brown sugar,sugar
 4459,150193,Garden Meatloaf,beaten egg,egg
 4460,150193,Garden Meatloaf,chunky salsa,salsa
-4461,150193,Garden Meatloaf,dry bread crumbs,crumbs
 4462,238919,Stacked Tomato and Burrata Salad,vine-ripened tomato,tomato
 4463,238919,Stacked Tomato and Burrata Salad,flaked sea salt and freshly ground black pepper to taste,pepper
 4464,238919,Stacked Tomato and Burrata Salad,burrata cheese,cheese
@@ -4195,8 +3797,6 @@
 4471,214706,Easy Green Chile Stew,large potatoes,potatoes
 4472,214706,Easy Green Chile Stew,chopped green chilies,chilies
 4473,214706,Easy Green Chile Stew,prepared green salsa,salsa
-4474,214706,Easy Green Chile Stew,canned diced tomatoes undrained,tomatoes
-4475,214706,Easy Green Chile Stew,water,water
 4476,10269,Shortbread Cookies II,butter,butter
 4477,10269,Shortbread Cookies II,white sugar,sugar
 4478,10269,Shortbread Cookies II,vanilla extract,vanilla
@@ -4208,7 +3808,7 @@
 4484,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,chopped fresh mint,mint
 4485,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,lemon juice,lemon
 4486,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,salt,salt
-4487,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,mixed baby salad greens,salad
+4487,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,mixed baby salad greens,greens
 4488,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,torn romaine lettuce,lettuce
 4489,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,diced mango,mango
 4490,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,roasted peanuts,peanuts
@@ -4218,4 +3818,3 @@
 4494,228981,Sashimi Tuna Salad With Mint Lime Cilantro Dressing,salt and ground black pepper to taste,pepper
 4496,24934,Whole Wheat Wraps,wheat flour,flour
 4497,24934,Whole Wheat Wraps,salt,salt
-4499,24934,Whole Wheat Wraps,warm water,water
