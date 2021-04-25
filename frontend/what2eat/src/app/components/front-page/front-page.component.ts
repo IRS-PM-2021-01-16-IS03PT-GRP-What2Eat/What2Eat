@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-front-page',
@@ -7,13 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FrontPageComponent implements OnInit {
 
-  constructor() { }
+  constructor(private route: Router) { }
 
   ngOnInit(): void {
   }
 
   getstarted(){
-    window.location.href = '/ratings';
+    this.route.navigate(['register']);  
   }
 
 }
