@@ -1,35 +1,39 @@
-# What2Eat
-Project for Food Mood Recommender
+# IRS-PM-2021-01-16-IS03PT-GRP-What2Eat
 
-## Django
-### django-rest main references
-https://www.metaltoad.com/blog/angular-api-calls-django-authentication-jwt <br>
+## SECTION 1 : PROJECT TITLE
+## What2Eat
 
-### register password
-https://github.com/egitimplus/medium/tree/part8 <br>
-https://medium.com/django-rest/django-rest-framework-login-and-register-user-fd91cf6029d5 <br>
+---
 
-### model migration
-`python manage.py makemigrations what2eat` <br>
-`python manage.py migrate what2eat` <br>
-
-### install
-`pip install -r requirements.txt` <br>
-
-### running
-`python manage.py runserver` <br>
-
-## Angular
-
-### install
-`npm install` <br>
-
-### running
-`ng serve` <br>
+## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
 
+---
+
+## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+
+| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
+| :------------ |:---------------:| :-----| :-----|
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 
+---
+
+## SECTION 5 : USER GUIDE
 
 
+---
 
+## SECTION 6 : PROJECT REPORT / PAPER
+---
+
+## SECTION 7 : MISCELLANEOUS
+
+
+---
