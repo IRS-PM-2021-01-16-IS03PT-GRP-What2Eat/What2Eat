@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { UserService } from '../../services/user.service';
 import {FormBuilder, FormGroup, Validators} from '@angular/forms';
 import { FoodService } from '../../services/food.service';
-import { Register } from 'src/interface';
+import { Register, FoodRating, FoodWithRating } from 'src/interface';
 
 
 @Component({
@@ -12,11 +12,12 @@ import { Register } from 'src/interface';
 })
 export class RegisterComponent implements OnInit {
 
-  public foodinformation : any;
+  public foodinformation : any ;
   isLinear = true;
   registrationFormGroup1!: FormGroup ;
   registrationFormGroup2!: FormGroup ;
   starRating = 0; 
+  public ratingList: FoodRating[] = [];
 
   
 
@@ -39,17 +40,33 @@ export class RegisterComponent implements OnInit {
   register() {
     // submit user for registration
     console.log(this.registrationFormGroup1.value);
-    this._userService.register(JSON.stringify(this.registrationFormGroup1.value));
+  //  this._userService.register(JSON.stringify(this.registrationFormGroup1.value));
     // save the user initial rating
+    console.log(this.foodinformation.results);
+    this.submitInitialFoodRating();
   }
 
   submitInitialFoodRating(){
-    console.log(this.foodinformation);
     const registerInfo: Register = {
-      username: this.registrationFormGroup1.get('username') as unknown as string,
-      password: this.registrationFormGroup1.get('password') as unknown as string,
-      foodRatingList: this.foodinformation
+      username: this.registrationFormGroup1.controls.username.value,
+      password: this.registrationFormGroup1.controls.password.value,
+      foodRatingList: this.populateFoodRating()
     }
+    console.log(registerInfo);
+    this._foodService.submitInitialFoodRating(JSON.stringify(registerInfo));
+  }
+  populateFoodRating() {
+    
+    for (let i = 0; i< this.foodinformation.results.length; i++){
+      let rate: FoodRating = {
+        id: this.foodinformation.results[i].id,
+        rating: this.foodinformation.results[i].rating
+      };
+      console.log(rate)
+      this.ratingList.push(rate);
+    }
+    console.log(this.ratingList)
+    return this.ratingList;
   }
 
   getFoodList() {

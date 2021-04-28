@@ -10,9 +10,12 @@ class Food(models.Model):
     thumbnail = models.CharField(max_length=100,blank=False, default='')
 
 class FoodRatings(models.Model):
-    userid = models.IntegerField(blank=False, default=0)
-    fooditem = models.ForeignKey(Food, on_delete=models.CASCADE)
+    username = models.CharField(blank=False, max_length=150)
+    fooditem_id = models.IntegerField(blank=False, default=0)
     ratings = models.IntegerField(blank=False, default=0)
+
+    def __str__(self):
+        return self.username
 
 class Registration(models.Model):
     userid = models.IntegerField(blank=False, default=0)

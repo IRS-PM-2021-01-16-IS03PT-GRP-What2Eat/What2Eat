@@ -50,3 +50,8 @@ class FoodRatingSerializer(serializers.ModelSerializer):
         )
         foodratings.save()
         return foodratings
+
+class FoodRatingSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Food
+        fields = ['id', 'title', 'description', 'ingredients', 'link', 'methods', 'thumbnail' ]

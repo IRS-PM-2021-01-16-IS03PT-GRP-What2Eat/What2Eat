@@ -25,10 +25,15 @@ export interface Food {
     rating: number
   }
 
+  export interface FoodRating {
+    id: string, 
+    rating: number
+  }
+
   export interface Register {
     username: string, 
     password: string, 
-    foodRatingList: Array<FoodWithRating>
+    foodRatingList: Array<FoodRating>
   }
   
   

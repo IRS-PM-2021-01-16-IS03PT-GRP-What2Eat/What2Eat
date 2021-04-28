@@ -111,5 +111,6 @@ export class UserService {
   private updateRegisterData(data : any) {
     this.username = data['username'];
   }
+
 }
 

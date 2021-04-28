@@ -10,7 +10,12 @@ import { map } from 'rxjs/operators';
 
 export class FoodService {
 
-  constructor(private http: HttpClient) { }
+  private httpOptions: any;
+  constructor(private http: HttpClient) { 
+    this.httpOptions = {
+      headers: new HttpHeaders({'Content-Type': 'application/json'})
+    };
+  }
 
   // Uses http.get() to load data from a single API endpoint
   list(): Observable<Food[]> {
@@ -45,5 +50,25 @@ export class FoodService {
       })
     };
     return this.http.post('/api/dailyRecommend/', JSON.stringify({"choice":choice}), httpOptions);
+  }
+
+  submitInitialFoodRating(ratings: string){
+    console.log("save initial rating")
+    this.http.post('/api/register/saveInitialRating/', ratings, this.httpOptions).subscribe(
+      data => {
+      //  this.updateRegisterData(data)
+      },
+      err => {
+     //   this.errors = err['error'];
+      }
+    );
+    // let httpOptions = {
+    //   headers: new HttpHeaders({
+    //     'Content-Type': 'application/json',
+    //     //  'Authorization': 'Bearer ' + localStorage.getItem('access')   
+    //   })
+    // };
+    console.log("here")
+    // return this.http.post('api/register/saveInitialRating/', ratings, httpOptions);
   }
 }
