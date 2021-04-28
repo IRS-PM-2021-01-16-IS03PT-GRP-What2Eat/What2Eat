@@ -75,7 +75,8 @@
           },
           "configurations": {
             "production": {
-              "browserTarget": "what2eat:build:production"
+              "browserTarget": "what2eat:build:production",
+              "proxyConfig": "src/proxy-prod.conf.json"
             }
           }
         },

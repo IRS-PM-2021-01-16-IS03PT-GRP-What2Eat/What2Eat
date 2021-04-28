@@ -8,7 +8,7 @@ healthy = []
 
 carnivorous = []
 
-extravagant = []
+
 
 scorching = []
 
