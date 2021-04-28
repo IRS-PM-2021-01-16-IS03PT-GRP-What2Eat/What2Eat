@@ -100,13 +100,22 @@ def saveInitialRating (request):
      #   print(choice)
         # TO-DO to call recommendation method
         # below just temporary
-        ingredient_row_total = Food.objects.all().count()
-        random_list_of_6 = random.sample(range(1, ingredient_row_total + 1), 6)
-        queryResult = Food.objects.all().filter(pk__in=random_list_of_6)
-        print("after query")
-        print(queryResult)
-        resultSerializer = FoodSerializer(queryResult, many=True)
-        return JsonResponse(resultSerializer.data, safe=False)
+        # ingredient_row_total = Food.objects.all().count()
+        # random_list_of_6 = random.sample(range(1, ingredient_row_total + 1), 6)
+        # queryResult = Food.objects.all().filter(pk__in=random_list_of_6)
+        # print("after query")
+        # print(queryResult)
+        # resultSerializer = FoodSerializer(queryResult, many=True)
+        # return JsonResponse(resultSerializer.data, safe=False)
+
+@api_view(['POST'])
+def rateADish (request):
+    if request.method == 'POST':
+        print("inside registration post")
+        #print(request.data)
+        ratingJsonlist = request.data.get("rates")
+        print(ratingJsonlist)
+        #to do to call rules
 
 
 # @csrf_exempt

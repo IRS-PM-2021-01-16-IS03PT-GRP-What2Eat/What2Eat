@@ -18,6 +18,7 @@ urlpatterns = [
     path('api/register/initialFoodRating/',InitialFoodRatingListView.as_view()),
     path('api/dailyRecommend/',views.recommendList),
     path('api/register/saveInitialRating/',views.saveInitialRating),
+    path('api/rateADish/',views.rateADish),
     path('', include(router.urls))
 ]
 

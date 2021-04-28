@@ -11,6 +11,8 @@ import { map } from 'rxjs/operators';
 export class FoodService {
 
   private httpOptions: any;
+  recommendedDish:Food[] = [];
+  selectedDish:any;
   constructor(private http: HttpClient) { 
     this.httpOptions = {
       headers: new HttpHeaders({'Content-Type': 'application/json'})
@@ -70,5 +72,10 @@ export class FoodService {
     // };
     console.log("here")
     // return this.http.post('api/register/saveInitialRating/', ratings, httpOptions);
+  }
+
+  submitFoodRating(ratings: string): Observable<any>{
+    console.log(ratings)
+    return this.http.post('/api/rateADish/', ratings, this.httpOptions)
   }
 }

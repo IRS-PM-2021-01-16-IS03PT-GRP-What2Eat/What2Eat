@@ -26,6 +26,8 @@ export class DailyRecommendComponent implements OnInit {
       data => {
         console.log()
         this.foodlist = data;
+        // store the recommand list to food service
+        this._foodService.recommendedDish = this.foodlist;
         this.router.navigate(["/recommendationList"],{state: {foodData: this.foodlist}});
       }
     );

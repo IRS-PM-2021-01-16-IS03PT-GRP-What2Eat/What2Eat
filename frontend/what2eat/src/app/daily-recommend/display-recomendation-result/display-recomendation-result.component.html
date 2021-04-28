@@ -4,7 +4,7 @@
     <div *ngFor="let foodpiece of foodList">
       <div class="row mb-3">
         <div class="col-md-2 mb-1">{{ foodpiece.title }}</div><br>
-        <img [src] = "foodpiece.thumbnail">
+        <img [src] = "foodpiece.thumbnail" (click)="goToDishPage(foodpiece)">
       </div>
     </div> 
 </div>

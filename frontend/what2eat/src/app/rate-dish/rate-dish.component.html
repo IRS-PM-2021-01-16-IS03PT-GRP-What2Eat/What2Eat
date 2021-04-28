@@ -1,0 +1,29 @@
+<div class="container">
+    <div class="center">
+        <h1>Help us improve!</h1>
+        <p>How was your meal?</p>
+    </div>
+    <div class="row">
+        <div class="col align-self-center">
+            <p>{{food.title}}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col align-self-center">
+            <img [src]="food.thumbnail" class="center">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col align-self-center">
+            <br>
+            <br>
+            <ngb-rating [max]="5" [(rate)]="rating" [readonly]="false" [resettable]="true"></ngb-rating>
+            <br>
+            <br>
+        </div>
+    </div>
+    <div class="row">
+        <button class="button1" (click)="submitRating()">Submit Your Rating</button>
+    </div>
+</div>
+

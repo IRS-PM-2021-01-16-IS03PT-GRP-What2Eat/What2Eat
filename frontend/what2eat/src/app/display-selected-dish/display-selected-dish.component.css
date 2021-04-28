@@ -1,0 +1,64 @@
+hr.dotted {
+    border-top: 3px dotted #bbb;
+}
+.container{  
+    text-align: center;  
+    padding-top: 100px;  
+}  
+
+.button1 {
+    background-color: #12BFD7; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 12px;
+    width: 60%;
+}
+
+img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    text-align: center;
+    /* border: 3px solid green; */
+}
+
+.button4 {
+    background-color: #12BFD7; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 12px;
+    width: 30%;
+    position: relative;
+    right: 15px;
+}
+.button5 {
+    background-color: #12BFD7; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 12px;
+    width: 30%;
+    position: relative;
+    left: 380px;
+}
+hr2 {
+    border-top: 1px solid red;
+}

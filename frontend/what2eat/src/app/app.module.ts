@@ -21,6 +21,8 @@ import {MatListModule} from '@angular/material/list';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { DailyRecommendComponent } from './daily-recommend/daily-recommend.component';
 import { DisplayRecomendationResultComponent } from './daily-recommend/display-recomendation-result/display-recomendation-result.component';
+import { DisplaySelectedDishComponent } from './display-selected-dish/display-selected-dish.component';
+import { RateDishComponent } from './rate-dish/rate-dish.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +33,9 @@ import { DisplayRecomendationResultComponent } from './daily-recommend/display-r
     RegisterComponent,
     RatingsComponent,
     DailyRecommendComponent,
-    DisplayRecomendationResultComponent
+    DisplayRecomendationResultComponent,
+    DisplaySelectedDishComponent,
+    RateDishComponent
   ],
   imports: [
     BrowserModule,
