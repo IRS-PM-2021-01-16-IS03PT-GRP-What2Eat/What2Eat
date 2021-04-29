@@ -2,45 +2,41 @@ import rules
 import pandas as pd
 from scipy.spatial.distance import cosine
 from recommender import filter_recipe,ingredient_recommender
+from update_ratings import update_ratings
 
+#Standard Files
 df = pd.read_csv('category_rules.csv')
-raw_df = pd.read_csv('raw-data_recipe.csv')
-
-rating = 3
+raw_df = pd.read_csv('recipe_ingredient_availability.csv',index_col=0)
 
 
-healthy = []
 
-carnivorous = []
-
-extravagant = []
-
-scorching = []
-
-rainy = []
+#Parse Rating List
+rating = pd.read_csv('ratings.csv',index_col=(0))
 
 
-def recipe_rule():
+
+def recipe_rule(df):
         
-    x = input('Please Select Category\ne.g.Healthy: 1\nCarnivours: 2\nScorching: 3\nRainy: 4\nSurprise Me: 5\n')
-    x = int(x)
-    if (x == 1):
+    x = input('Please select Category\n')
+    selection = []
+    
+    if (x == '1'):
         
         selection = rules.is_healthy(df)
         
-    elif (x == 2):
+    elif (x == '2'):
        
         selection =  rules.is_carnivorous(df)
         
-    elif (x == 3):
+    elif (x == '3'):
         
         selection = rules.is_scorching(df)
         
-    elif (x == 4):
+    elif (x == '4'):
         
         selection = rules.is_rainy(df)
         
-    elif (x == 5):
+    elif (x == '5'):
         selection = rules.is_surprise(df)
         
     else:
@@ -50,9 +46,10 @@ def recipe_rule():
 
 
 def main():
-    recipe = recipe_rule()
-    df_normalize = filter_recipe(raw_df, rating, recipe)
-    recommended_recipes = ingredient_recommender(df_normalize,cosine, '10001', 3)
+    recipe = recipe_rule(df)
+    update_df,user_rating = update_ratings(raw_df,rating)
+    df_normalize = filter_recipe(update_df,user_rating,recipe)
+    recommended_recipes = ingredient_recommender(df_normalize,cosine, '10001', 6)
     return print(recommended_recipes)
     
 main()

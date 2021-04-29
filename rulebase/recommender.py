@@ -4,23 +4,14 @@ from sklearn.preprocessing import normalize
 
 
 
-#Data used for testing
-# df= pd.read_csv('raw-data_recipe.csv')
-# rating = 3
-# recipe_list = [6742, 6773, 6791, 6962, 7562, 7820]
+
 
 #Insert User Rating as 10001 as recipe_id and input ratings
-def filter_recipe(df,rating,recipe_list):
+def filter_recipe(df,user_rating,recipe_list):
     
-    df = df[df['recipe_id'].isin(recipe_list)]
-    df = df.drop(columns=['recipe_name'])
-    df = df.drop("Unnamed: 0",axis=1)
-    user_row = ({'recipe_id':'10001'})
-    df = df.append(user_row,ignore_index=True)
-    df.index = df['recipe_id']
-    df = pd.DataFrame(df.drop(columns=['recipe_id']))
+    df = df[df.index.isin(recipe_list)]
     
-    df.loc['10001',df.columns!='recipe_id'] = 3
+    df = df.append(user_rating)
     df = df.apply(pd.to_numeric)
     df_normalized = pd.DataFrame(normalize(df, axis=0))
     df_normalized.columns = df.columns

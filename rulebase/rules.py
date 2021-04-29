@@ -8,8 +8,6 @@ healthy = []
 
 carnivorous = []
 
-
-
 scorching = []
 
 rainy = []
