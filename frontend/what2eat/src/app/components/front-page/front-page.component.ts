@@ -13,13 +13,10 @@ export class FrontPageComponent implements OnInit {
   constructor(private route: Router) { }
 
   ngOnInit(): void {
-    if(localStorage.getItem('username')&& localStorage.getItem('access')){
-      this.username = localStorage.getItem('username');
-    }
   }
 
   getstarted(){
-    if(this.username){
+    if(localStorage.getItem('username')&& localStorage.getItem('access')){
       this.route.navigate(['howDoYouFeelToday']);  
     }
     else{
