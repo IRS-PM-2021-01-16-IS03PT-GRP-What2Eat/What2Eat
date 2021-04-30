@@ -7,13 +7,11 @@ import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';  
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';   
 import { UserService } from './services/user.service';
-import { FoodInformationComponent } from './components/food-information/food-information.component';
 import { FrontPageComponent } from './components/front-page/front-page.component';
 import { LoginComponent } from './components/login/login.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';  
 import { MaterialModule } from './materials/material-module';
 import { RegisterComponent } from './components/register/register.component';
-import { RatingsComponent } from './components/ratings/ratings.component';
 import {MatStepperModule} from '@angular/material/stepper';
 import {MatInputModule} from '@angular/material/input';
 import {MatButtonModule} from '@angular/material/button';
@@ -27,11 +25,9 @@ import { RateDishComponent } from './rate-dish/rate-dish.component';
 @NgModule({
   declarations: [
     AppComponent,
-    FoodInformationComponent,
     FrontPageComponent,
     LoginComponent,
     RegisterComponent,
-    RatingsComponent,
     DailyRecommendComponent,
     DisplayRecomendationResultComponent,
     DisplaySelectedDishComponent,

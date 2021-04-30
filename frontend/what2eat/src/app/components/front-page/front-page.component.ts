@@ -8,13 +8,24 @@ import { Router } from '@angular/router';
 })
 export class FrontPageComponent implements OnInit {
 
+  public username: any = "";
+
   constructor(private route: Router) { }
 
   ngOnInit(): void {
+    if(localStorage.getItem('username')&& localStorage.getItem('access')){
+      this.username = localStorage.getItem('username');
+    }
   }
 
   getstarted(){
-    this.route.navigate(['register']);  
+    if(this.username){
+      this.route.navigate(['howDoYouFeelToday']);  
+    }
+    else{
+      this.route.navigate(['register']);  
+    }
+   
   }
 
 }
