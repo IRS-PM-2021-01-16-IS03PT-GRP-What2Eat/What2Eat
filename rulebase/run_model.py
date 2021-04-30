@@ -10,14 +10,14 @@ raw_df = pd.read_csv('recipe_ingredient_availability.csv',index_col=0)
 
 
 
-#Parse Rating List
-rating = pd.read_csv('ratings.csv',index_col=(0))
+# Parse Rating List, used for testing
+rating = pd.read_csv('ratings.csv',index_col=(0)) #To be replaced with ratings input
 
 
 
-def recipe_rule(df):
+def recipe_rule(df,choice):
         
-    x = input('Please select Category\n')
+    x = input(choice)
     selection = []
     
     if (x == '1'):
@@ -46,7 +46,7 @@ def recipe_rule(df):
 
 
 def main():
-    recipe = recipe_rule(df)
+    recipe = recipe_rule(df,choice)
     update_df,user_rating = update_ratings(raw_df,rating)
     df_normalize = filter_recipe(update_df,user_rating,recipe)
     recommended_recipes = ingredient_recommender(df_normalize,cosine, '10001', 6)
