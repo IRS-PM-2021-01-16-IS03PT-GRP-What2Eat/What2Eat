@@ -13,6 +13,7 @@ from .models import Food, FoodRatings
 from django.views.decorators.csrf import csrf_exempt
 import random
 import json
+from .service import (what2EatService)
 
 class UserViewSet(viewsets.ModelViewSet):
     """
@@ -62,14 +63,16 @@ class RecommendListView(generics.ListAPIView):
     serializer_class = FoodSerializer
     permission_classes = []
 
+
 @api_view(['POST'])
 def recommendList (request):
     if request.method == 'POST':
         print("inside post")
-        print(request.data)
         choice = request.data.get("choice")
         print(choice)
         # TO-DO to call recommendation method
+        service = what2EatService()
+        service.getRecommendationList(choice)
         # below just temporary
         ingredient_row_total = Food.objects.all().count()
         random_list_of_6 = random.sample(range(1, ingredient_row_total + 1), 6)
@@ -89,12 +92,15 @@ def saveInitialRating (request):
         ratingJsonlist = request.data.get("foodRatingList")
         ratingStoreList = []
         print(ratingJsonlist)
+        service = what2EatService()
         for i in ratingJsonlist:
             rate = FoodRatings(username = uname, fooditem_id=i.get("id"), ratings=i.get("rating"))
             ratingStoreList.append(rate)
+            service.saveCutomerRating(json.dumps({'recipe_id' : i.get("id"), 'rating': i.get("rating")}))
         print (ratingStoreList)
         #store into db
         FoodRatings.objects.bulk_create(ratingStoreList)
+        return JsonResponse(data = "success", status=200)
         # print(x)
        # registrationDataSet = request.data.get("choice")
      #   print(choice)
