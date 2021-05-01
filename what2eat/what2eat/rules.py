@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
 
-#df = pd.read_csv('rulesFile/category_rules.csv')
+# df = pd.read_csv(r'category_rules.csv')
 
 healthy = []
 
@@ -33,7 +33,7 @@ def is_carnivorous(df):
 
 def is_scorching(df):
     for i in range(len(df['recipe_id'])):
-        if ((df['veg'][i]>3)or(df['dairy'][i]>1)):
+        if ((df['saucy'][i]==0)):
             scorching.append(df['recipe_id'][i])
         else:
             continue
@@ -43,7 +43,7 @@ def is_scorching(df):
 
 def is_rainy(df):
     for i in range(len(df['recipe_id'])):
-        if ((df['carbs'][i]>2)or(df['veg'][i]>2)):
+        if ((df['saucy'][i]>1)):
             rainy.append(df['recipe_id'][i])
         else:
             continue
