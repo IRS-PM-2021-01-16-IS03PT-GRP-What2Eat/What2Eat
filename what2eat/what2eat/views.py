@@ -96,7 +96,7 @@ def saveInitialRating (request):
         for i in ratingJsonlist:
             rate = FoodRatings(username = uname, fooditem_id=i.get("id"), ratings=i.get("rating"))
             ratingStoreList.append(rate)
-            # service.saveCutomerRating(json.dumps({'recipe_id' : i.get("id"), 'rating': i.get("rating")}))
+            service.saveCutomerRating(json.dumps({'recipe_id' : i.get("id"), 'rating': i.get("rating")}))
         print (ratingStoreList)
         #store into db
         FoodRatings.objects.bulk_create(ratingStoreList)
