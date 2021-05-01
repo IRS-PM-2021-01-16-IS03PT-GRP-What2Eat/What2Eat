@@ -64,4 +64,5 @@ class runModel:
 
     def saveCustomerRating(self, rating):
         print ("inside saveCustomerRating")
+        update_ratings(df, rating)
         print(rating);
