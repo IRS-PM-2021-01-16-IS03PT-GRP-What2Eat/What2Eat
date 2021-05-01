@@ -1,6 +1,6 @@
 <div class="container">
     <div class="p-5 text-center bg-light">
-        <h1 class="mb-5">{{food.title}}</h1>
+        <h1 class="mb-5">{{food.recipe_name}}</h1>
         <hr class="dotted">
         <!-- <h4 class="mb-3">Subheading</h4>
         <a class="btn btn-primary" href="" role="button">Call to action</a> -->
@@ -8,7 +8,7 @@
 
     <div class = "row">
         <div class="col-md-6">
-            <img [src] = "food.thumbnail" class="center" >
+            <img [src] = "food.image_url" class="center" >
         </div>
         <div class="col-md-6" text-align="center">
             <button class="button1" (click)="showDetails(1)">Recipe</button><br><br>
@@ -20,7 +20,7 @@
     <div class = "row">
         <hr class="hr2" *ngIf="showRecipe || showInstruction">
         <p class="font-weight-light" *ngIf="showRecipe">{{food.ingredients}}</p>
-        <p class="font-weight-light" *ngIf="showInstruction">steps</p>
+        <p class="font-weight-light" *ngIf="showInstruction">{{food.methods}}</p>
         
     </div>
     <div class = "row">

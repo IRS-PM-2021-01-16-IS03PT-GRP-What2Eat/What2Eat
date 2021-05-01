@@ -1,5 +1,5 @@
 .bg {
-    background-image: url("/assets/images/Background.jpg");
+    /* background-image: url("/assets/images/Background.jpg"); */
 
     /* Full height */
     height: 100%;
@@ -8,6 +8,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: hsl(0, 0%, 90%);
 }
 
 .caption {
@@ -25,6 +26,49 @@
     padding: 18px;
     font-size: 25px;
     letter-spacing: 10px;
+}
+
+.header{
+    font-family: Poppins;
+    font-style: SemiBold;
+    font-size: 144px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    color: #12BFD7;
+}
+
+.slogen{
+    font-family: Poppins;
+    font-style: Italic;
+    font-size: 48px;
+    text-align: center;
+    /* margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px; */
+    color: #12BFD7;
+}
+
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
+
+.button1 {
+    background-color: #12BFD7; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 12px;
+    width: 30%;
 }
 
 

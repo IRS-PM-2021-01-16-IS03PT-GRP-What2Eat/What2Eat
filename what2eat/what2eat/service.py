@@ -9,7 +9,8 @@ class what2EatService:
     def getRecommendationList(self, choice):
         print("called getRecommendationList")
         modelService = runModel()
-        modelService.getRecommendedRecipes(choice)
+        recommended_recipes = modelService.getRecommendedRecipes(choice)
+        return recommended_recipes
 
 
 

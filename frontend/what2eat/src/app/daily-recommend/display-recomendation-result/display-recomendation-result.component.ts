@@ -30,11 +30,11 @@ export class DisplayRecomendationResultComponent implements OnInit {
     console.log("print no on init")
     this.foodList = this._foodService.recommendedDish;
     console.log(this.foodList)
-    for (let foodpiece of this.foodList) {
-      if (!foodpiece.thumbnail.includes('./assets/images/')){
-        foodpiece.thumbnail = './assets/images/'+foodpiece.thumbnail+'.jpg'
-      }
-    }
+    // for (let foodpiece of this.foodList) {
+    //   if (!foodpiece.thumbnail.includes('./assets/images/')){
+    //     foodpiece.thumbnail = './assets/images/'+foodpiece.thumbnail+'.jpg'
+    //   }
+    // }
   }
 
   goToDishPage(food: Food ){

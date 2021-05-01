@@ -77,6 +77,7 @@ export class UserService {
      localStorage.setItem('access', this.token);
      localStorage.setItem('refresh', this.refreshtoken);
      localStorage.setItem('username', JSON.parse(user).username);
+     this.username = this.username;
      this.errors = [];
      // decode the token to read the username and expiration timestamp
      const token_parts = this.token.split(/\./);

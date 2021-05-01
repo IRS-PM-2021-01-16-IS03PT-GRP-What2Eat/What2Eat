@@ -43,7 +43,7 @@ img {
     border-radius: 12px;
     width: 30%;
     position: relative;
-    right: 15px;
+    right: 200px;
 }
 .button5 {
     background-color: #12BFD7; /* Green */
@@ -57,8 +57,12 @@ img {
     border-radius: 12px;
     width: 30%;
     position: relative;
-    left: 380px;
+    left: 200px;
 }
 hr2 {
     border-top: 1px solid red;
+}
+
+p {
+    font-size: 25px;
 }

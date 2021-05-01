@@ -1,12 +1,14 @@
 h1 {
     text-align:center;
+    color: #12BFD7;
+    font-size: 50px;
 }
 hr.dotted {
     border-top: 3px dotted #bbb;
 }
 
 .button1 {
-    background-color: #4e4caf; /* Green */
+    background-color: #12BFD7; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -42,3 +44,9 @@ hr.dotted {
     border-radius: 12px;
     width: 100%;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }

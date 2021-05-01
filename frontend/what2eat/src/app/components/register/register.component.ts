@@ -40,7 +40,7 @@ export class RegisterComponent implements OnInit {
   register() {
     // submit user for registration
     console.log(this.registrationFormGroup1.value);
-  //  this._userService.register(JSON.stringify(this.registrationFormGroup1.value));
+    this._userService.register(JSON.stringify(this.registrationFormGroup1.value));
     // save the user initial rating
     console.log(this.foodinformation.results);
     this.submitInitialFoodRating();
@@ -59,7 +59,7 @@ export class RegisterComponent implements OnInit {
     
     for (let i = 0; i< this.foodinformation.results.length; i++){
       let rate: FoodRating = {
-        id: this.foodinformation.results[i].id,
+        id: this.foodinformation.results[i].recipe_id,
         rating: this.foodinformation.results[i].rating
       };
       console.log(rate)
@@ -74,11 +74,11 @@ export class RegisterComponent implements OnInit {
       // the first argument is a function which runs on success
       data => {
         this.foodinformation = data;
-        for (let foodpiece of this.foodinformation.results) {
-          console.log(foodpiece);
-          foodpiece.thumbnail = './assets/images/'+foodpiece.thumbnail+'.jpg'
-          foodpiece.rating = 0
-        }
+        // for (let foodpiece of this.foodinformation.results) {
+        //   console.log(foodpiece);
+        //   foodpiece.thumbnail = './assets/images/'+foodpiece.thumbnail+'.jpg'
+        //   foodpiece.rating = 0
+        // }
       },
       // the second argument is a function which runs on error
       err => console.error(err),

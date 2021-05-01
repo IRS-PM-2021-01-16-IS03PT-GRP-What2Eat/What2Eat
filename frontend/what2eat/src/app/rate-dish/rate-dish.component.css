@@ -32,3 +32,13 @@ ngb-rating {
     font-size: 40px;
     color: #FFC107;
 }
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    text-align:center;
+    color: #12BFD7;
+    font-size: 30px;
+}

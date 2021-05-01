@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { Food, FoodRating} from 'src/interface';
+import { Food, FoodRating, SubmitFoodRating} from 'src/interface';
 import { FoodService } from '../services/food.service';
-
+import { UserService } from '../services/user.service';
 @Component({
   selector: 'app-rate-dish',
   templateUrl: './rate-dish.component.html',
@@ -15,6 +15,7 @@ export class RateDishComponent implements OnInit {
   constructor(
     private router: Router,
     private _foodService: FoodService,
+    private _userService: UserService
   ) { }
 
   ngOnInit(): void {
@@ -23,12 +24,15 @@ export class RateDishComponent implements OnInit {
   }
 
   submitRating(): void {
-    const rates: FoodRating = {
-      id: this.food.id,
+    const rates: SubmitFoodRating = {
+      username: this._userService.username,
+      id: this.food.recipe_id,
       rating: this.rating
     }
     this._foodService.submitFoodRating(JSON.stringify(rates));
+  }
 
+  directToDailyRecommendPage(){
     //navigate to daily recommend
     this.router.navigate(["/howDoYouFeelToday"]);
   }

@@ -36,8 +36,8 @@ class GroupViewSet(viewsets.ModelViewSet):
 class InitialFoodRatingListView(generics.ListAPIView):
     def get_queryset(self):
         ingredient_row_total = Food.objects.all().count()
-        random_list_of_6 = random.sample(range(1,ingredient_row_total+1), 6)
-        return Food.objects.all().filter(pk__in=random_list_of_6)
+        slice = random.random() * (ingredient_row_total - 6)
+        return Food.objects.all()[slice: slice + 6]
 
     queryset = get_queryset
     serializer_class = FoodSerializer
@@ -72,20 +72,20 @@ def recommendList (request):
         print(choice)
         # TO-DO to call recommendation method
         service = what2EatService()
-        service.getRecommendationList(choice)
+    #    recommended_recipes = service.getRecommendationList(choice)
         # below just temporary
         ingredient_row_total = Food.objects.all().count()
-        random_list_of_6 = random.sample(range(1, ingredient_row_total + 1), 6)
-        queryResult = Food.objects.all().filter(pk__in=random_list_of_6)
+        slice = random.random() * (ingredient_row_total - 6)
+        queryResult = Food.objects.all()[slice: slice + 6]
         print("after query")
-        print(queryResult)
+        #print(queryResult)
         resultSerializer = FoodSerializer(queryResult, many=True)
         return JsonResponse(resultSerializer.data, safe=False)
 
 @api_view(['POST'])
 def saveInitialRating (request):
     if request.method == 'POST':
-        print("inside registration post")
+        print("inside saveInitialRating post")
         #print(request.data)
 
         uname = request.data.get("username")
@@ -96,11 +96,11 @@ def saveInitialRating (request):
         for i in ratingJsonlist:
             rate = FoodRatings(username = uname, fooditem_id=i.get("id"), ratings=i.get("rating"))
             ratingStoreList.append(rate)
-            service.saveCutomerRating(json.dumps({'recipe_id' : i.get("id"), 'rating': i.get("rating")}))
+            #service.saveCutomerRating(json.dumps({'recipe_id' : i.get("id"), 'rating': i.get("rating")}))
         print (ratingStoreList)
         #store into db
         FoodRatings.objects.bulk_create(ratingStoreList)
-        return JsonResponse(data = "success", status=200)
+        return JsonResponse(data = "Success", status=200, safe=False)
         # print(x)
        # registrationDataSet = request.data.get("choice")
      #   print(choice)
@@ -117,10 +117,14 @@ def saveInitialRating (request):
 @api_view(['POST'])
 def rateADish (request):
     if request.method == 'POST':
-        print("inside registration post")
-        #print(request.data)
+        print("inside rateADish post")
+        print(request.data)
         ratingJsonlist = request.data.get("rates")
-        print(ratingJsonlist)
+        rate = FoodRatings(username=ratingJsonlist.get("username"), fooditem_id=ratingJsonlist.get("id"), ratings=ratingJsonlist.get("rating"))
+        print(rate)
+        FoodRatings.save(rate)
+        service = what2EatService()
+        service.saveCutomerRating(json.dumps({'recipe_id': ratingJsonlist.get("id"), 'rating': ratingJsonlist.get("rating")}))
         #to do to call rules
 
 

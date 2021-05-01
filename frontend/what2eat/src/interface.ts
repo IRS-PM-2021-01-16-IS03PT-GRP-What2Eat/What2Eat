@@ -5,27 +5,29 @@
 //   }
 
 export interface Food {
-    id: string, 
-    title: string, 
-    description: string, 
+    recipe_id: string, 
+    recipe_name: string, 
     ingredients: string,
-    link: string,
-    method: string,
-    thumbnail: string
+    image_url: string,
+    methods: string,
   }
 
   export interface FoodWithRating {
-    id: string, 
-    title: string, 
-    description: string, 
+    recipe_id: string, 
+    recipe_name: string, 
     ingredients: string,
-    link: string,
-    method: string,
-    thumbnail: string,
+    image_url: string,
+    methods: string,
     rating: number
   }
 
   export interface FoodRating {
+    id: string, 
+    rating: number
+  }
+
+  export interface SubmitFoodRating {
+    username: string,
     id: string, 
     rating: number
   }

@@ -1,11 +1,42 @@
 <div class='center'>
-    <p>Dishes we think you would be interested in!</p>
-    <hr class="dotted">
-    <div *ngFor="let foodpiece of foodList">
-      <div class="row mb-3">
-        <div class="col-md-2 mb-1">{{ foodpiece.title }}</div><br>
-        <img [src] = "foodpiece.thumbnail" (click)="goToDishPage(foodpiece)">
+  <br>
+  <br>
+  <h1>Dishes we think you would be interested in!</h1>
+  <hr class="dotted">
+  <div class="container">
+    <!-- <div *ngFor="let foodpiece of foodList">
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-4"><img [src]="foodpiece.image_url" (click)="goToDishPage(foodpiece)"></div>
+        <div class="col-md-3">{{ foodpiece.recipe_name }}</div>
+        <div class="col-md-2"></div>
+        
       </div>
-    </div> 
-</div>
+    </div> -->
+    <div *ngFor="let foodpiece of foodList; let i = index">
+      <div *ngIf="i % 3 == 0" class="row">
 
+        <div class="col-md-4">
+          <br>
+          <img [src]="foodpiece.image_url" (click)="goToDishPage(foodpiece)">
+          <br><br>
+          <p>{{ foodpiece.recipe_name }}</p>
+        </div>
+
+        <div *ngIf="i + 1 < foodList.length" class="col-md-4">
+          <br>
+          <img [src]="foodList[i + 1].image_url" (click)="goToDishPage(foodList[i + 1])">
+          <br><br>
+          <p>{{ foodList[i + 1].recipe_name }}</p>
+        </div>
+
+        <div *ngIf="i + 2 < foodList.length" class="col-md-4">
+          <br>
+          <img [src]="foodList[i + 2].image_url" (click)="goToDishPage(foodList[i + 2])">
+          <br><br>
+          <p>{{ foodList[i + 2].recipe_name }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

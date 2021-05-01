@@ -5,8 +5,9 @@
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
 
 <body ng-app="registration">
-  <div class = 'center'>
-    <h1 class="heading">Register</h1>
+  <div class = 'center bg'>
+    <br><br><br><br>
+    <h1 class="heading">Registration</h1>
     <mat-horizontal-stepper [linear]="isLinear" #stepper>
       <div style="text-align:center">
         <mat-step [stepControl]="registrationFormGroup1">
@@ -38,10 +39,10 @@
                   <div *ngFor="let foodpiece of foodinformation.results">
                     <div class="form-group row">
                       <div class="form-group col-md-4" style="text-align:left">
-                        <img src="{{foodpiece.thumbnail}}" alt="...">
+                        <img src="{{foodpiece.image_url}}" alt="...">
                       </div>
                       <div class="form-group col-md-4" style="text-align:left">
-                        <h3 matLine> {{ foodpiece.title }} </h3>
+                        <h3 matLine> {{ foodpiece.recipe_name }} </h3>
                       </div>
                       <div class="form-group col-md-4" style="text-align:left">
                         <ngb-rating [max]="5" [(rate)]="foodpiece.rating" [readonly]="false" [resettable]="true">
@@ -64,6 +65,7 @@
       <mat-step>
         <ng-template matStepLabel>Done</ng-template>
         <p>Congratulations!!! You have successfully register the account.</p>
+        <a routerLink="/login">Click here to login.</a>
         
         
         

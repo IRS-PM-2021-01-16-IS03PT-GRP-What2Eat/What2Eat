@@ -3,6 +3,12 @@ ngb-rating {
     color: #FFC107;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 .mat-list-base.inline-list {
     display: flex;
 }
@@ -23,6 +29,8 @@ div.center {
     display: table;
     margin: 0 auto;
     padding: 5px;
+    color: #12BFD7;
+    font-size: 50px;
   }
 
 
@@ -32,7 +40,7 @@ div.center {
     /* background: rgba(23, 221, 16, 0.815); */
   }
   .button {
-    background-color: #4e4caf; /* Green */
+    background-color: #12BFD7; /* Green */
     border: none;
     color: white;
     /* padding: 15px 32px; */
@@ -41,3 +49,7 @@ div.center {
     display: inline-block;
     /* font-size: 16px; */
   }
+
+  ::ng-deep .mat-step-header .mat-step-icon-selected {
+    background-color: #12BFD7; 
+ }

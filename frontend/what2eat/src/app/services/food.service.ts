@@ -74,8 +74,18 @@ export class FoodService {
     // return this.http.post('api/register/saveInitialRating/', ratings, httpOptions);
   }
 
-  submitFoodRating(ratings: string): Observable<any>{
+  submitFoodRating(ratings: string){
     console.log(ratings)
-    return this.http.post('/api/rateADish/', ratings, this.httpOptions)
+    console.log("submitFoodRating")
+    // this.http.post('/api/rateADish/', ratings, this.httpOptions)
+
+    this.http.post('/api/rateADish/', ratings, this.httpOptions).subscribe(
+      data => {
+      //  this.updateRegisterData(data)
+      },
+      err => {
+     //   this.errors = err['error'];
+      }
+    );
   }
 }

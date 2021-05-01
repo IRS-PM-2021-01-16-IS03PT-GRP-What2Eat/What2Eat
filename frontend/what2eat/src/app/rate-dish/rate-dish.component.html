@@ -5,12 +5,12 @@
     </div>
     <div class="row">
         <div class="col align-self-center">
-            <p>{{food.title}}</p>
+            <p>{{food.recipe_name}}</p>
         </div>
     </div>
     <div class="row">
         <div class="col align-self-center">
-            <img [src]="food.thumbnail" class="center">
+            <img [src]="food.image_url" class="center">
         </div>
     </div>
     <div class="row">
@@ -24,6 +24,9 @@
     </div>
     <div class="row">
         <button class="button1" (click)="submitRating()">Submit Your Rating</button>
+    </div>
+    <div class="row">
+        <button class="button1" (click)="directToDailyRecommendPage()">Back to Prediction Page</button>
     </div>
 </div>
 

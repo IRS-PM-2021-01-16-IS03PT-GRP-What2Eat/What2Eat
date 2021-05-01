@@ -17,7 +17,7 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
 class FoodSerializer(serializers.ModelSerializer):
     class Meta:
         model = Food
-        fields = ['id', 'title', 'description', 'ingredients', 'link', 'methods', 'thumbnail' ]
+        fields = ['recipe_id', 'recipe_name', 'image_url', 'ingredients', 'methods' ]
 
 class RegisterSerializer(serializers.HyperlinkedModelSerializer):
     password = serializers.CharField(write_only=True, required=True, validators=[])
@@ -54,4 +54,4 @@ class FoodRatingSerializer(serializers.ModelSerializer):
 class FoodRatingSerializer(serializers.ModelSerializer):
     class Meta:
         model = Food
-        fields = ['id', 'title', 'description', 'ingredients', 'link', 'methods', 'thumbnail' ]
+        fields = ['recipe_id', 'recipe_name', 'image_url', 'ingredients', 'methods' ]

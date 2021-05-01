@@ -22,6 +22,14 @@ export class DisplaySelectedDishComponent implements OnInit {
   ngOnInit(): void {
     // get the value 
     this.food = this._foodService.selectedDish;
+    const ingredientString = this.food.ingredients;
+    const ingredientList = ingredientString.split("^");
+    console.log(ingredientList);
+    this.food.ingredients = ingredientList.join(", ");
+
+    const methodString = this.food.methods;
+    const methodStringRemoveDirection = methodString.substr(14, methodString.length-1);
+    this.food.methods = methodStringRemoveDirection
   }
 
   showDetails(click: number){
@@ -40,7 +48,7 @@ export class DisplaySelectedDishComponent implements OnInit {
   }
 
   searchInGoogle(){
-    window.open("https://www.google.com/search?q=where+to+find+ "+this.food.title);
+    window.open("https://www.google.com/search?q=where+to+find+ "+this.food.recipe_name);
   }
 
   stepBack(){

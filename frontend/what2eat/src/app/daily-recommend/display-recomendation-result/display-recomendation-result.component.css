@@ -1,6 +1,21 @@
 h1 {
     text-align:center;
+    color: #12BFD7;
+    font-size: 50px;
+    font-style: oblique;
 }
 hr.dotted {
     border-top: 3px dotted #bbb;
+}
+
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+  }
+
+p {
+    font-size: 30px;
+    color: #12BFD7;
 }
