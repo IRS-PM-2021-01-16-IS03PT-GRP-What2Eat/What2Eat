@@ -68,7 +68,7 @@ export class UserService {
       this.token_expires = new Date();
       this.username = "";
       localStorage.clear();
-      window.location.href = '/frontpage';
+      window.location.href = '/';
    }
   
    private updateData(data : any, user: string) {
@@ -84,7 +84,7 @@ export class UserService {
      const token_decoded = JSON.parse(window.atob(token_parts[1]));
      this.token_expires = new Date(token_decoded.exp * 1000);
      //this.username = token_decoded.user_id;
-     window.location.href = '/frontpage';
+     window.location.href = '/';
    }
 
    private updateDataRefresh(data : any) {
