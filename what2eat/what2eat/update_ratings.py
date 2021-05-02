@@ -19,7 +19,8 @@ def update_ratings(df,rating):
                 df.iloc[i] = df.iloc[i] * int(rating.iloc[j])
             else:
                 continue
-
+    print("rating.index")
+    print(rating)
     user_rating = df.loc[rating.index]
     print("user_rating")
     print(user_rating)

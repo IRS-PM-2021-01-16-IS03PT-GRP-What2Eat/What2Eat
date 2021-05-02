@@ -27,7 +27,7 @@ export interface Food {
   }
 
   export interface SubmitFoodRating {
-    username: string,
+    username: any,
     id: string, 
     rating: number
   }

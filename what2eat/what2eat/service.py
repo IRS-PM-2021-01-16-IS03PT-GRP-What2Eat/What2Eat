@@ -6,10 +6,10 @@ class what2EatService:
     #     saveRating = runModel()
     #     saveRating.saveCustomerRating(userRating)
 
-    def getRecommendationList(self, choice, ratingJson):
+    def getRecommendationList(self, choice, ratings):
         print("called getRecommendationList")
         modelService = runModel()
-        recommended_recipes = modelService.getRecommendedRecipes(choice, ratingJson)
+        recommended_recipes = modelService.getRecommendedRecipes(choice, ratings)
         return recommended_recipes
 
 
