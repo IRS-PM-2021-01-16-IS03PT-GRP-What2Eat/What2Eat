@@ -1,7 +1,7 @@
 from .run_model import runModel
 
 class what2EatService:
-    def saveCutomerRating(self, userRating):
+    def saveCustomerRating(self, userRating):
         print("called saveCutomerRating")
         saveRating = runModel()
         saveRating.saveCustomerRating(userRating)
