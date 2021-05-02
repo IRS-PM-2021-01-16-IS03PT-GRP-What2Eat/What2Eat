@@ -29,8 +29,8 @@
 }
 
 .header{
-    font-family: Poppins;
-    font-style: Italic;
+    /* font-family: Poppins; */
+    font-style: oblique;
     font-size: 144px;
     text-align: center;
     margin-top: 100px;
@@ -41,8 +41,8 @@
 }
 
 .slogen{
-    font-family: Poppins;
-    font-style: Italic;
+    /* font-family: Poppins; */
+    font-style: oblique;
     font-size: 48px;
     text-align: center;
     /* margin-top: 100px;
@@ -53,8 +53,8 @@
 }
 
 p {
-    font-family: Poppins;
-    font-style: Italic;
+    /* font-family: Poppins; */
+    font-style: oblique;
 }
 
 
