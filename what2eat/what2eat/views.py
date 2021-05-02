@@ -4,6 +4,7 @@ from django.contrib.auth.models import User, Group
 from rest_framework import viewsets, generics
 from rest_framework import permissions
 from rest_framework.decorators import api_view
+import pandas as pd
 
 from .serializers import UserSerializer, GroupSerializer, FoodSerializer, RegisterSerializer, FoodRatingSerializer
 from django.shortcuts import render
@@ -71,19 +72,24 @@ def recommendList (request):
         print(request.data)
         choice = request.data.get("choice")
         #get all customer ratings
-        queryset = FoodRatings.objects.all().filter(username = request.data.get("username"));
-        print (queryset)
-        ratingJsonList = [];
-        for i in queryset:
-            ratingJsonList.append(json.dumps({'recipe_id' : str(i.fooditem_id), 'rating': str(i.ratings)}))
+        queryset = FoodRatings.objects.all().filter(username = request.data.get("username")).values("fooditem_id","ratings");
+        ratings = pd.DataFrame(list(queryset))
+        ratings.columns = ["recipe_id", "rating"]
         # retrieve all the rating from db
         service = what2EatService()
-        recommended_recipes = service.getRecommendationList(choice, ratingJsonList)
-        print(recommended_recipes)
-        # below just temporary
-        ingredient_row_total = Food.objects.all().count()
-        slice = random.random() * (ingredient_row_total - 6)
-        queryResult = Food.objects.all()[slice: slice + 6]
+        recommended_recipes = service.getRecommendationList(choice, ratings)
+        if (len(recommended_recipes) == 0) :
+            print("no records")
+            # random 6 dishes
+            ingredient_row_total = Food.objects.all().count()
+            slice = random.random() * (ingredient_row_total - 6)
+            queryResult = Food.objects.all()[slice: slice + 6]
+        else:
+            # find recipes from db
+            recipelist = recommended_recipes.values
+            queryResult = Food.objects.all().filter(pk__in = recipelist)
+            print(recipelist)
+
         print("after query")
         #print(queryResult)
         resultSerializer = FoodSerializer(queryResult, many=True)
@@ -126,10 +132,18 @@ def rateADish (request):
     if request.method == 'POST':
         print("inside rateADish post")
         print(request.data)
-        ratingJsonlist = request.data.get("rates")
-        rate = FoodRatings(username=ratingJsonlist.get("username"), fooditem_id=ratingJsonlist.get("id"), ratings=ratingJsonlist.get("rating"))
+        uname = request.data.get("username")
+        rate = rate = FoodRatings(username = uname, fooditem_id=request.data.get("id"), ratings=request.data.get("rating"))
         print(rate)
-        FoodRatings.objects.create_foodratings(rate)
+        isUpdate = False;
+        qr = FoodRatings.objects.all().filter(username = uname, fooditem_id = request.data.get("id")).count();
+        if (qr == 0):
+            FoodRatings.save(rate)
+        else:
+            FoodRatings.objects.filter(username = uname, fooditem_id = request.data.get("id")).update(ratings = request.data.get("rating"));
+
+
+        return JsonResponse(data="Success", status=200, safe=False)
         #service = what2EatService()
         #service.saveCutomerRating(json.dumps({'recipe_id': ratingJsonlist.get("id"), 'rating': ratingJsonlist.get("rating")}))
         #to do to call rules

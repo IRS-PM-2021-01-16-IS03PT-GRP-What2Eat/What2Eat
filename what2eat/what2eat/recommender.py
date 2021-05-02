@@ -16,6 +16,8 @@ def filter_recipe(df,user_rating,recipe_list):
     df_normalized = pd.DataFrame(normalize(df, axis=0))
     df_normalized.columns = df.columns
     df_normalized.index = df.index
+    print("df_normalized")
+    print(df_normalized)
     return df_normalized
 
 
@@ -25,7 +27,9 @@ def ingredient_recommender(df_normalized,distance_method, recipe_id, N):
     allRecipes = allRecipes[allRecipes.recipe_id != recipe_id]
     allRecipes["distance"] = allRecipes["recipe_id"].apply(lambda x: distance_method(df_normalized.loc[recipe_id], df_normalized.loc[x]))
     TopNRecommendation = allRecipes.sort_values(["distance"]).head(N).sort_values(by=['distance', 'recipe_id'])
-    # sort by distance then recipe id, the smaller value of recipe id will be picked. 
+    # sort by distance then recipe id, the smaller value of recipe id will be picked.
+    print("TopNRecommendation size")
+    print(len(TopNRecommendation))
     return TopNRecommendation['recipe_id']
 
 # df_normalized = filter_recipe(df, rating, recipe_list)

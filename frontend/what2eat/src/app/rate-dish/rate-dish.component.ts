@@ -24,12 +24,15 @@ export class RateDishComponent implements OnInit {
   }
 
   submitRating(): void {
+
     const rates: SubmitFoodRating = {
-      username: this._userService.username,
+      username: localStorage.getItem('username'),
       id: this.food.recipe_id,
       rating: this.rating
     }
     this._foodService.submitFoodRating(JSON.stringify(rates));
+    //navigate to daily recommend
+    this.router.navigate(["/howDoYouFeelToday"]);
   }
 
   directToDailyRecommendPage(){

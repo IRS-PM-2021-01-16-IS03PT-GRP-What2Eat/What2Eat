@@ -16,8 +16,8 @@ raw_df = pd.read_csv(recipe_ingredient_aval_csv_path,index_col=0)
 
 
 # Parse Rating List, used for testing
-rating_csv_path = os.path.join(os.path.dirname(__file__), 'ratings.csv')
-rating =  pd.read_csv(rating_csv_path,index_col=(0)) #To be replaced with ratings input
+# rating_csv_path = os.path.join(os.path.dirname(__file__), 'ratings.csv')
+# rating =  pd.read_csv(rating_csv_path,index_col=(0)) #To be replaced with ratings input
 
 
 
@@ -51,19 +51,17 @@ def recipe_rule(df,choice):
     return selection
 
 class runModel:
-    def getRecommendedRecipes(self, choice, ratingJson):
+    def getRecommendedRecipes(self, choice, ratings):
         print ("inside getRecommendedRecipes")
         print(choice);
-        print(ratingJson);
-        rating = pd.read_json(ratingJson)
+        print(ratings);
         print("rating json")
-        print(rating)
-        rating = rating.set_index('recipe_id')
-        print (rating)
+        ratings = ratings.set_index('recipe_id')
         recipe = recipe_rule(df, choice)
-        update_df, user_rating = update_ratings(raw_df, rating)
+        update_df, user_rating = update_ratings(raw_df, ratings)
         df_normalize = filter_recipe(update_df, user_rating, recipe)
         recommended_recipes = ingredient_recommender(df_normalize, cosine, '10001', 6)
+        print("recommended_recipes")
         print(recommended_recipes)
         return recommended_recipes
 
