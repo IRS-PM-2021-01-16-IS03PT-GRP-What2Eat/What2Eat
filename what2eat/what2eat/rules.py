@@ -15,6 +15,8 @@ rainy = []
 
 
 def is_healthy(df):
+    print("len(df['recipe_id']")
+    print(len(df['recipe_id']))
     for i in range(len(df['recipe_id'])):
         if ((df['veg'][i]>1)&(df['meat'][i]>1)&(df['carbs'][i]>1)):
             healthy.append(df['recipe_id'][i])

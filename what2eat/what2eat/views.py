@@ -68,11 +68,18 @@ class RecommendListView(generics.ListAPIView):
 def recommendList (request):
     if request.method == 'POST':
         print("inside post")
+        print(request.data)
         choice = request.data.get("choice")
-        print(choice)
-        # TO-DO to call recommendation method
+        #get all customer ratings
+        queryset = FoodRatings.objects.all().filter(username = request.data.get("username"));
+        print (queryset)
+        ratingJsonList = [];
+        for i in queryset:
+            ratingJsonList.append(json.dumps({'recipe_id' : str(i.fooditem_id), 'rating': str(i.ratings)}))
+        # retrieve all the rating from db
         service = what2EatService()
-    #    recommended_recipes = service.getRecommendationList(choice)
+        recommended_recipes = service.getRecommendationList(choice, ratingJsonList)
+        print(recommended_recipes)
         # below just temporary
         ingredient_row_total = Food.objects.all().count()
         slice = random.random() * (ingredient_row_total - 6)
@@ -122,8 +129,8 @@ def rateADish (request):
         ratingJsonlist = request.data.get("rates")
         rate = FoodRatings(username=ratingJsonlist.get("username"), fooditem_id=ratingJsonlist.get("id"), ratings=ratingJsonlist.get("rating"))
         print(rate)
-        FoodRatings.save(rate)
-        service = what2EatService()
+        FoodRatings.objects.create_foodratings(rate)
+        #service = what2EatService()
         #service.saveCutomerRating(json.dumps({'recipe_id': ratingJsonlist.get("id"), 'rating': ratingJsonlist.get("rating")}))
         #to do to call rules
 

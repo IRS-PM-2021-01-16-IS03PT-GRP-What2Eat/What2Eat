@@ -22,7 +22,7 @@ export class DailyRecommendComponent implements OnInit {
 
   searchDish(choice: number){
     console.log(choice)
-    this._foodService.searchDish(choice).subscribe(
+    this._foodService.searchDish(JSON.stringify({"choice":choice, "username": localStorage.getItem('username')})).subscribe(
       data => {
         console.log()
         this.foodlist = data;

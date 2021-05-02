@@ -1,6 +1,6 @@
 import os
 
-from .rules import *
+from .rules import is_healthy, is_carnivorous, is_scorching, is_rainy, is_surprise
 import pandas as pd
 from scipy.spatial.distance import cosine
 from .recommender import filter_recipe, ingredient_recommender
@@ -23,38 +23,43 @@ rating =  pd.read_csv(rating_csv_path,index_col=(0)) #To be replaced with rating
 
 
 def recipe_rule(df,choice):
-        
-    x = input(choice)
+
     selection = []
-    
-    if (x == '1'):
-        
+
+    if (choice == 1):
+        print("is_healthy")
         selection = is_healthy(df)
         
-    elif (x == '2'):
+    elif (choice == 2):
        
         selection =  is_carnivorous(df)
         
-    elif (x == '3'):
+    elif (choice == 3):
         
         selection = is_scorching(df)
         
-    elif (x == '4'):
+    elif (choice == 4):
         
         selection = is_rainy(df)
         
-    elif (x == '5'):
+    elif (choice == 5):
         selection = is_surprise(df)
         
     else:
         print('Please select again ! ')
-        
+
     return selection
 
 class runModel:
-    def getRecommendedRecipes(self, choice):
+    def getRecommendedRecipes(self, choice, ratingJson):
         print ("inside getRecommendedRecipes")
         print(choice);
+        print(ratingJson);
+        rating = pd.read_json(ratingJson)
+        print("rating json")
+        print(rating)
+        rating = rating.set_index('recipe_id')
+        print (rating)
         recipe = recipe_rule(df, choice)
         update_df, user_rating = update_ratings(raw_df, rating)
         df_normalize = filter_recipe(update_df, user_rating, recipe)

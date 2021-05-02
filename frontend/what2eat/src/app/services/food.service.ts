@@ -13,6 +13,7 @@ export class FoodService {
   private httpOptions: any;
   recommendedDish:Food[] = [];
   selectedDish:any;
+  username!:string;
   constructor(private http: HttpClient) { 
     this.httpOptions = {
       headers: new HttpHeaders({'Content-Type': 'application/json'})
@@ -44,14 +45,14 @@ export class FoodService {
     return this.http.get<FoodWithRating[]>('/api/register/initialFoodRating/', httpOptions).pipe(map(res => res));
   }
 
-  searchDish(choice: number): Observable<any> {
+  searchDish(choice: any): Observable<any> {
     let httpOptions = {
       headers: new HttpHeaders({
         'Content-Type': 'application/json',
         //  'Authorization': 'Bearer ' + localStorage.getItem('access')   
       })
     };
-    return this.http.post('/api/dailyRecommend/', JSON.stringify({"choice":choice}), httpOptions);
+    return this.http.post('/api/dailyRecommend/', choice, httpOptions);
   }
 
   submitInitialFoodRating(ratings: string){
@@ -88,4 +89,9 @@ export class FoodService {
       }
     );
   }
+
+  public setUserName(name : string) {
+    this.username = name;
+    console.log(this.username)
+  };
 }

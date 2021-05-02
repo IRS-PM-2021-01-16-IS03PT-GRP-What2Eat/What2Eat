@@ -96,7 +96,7 @@ export class UserService {
     const token_parts = this.token.split(/\./);
     const token_decoded = JSON.parse(window.atob(token_parts[1]));
     this.token_expires = new Date(token_decoded.exp * 1000);
-  }
+  };
 
   public register(register : string) {
     this.http.post('/api/register/', register, this.httpOptions).subscribe(
