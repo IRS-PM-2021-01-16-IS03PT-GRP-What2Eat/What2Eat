@@ -2,9 +2,9 @@
 ---
 
 ## SECTION 1 : PROJECT TITLE
-## MyCroft Discovery and Ap
+## What2Eat
 
-<img src="What2Eat\UI_screenshot\coverpage.jpg"
+<img src="https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/UI_screenshot/coverpage.JPG"
      style="float: left; margin-right: 0px;" />
 
 ---
@@ -33,7 +33,7 @@ What2Eat aims to streamline this decision process by leveraging Intelligent Syst
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 Refer to [Marketing Pitch Video](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Pitch.mp4)
-Refer to [System Presentation & Overview] (https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Presentation.mp4)
+Refer to [System Presentation & Overview](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Presentation.mp4)
 
 
 ---
