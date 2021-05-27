@@ -32,8 +32,8 @@ What2Eat aims to streamline this decision process by leveraging Intelligent Syst
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-|Refer to [Marketing Pitch Video](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Pitch.mp4)|
-|Refer to [System Presentation & Overview](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Presentation.mp4)|
+| Refer to [Marketing Pitch Video](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Pitch.mp4) |
+| Refer to [System Presentation & Overview](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Presentation.mp4) |
 
 
 ---
@@ -93,8 +93,8 @@ Diversity of Recommendation
 
 ---
 ## SECTION 7 : MISCELLANEOUS
-|Server Link:|
-|Hosted: [https://d2k9g12vw58jnt.cloudfront.net/](https://d2k9g12vw58jnt.cloudfront.net/)|
-|Github Repo [Link](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat)|
+| Server Link: |
+| Hosted: [https://d2k9g12vw58jnt.cloudfront.net/](https://d2k9g12vw58jnt.cloudfront.net/) |
+| Github Repo [Link](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat) |
 
 ---
