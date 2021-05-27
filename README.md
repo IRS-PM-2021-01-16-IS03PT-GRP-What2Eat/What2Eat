@@ -35,6 +35,9 @@ What2Eat aims to streamline this decision process by leveraging Intelligent Syst
 | Refer to [Marketing Pitch Video](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Pitch.mp4) |
 | Refer to [System Presentation & Overview](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat/blob/main/What2Eat%20Videos/What2Eat%20Presentation.mp4) |
 
+<a href="https://youtu.be/AtqgcY656SY" target="_blank"><img src="https://img.youtube.com/vi/AtqgcY656SY/0.jpg" alt="IMAGE ALT TEXT HERE" width="960" height="720" border="10" /></a>
+
+<a href="https://youtu.be/VIP3b4j7Ckc" target="_blank"><img src="https://img.youtube.com/vi/VIP3b4j7Ckc/0.jpg" alt="IMAGE ALT TEXT HERE" width="960" height="720" border="10" /></a>
 
 ---
 
