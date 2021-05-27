@@ -51,49 +51,50 @@ Refer to [Installation_User_Guide](https://github.com/IRS-PM-2021-01-16-IS03PT-G
 ---
 ## SECTION 6 : PROJECT REPORT 
 
-EXECUTIVE SUMMARY	4
-PROBLEM STATEMENT	4
-SOLUTION	5
-DATA PRE-PROCESSING	6
-Food data Sourced from Kaggle	6
-Data Pre-Processing	6
-Ingredient Tag Generation	7
-Ingredient Columns	8
-Ingredient Category for Rules	9
-KNOWLEDGE REPRESENTATION	9
-Ingredient Category Representation	9
-Establishing User’s Preferences	10
-Knowledge Reasoning System	11
-Recommender System	11
-Similarity-Based Reasoning (Cosine Similarity Distance)	12
-SYSTEM ARCHITECTURE AND DESIGN	14
-System Components	14
-System Architecture and workflow	15
-PROTOTYPE DESIGN	18
-Landing Page	18
-Registration (one-time)	18
-Input username and password for registration	18
-Input ratings for randomly generated dishes (taste customization)	19
-Login Page	20
-Dish Recommendations	21
-Select a Dish	21
-Recipe	22
-Cooking Instruction	22
-Where2Eat	23
-Dish Rating	23
-LIMITATIONS	24
-Assumption of the Correlation between Dish and Ingredient Ratings	24
-Diversity of Recommendation	24
-FUTURE IMPROVEMENTS	25
-Appendix A: Project Proposal	27
-Appendix B: Mapped System Functionality	36
-Appendix C: Installation and User Guide	37
-Appendix D: Individual Reports	46
-REFERENCES	50
+1. EXECUTIVE SUMMARY
+2. PROBLEM STATEMENT
+3. SOLUTION	
+4. DATA PRE-PROCESSING
+- Food data Sourced from Kaggle
+- Data Pre-Processing	
+- Ingredient Tag Generation
+- Ingredient Columns
+- Ingredient Category for Rules
+5. KNOWLEDGE REPRESENTATION
+- Ingredient Category Representation
+- Establishing User’s Preferences
+6. Knowledge Reasoning System
+- Recommender System
+- Similarity-Based Reasoning (Cosine Similarity Distance)
+7. SYSTEM ARCHITECTURE AND DESIGN
+- System Components
+- System Architecture and workflow
+8. PROTOTYPE DESIGN	
+- Landing Page
+- Registration (one-time)
+- Input username and password for registration
+- Input ratings for randomly generated dishes (taste customization)
+- Login Page
+- Dish Recommendations
+- Select a Dish
+- Recipe
+- Cooking Instruction
+- Where2Eat
+- Dish Rating
+9. LIMITATIONS
+Assumption of the Correlation between Dish and Ingredient Ratings
+Diversity of Recommendation
+10. FUTURE IMPROVEMENTS
+11. Appendix A: Project Proposal
+12. Appendix B: Mapped System Functionality
+13. Appendix C: Installation and User Guide
+14. Appendix D: Individual Reports
+15. REFERENCES
 
 ---
 ## SECTION 7 : MISCELLANEOUS
 Server Link:
-Hosted: [https://d2k9g12vw58jnt.cloudfront.net/](https://d2k9g12vw58jnt.cloudfront.net/) 
+Hosted: [https://d2k9g12vw58jnt.cloudfront.net/](https://d2k9g12vw58jnt.cloudfront.net/)
+Github Repo [Link](https://github.com/IRS-PM-2021-01-16-IS03PT-GRP-What2Eat/What2Eat)
 
 ---
